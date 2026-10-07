@@ -1,0 +1,43 @@
+name: 🤖 Good Vibrations News Robot
+
+on:
+  schedule:
+    # 2 veces al día: 08:00 y 20:00 hora de Chile (11:00 y 23:00 UTC)
+    - cron: '0 11,23 * * *'
+  workflow_dispatch: # Permite ejecutarlo manualmente desde GitHub
+
+jobs:
+  crawl-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 📥 Checkout código
+        uses: actions/checkout@v4
+
+      - name: ⚙️ Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: 📦 Instalar dependencias
+        run: npm ci || npm install
+
+      - name: 🚀 Ejecutar Robot Crawler
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: npx tsx scripts/crawler.ts
+
+      - name: 💾 Commit y Push si hay noticias nuevas
+        run: |
+          git config --global user.name "Good Vibrations Robot"
+          git config --global user.email "bot@goodvibrations.news"
+          git add src/data/news.json
+          if git diff --staged --quiet; then
+            echo "No hay cambios nuevos en las noticias."
+          else
+            git commit -m "feat(robot): 🌞 Buenas noticias actualizadas $(date +'%Y-%m-%d %H:%M') [skip ci]"
+            git push origin main
+          fi
