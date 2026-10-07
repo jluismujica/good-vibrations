@@ -1,13 +1,30 @@
 {
-  "lastUpdated": "2026-10-07T14:09:51.261Z",
-  "totalCount": 69,
+  "lastUpdated": "2026-10-07T14:17:56.366Z",
+  "totalCount": 70,
   "categories": {
     "musica": 29,
-    "ia": 10,
+    "ia": 11,
     "chile": 10,
     "mundo": 20
   },
   "news": [
+    {
+      "id": "cfa0d0a9a43be229",
+      "title": "Danaher lanza un laboratorio autónomo con inteligencia artificial para el descubrimiento de medicamentos. - Quartz",
+      "summary": "Danaher lanza un laboratorio autónomo con inteligencia artificial para el descubrimiento de medicamentos.  Quartz",
+      "contentSnippet": "Danaher lanza un laboratorio autónomo con inteligencia artificial para el descubrimiento de medicamentos.  Quartz",
+      "category": "ia",
+      "sourceName": "Google News - IA Positiva & Ciencia",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMDJLSDFnOWV4YTc0YlM5RjN5R3NiTmRQbzZtMTVlMlVSR25IcktKQUlUUFREU1FWZjBNZG9IQ2J3UDg5dUJYZkVNT2ctZ01NcTRod1BSVE4yMHUxVUFxTkZKa2ltd1BHYXNGZTRpd29vWmJHeWNkX3k5THBsRm41VXBPcWREX2VWdDI5VE5PYw?oc=5",
+      "publishedAt": "2026-10-07T14:12:31.000Z",
+      "positivityScore": 98,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "IA",
+        "Buenas Noticias"
+      ],
+      "featured": true
+    },
     {
       "id": "e0763f7289c2ac7c",
       "title": "“La roca siempre se rompe”: el potente desahogo de una figura de La Roja tras el triunfo ante México - ADN Radio",
