@@ -1,21 +1,7 @@
 'use client';
 
 import React, { useState, useMemo, useEffect } from 'react';
-import { 
-  Sun, 
-  Moon, 
-  Search, 
-  ExternalLink, 
-  Music, 
-  Cpu, 
-  MapPin, 
-  Globe, 
-  Sparkles, 
-  Clock, 
-  Share2, 
-  Check, 
-  Radio
-} from 'lucide-react';
+import { Search, Sun, Moon, ArrowUpRight } from 'lucide-react';
 import rawData from '@/data/news.json';
 import { Category, NewsItem, NewsDatabase } from '@/lib/types';
 
@@ -25,318 +11,321 @@ const allNews: NewsItem[] = data.news;
 export default function HomePage() {
   const [selectedCategory, setSelectedCategory] = useState<Category>('todas');
   const [searchQuery, setSearchQuery] = useState('');
-  const [theme, setTheme] = useState<'dark' | 'light'>('dark');
-  const [copiedId, setCopiedId] = useState<string | null>(null);
+  const [theme, setTheme] = useState<'light' | 'dark'>('light');
 
-  // Toggle Dark/Light Theme
+  // Inicializar tema y detectar preferencia
   useEffect(() => {
-    document.documentElement.setAttribute('data-theme', theme);
-  }, [theme]);
+    const saved = localStorage.getItem('gv-theme') as 'light' | 'dark' | null;
+    if (saved) {
+      setTheme(saved);
+      document.documentElement.setAttribute('data-theme', saved);
+    } else {
+      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      const initial = prefersDark ? 'dark' : 'light';
+      setTheme(initial);
+      document.documentElement.setAttribute('data-theme', initial);
+    }
+  }, []);
 
   const toggleTheme = () => {
-    setTheme((prev) => (prev === 'dark' ? 'light' : 'dark'));
+    const next = theme === 'light' ? 'dark' : 'light';
+    setTheme(next);
+    localStorage.setItem('gv-theme', next);
+    document.documentElement.setAttribute('data-theme', next);
   };
 
-  const handleShare = (item: NewsItem, e: React.MouseEvent) => {
-    e.preventDefault();
-    e.stopPropagation();
-    if (navigator.clipboard) {
-      navigator.clipboard.writeText(item.sourceUrl);
-      setCopiedId(item.id);
-      setTimeout(() => setCopiedId(null), 2000);
-    }
-  };
+  // Motion: Intersection Observer para elementos .reveal
+  useEffect(() => {
+    const elements = document.querySelectorAll('.reveal');
+    const io = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((e, i) => {
+          if (e.isIntersecting) {
+            (e.target as HTMLElement).style.transitionDelay = `${Math.min(i, 5) * 70}ms`;
+            e.target.classList.add('is-visible');
+            io.unobserve(e.target);
+          }
+        });
+      },
+      { threshold: 0.1, rootMargin: '0px 0px -30px 0px' }
+    );
 
-  // Filter news by category and search
+    elements.forEach((el) => io.observe(el));
+    return () => io.disconnect();
+  }, [selectedCategory, searchQuery]);
+
+  const [greeting, setGreeting] = useState('Buenos días. Esto salió bien hoy.');
+  const [todayFormatted, setTodayFormatted] = useState('Hoy');
+
+  useEffect(() => {
+    const now = new Date();
+    const hour = now.getHours();
+    if (hour < 12) setGreeting('Buenos días. Esto salió bien hoy.');
+    else if (hour < 20) setGreeting('Buenas tardes. Esto salió bien hoy.');
+    else setGreeting('Buenas noches. Esto salió bien hoy.');
+
+    try {
+      setTodayFormatted(
+        new Intl.DateTimeFormat('es-CL', {
+          weekday: 'long',
+          day: 'numeric',
+          month: 'long',
+        }).format(now)
+      );
+    } catch {}
+  }, []);
+
+  // Filtrado de noticias
   const filteredNews = useMemo(() => {
     return allNews.filter((item) => {
-      const matchesCategory = selectedCategory === 'todas' || item.category === selectedCategory;
-      const matchesQuery = 
-        item.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
-        item.summary.toLowerCase().includes(searchQuery.toLowerCase()) ||
-        item.sourceName.toLowerCase().includes(searchQuery.toLowerCase()) ||
-        item.tags.some((t) => t.toLowerCase().includes(searchQuery.toLowerCase()));
-      return matchesCategory && matchesQuery;
+      const matchesCat = selectedCategory === 'todas' || item.category === selectedCategory;
+      const q = searchQuery.toLowerCase().trim();
+      const matchesSearch =
+        !q ||
+        item.title.toLowerCase().includes(q) ||
+        item.summary.toLowerCase().includes(q) ||
+        item.sourceName.toLowerCase().includes(q);
+      return matchesCat && matchesSearch;
     });
   }, [selectedCategory, searchQuery]);
 
-  const featuredItem = useMemo(() => {
+  // Noticia destacada para Hero
+  const heroItem = useMemo(() => {
     return filteredNews.find((n) => n.featured) || filteredNews[0];
   }, [filteredNews]);
 
-  const regularNews = useMemo(() => {
-    if (!featuredItem) return filteredNews;
-    return filteredNews.filter((n) => n.id !== featuredItem.id);
-  }, [filteredNews, featuredItem]);
-
-  const categoryIcons: Record<string, React.ReactNode> = {
-    todas: <Sparkles size={16} />,
-    musica: <Music size={16} />,
-    ia: <Cpu size={16} />,
-    chile: <MapPin size={16} />,
-    mundo: <Globe size={16} />,
-  };
-
-  const formatDate = (dateString: string) => {
-    try {
-      const date = new Date(dateString);
-      return new Intl.DateTimeFormat('es-CL', {
-        day: 'numeric',
-        month: 'short',
-        hour: '2-digit',
-        minute: '2-digit',
-      }).format(date);
-    } catch {
-      return 'Reciente';
-    }
-  };
+  // Lista restante para el Bento Grid
+  const gridItems = useMemo(() => {
+    if (!heroItem) return filteredNews;
+    return filteredNews.filter((n) => n.id !== heroItem.id);
+  }, [filteredNews, heroItem]);
 
   return (
     <>
-      {/* Header */}
-      <header className="header-container">
-        <div className="header-content">
-          <a href="#" className="logo-area">
-            <div className="logo-badge">
-              <Sun size={24} />
-            </div>
-            <div>
-              <div className="logo-title">Good Vibrations</div>
-              <div className="logo-tagline">Solo Buenas Noticias • Música & IA</div>
-            </div>
+      {/* 4.1 Header de vidrio */}
+      <header className="site-header">
+        <div className="header-inner">
+          <a href="#" className="logo">
+            <span className="logo-dot" />
+            <span>Good Vibrations</span>
           </a>
 
-          <div className="header-actions">
-            <div className="live-pill" title="Actualizado automáticamente 2 veces al día">
-              <span className="live-dot" />
-              <span>Robot Activo</span>
-            </div>
-
+          <nav className="header-center" aria-label="Categorías principales">
             <button
-              onClick={toggleTheme}
-              className="theme-toggle-btn"
-              aria-label="Alternar tema"
-              title="Alternar modo oscuro / claro"
+              onClick={() => setSelectedCategory('todas')}
+              className="nav-link"
+              style={{ background: 'none', border: 'none', cursor: 'pointer', color: selectedCategory === 'todas' ? 'var(--text)' : undefined, fontWeight: selectedCategory === 'todas' ? 600 : 500 }}
             >
-              {theme === 'dark' ? <Sun size={19} /> : <Moon size={19} />}
+              Inicio
+            </button>
+            <button
+              onClick={() => setSelectedCategory('musica')}
+              className="nav-link"
+              style={{ background: 'none', border: 'none', cursor: 'pointer', color: selectedCategory === 'musica' ? 'var(--text)' : undefined, fontWeight: selectedCategory === 'musica' ? 600 : 500 }}
+            >
+              Música
+            </button>
+            <button
+              onClick={() => setSelectedCategory('ia')}
+              className="nav-link"
+              style={{ background: 'none', border: 'none', cursor: 'pointer', color: selectedCategory === 'ia' ? 'var(--text)' : undefined, fontWeight: selectedCategory === 'ia' ? 600 : 500 }}
+            >
+              Ciencia & IA
+            </button>
+            <button
+              onClick={() => setSelectedCategory('chile')}
+              className="nav-link"
+              style={{ background: 'none', border: 'none', cursor: 'pointer', color: selectedCategory === 'chile' ? 'var(--text)' : undefined, fontWeight: selectedCategory === 'chile' ? 600 : 500 }}
+            >
+              Chile
+            </button>
+            <button
+              onClick={() => setSelectedCategory('mundo')}
+              className="nav-link"
+              style={{ background: 'none', border: 'none', cursor: 'pointer', color: selectedCategory === 'mundo' ? 'var(--text)' : undefined, fontWeight: selectedCategory === 'mundo' ? 600 : 500 }}
+            >
+              Planeta
+            </button>
+          </nav>
+
+          <div className="header-right">
+            <span style={{ textTransform: 'capitalize' }}>{todayFormatted}</span>
+            <button onClick={toggleTheme} className="theme-btn" aria-label="Cambiar tema">
+              {theme === 'dark' ? <Sun size={15} /> : <Moon size={15} />}
             </button>
           </div>
         </div>
       </header>
 
-      {/* Hero Section */}
-      <section className="hero-section">
-        <div className="hero-pill">
-          <Radio size={14} />
-          <span>El antídoto diario al ruido y la negatividad</span>
-        </div>
-        <h1 className="hero-heading">
-          Tu dosis diaria de <span>optimismo</span>, ciencia y buen rock.
-        </h1>
-        <p className="hero-subtitle">
-          Un espacio libre de sensacionalismo. Avances de Inteligencia Artificial que mejoran el mundo,
-          novedades de <b>Los Tres</b>, <b>Pink Floyd</b> y <b>Queen</b>, y las mejores noticias constructivas de Chile y el planeta.
-        </p>
-      </section>
+      {/* 4.2 Hero (Noticia del día) */}
+      {heroItem && !searchQuery && selectedCategory === 'todas' && (
+        <section className="hero-wrapper reveal">
+          <div className="hero-saludo">{greeting}</div>
+          <article className="hero-article">
+            <div className="hero-media">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src={heroItem.imageUrl}
+                alt={heroItem.title}
+                className="hero-img"
+                loading="eager"
+              />
+            </div>
+            <div className="hero-gradient" />
 
-      {/* Filters & Search */}
-      <div className="filter-wrapper">
-        <div className="categories-bar">
+            <div className="hero-content">
+              <span className="hero-eyebrow">
+                {heroItem.category} · Noticia del día
+              </span>
+              <h1 className="hero-title">{heroItem.title}</h1>
+              <p className="hero-dek">{heroItem.summary}</p>
+              <div className="hero-meta">
+                <span>{heroItem.sourceName}</span>
+                <span>·</span>
+                <span>{heroItem.readingTimeMinutes} min de lectura</span>
+                <span>·</span>
+                <a
+                  href={heroItem.sourceUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={{ color: '#ffffff', display: 'inline-flex', alignItems: 'center', gap: '3px', textDecoration: 'none', fontWeight: 500 }}
+                >
+                  <span>Leer fuente</span>
+                  <ArrowUpRight size={14} />
+                </a>
+              </div>
+            </div>
+          </article>
+        </section>
+      )}
+
+      {/* 4.4 Filtro de Categorías (Pills) & Buscador */}
+      <section className="controls-section reveal">
+        <div className="pills-row" role="tablist">
           <button
             onClick={() => setSelectedCategory('todas')}
-            className={`category-chip ${selectedCategory === 'todas' ? 'active' : ''}`}
+            className="pill"
+            aria-pressed={selectedCategory === 'todas'}
           >
-            {categoryIcons.todas}
-            <span>Todas ({data.totalCount})</span>
+            Todas ({data.totalCount})
           </button>
           <button
             onClick={() => setSelectedCategory('musica')}
-            className={`category-chip ${selectedCategory === 'musica' ? 'active' : ''}`}
+            className="pill"
+            aria-pressed={selectedCategory === 'musica'}
           >
-            {categoryIcons.musica}
-            <span>Música ({data.categories.musica})</span>
+            Música ({data.categories.musica})
           </button>
           <button
             onClick={() => setSelectedCategory('ia')}
-            className={`category-chip ${selectedCategory === 'ia' ? 'active' : ''}`}
+            className="pill"
+            aria-pressed={selectedCategory === 'ia'}
           >
-            {categoryIcons.ia}
-            <span>IA Positiva ({data.categories.ia})</span>
+            Ciencia & IA ({data.categories.ia})
           </button>
           <button
             onClick={() => setSelectedCategory('chile')}
-            className={`category-chip ${selectedCategory === 'chile' ? 'active' : ''}`}
+            className="pill"
+            aria-pressed={selectedCategory === 'chile'}
           >
-            {categoryIcons.chile}
-            <span>Chile ({data.categories.chile})</span>
+            Chile ({data.categories.chile})
           </button>
           <button
             onClick={() => setSelectedCategory('mundo')}
-            className={`category-chip ${selectedCategory === 'mundo' ? 'active' : ''}`}
+            className="pill"
+            aria-pressed={selectedCategory === 'mundo'}
           >
-            {categoryIcons.mundo}
-            <span>Mundo ({data.categories.mundo})</span>
+            Planeta ({data.categories.mundo})
           </button>
         </div>
 
-        <div className="search-box">
-          <Search size={16} className="search-icon" />
+        <div className="search-field">
+          <Search size={14} className="search-icon-svg" />
           <input
             type="text"
             className="search-input"
-            placeholder="Buscar por artista, tema o palabra..."
+            placeholder="Buscar historia..."
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
           />
         </div>
-      </div>
+      </section>
 
-      {/* Main Content Area */}
-      <main className="main-container">
+      {/* 3. Bento Grid (12 columnas) */}
+      <main className="bento-section">
         {filteredNews.length === 0 ? (
-          <div style={{ textAlign: 'center', padding: '4rem 1rem', color: 'var(--text-muted)' }}>
-            <Sparkles size={40} style={{ margin: '0 auto 1rem auto', opacity: 0.5 }} />
-            <h3 style={{ fontSize: '1.25rem', marginBottom: '0.5rem', color: 'var(--text-primary)' }}>
-              No encontramos noticias con ese criterio
-            </h3>
-            <p>Intenta con otra palabra clave o selecciona otra categoría.</p>
+          <div style={{ textAlign: 'center', padding: '64px 16px', color: 'var(--text-tertiary)' }}>
+            <p style={{ fontSize: '18px', color: 'var(--text)', marginBottom: '8px' }}>
+              Por ahora no hay más historias con ese criterio.
+            </p>
+            <p style={{ fontSize: '14px' }}>
+              Vuelve más tarde: el mundo sigue haciendo cosas buenas.
+            </p>
           </div>
         ) : (
-          <>
-            {/* Featured Story */}
-            {featuredItem && !searchQuery && selectedCategory === 'todas' && (
-              <article className="featured-card">
-                <div className="featured-image-wrapper">
-                  {featuredItem.imageUrl ? (
-                    // eslint-disable-next-line @next/next/no-img-element
-                    <img
-                      src={featuredItem.imageUrl}
-                      alt={featuredItem.title}
-                      className="featured-img"
-                    />
-                  ) : (
-                    <div className="featured-placeholder">
-                      <Sparkles size={48} style={{ marginBottom: '1rem' }} />
-                      <div style={{ fontWeight: 700, letterSpacing: '0.05em' }}>NOTICIA DESTACADA DEL DÍA</div>
+          <div className="bento">
+            {gridItems.map((item, index) => {
+              // Bento layout: el primer elemento es large (span 8, row span 2), los demás varían
+              const isLarge = index === 0;
+              const cardClass = isLarge ? 'card card--large reveal' : 'card card--medium reveal';
+
+              return (
+                <article key={item.id} className={cardClass}>
+                  <a
+                    href={item.sourceUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="card__link"
+                  >
+                    <div className="card__media">
+                      {/* eslint-disable-next-line @next/next/no-img-element */}
+                      <img
+                        src={item.imageUrl}
+                        alt={item.title}
+                        loading="lazy"
+                      />
                     </div>
-                  )}
-                </div>
-
-                <div className="featured-content">
-                  <div className="badge-row">
-                    <span className={`badge-category ${featuredItem.category}`}>
-                      {featuredItem.category}
-                    </span>
-                    <span className="badge-sentiment">
-                      <Sparkles size={12} /> {featuredItem.positivityScore}% Positividad
-                    </span>
-                    <span style={{ fontSize: '0.78rem', color: 'var(--text-muted)', display: 'inline-flex', alignItems: 'center', gap: '0.3rem' }}>
-                      <Clock size={12} /> {featuredItem.readingTimeMinutes} min de lectura
-                    </span>
-                  </div>
-
-                  <h2 className="featured-title">{featuredItem.title}</h2>
-                  <p className="featured-summary">{featuredItem.summary}</p>
-
-                  <div className="card-footer">
-                    <span>Fuente: <b>{featuredItem.sourceName}</b> • {formatDate(featuredItem.publishedAt)}</span>
-                    <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
-                      <button
-                        onClick={(e) => handleShare(featuredItem, e)}
-                        style={{ background: 'transparent', border: 'none', color: 'var(--text-muted)', cursor: 'pointer' }}
-                        title="Copiar enlace"
-                      >
-                        {copiedId === featuredItem.id ? <Check size={16} color="var(--accent-green)" /> : <Share2 size={16} />}
-                      </button>
-                      <a
-                        href={featuredItem.sourceUrl}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="read-btn"
-                      >
-                        <span>Leer completa</span>
-                        <ExternalLink size={14} />
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </article>
-            )}
-
-            {/* Grid of news */}
-            <div className="news-grid">
-              {regularNews.map((item) => (
-                <article key={item.id} className="news-card">
-                  {item.imageUrl && (
-                    <div className="news-card-image-wrap">
-                      <span className={`badge-category ${item.category} card-category-tag`}>
+                    <div className="card__body">
+                      <span className={`eyebrow eyebrow--${item.category}`}>
                         {item.category}
                       </span>
-                      {/* eslint-disable-next-line @next/next/no-img-element */}
-                      <img src={item.imageUrl} alt={item.title} className="news-card-image" loading="lazy" />
-                    </div>
-                  )}
-
-                  <div className="news-card-body">
-                    {!item.imageUrl && (
-                      <div className="badge-row" style={{ marginBottom: '0.75rem' }}>
-                        <span className={`badge-category ${item.category}`}>
-                          {item.category}
-                        </span>
-                        <span className="badge-sentiment">
-                          <Sparkles size={11} /> {item.positivityScore}%
-                        </span>
-                      </div>
-                    )}
-
-                    <h3 className="news-title">{item.title}</h3>
-                    <p className="news-summary">{item.summary}</p>
-
-                    <div className="meta-tags">
-                      {item.tags.slice(0, 3).map((tag, i) => (
-                        <span key={i} className="tag-item">#{tag}</span>
-                      ))}
-                    </div>
-
-                    <div className="card-footer">
-                      <span style={{ fontSize: '0.76rem' }}>
-                        {item.sourceName.replace('Google News - ', '')} • {formatDate(item.publishedAt)}
-                      </span>
-                      <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
-                        <button
-                          onClick={(e) => handleShare(item, e)}
-                          style={{ background: 'transparent', border: 'none', color: 'var(--text-muted)', cursor: 'pointer' }}
-                          title="Copiar enlace"
-                        >
-                          {copiedId === item.id ? <Check size={14} color="var(--accent-green)" /> : <Share2 size={14} />}
-                        </button>
-                        <a
-                          href={item.sourceUrl}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="read-btn"
-                          title="Abrir fuente original"
-                        >
-                          <ExternalLink size={14} />
-                        </a>
+                      <h3 className="card__title">{item.title}</h3>
+                      <p className="card__dek">{item.summary}</p>
+                      <div className="card__meta">
+                        <span>{item.sourceName} · {item.readingTimeMinutes} min</span>
+                        <ArrowUpRight size={14} style={{ color: 'var(--sky)' }} />
                       </div>
                     </div>
-                  </div>
+                  </a>
                 </article>
-              ))}
-            </div>
-          </>
+              );
+            })}
+          </div>
         )}
       </main>
 
-      {/* Footer */}
+      {/* 4.5 "Un dato para hoy" */}
+      <section className="fact-section reveal">
+        <div className="fact-container">
+          <div className="fact-eyebrow">Un dato para hoy</div>
+          <div className="fact-number">{data.totalCount}</div>
+          <p className="fact-text">
+            Historias positivas y verificadas registradas en nuestra base hoy, demostrando que los avances en música, ciencia y comunidad siguen adelante.
+          </p>
+          <div className="fact-source">Good Vibrations · Actualizado dos veces al día</div>
+        </div>
+      </section>
+
+      {/* Footer Mínimo */}
       <footer className="site-footer">
-        <p className="footer-quote">
-          “I’m pickin’ up good vibrations / She’s givin’ me the excitations”
-        </p>
-        <p className="footer-note">
-          Good Vibrations © 2026 • Automatizado con GitHub Actions & Next.js para Jorge Mujica • Desplegado en Vercel
-        </p>
+        <div className="footer-content">
+          <div className="footer-copy">
+            Good Vibrations · El antídoto diario al ruido mediático
+          </div>
+          <div className="footer-note">
+            Curado para Jorge Mujica · Desplegado en Vercel
+          </div>
+        </div>
       </footer>
     </>
   );
