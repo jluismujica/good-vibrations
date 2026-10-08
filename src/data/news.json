@@ -1,13 +1,251 @@
 {
-  "lastUpdated": "2026-10-08T02:36:54.420Z",
+  "lastUpdated": "2026-10-08T17:47:46.270Z",
   "totalCount": 70,
   "categories": {
     "musica": 24,
-    "ia": 15,
-    "chile": 15,
-    "mundo": 16
+    "ia": 17,
+    "chile": 17,
+    "mundo": 12
   },
   "news": [
+    {
+      "id": "7fe823e2",
+      "title": "Ecuador, México y Bolivia lideran a las 'armys' viajeras para ver a la banda BTS en Perú - Infobae",
+      "summary": "Ecuador, México y Bolivia lideran a las 'armys' viajeras para ver a la banda BTS en Perú  Infobae",
+      "contentSnippet": "Ecuador, México y Bolivia lideran a las 'armys' viajeras para ver a la banda BTS en Perú  Infobae",
+      "category": "musica",
+      "sourceName": "Los Tres",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWGgxdDJBZ0t1QWhjZjM0dnlST0FIOG9HSV9ydnRoZWx5Q0NkNmJ1dnRPdjNCRld0dDJuaTEybmxDUTdVY3pHdl85MWEtdlhpb3pwUXpzZ3VmeW1aVV9iQ0tMdEFRWGxxUjA2THVtYXFkVTducmZ6Mk5xQ2RuOVBfekc1ODl5OGRONWx5cE81Ukg2VkhITUVzVE9yR0lkNVNOODlYVkxIZlJwV1FMdGlsaXpDWUVnRms0Q0tHbW9pS3JhRFJvbHluT2VtTUxldVgxWHVBaNIB7wFBVV95cUxObEUtOEoyNEN5akg0cWotcUl3WXYyNnNoSU9NbkktY3JxZ3Q3bFpTNHgzajNtUDh4ajAySS1nUFpUWmlYamthTURCTWlOa01XQ2hvb1VwYjNfY2JBcmE3U2hFUFAzNXJ0SUxhVEZZSkxreXlPOFRORmEwaGx5MVlZblNseFFzWjcyZVMzSFllMEhPWlBjdmdNUHpPWVJvaFFFck9XZk9UVkVOdzlsVUVMc0YtTTQ2QUU5VVlUQWdLRmhBS2J3QW45VWVWRUp4YnJ4X0E0RExBb0g0M3BLWTVMUVJpSXJidUZFbm9Tam5rVQ?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1487180144351-b8472da7d491?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-08T16:35:48.000Z",
+      "positivityScore": 88,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "MUSICA"
+      ],
+      "featured": true
+    },
+    {
+      "id": "0204bcc2",
+      "title": "Lollapalooza Chile 2027 en el Parque O’Higgins de Santiago, 12, 13 y 14 de marzo - WalkingStgo",
+      "summary": "Lollapalooza Chile 2027 en el Parque O’Higgins de Santiago, 12, 13 y 14 de marzo  WalkingStgo",
+      "contentSnippet": "Lollapalooza Chile 2027 en el Parque O’Higgins de Santiago, 12, 13 y 14 de marzo  WalkingStgo",
+      "category": "chile",
+      "sourceName": "Chile Innovación",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUkZkSjE5SV9qRzRtdE9Pcjg0R1JMOUdGMDV5ZHpCd19QNmQtQk9maF9pTTJZX3Ntenc0QVMxdms1dG9FcllBRUVXOXFrWXlfRlNodk1qdDNSQnE1b25oVG1tVm5xbFNuZVJVODhKS1M4Vjkwck1aV1NHak1VSW1TcDZwdmZHeGRNN0JlSU5xeVB4UzI5bzFaV0YxWG9BTVczSHJV?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-08T16:13:57.000Z",
+      "positivityScore": 92,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "CHILE"
+      ],
+      "featured": false
+    },
+    {
+      "id": "a6c95280",
+      "title": "Lollapalooza Chile 2027: estos son los 10 headliners que llegan al Parque O'Higgins - 24horas",
+      "summary": "Lollapalooza Chile 2027: estos son los 10 headliners que llegan al Parque O'Higgins  24horas",
+      "contentSnippet": "Lollapalooza Chile 2027: estos son los 10 headliners que llegan al Parque O'Higgins  24horas",
+      "category": "chile",
+      "sourceName": "Chile Innovación",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQVR5c2dLNWZRMm1jb3BLei02WUI2UlZuZEo4VGR3Wkx4RFhIQ3cyd0xENkhqeFBIeG4wUFM4c2RzczZuU1ZOU0NuQjIzaVRKdVR5VjNRSHpmQTc0a1c5alpQZF9ZVGtjX0VPenF1ZGQxWEVGQU12c0hhVkRLZThXRGdLdm9Wb3B0U3MyRlkyRWZTRjJEVEJZX2xjdWRNejl1NWfSAacBQVVfeXFMT2dma1IzbHZxc1lrT0thYXk1dDZzZW9aVVNKbUF3WFU3R3VsaGJ6cVpjN0U1SmM4a1RPODdzT05sTnFodU9pZ3BLMWVIZUM0T25oell0NGtMTmtka2NNdXptT0NmTWhib2pualU2eG9QejRrajJ1NWhiMjlJbC1tdmtDSnMwRUFyMXpSTzBpMkJkQUJPR2lnWmJYNnpHQnBZT3ZzckgyQ0U?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-08T16:00:00.000Z",
+      "positivityScore": 91,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "CHILE"
+      ],
+      "featured": false
+    },
+    {
+      "id": "b768be9e",
+      "title": "Lollapalooza Chile 2027: lineup completo y preventa 3 activa para el festival en el Parque O’Higgins",
+      "summary": "Lollapalooza Chile 2027: lineup completo y preventa 3 activa para el festival en el Parque O’Higgins  Futuro Chile",
+      "contentSnippet": "Lollapalooza Chile 2027: lineup completo y preventa 3 activa para el festival en el Parque O’Higgins  Futuro Chile",
+      "category": "chile",
+      "sourceName": "Chile Innovación",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY3NuRVluU0xBR3NuU0NodmJVSEFIQ1oyNGpBY2lyUlkyWFZiLWlMbUJvaURFNzBKaVlyZ19NcDNkQnhiY0dTUlpNTnMwLUVTZzhTa25YQUpxclR0ejFXbmlINTBrZWRiS3NoQXBuR1M3cDRKT1ZvdjBBWlZVZEVsZkFXV3VsNTZMcUdfQngtTjloWWxVcGlqM2NnQlJfdDlLQVQ5NENGTmJYRzF0azMzV0RyMGlFSU9oR0FGQlJIRDhLRW5pWXRMM9IBzgFBVV95cUxNRF9kSjNaTkpnMWdBcXhKSGl1OFAwSFptdWNJTEh3aHktWU9nMDl1MG1QVXBNWDlnYmVnZ2dtV2I1emRLaUdGX3JvT2IwREY1R2JDU2ZqMTBVdWxyYU5jNGJHaE1mX1ZZYnY3ckR4dTlTSjlMM0ZyenU3eFNKcDJvWjhyWVYyVWZqS0g1UW10N2tTVHMzMjdYN3NkaTd0dnJmcnE1X2hOcl9jcXRkWGRYa24xdHQ4OEVUemdaTlRFalUyQTF4N1JxOU16ZUZOdw?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-08T15:26:10.000Z",
+      "positivityScore": 91,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "CHILE"
+      ],
+      "featured": false
+    },
+    {
+      "id": "469821fe",
+      "title": "Lollapalooza Chile 2027 revela su esperado line up: estos son los artistas que llegan al Parque O’Higgins",
+      "summary": "Lollapalooza Chile 2027 revela su esperado line up: estos son los artistas que llegan al Parque O’Higgins  ADN Radio",
+      "contentSnippet": "Lollapalooza Chile 2027 revela su esperado line up: estos son los artistas que llegan al Parque O’Higgins  ADN Radio",
+      "category": "chile",
+      "sourceName": "Chile Innovación",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRmxQak9FVm5YNkZYQ21CdmxUcnN4MFpoU0NIcXBha0FmSzc1b01ObGJVUzhyc29HN2hMUDhUN216YjQtUmFMN01vZHl5bkRQR2JwbXVkcm5leExVaTEyWmF4OF95Nm1saVVPVEFncGRoY1Q5ZllGQXZRQjNLUk1vTEhQZ1NlSldVRWJiVjNuNVg0MkRFQ0ZROGdKdW5yRm9qUlVjQks5dGJDclhhZHVHcnNTWk5aQ01KNDI3WEJSdGZ0R2VocjRpRjgyNWdRZFY5ajVGcFZR0gHqAUFVX3lxTE5xdzhDeUpCc19kVnlTZEhrWVU1d25wLW1BcHU4R1JGS0ZmOTNmRXdIVHJDc1F4SFVQN3l3ZERkNEw3LWdmTldQdHVwTUhVWHc4QXJqOVZPd25ZNm9uVU52OWNVWlZZZmV5SHlJRmQ5UEhhSmRIazF6RklWRVFWcXE0em9pWjlmU2d5akNOa0NZNWxnaE0tU05XcDViLWFjQVBMYmJzOWhxNTdtV2NjRVZjUFNFU1YzYXVNSUtJamNyNHZ4R1ZsMENHUTNOVG9Ec04tTlBKQnR3YXNydzNTZWIwQk5JUWo5RnlwZw?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-08T15:00:06.000Z",
+      "positivityScore": 94,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "CHILE"
+      ],
+      "featured": false
+    },
+    {
+      "id": "eb514773",
+      "title": "[The Clinic] Gobierno Regional de Atacama y Más Chile Cultura buscan reconocer el Desierto Florido como patrimonio mundial de la UNESCO – Fundación Terram - Fundación Terram",
+      "summary": "[The Clinic] Gobierno Regional de Atacama y Más Chile Cultura buscan reconocer el Desierto Florido como patrimonio mundial de la UNESCO – Fundación Terram  Fundación Terram",
+      "contentSnippet": "[The Clinic] Gobierno Regional de Atacama y Más Chile Cultura buscan reconocer el Desierto Florido como patrimonio mundial de la UNESCO – Fundación Terram  Fund",
+      "category": "chile",
+      "sourceName": "Chile Innovación",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdHB2NFlfSzRmVV9oVmpMWi1LZ3BScVY3eWF2NzAwSDU5SnZxOWpsZjdaRW8xY3NYU3UxRU93dld5QUJlTVZUOGRJOTVqbVg2UTFvS0l6ek4wSW9saGZ6QzFiNFN6VnlBUy1RTnRheUNDX1RoRUlnZWE1aVU0SVJyNUo4MzRiT1BUc2hTZ21JQ2tCd3REUFkxNjJKbXNfazd3NW9Dd3UzTEhTbjJHcEphM25hN200d0xqV3gwUlBYT2dWVTRLUHVjME96b1lRYUx3d2JaUlJkZjJEQnRRUTRibDNzMEhYWC1VM3hKeA?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-08T14:25:48.000Z",
+      "positivityScore": 97,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "CHILE"
+      ],
+      "featured": false
+    },
+    {
+      "id": "806a66e1",
+      "title": "Queen recupera un video de Freddie Mercury grabado 13 días antes de su último show - LifeBoxset",
+      "summary": "Queen recupera un video de Freddie Mercury grabado 13 días antes de su último show  LifeBoxset",
+      "contentSnippet": "Queen recupera un video de Freddie Mercury grabado 13 días antes de su último show  LifeBoxset",
+      "category": "musica",
+      "sourceName": "Queen",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQbkVoclBXU0dtVndNLV9OYW8xUFVia3hydWtiVVBaRGZoRjRVY1Z5VWNWWDhDVXVFUEtwdWdiYnVjYmhXRGpNRGNQY2wtaDdSVThvWHB2SjVCdTVLVy1Sb0tJekJIMEllLTBHSXEyNDVqeU4tTXc?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-08T14:18:22.000Z",
+      "positivityScore": 92,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "MUSICA"
+      ],
+      "featured": false
+    },
+    {
+      "id": "793b5e55",
+      "title": "Summit País Digital aborda hoja de ruta para interoperar fichas clínicas al 2030 y anuncia primer sandbox de IA en salud - Portal Red Salud",
+      "summary": "Summit País Digital aborda hoja de ruta para interoperar fichas clínicas al 2030 y anuncia primer sandbox de IA en salud  Portal Red Salud",
+      "contentSnippet": "Summit País Digital aborda hoja de ruta para interoperar fichas clínicas al 2030 y anuncia primer sandbox de IA en salud  Portal Red Salud",
+      "category": "ia",
+      "sourceName": "IA Positiva",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQVh6blJ5dEpNRlljQndkSTN1VzVSOXZHN0ZwMU11UDhYVkpiUVBHYkU4VFhydHNzaEJId1YwTk1scXh5U1lNWUVLaEEwc0xoTGJxZkdiNGNpNjgxcHZ6RWNkbkxPdzRRTTVYQnU5M1pFNWhzY0dySWhUdDk3eEZzTEN2WS1ZbW1Lb3EycFRNRllSaDFHWHdIdTBBWGp1MnJ1QWppUDZCUS10S3V5aXZpZGdjbzMtdTNEb2hOTm1kN2UxZXEyR3lnX19oTkRRVTh5dXZyYWN3MUZvZ0hBSWZkZ1hjYzg3WnVOTDRqbFJnbw?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1576086213369-97a306d36557?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-08T14:07:09.000Z",
+      "positivityScore": 95,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "IA"
+      ],
+      "featured": false
+    },
+    {
+      "id": "89d8eb9a",
+      "title": "La IA como herramienta para generar evidencia con datos de la práctica habitual - Red Amgen",
+      "summary": "La IA como herramienta para generar evidencia con datos de la práctica habitual  Red Amgen",
+      "contentSnippet": "La IA como herramienta para generar evidencia con datos de la práctica habitual  Red Amgen",
+      "category": "ia",
+      "sourceName": "IA Positiva",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWWpkb1JEMlVWRlV1MlNYUjVIUWNQOURHRmpFZU1UbUVvZmtmOE5Md0FUSjBvRm5wUDhOTFRoTkFka3Zrb0NaOU5KN2s5RjFYSmxIbkcxTEo0ZTlsbTE3UjVhMUl0ZjhkS1FNdnRPQk1iRXpMeUlsUGgzYmZrb0N2M09hbVBPNTlmLXp1V01xZ2xmQ3QtTnJpX2h0TVp4eUUtT05WbG5jc2ZTS2Z3Si01eGpwMloyUQ?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-08T13:15:05.000Z",
+      "positivityScore": 92,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "IA"
+      ],
+      "featured": false
+    },
+    {
+      "id": "57b97c0c",
+      "title": "Zuckerberg y Trump se alían para usar IA en predicción de enfermedades - Forbes Chile",
+      "summary": "Zuckerberg y Trump se alían para usar IA en predicción de enfermedades  Forbes Chile",
+      "contentSnippet": "Zuckerberg y Trump se alían para usar IA en predicción de enfermedades  Forbes Chile",
+      "category": "ia",
+      "sourceName": "IA Positiva",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOHRDNnJxS2p2RWJha1lFZnFLb0VoT2JRaGJ6Y1A3cHVoa0dmVFdXdVpqWWNnTDdMSmswQlNRMVlfR3M1bGgyQk1CZWtoTlkzQkJCc3NrQm5qNW1xY05JLVRaaVB2NjRZWXZRcHZPZ1liU0FxWmpKWjN0ckVaaTUyYWNmeGh6Z3E2clBoOTRjZ0JfeUJsRkc2UXBxdjBraFRtWlNBc3JB?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-08T11:56:42.000Z",
+      "positivityScore": 92,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "IA"
+      ],
+      "featured": false
+    },
+    {
+      "id": "08e71a58",
+      "title": "El último concierto filmado de Queen con Freddie Mercury vuelve al cine en 4K y Dolby Atmos - AVPasión",
+      "summary": "El último concierto filmado de Queen con Freddie Mercury vuelve al cine en 4K y Dolby Atmos  AVPasión",
+      "contentSnippet": "El último concierto filmado de Queen con Freddie Mercury vuelve al cine en 4K y Dolby Atmos  AVPasión",
+      "category": "musica",
+      "sourceName": "Queen",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYjhzSFByZ0s5aTk5YUhrQXhQUlh5blJyclIzTTFQTlpqR2lSWXpHT2IzZEdnYkkwdER6MTN4YVRDTGRtWEZYdnRWSG91OXppU1d0Z0hLOEw5WDEzNkoyR0tGcV95cVBXVVZiUnZ6TTlIMmhoM0gwR1J3ekRaa0VSRg?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-08T11:45:27.000Z",
+      "positivityScore": 89,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "MUSICA"
+      ],
+      "featured": false
+    },
+    {
+      "id": "74b847c5",
+      "title": "Turismo: Primer crucero antártico made in Chile iniciará temporada - InvestChile",
+      "summary": "Turismo: Primer crucero antártico made in Chile iniciará temporada  InvestChile",
+      "contentSnippet": "Turismo: Primer crucero antártico made in Chile iniciará temporada  InvestChile",
+      "category": "chile",
+      "sourceName": "Chile Innovación",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQm9PeGxMTlIwMFdBSVVYU1QxQVBlQWtkSFhzcmZ5T3hFekFfeXBKaUJxTlFfMFBNMTR0Sk9HaDg1OGFNSlRkcmtCWHlXVE9IR2tZcXJrSkJLS19UQVV4amhnLWdoQjE4aUdPXzZiMkpPTVN2TExYcnBHS08ya1J1ZTdqa05CMGJGZXpyejhRZ0Y4NFZ0NHdj0gGnAUFVX3lxTE5XakZQc0pnZEhNdHZHMk44RDNvOGZuSDBJcTdvbzZQRE5ZSG1PNXFjNkhXYjlwTzBhaVppeEg4THdJcEpoYVB5SU02ekVNUHFETTFsaUJYWnZiVDJjX3otd1RvOXZrMTViQ2sxMEhPd2FXVDVVaGNXTUZfNmhvdU5jZlhjY3RWNkNFcGJPYk1iUE4xTF9ZUmc1MjFRQTNScF9pNGVUdThz?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-08T11:43:51.000Z",
+      "positivityScore": 93,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "CHILE"
+      ],
+      "featured": false
+    },
+    {
+      "id": "5469826f",
+      "title": "Google, Meta y Biohub: US$1.800M para la primera célula virtual con IA - El Ecosistema Startup",
+      "summary": "Google, Meta y Biohub: US$1.800M para la primera célula virtual con IA  El Ecosistema Startup",
+      "contentSnippet": "Google, Meta y Biohub: US$1.800M para la primera célula virtual con IA  El Ecosistema Startup",
+      "category": "ia",
+      "sourceName": "IA Positiva",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQem9hZzNLYkFZZ0VsTGlPaTRGWF94Snh1LVVXSy1saWZHV2ZmT2UydW80MWtyNUFtSjZWS1JwVGtQX29OSkJyZi1tMmF2Z3FLQXVqM1M3UENPVVZlcEJEc05EekhWMms1cnJuX3RVOUhTdFNwQm55RUNZUFlxWS1yU2tNMldSamtqSUdpeUxmeDN1ZlZzQlVOQmtTaXB4aHM?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-08T08:22:10.000Z",
+      "positivityScore": 90,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "IA"
+      ],
+      "featured": false
+    },
+    {
+      "id": "706916a2",
+      "title": "Mira a Queen interpretar Crazy Little Thing Called Love en Budapest - A Queen Of Magic",
+      "summary": "Mira a Queen interpretar Crazy Little Thing Called Love en Budapest  A Queen Of Magic",
+      "contentSnippet": "Mira a Queen interpretar Crazy Little Thing Called Love en Budapest  A Queen Of Magic",
+      "category": "musica",
+      "sourceName": "Queen",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRUt1Mm5mUmwxTC05WU5NZFgyRkdYUWF3MnAxUnNOTGJBUGNrQnBhU2dGMnZpakZCZG9MbHBjRUVHU1JvOEZlRi1CWHRPOG5Bdk90V3AwWUc3Zm82QW5LcXZtSnU0ak14UENFd1pEbFVaU0RFRkp1UFF2T0N0THBJa25fZ0VxdGw3VTZ5eFN5T0tTMl9ITngzX3Z0UFU4bnNhWlA1R29fd25XdXM?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1520523839898-50712170362f?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-08T08:02:47.000Z",
+      "positivityScore": 94,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "MUSICA"
+      ],
+      "featured": false
+    },
     {
       "id": "4e437742",
       "title": "Queen: Budapest recupera en 4K el concierto de Freddie Mercury tras la caída del Muro de Berlín, - MUNDIARIO",
@@ -175,6 +413,23 @@
       "readingTimeMinutes": 1,
       "tags": [
         "IA"
+      ],
+      "featured": false
+    },
+    {
+      "id": "59a6c41a",
+      "title": "Faltan tres años para elegir Presidente y tres nombres ya se instalaron arriba - Radio Concierto Chile - Sólo grandes canciones",
+      "summary": "Faltan tres años para elegir Presidente y tres nombres ya se instalaron arriba  Radio Concierto Chile - Sólo grandes canciones",
+      "contentSnippet": "Faltan tres años para elegir Presidente y tres nombres ya se instalaron arriba  Radio Concierto Chile - Sólo grandes canciones",
+      "category": "musica",
+      "sourceName": "Los Tres",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeFhXc0VFdmJ4QWFScjV4WlFaWlJOczhHNUJoSWRGNFVOT2x2cW92NWtPeThDcTNETllrdWhLanB5OWpkclg3TS00ZzBINlNKQ29zR2o3dGlLQXE5MGdCSGstVS1pUmhSLXVwVE1rMXdKRHpmY2JYZnFmaUlpQmdZeWUwRWRWVF9JaFBRVEdnZktKSzVkbzQ4ZlpNLXpodEZHYVA3bVAyRXg3V1diTTRoT0t3?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-07T16:33:51.000Z",
+      "positivityScore": 88,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "MUSICA"
       ],
       "featured": false
     },
@@ -940,261 +1195,6 @@
       "readingTimeMinutes": 1,
       "tags": [
         "CHILE"
-      ],
-      "featured": false
-    },
-    {
-      "id": "84adb6a97a1b9f0d",
-      "title": "Nueva temporada de Turismo Mujer suma destinos y amplía cantidad de cupos para recorrer Chile - Ministerio de Economía, Fomento y Turismo",
-      "summary": "Nueva temporada de Turismo Mujer suma destinos y amplía cantidad de cupos para recorrer Chile  Ministerio de Economía, Fomento y Turismo",
-      "contentSnippet": "Nueva temporada de Turismo Mujer suma destinos y amplía cantidad de cupos para recorrer Chile  Ministerio de Economía, Fomento y Turismo",
-      "category": "chile",
-      "sourceName": "Chile Innovación y Cultura",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRTZSRWZ4TGVQc0pJWWpxQWRNVHpUVWtsYTdfano3cXVwMEJwaU1ZV051aUt5V0t3YkZKdXZRVTR6MVhOSUZVbUg1YWFCY1ItTXVhUkV1c0JVZjVlRk9UYURsTDhGd1dOVVR5eHFERF80SUh2cElmaEhTWkhDbzkzU25DYkVkaW9LNVJHdmRaMGZfc3JxUlV4M1RDS0JPVTZSUWN5T3VuZFdWVHBqVl9sUFR5RjI2dkdORVNCYXRVYUJySGJvRldpTzZXVnZMelIwSGc?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-02T15:41:45.000Z",
-      "positivityScore": 98,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "CHILE"
-      ],
-      "featured": false
-    },
-    {
-      "id": "0a5d70ddd1d58255",
-      "title": "What went right this week: the good news that matters",
-      "summary": "The ‘alternative Nobel prize’, global progress on ageism, and a boost for gorillas, plus more",
-      "contentSnippet": "The ‘alternative Nobel prize’, global progress on ageism, and a boost for gorillas, plus more",
-      "category": "mundo",
-      "sourceName": "Positive News UK",
-      "sourceUrl": "https://www.positive.news/society/democracy/good-news-stories-from-week-40-of-2026/",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-02T05:46:05.000Z",
-      "positivityScore": 97,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUNDO"
-      ],
-      "featured": false
-    },
-    {
-      "id": "6efafa66e73d0aa9",
-      "title": "Conquistó a Chile gracias a Álvaro Henríquez y ahora abrirá los dos conciertos sold out de Los Tres - Página 7",
-      "summary": "Conquistó a Chile gracias a Álvaro Henríquez y ahora abrirá los dos conciertos sold out de Los Tres  Página 7",
-      "contentSnippet": "Conquistó a Chile gracias a Álvaro Henríquez y ahora abrirá los dos conciertos sold out de Los Tres  Página 7",
-      "category": "musica",
-      "sourceName": "Los Tres",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORk50ZDluV1lOY2FHV01DV3RXN0J2RGF5N0NaM0R1RVB1VUlvRFRpdHJrX0M1NDJiMVJFQjJqbldqSGxTSWV1WE9sQXlYLUVORkx4SVgzX3YwaVZVWDZ3Mlo0bllwV3p3ODFFM2NwUHhKaEM1ZF85Y2M0cmtsa3pBVWFUWUlpSTJNbjlEcmtRdHJiN3o2VWpoaGJjd05KNVhpR0ZSU0RkSlJINmxfX0ZkUDllLTdvNFhXWDNhX1FLSjRqZjh3akxqeWt2TFgzdzlBQ2fSAdcBQVVfeXFMTTgzWEVzOURPOTdtNklMMGlhSFZ5MFZHR2VYSmJLcE1KUFFraGNxU1RXUGxVaF9aU0NGblNxLUhUWDVQVGd3d2F5UGVvMFJtNUl1Y2ZoZmNNQW1IY1BJbjFod2hxZndGNTY3eGNJSEZMNGpvel9VVXdYRzJtVjh3NmV2ZW5rb3JsM2J3aVZnRXBad1R6UW9meXRFd1VNa0RCZFgycmx1YmxFeU96X2VMZXBHZ3h3NHJDT25PYUduUWV5WGtETWpBLXN5NFp1Yk5sbFlmemNaRlk?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-01T21:43:47.000Z",
-      "positivityScore": 91,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "d09983828eb25157",
-      "title": "Graduado UV es el primer físico en Chile en recibir mención honrosa en prestigioso premio internacional de cosmología - Universidad de Valparaíso",
-      "summary": "Graduado UV es el primer físico en Chile en recibir mención honrosa en prestigioso premio internacional de cosmología  Universidad de Valparaíso",
-      "contentSnippet": "Graduado UV es el primer físico en Chile en recibir mención honrosa en prestigioso premio internacional de cosmología  Universidad de Valparaíso",
-      "category": "chile",
-      "sourceName": "Chile Innovación y Cultura",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPN2JEOEt3Ukg4ZV9TbTAwUVcxWWdjNl9PSDQ3LVJzMVhCZzR0THJOVUtWZ0piRy1MWHpQU19BeWhEdUg1SVQ5cG84UV9tWFdqLVI1VGh1Q25YRVdLbFJlQWZvMFJUZFBoZlc4djViY3pKVzlkTk92LVJMUWpvdFlKbTJlbmk3UkwzQ1IwdjVVc3h2RW5RcUJhTjNqZktGWnFiZkU4QWdWQzZybDYxVEZSMUhkTjlBX0REWEZjZHE5M1F0ZDZTYU0yb2F2cEVmQ2h0Rnl5QkVzYTlJeG5nTzZ6Tl9iVGVzS2NBOUw3aU56TUdLaDA?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-01T20:12:01.000Z",
-      "positivityScore": 89,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "CHILE"
-      ],
-      "featured": false
-    },
-    {
-      "id": "5ea9a60dff0f3668",
-      "title": "Inauguran Instituto Cultural Chile-China para fortalecer el intercambio de patrimonio y cooperación entre ambos países - Partido Comunista de Chile",
-      "summary": "Inauguran Instituto Cultural Chile-China para fortalecer el intercambio de patrimonio y cooperación entre ambos países  Partido Comunista de Chile",
-      "contentSnippet": "Inauguran Instituto Cultural Chile-China para fortalecer el intercambio de patrimonio y cooperación entre ambos países  Partido Comunista de Chile",
-      "category": "chile",
-      "sourceName": "Chile Innovación y Cultura",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRmhoOWpHTTZDUmhmS3hxZ2FST080WHRqWjNURW5qbWRwamVQRjBTemtMNVV5TzVraDJINmJPb2xXRnAwdHYwZXpLRGVmWm15R3dvM2pfV2ozckJtRFJKbmFJR2lFcWdWWTYtcURuMzltc1pTbWd4bjM0ekxJU1pHbXRnSlEyN2hvdC1yWTdNcmdfamxyc2NnNEEyN05yTC1WMXVGc1d6cElSaFE3LVpzNjgyYTBMd3l0ZV9jNVZtcUN4S25jWGpXZ0U4R3JOWGZVeG1PTk5tMVp4ZGF4VWJyczRfOA?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-01T19:09:20.000Z",
-      "positivityScore": 87,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "CHILE"
-      ],
-      "featured": false
-    },
-    {
-      "id": "c0fa3699b22d05e4",
-      "title": "John Denton, el británico de 16 años que abrirá los 2 conciertos de Los Tres - El Observatodo",
-      "summary": "John Denton, el británico de 16 años que abrirá los 2 conciertos de Los Tres  El Observatodo",
-      "contentSnippet": "John Denton, el británico de 16 años que abrirá los 2 conciertos de Los Tres  El Observatodo",
-      "category": "musica",
-      "sourceName": "Los Tres",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcUFNV1l4dS00emJMV281WGg0eDUtSXFnaDE3cWxUOG91TzQxNEhLNDFPQ3cyT3FFb0tjQkVuWjF4NlpSU1dDbW8yNHFnV2hYUFY5NEJ3U3pPSlJGOWo0V1NlbUk0MG5oZ1k1by0wWmViN3FISTR3SEtCczhmN0xPZi1oMmJ2X2d2VExiMEVOMm5zT2JMa2hTWEtfcm9KVERVcDh0ODBOTGo0cjV2OU5CR2duSDNOeTVEMWpyWA?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-01T19:08:56.000Z",
-      "positivityScore": 93,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "8bdd4a21101878eb",
-      "title": "Why good leaders listen",
-      "summary": "Listening is often overlooked as a leadership skill, but it can challenge assumptions and lead to better decisions",
-      "contentSnippet": "Listening is often overlooked as a leadership skill, but it can challenge assumptions and lead to better decisions",
-      "category": "mundo",
-      "sourceName": "Positive News UK",
-      "sourceUrl": "https://www.positive.news/lifestyle/why-good-leaders-listen/",
-      "imageUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-01T07:00:31.000Z",
-      "positivityScore": 92,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUNDO"
-      ],
-      "featured": false
-    },
-    {
-      "id": "8f0f046efd20b9cc",
-      "title": "Roger Waters reveló quién será el cantante de “Legacy”, un nuevo show con canciones de Pink Floyd - TN",
-      "summary": "Roger Waters reveló quién será el cantante de “Legacy”, un nuevo show con canciones de Pink Floyd  TN",
-      "contentSnippet": "Roger Waters reveló quién será el cantante de “Legacy”, un nuevo show con canciones de Pink Floyd  TN",
-      "category": "musica",
-      "sourceName": "Pink Floyd & Gilmour",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb1d1dDE3Zi0xeDFRSXFWRld4V0dDQ1F4bU10ZzdNY3A0VVpRYXNrRGRKNzJyLXlUQ3B2bGZkRkZCeVhVeGZvamlRbGRGZ1IxRGw1dWdYeVV3ZDFxNlBYVFpFNC1BX2ZOWlQ4cDNILU5jREdNTEFHcTFteTdsSVIwdklURDY3Y3RYVmNleXBBYUN4a3h3VGE2em5wWUE5YUxXZjhYd0k3dVVhVDVlQjQwMGx1eVB4V1Z1UXpFU3BTZHhJZy1rdjR3RDlqZjNNekRPMW1BRk9wVdIB6wFBVV95cUxPc2w4eEE4M0p1dDN6bVh1bnc2ZUt0a2tvdm80Q3BRWDVnOEFCT1VoaXZNRFlRRVhXTFNqYmR2RjRpNncwalRMeDZwVkJ3TTBJczd3amZGc3VWbnpvY05maFVteXBKdlhwVW95a0xhbTkzTS1RZG1xalA1YkJNeS1DOWNPS0VtbnZaQ2VOSTdWdHRrM2tMSl9qMU9YUFhrOHFia2VWRlhhVHA2UkZGUVhibWhuRkhZUjA0aGx1aFYtWE9Cd2I5bDVnbEVXWkRZYXBxcDNsWFAxVDRrYlE5NXI0T1FTb3NQUDdma2w4?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-01T02:10:00.000Z",
-      "positivityScore": 89,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "89a71f8e9012b5c4",
-      "title": "Gobierno y Congreso Futuro lanzan “Chile Potencia Turística” para proyectar al turismo como una de las grandes industrias del país - Subsecretaria de Turismo",
-      "summary": "Gobierno y Congreso Futuro lanzan “Chile Potencia Turística” para proyectar al turismo como una de las grandes industrias del país  Subsecretaria de Turismo",
-      "contentSnippet": "Gobierno y Congreso Futuro lanzan “Chile Potencia Turística” para proyectar al turismo como una de las grandes industrias del país  Subsecretaria de Turismo",
-      "category": "chile",
-      "sourceName": "Chile Innovación y Cultura",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaGtVS3E3MUZRampfa3Q2bTU0WnpkMkExOUN2UTdWa1JlUmRPa3B3cTRqV0dKLXNwdWNLRS00dGRxNnRiZUprWXJ4Qi1GRDBiR3BUVHdEcnNQNzgxRm1zZWw3bTlXazI1UnFxamJURzlPcG04OHhncFBTVFo2NVZ5LXlGR2h3RWNIQzFSN3d6X3I5ZC1Nek12TjA1TFdlNkhvMTFxRUFsS1dVQlhaUE10SnlfbjF0c3hUeGhOZ2FxQjRMeVllWDBLSG0yck1aOEJYaVlTZnhzTjdQQ3k3UWwxekd0UFFuQnBlMm5vbWZoRW1tZ2hoTjV6LVFVNGZZMTg?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-09-30T19:18:12.000Z",
-      "positivityScore": 91,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "CHILE"
-      ],
-      "featured": false
-    },
-    {
-      "id": "70ed1c7e9135a218",
-      "title": "Columna de Francisca Crispi Galleguillos : Medicina en la era de la IA - Opinión",
-      "summary": "Columna de Francisca Crispi Galleguillos : Medicina en la era de la IA  Opinión",
-      "contentSnippet": "Columna de Francisca Crispi Galleguillos : Medicina en la era de la IA  Opinión",
-      "category": "ia",
-      "sourceName": "IA Positiva & Ciencia",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYTFHemJSS2ZJSUtqcFRhVk1raktLT0RCSzFxdlZDZkhYeVBKXzE3YXhqMEphM2d2bHJIbDZiWTduTm5VcVczRnAzS2cxdlNYbEdrZWxvTElLenNXSWJTdEsyNUpCOUhDb2E3TVR6aW9qUUd5ZEpQUTIyYWpQUzEtS0wyYjR0T1FIRi1LQzJPRnVUV1NCeGR0dDF5SQ?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-09-30T10:36:04.000Z",
-      "positivityScore": 92,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "IA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "218c97744e2e9ed9",
-      "title": "I stopped reading bad news for 48 hours. Here’s what happened",
-      "summary": "What changes when you swap the daily doomscroll for journalism that asks not just what’s wrong, but what’s working? Oliver Balch finds out",
-      "contentSnippet": "What changes when you swap the daily doomscroll for journalism that asks not just what’s wrong, but what’s working? Oliver Balch finds out",
-      "category": "mundo",
-      "sourceName": "Positive News UK",
-      "sourceUrl": "https://www.positive.news/lifestyle/i-stopped-reading-bad-news-for-48-hours-heres-what-happened/",
-      "imageUrl": "https://images.unsplash.com/photo-1509391365360-2e959784a276?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-09-30T10:15:35.000Z",
-      "positivityScore": 93,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUNDO"
-      ],
-      "featured": false
-    },
-    {
-      "id": "8fcdf92863d39eb7",
-      "title": "Extensión horaria del transporte y recomendaciones: Lo que debes saber del concierto de Los Tres en Concepción - TVN",
-      "summary": "Extensión horaria del transporte y recomendaciones: Lo que debes saber del concierto de Los Tres en Concepción  TVN",
-      "contentSnippet": "Extensión horaria del transporte y recomendaciones: Lo que debes saber del concierto de Los Tres en Concepción  TVN",
-      "category": "musica",
-      "sourceName": "Los Tres",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRVJQb0lzcVNENUplc283cEdXYUNDOWpFaUdmZ3dJTHVLWngtRjQ0SXNzbVBLX2xGbDBBZXhUUTl4SFpJYU5qYy1hdmFZakFSdzc1X0EyOVdJblNFQzhTUEttRzltTTVQVlpPNEFwN2RKd2w2Vm9JeHpMdXl3VWZHUzZDSFZWSFZRQmlRdTU4emhHYWF4SGhsMTB5UEQ4UEZXT1BiZkF4cFh3TURXM0J3eEg3anE5MExpSk9CLUZERWxSZk9YQWdpVEJodDE0bG1fN20yMUQxX2V2eE3SAeABQVVfeXFMT0g5a2x1LTJ3UEQ2NEQ2NXRiekQzY25vX0hGZ2FxVVYwZlRRQmh4QVRYZHVYSXVvb3g3OExyeWl3VHJmUUFUV2lFOTRBRGJ2MjhWX2xKNWUxUHZBXzlTSU0ydmxzdmNhNmtKTEtXQU1WZjZEYTE3N1RieEJBaXUyOXhVeGZ2bUdWbmpSNHJ6bGxGTUR3ZmNQMlBDMmJ6WVZpclZ3by1kRGVoN0ZpV0lyUV85MDM1ZW1JWUpXUWFYelZlREFhVkVtcEJUdENCXzJ0REUwZ3B0WFNwTGFPTFFIbVI?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-09-30T07:00:00.000Z",
-      "positivityScore": 99,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "5b54c65cb5c4d564",
-      "title": "U. de Chile accede a plataforma de Stanford para que estudiantes practiquen con pacientes simulados por IA - Universidad de Chile",
-      "summary": "U. de Chile accede a plataforma de Stanford para que estudiantes practiquen con pacientes simulados por IA  Universidad de Chile",
-      "contentSnippet": "U. de Chile accede a plataforma de Stanford para que estudiantes practiquen con pacientes simulados por IA  Universidad de Chile",
-      "category": "ia",
-      "sourceName": "IA Positiva & Ciencia",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQmdSVUJIVG1oUnRwLXUtcE03TEI1Nmw3ZW1fdHUyWlZ5YXFLZ3g3aUJFeV93YVRiazBqT2xKM19HdW5sRklvNEJtaE45MEZ3U0hVSnBBeUd3ZnRUNmRrYkc5ei01OUhlLTRValRKcFJ5RUgyOUZ2LTZKU2gxOUNMUTJoa0o?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1507146426996-ef05306b995a?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-09-29T20:28:23.000Z",
-      "positivityScore": 98,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "IA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "73dd3dcd1b7b3cbc",
-      "title": "Pink Floyd ya es banda tributo: Grupo que armó el hijo de Roger Waters saldrá de gira - Sopitas.com",
-      "summary": "Pink Floyd ya es banda tributo: Grupo que armó el hijo de Roger Waters saldrá de gira  Sopitas.com",
-      "contentSnippet": "Pink Floyd ya es banda tributo: Grupo que armó el hijo de Roger Waters saldrá de gira  Sopitas.com",
-      "category": "musica",
-      "sourceName": "Pink Floyd & Gilmour",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZY21teWZ6VFRrLXc5aDhaVlo3bXNLWUdoYjJLdUVrRlNvdzdaNFFpSDBKd0YxUDd1UlRHM3lFUEpuTUxKZnJmMnFueE1PMDBxTEZ4amxFOEMyRE10b1dVMVl4ZlJkXy1zcy1WcnIwQVhCZUV3dm0wY0JWVGxqbjg?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-09-29T15:45:04.000Z",
-      "positivityScore": 86,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "ebb7c8f73d2dde28",
-      "title": "‘The forest is life’: how Indigenous communities in Peru are preventing wildfires",
-      "summary": "Ancient knowledge and new technology are combining to help Indigenous communities in Peru tackle forest fires",
-      "contentSnippet": "Ancient knowledge and new technology are combining to help Indigenous communities in Peru tackle forest fires",
-      "category": "mundo",
-      "sourceName": "Positive News UK",
-      "sourceUrl": "https://www.positive.news/environment/the-forest-is-life-how-indigenous-communities-in-peru-are-preventing-wildfires/",
-      "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-09-29T08:00:53.000Z",
-      "positivityScore": 95,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUNDO"
       ],
       "featured": false
     }
