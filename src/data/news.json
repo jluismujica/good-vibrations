@@ -1,13 +1,200 @@
 {
-  "lastUpdated": "2026-10-09T02:51:38.923Z",
+  "lastUpdated": "2026-10-09T17:23:29.168Z",
   "totalCount": 70,
   "categories": {
-    "musica": 24,
-    "ia": 19,
-    "chile": 18,
-    "mundo": 9
+    "musica": 27,
+    "ia": 18,
+    "chile": 20,
+    "mundo": 5
   },
   "news": [
+    {
+      "id": "27c182a3",
+      "title": "'Queen Budapest': cinco datos sobre la película que recupera uno de los últimos shows de Freddie Mercury - Billboard Argentina",
+      "summary": "'Queen Budapest': cinco datos sobre la película que recupera uno de los últimos shows de Freddie Mercury  Billboard Argentina",
+      "contentSnippet": "'Queen Budapest': cinco datos sobre la película que recupera uno de los últimos shows de Freddie Mercury  Billboard Argentina",
+      "category": "musica",
+      "sourceName": "Queen",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbHNxLTBpWFpRVS1lclZUd19INUJENjNnYjZnZkxFMVdNTEZQdXVGcTRsektDSVp4V3M0TnVSSFlydU82bnFPektpQ0NpYnBwS0d2Q2Z2dlpqYldpTkZRd2xnYVBMNUh6Y2VQMTYzOEpaZlN6Ynh2OFVLVzc5aThXaXRmT2ZPMTNYVjlwZTd4ZW9NSDA1azZvbWVjV056T0lRMEhhZW5LZl9OVTVETF9jN2UwRFRWZm8wWklmdnY4R2tMSXlkdmRtOXUycnN1UQ?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-09T15:50:10.000Z",
+      "positivityScore": 90,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "MUSICA"
+      ],
+      "featured": true
+    },
+    {
+      "id": "5c6e9d3c",
+      "title": "Chile: demandó al casino de Viña del Mar por no pagarle un premio millonario que asegura haber ganado - Infobae",
+      "summary": "Chile: demandó al casino de Viña del Mar por no pagarle un premio millonario que asegura haber ganado  Infobae",
+      "contentSnippet": "Chile: demandó al casino de Viña del Mar por no pagarle un premio millonario que asegura haber ganado  Infobae",
+      "category": "chile",
+      "sourceName": "Chile Innovación",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSFJsaGdaSHJveE0tMDVpNHZvajdheUFhb21iY0EzZWxXR2dpVTdEY1JLTlN6Y08xU0hTX3lNbGZGaUNsMk02ay1iZE5OQmNyMWl0QmsxRzFROW1GOHY2YUZfNHNxclBWMDFsVUJoYTZJSktZLVJQaGdhTVJpYmxackNCaHRTbHlBZ0E3M2tKVUpiUmFVV090VkNkRHpwT1BVVmxRcy0tN1RjWFZoYkZTYk56N1hkanFtOS1BeFRfaTB6THBoMElNM2x6Y2p5OUN4dEt6dXM5cS05OFp5YXl1MFVmdjBmdVR4MHdNZHNwNHHSAYsCQVVfeXFMUElrWWZHaE5YbDZUNFN6ai0wUTN6ZXZZRmdaT0xUdmhINFBORzFQVDdhZHdmTWw4S092RGJXbFR2elB5UzdaWjV4dTB5LUZ1c3ZWMGlRS3hXUzR0bVRjTmZwUmRocndXc0htX0w4aHlNS3JiVnNYUHZtX0hiRWpCX0kzU0FSTG9reXh5b2xVQU9RRW9nVlVUdjhQYnpvZlZUVU9VanFrTUY3YU1wd3BrYWxKaUhkeEItclJrR1VzQVFTd29DTXB4NDBQUFRZMzBxZF9PdW9DNkMwZ1pSbzVGUmFfWnlQdlVUREZmQWEzZzYzaXhCUWd4X2lOTUp2amVTM1B5X0JRcElLekZB?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-09T15:48:33.000Z",
+      "positivityScore": 94,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "CHILE"
+      ],
+      "featured": false
+    },
+    {
+      "id": "9997733d",
+      "title": "Puchuncaví será sede del II Congreso Binacional de Turismo Deportivo Chile-Argentina 2026 - G5noticias",
+      "summary": "Puchuncaví será sede del II Congreso Binacional de Turismo Deportivo Chile-Argentina 2026  G5noticias",
+      "contentSnippet": "Puchuncaví será sede del II Congreso Binacional de Turismo Deportivo Chile-Argentina 2026  G5noticias",
+      "category": "chile",
+      "sourceName": "Chile Innovación",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTzdsN19URnVKcnhZOWpxLTRHQUREVzBoTXJJZXo5MElYdk1BOVV3eDJUb3ZWNk9zQXpMMHdWc3FWYjhWSzQySXJnX3d3ak5ITzZrS3R4bXprZWs1ZkZBZlNrYnFhZUtocWtib2FnWExQR1pYbjByaXctSGJLWG1sanJwdktvTHZKalFVN0x6SFB1SF9hVWZPU2lISGNMRTZVUGJzbUo2elMwa0RCNVZwbmFPa3otczN4T1dWWXpKNkU?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-09T15:42:29.000Z",
+      "positivityScore": 92,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "CHILE"
+      ],
+      "featured": false
+    },
+    {
+      "id": "c0a2bc15",
+      "title": "Premio AURA-Padre Picetti 2026: Cómo postular al reconocimiento para profesores de ciencia en Chile",
+      "summary": "Premio AURA-Padre Picetti 2026: Cómo postular al reconocimiento para profesores de ciencia en Chile  Cooperativa Ciencia",
+      "contentSnippet": "Premio AURA-Padre Picetti 2026: Cómo postular al reconocimiento para profesores de ciencia en Chile  Cooperativa Ciencia",
+      "category": "chile",
+      "sourceName": "Chile Innovación",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQnNkUEJhSEZwbEp5akJralBhNE5aUXhhcEtjS1RELTlvZU5YT2xRZkpWZ1VxaVNNLTBjMUZyalNianpRRDRSN2V1Z0hfeDBGTFNEeG03b3NGWlhfbnNuNDM3ZUw3d2tINllZMjNGZjZsZEZPQlVQQUZjUGR0eHdkeDYzdXg3UmpwdDJVZ1JmYlQ0b25Jcm1OOUU2QjZMbmYxcVdDc2tQN1U5Z203VGEzNElUWnBSZ3hvQ21LbGo3WjdYeF9KQ2dzSURjMzFWdzYyeDN2TWs5XzNWa3dZczMzTU1Lb1Z4QVFadmx3?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-09T14:04:33.000Z",
+      "positivityScore": 94,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "CHILE"
+      ],
+      "featured": false
+    },
+    {
+      "id": "71e7e2f1",
+      "title": "Funcionarios estatales serán capacitados en uso de inteligencia artificial y ciencia de datos - DPL News",
+      "summary": "Funcionarios estatales serán capacitados en uso de inteligencia artificial y ciencia de datos  DPL News",
+      "contentSnippet": "Funcionarios estatales serán capacitados en uso de inteligencia artificial y ciencia de datos  DPL News",
+      "category": "ia",
+      "sourceName": "IA Positiva",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcW5xRldiUlJJa09aV3VZencwN1dWRGVUdnMxaEdiX0tMUG94aWY0UDY5VXVuZVc3eTA4cXlpOEQ2R1pmakdaRVJaQUFKejhDUEtzYm1jd1JEeWstY2RqbTZjM2REelh5eWJfNFEwZUlZYm5pcGVrOWxGWVQxMGIyQS13bnZoaFNNcFlScTJrQjNGWkdpazBaMWJ0cjlIYzM2ZW9jRW1TaFdwc29fS0taOFIxcGo?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-09T13:50:17.000Z",
+      "positivityScore": 91,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "IA"
+      ],
+      "featured": false
+    },
+    {
+      "id": "123da6e9",
+      "title": "Salud mental e inteligencia artificial marcaron la Semana de la Seguridad y Salud Laboral de la CChC - Diálogo Sur",
+      "summary": "Salud mental e inteligencia artificial marcaron la Semana de la Seguridad y Salud Laboral de la CChC  Diálogo Sur",
+      "contentSnippet": "Salud mental e inteligencia artificial marcaron la Semana de la Seguridad y Salud Laboral de la CChC  Diálogo Sur",
+      "category": "ia",
+      "sourceName": "IA Positiva",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMUt2NEpnSzktOUJjTkYyNTk5bGh0bjd1RFgwanBTVUpSRGxOdEJYUlhtd1VybXlPeWNUOGFldk1tckg1Q1NJcXI4LUhmb0l0RFBxZEhiTTh4a2RMLU94d3o2ZXVlZm5wbXJ2VFk5Mnl5MW55OWRPSEVBaFFsUkhBRDc0U0FKWWFnMmdnUUNhX1V6Sl9sdjlDQ2hPSzZGc3JiQmlpRGlfTDdwZmVtZ195RGVZblVPRm85WmtZdzI4M3JkMW9jVXZlV0Q0SQ?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1576086213369-97a306d36557?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-09T13:26:29.000Z",
+      "positivityScore": 97,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "IA"
+      ],
+      "featured": false
+    },
+    {
+      "id": "971c4b2b",
+      "title": "Reseña de ‘Queen Budapest’: 40 años después, Freddie Mercury sigue siendo dueño de la gran pantalla - A Queen Of Magic",
+      "summary": "Reseña de ‘Queen Budapest’: 40 años después, Freddie Mercury sigue siendo dueño de la gran pantalla  A Queen Of Magic",
+      "contentSnippet": "Reseña de ‘Queen Budapest’: 40 años después, Freddie Mercury sigue siendo dueño de la gran pantalla  A Queen Of Magic",
+      "category": "musica",
+      "sourceName": "Queen",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Ia3RnZ20ya00zVG83cVIzWm5xY2VxQzc1UE8wMDJOT2w1cmtYZS10VllvY3FkVlB0MDFfX1NkQ1lDc3c5bVRCUmNLVWs5U1RmZ0RRSE55Sy0yWVFYVzlsQTZQR0RienBPNzQ2ZnVBa0RORERGTzd6LU0wLUU?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-09T10:59:29.000Z",
+      "positivityScore": 91,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "MUSICA"
+      ],
+      "featured": false
+    },
+    {
+      "id": "7fb0b947",
+      "title": "Brian May asegura que nunca ha dicho que Queen no fuera a girar de nuevo: \"Es una mala interpretación - MariskalRock.com",
+      "summary": "Brian May asegura que nunca ha dicho que Queen no fuera a girar de nuevo: \"Es una mala interpretación  MariskalRock.com",
+      "contentSnippet": "Brian May asegura que nunca ha dicho que Queen no fuera a girar de nuevo: \"Es una mala interpretación  MariskalRock.com",
+      "category": "musica",
+      "sourceName": "Queen",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcGE0V3NLa3lPMkw3aDN5WDBTWnd5R04zM1Jrd2ZBX1lMOHR4Yk1xalRQT1JlUnRoQ3RQcks4elE5OWU2SzRuUDVfMkJ2S0F5a1NZWF8tNHVZUDAyZDlvaWQtdFNXUGFTMUEwTlN1SHZ6d21rbUY1dUVkUmd6N1lXMjNtaDl0ZTFDS3BMSWt6NFF5aDZReDViQmFJVkZIN0V5Nl8xUDd2dGYwcUdfY2FZSDJvR1MtSVozLTFzcWNjWlRLbHpUcGdueWRmUlF5bGw2N1E?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-09T10:02:00.000Z",
+      "positivityScore": 94,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "MUSICA"
+      ],
+      "featured": false
+    },
+    {
+      "id": "1b542bcb",
+      "title": "Inrobics: la startup con ‘Alma’ que cuida sin sustituir - El Ecosistema Startup",
+      "summary": "Inrobics: la startup con ‘Alma’ que cuida sin sustituir  El Ecosistema Startup",
+      "contentSnippet": "Inrobics: la startup con ‘Alma’ que cuida sin sustituir  El Ecosistema Startup",
+      "category": "ia",
+      "sourceName": "IA Positiva",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVldOZnhmd2RndUo0bm5tb0NkZGZGMnhvaHdsZC1WcWFFNnpzZERjUVRyQzlKWDdJUTR4dmhGVWtJTFdNSTJUb0VNTVctR1lrc0Rrb3dZM0NvVmRTcU1kZkM5SFJJZVgtdXpYSWNwYzJCOGllbmlScDVOeXA4UUVVR2tNMUpUajU5b0hj?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-09T09:07:18.000Z",
+      "positivityScore": 95,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "IA"
+      ],
+      "featured": false
+    },
+    {
+      "id": "40ccf02e",
+      "title": "Brian May recula: \"Nunca he dicho que Queen no vaya a volver a salir de gira\" - RockFM",
+      "summary": "Brian May recula: \"Nunca he dicho que Queen no vaya a volver a salir de gira\"  RockFM",
+      "contentSnippet": "Brian May recula: \"Nunca he dicho que Queen no vaya a volver a salir de gira\"  RockFM",
+      "category": "musica",
+      "sourceName": "Queen",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUGZueXdaUDZnVV9PdFFTbWZMeGx2R1RfV1VqdFFMX3hUMTNSclVuaWkxMjlUN2xMMVRRSU85SWZ0dng2aGJjYjV0NFVWODlOQ3YxRGxtbDFTczlDUHl1Y1VVV056X3BfemJyYjlLRmNHOGVuSzYybVRPRHVPc0w0VmYxcjduemtlVEdaMHlqSWNPYXFSaXJqdDVReUR4bzVWUEVUNjF2LTJjc09wUXAtcFBaTno1TGs?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1520523839898-50712170362f?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-09T08:28:49.000Z",
+      "positivityScore": 94,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "MUSICA"
+      ],
+      "featured": false
+    },
+    {
+      "id": "1853c0e0",
+      "title": "The Other Side emprende una ambiciosa gira nacional para revivir el universo psicodélico de Pink Floyd - Gritaradio.com",
+      "summary": "The Other Side emprende una ambiciosa gira nacional para revivir el universo psicodélico de Pink Floyd  Gritaradio.com",
+      "contentSnippet": "The Other Side emprende una ambiciosa gira nacional para revivir el universo psicodélico de Pink Floyd  Gritaradio.com",
+      "category": "musica",
+      "sourceName": "Pink Floyd & Gilmour",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdXhDaWk2WGFKd0tmNXJ0WlgyTzdPcGw3UWZwN0FjMUpGV0ZZMlczamUwaV9UNGtZUXMwOXhjMlFyUTVTSXplQXVIRWxIVkptaGlJQXNvazFNZVNscTlCNnh2WXM5ZHM0S3RVaTNXekRWYm5RTFpLWVBuZUFWdFh0c3lhdGJXNEY2RGpyWjMxdVJ0YnRxa0tDVkN1OFFEajdRT1AzNk9WVmRIalowWFJ3WkowbTF2TWNwWUh3WWpJMWEzYV94?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-09T03:27:05.000Z",
+      "positivityScore": 97,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "MUSICA"
+      ],
+      "featured": false
+    },
     {
       "id": "8e1495b1",
       "title": "Cuéntame apuesta por IA y WhatsApp para ampliar el acceso a salud mental en empresas - Mobile Time Latinoamérica",
@@ -825,6 +1012,23 @@
       "featured": false
     },
     {
+      "id": "31ffd803",
+      "title": "Iluminación circular amarilla en un concierto de Pink Floyd. - CineMedios",
+      "summary": "Iluminación circular amarilla en un concierto de Pink Floyd.  CineMedios",
+      "contentSnippet": "Iluminación circular amarilla en un concierto de Pink Floyd.  CineMedios",
+      "category": "musica",
+      "sourceName": "Pink Floyd & Gilmour",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KZGhGZmJNYThTaVJSbExMRl84ZUF6NEktZW5sbjFySXdDelZ1SUdMM0hoODh1cUt0bmVYMml2dUl4XzA3Sm5BTGwyVF9jVzU1cTFEMlU0bmF5RHYzZ0V3UDJpYw?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-07T02:55:44.000Z",
+      "positivityScore": 89,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "MUSICA"
+      ],
+      "featured": false
+    },
+    {
       "id": "817dc5f55edbdded",
       "title": "El impensado vínculo del nuevo Premio Nobel de Física con Chile: Fondos nacionales respaldaron su investigación",
       "summary": "El impensado vínculo del nuevo Premio Nobel de Física con Chile: Fondos nacionales respaldaron su investigación  Rock&Pop",
@@ -988,210 +1192,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=1200&q=80",
       "publishedAt": "2026-10-06T17:00:59.000Z",
       "positivityScore": 97,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "bd903568e4888aaf",
-      "title": "\"50 años son suficientes\": Brian May confirma que no volverá a salir de gira con Queen",
-      "summary": "\"50 años son suficientes\": Brian May confirma que no volverá a salir de gira con Queen  Rock&Pop",
-      "contentSnippet": "\"50 años son suficientes\": Brian May confirma que no volverá a salir de gira con Queen  Rock&Pop",
-      "category": "musica",
-      "sourceName": "Queen",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeHJEQWhwZ2ZrQW9ybTZhVVB6ZVQzX2tGaFEtVjJzdDVtV095NlJTZVpIZU4wYlFnalFpOVQzc25HUUVMYjRtMlIwcjJoZXNDcF9kNnRXRVJVNDZLZWNXdEp4amdncnBTWkZ3TER3WnY4ZVV5MHZsT3RIZ0VEeUw2TW1rQmxXRUNxQ0p6S3NSQ3AzVnFma0h5bmVGR2dMQXgtN3ZydTR3cTduMDBRbEd1TzZXc1VMSlBMOFHSAb8BQVVfeXFMT3lEV0RlVkZwVElpcmNtc1hBbXg4ZGlpWjloTHBzX1lKT2Z6MUdGVXNHclY5dTVBbjVQNFB5aFBwRnJQNldZRUpwa1A2c2lfNENhQ1JnblFTTEtiTThBRmxsUDlRTG5hMXRiTkV0MklPNmlEdkpCb2NKWnNBenBWaktxVTJuM3c1d2JYVFZ0QUtmV0tMbkYtSkNuczY5TS1lWkZrd1pSZFJfUDF0X19XbEZIdUI2U1FTcjJra3dkdlU?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1520523839898-50712170362f?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-06T16:21:57.000Z",
-      "positivityScore": 97,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "e5cc3800c20b3928",
-      "title": "Perú fija política para el uso seguro de inteligencia artificial en el Ministerio de Salud - consultorsalud",
-      "summary": "Perú fija política para el uso seguro de inteligencia artificial en el Ministerio de Salud  consultorsalud",
-      "contentSnippet": "Perú fija política para el uso seguro de inteligencia artificial en el Ministerio de Salud  consultorsalud",
-      "category": "ia",
-      "sourceName": "IA Positiva & Ciencia",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zOS1ueFFfOVlkMU1rOXg0RC1nYkROelp1Z2k0bWtUMW1ha1VEXzJOVDNaZmdPUm00dVBYOUtRMGRFRmhMbnVKR3A2alB5QWRnb2UyVWsyeHZtOThXMVJvMGVqU2g0Tk1qNVRzbHg4ekFNZ1pnMEhER3l2dw?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1507146426996-ef05306b995a?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-06T16:04:53.000Z",
-      "positivityScore": 97,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "IA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "82e31422a399a421",
-      "title": "Nokia and NASA Team Up to Bring 4G to the Moon and Our Astronauts",
-      "summary": "Children of astronauts may soon be able to video call their parents in space, as NASA wants to bring terrestrial 4G to the Lunar surface. Ostensibly to prepare for a semi-permanent human presence there, an outer spatial 4G network would significantly streamline and lower costs for off-world communications. Partnering with Nokia’s Bell Labs, the simple […]",
-      "contentSnippet": "Children of astronauts may soon be able to video call their parents in space, as NASA wants to bring terrestrial 4G to the Lunar surface. Ostensibly to prepare ",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/nokia-and-nasa-team-up-to-bring-4g-to-the-moon-and-our-astronauts/",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-06T15:30:13.000Z",
-      "positivityScore": 95,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "MUNDO"
-      ],
-      "featured": false
-    },
-    {
-      "id": "5c685609d79013e9",
-      "title": "Brian May cierra la puerta a Queen de forma definitiva y asegura que «50 años son suficientes»",
-      "summary": "Brian May cierra la puerta a Queen de forma definitiva y asegura que «50 años son suficientes»  Futuro Chile",
-      "contentSnippet": "Brian May cierra la puerta a Queen de forma definitiva y asegura que «50 años son suficientes»  Futuro Chile",
-      "category": "musica",
-      "sourceName": "Queen",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcU1rdE9DbHo4Z1BPYkNwQk9WbG9oWEVRaHB6Z2gyQjkwQkRnTlFiYXRUa0p5ajh1WDNWOG9iUU9BSFVac0k1cmJVZE1vZVltaU9YWUxXY1ZNQTJ2NEM0NFdiQVdaM2RaS25hVFQyeWZ3WkVkSjFaREJPbVhpbm05N1FHOVFfTTBKQk5TazZIS0F1U1h0cDVTYWI0b0YxVzNLS0dVU01jNjZjcUJmS1ozMTBTelpXOThuZzUxcnlEX1jSAaQCQVVfeXFMTTJHUTgySENfVDlNOHExbHMzSmp6NEIwbzBCODVWV0pzaW1wRVpldURobkxEWC00Yk1xSzh6bmtQa0tuVHI5b2ZvUVFLVkxEci1YT1VCQVdFbFpfQzN5bFBiQTV2eUZ5WUpfSEI0Tm96aHdXS3JLa3d6XzlSZTFiWEppXzhQZktNSVJtZkl3YThOdkxBRGJNZFlQWUJDbVByZnVpdWtEY2pyTVZWdWxqeGVBcE96OVRRRlI0aDRsdGFDUFhsejBwZnNVY3dIYzNWc01McHVSU050V3I3UUxjRXU5UGN3aEc5ZHhEYUhQQmpJN3Nwa2lheUdJQ08wYWRlRU1rLVVUSDF0eHFhOFZkZVN6TGdoeGNpUVR4S21PUnByRjBvYw?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1520523839898-50712170362f?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-06T13:35:48.000Z",
-      "positivityScore": 99,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "b6a2a2d391de07b0",
-      "title": "Illinois Community Members Honored for Helping Save Woman in Submerged Vehicle (WATCH)",
-      "summary": "On a stormy afternoon in Illinois in August, an elderly driver lost control of her vehicle as it plunged into a flooded retention pond. Sinking up to its roof, multiple local community members immediately began to swim out to help, joined by 4 members of the Champaign Police Department (CPD). Occurring on the 1900 block […]",
-      "contentSnippet": "On a stormy afternoon in Illinois in August, an elderly driver lost control of her vehicle as it plunged into a flooded retention pond. Sinking up to its roof, ",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/illinois-community-members-honored-for-helping-save-woman-in-submerged-vehicle-watch/",
-      "imageUrl": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-06T13:00:29.000Z",
-      "positivityScore": 94,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "MUNDO"
-      ],
-      "featured": false
-    },
-    {
-      "id": "d0cb0aa7711893a4",
-      "title": "Envejecimiento, salud mental e inteligencia artificial: los desafíos que abordará el Congreso Chileno de Medicina Familiar - G5noticias",
-      "summary": "Envejecimiento, salud mental e inteligencia artificial: los desafíos que abordará el Congreso Chileno de Medicina Familiar  G5noticias",
-      "contentSnippet": "Envejecimiento, salud mental e inteligencia artificial: los desafíos que abordará el Congreso Chileno de Medicina Familiar  G5noticias",
-      "category": "ia",
-      "sourceName": "IA Positiva & Ciencia",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRnVLYVlfdDQ3SDdXY0s4Y0JzZHR1Y3VsWFlJWTZVeE9BU2czYXA1QzJjVFdLM1V2SHhLbGRDSEw4aDh5dW4xR2liZ0wtX0pQUTQ5bHdTekhpd01PMzFKemV5cEhZS1NuTFVkWktnWC1KUm9zWWc4cHMwUUtsZk5rdG5IbHlvd2xwVzBMajcwb1BpckIxRTN4ZlpNaXctcGprSzZrVWQ0dDV6LXh5dkpEUTd4QzI3UXdmb0RoZkkwdnEzckx4V3dkcHFhVmxtZ28yazd6V2tNSmJTQ0dNMVFpV0xVeXJjQ2hrU2c?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-06T11:28:47.000Z",
-      "positivityScore": 93,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "IA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "56a6d26a1997d412",
-      "title": "Proponen un marco ético para el uso de la IA en medicina - Infosalus",
-      "summary": "Proponen un marco ético para el uso de la IA en medicina  Infosalus",
-      "contentSnippet": "Proponen un marco ético para el uso de la IA en medicina  Infosalus",
-      "category": "ia",
-      "sourceName": "IA Positiva & Ciencia",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb0JfdzZYYzI1ZVFuV2JfNUJrY0ZyRW5fOGMzVjN3RVRWdnJYcjRzaDlxaWRYZ0RlY1NrcXlNaDl1RzJhMkM3ajF2YXo3VEZpQmNnLTRSSEFrcVBtdFh2WGQ4Z1RoZFY3UnVnb3NfR2FFRk1lUFViVlh4WjlCZWVfYWh0SXdMR3NpTjItQldLWldPTFViX20zQWVMUDBBczcyLV9n?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-06T11:11:52.000Z",
-      "positivityScore": 97,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "IA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "6fb65f75d39abee2",
-      "title": "Virginia Becomes Latest State to Enact ‘Clean Slate’ Law, to Help Residents Move on from Minor Offenses",
-      "summary": "Virginia’s new Clean Slate law came into effect last Thursday, meaning that thousands of misdemeanor offenses will be automatically sealed to help residents move forward with employment or loan opportunities. The law automatically seals criminal records for Virginians who were convicted in various cases including certain misdemeanors like petit larceny and trespassing, or underage alcohol […]",
-      "contentSnippet": "Virginia’s new Clean Slate law came into effect last Thursday, meaning that thousands of misdemeanor offenses will be automatically sealed to help residents mov",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/virginia-becomes-latest-state-to-enact-clean-slate-law-to-help-residents-move-on-from-minor-offenses/",
-      "imageUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-06T11:00:30.000Z",
-      "positivityScore": 86,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "MUNDO"
-      ],
-      "featured": false
-    },
-    {
-      "id": "e1648b4dadc009af",
-      "title": "The women putting community at the heart of elephant conservation",
-      "summary": "Across Africa, women are challenging old assumptions about who conservation is for – and who gets to lead it",
-      "contentSnippet": "Across Africa, women are challenging old assumptions about who conservation is for – and who gets to lead it",
-      "category": "mundo",
-      "sourceName": "Positive News UK",
-      "sourceUrl": "https://www.positive.news/environment/the-women-putting-community-at-the-heart-of-elephant-conservation/",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-06T07:00:43.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUNDO"
-      ],
-      "featured": false
-    },
-    {
-      "id": "c0ba8730",
-      "title": "Artículo: Chile Se Suma A Nueva Agenda Científica Internacional: Ministra Lincolao Adhiere A La Visión De Kioto Para Una Edad Dorada De La Ciencia - Ministerio de Ciencia, Tecnología, Conocimiento e Innovación",
-      "summary": "Artículo: Chile Se Suma A Nueva Agenda Científica Internacional: Ministra Lincolao Adhiere A La Visión De Kioto Para Una Edad Dorada De La Ciencia  Ministerio de Ciencia, Tecnología, Conocimiento e Innovación",
-      "contentSnippet": "Artículo: Chile Se Suma A Nueva Agenda Científica Internacional: Ministra Lincolao Adhiere A La Visión De Kioto Para Una Edad Dorada De La Ciencia  Ministerio d",
-      "category": "ia",
-      "sourceName": "IA Positiva",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNc2FFSVgxazhiR05RNFlieVFaR3hrT2NfV2ItVG9fZFNzMzQtVDU3a080emdCeGJXOHJNZG9RQ2dLZmZKY0dlTzZVNktUV2dwTFljWmF1a3M5dG90VmE2cHBHZE9ELTliRFdTVDRwaVhUTkQyTTk0NHJwUHVFcTQ2azZhTldnMWRhV2R0bDFWRFZJdnVfa0RjdlZMZjhQSWZpNFpnX0tqNFZGSXhGM09vbHFLdloyQ00yR0RfRTB4Q1V5b2JvRFBkTU1WZ0lPa3cxOXlNNUwzMnFSX0VWTUdUUVFCUGhTMTdSNGdTR0k4TzV5UWJlRmdxajA1Z1l6Y3RlclJrVDdR?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1507146426996-ef05306b995a?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-05T22:47:46.000Z",
-      "positivityScore": 90,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "IA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "9ae8ea0511dc9b37",
-      "title": "VI Encuentro de Áreas Protegidas reunirá a actores nacionales e internacionales para abordar los desafíos de la conservación en Chile - Universidad Austral de Chile",
-      "summary": "VI Encuentro de Áreas Protegidas reunirá a actores nacionales e internacionales para abordar los desafíos de la conservación en Chile  Universidad Austral de Chile",
-      "contentSnippet": "VI Encuentro de Áreas Protegidas reunirá a actores nacionales e internacionales para abordar los desafíos de la conservación en Chile  Universidad Austral de Ch",
-      "category": "chile",
-      "sourceName": "Chile Innovación y Cultura",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPV3VkZ0hTamd1R0t3Wk9PU21ZWHlRalBuVFlKZFg3eWY3WnVjTUhlY0F4NGd1Wm5taGZVdDNTa29iQUMtRGNwWVN3dnQ4cjUzOEg5YWtWOS0xZEZqUzU4LVU0RllFTTVhbDE4S09LdHcySGRuN2M0ZzdmSUE5d0xaQXZJYTZ3aVdSOWZUdk55d21jUUJrWlROWHdtRmhTYnM4YkVBWTdCMkFvOVBpc2UtWjhWc2lSN2l6U29DMllXTFlNRzNJblU2OXJmNFNIb1lhQUwwWW9BV2M0dDFFTzg1eFVGN3o5Njd3QW9HRGdR?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-05T22:45:36.000Z",
-      "positivityScore": 90,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "CHILE"
-      ],
-      "featured": false
-    },
-    {
-      "id": "b1975eeadf0706e5",
-      "title": "Brian May asegura que Queen no hará más giras - Rockaxis",
-      "summary": "Brian May asegura que Queen no hará más giras  Rockaxis",
-      "contentSnippet": "Brian May asegura que Queen no hará más giras  Rockaxis",
-      "category": "musica",
-      "sourceName": "Queen",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQm56akpYNVFrS1pkTFQxQmV3Qzh4X2psb2FEbl8xVWp5R3ZMTkRFNlBZcFM3akhQNjI4UV9aOVZCX2ozRVhqdzNPWnRobnN2SXFOalBoZ1EwYm5wbmVFZmJsSVhVZ0k4cnh6a2h4SVU1aWFURnZqaFRPUm9ua3lqZ1VfOUkxN2U2MWk3T2NxcWo?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-05T20:14:37.000Z",
-      "positivityScore": 91,
       "readingTimeMinutes": 1,
       "tags": [
         "MUSICA"
