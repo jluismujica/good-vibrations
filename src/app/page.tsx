@@ -8,6 +8,10 @@ import { Category, NewsItem, NewsDatabase } from '@/lib/types';
 const data = rawData as unknown as NewsDatabase;
 const allNews: NewsItem[] = data.news;
 
+const FALLBACK_IMAGE =
+  "data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 800' width='1200' height='800'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' stop-color='%23ffb36b'/%3E%3Cstop offset='50%25' stop-color='%23ff7a45'/%3E%3Cstop offset='100%25' stop-color='%23e8558a'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='100%25' height='100%25' fill='url(%23g)'/%3E%3Ccircle cx='600' cy='400' r='90' fill='white' fill-opacity='0.25'/%3E%3Cpath d='M560 400 L640 400 M600 360 L600 440' stroke='white' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E";
+
+
 export default function HomePage() {
   const [selectedCategory, setSelectedCategory] = useState<Category>('todas');
   const [searchQuery, setSearchQuery] = useState('');
@@ -197,6 +201,10 @@ export default function HomePage() {
                 alt={heroItem.title}
                 className="hero-img"
                 loading="eager"
+                onError={(e) => {
+                  e.currentTarget.onerror = null;
+                  e.currentTarget.src = FALLBACK_IMAGE;
+                }}
               />
             </div>
             <div className="hero-gradient" />
@@ -305,6 +313,10 @@ export default function HomePage() {
                         src={item.imageUrl}
                         alt={item.title}
                         loading="lazy"
+                        onError={(e) => {
+                          e.currentTarget.onerror = null;
+                          e.currentTarget.src = FALLBACK_IMAGE;
+                        }}
                       />
                     </div>
                     <div className="card__body">
@@ -389,6 +401,10 @@ export default function HomePage() {
               <img
                 src={selectedArticle.imageUrl}
                 alt={selectedArticle.title}
+                onError={(e) => {
+                  e.currentTarget.onerror = null;
+                  e.currentTarget.src = FALLBACK_IMAGE;
+                }}
               />
             </div>
 
