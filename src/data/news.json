@@ -1,13 +1,64 @@
 {
-  "lastUpdated": "2026-10-09T17:23:29.168Z",
+  "lastUpdated": "2026-10-10T02:12:05.417Z",
   "totalCount": 70,
   "categories": {
-    "musica": 27,
-    "ia": 18,
-    "chile": 20,
-    "mundo": 5
+    "musica": 25,
+    "ia": 19,
+    "chile": 22,
+    "mundo": 4
   },
   "news": [
+    {
+      "id": "1448bf3b",
+      "title": "EPAUSTRAL y Austro Chile coordinan acciones para la temporada de turismo de cruceros 2026-2027. - Pepe Noticias",
+      "summary": "EPAUSTRAL y Austro Chile coordinan acciones para la temporada de turismo de cruceros 2026-2027.  Pepe Noticias",
+      "contentSnippet": "EPAUSTRAL y Austro Chile coordinan acciones para la temporada de turismo de cruceros 2026-2027.  Pepe Noticias",
+      "category": "chile",
+      "sourceName": "Chile Innovación",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN3RXdkEzVlZaNHY3WDhLNWhVNlItdHFTUDhUOEw3a1oxdGJBeTdZTlhHMkVqVy10UGFZZWVVUlJJeFRDWElRVmFxYmQ1SXZyTEZJcDM3SHRXbW15V3B3R3VhenRXVmN5dUFLNVdoSUsyVkVuYUswVTBvU25JelpjTVA0bzl1Q3hDclplNUFmak9wcU1wNkUzZ2FYR2VhVFJMdnpib2tLZ2taWXRNcHppdXhoMTBvSF90UXVB?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-09T22:55:07.000Z",
+      "positivityScore": 90,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "CHILE"
+      ],
+      "featured": true
+    },
+    {
+      "id": "e2d6e3a4",
+      "title": "Foo Fighters regresa a Chile el 28 de febrero en el Parque Estadio Nacional - Súbela",
+      "summary": "Foo Fighters regresa a Chile el 28 de febrero en el Parque Estadio Nacional  Súbela",
+      "contentSnippet": "Foo Fighters regresa a Chile el 28 de febrero en el Parque Estadio Nacional  Súbela",
+      "category": "chile",
+      "sourceName": "Chile Innovación",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUzlZRlptMjRnVVRZaUdsSkxYVDFyV013WUFYX0ZZTmtDeF8tQkZKR0RUSDNvb202RmtKTHRzQzhiQUs4aV9aWXh6d1g2MVM2cmlKZVRURWZXVHEwQXpfaXNTYVBZc0JGOHBKU0xzekRzd21pcVlqaVZzU1ltclg2NUQ2WUNBbExqczl4UTZvd0VXVllPMnRKcUFTOTJRSjl6cjdYblpaSQ?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-09T21:22:10.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "CHILE"
+      ],
+      "featured": false
+    },
+    {
+      "id": "0db8a916",
+      "title": "Revelan aterradora razón para no pedir consejos de salud a la IA - Independent en Español",
+      "summary": "Revelan aterradora razón para no pedir consejos de salud a la IA  Independent en Español",
+      "contentSnippet": "Revelan aterradora razón para no pedir consejos de salud a la IA  Independent en Español",
+      "category": "ia",
+      "sourceName": "IA Positiva",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMW1lRndPZ3J6TVRJbUdvVHNaVjJkVHpXZWluclpZLS02RkFaUHpXQVdaOEkyTFhpNEV3cGpjeC1JM3prWXNUZ2pCa1EtdnBoQjhjUVpBN2pFaHVybjBtVllOamJSdXdiLUMwRDhuTklIbWkyV2Vod0oyRUp2Si1BY1F3UnUzTmJTeUdSSHFOWHRnRnRWN2FqTlBnUG9tTmo2X3BKZVRJcDhPcUR3Uk5jMXhReXpMc1FC?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-09T21:11:00.000Z",
+      "positivityScore": 97,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "IA"
+      ],
+      "featured": false
+    },
     {
       "id": "27c182a3",
       "title": "'Queen Budapest': cinco datos sobre la película que recupera uno de los últimos shows de Freddie Mercury - Billboard Argentina",
@@ -104,6 +155,23 @@
       "imageUrl": "https://images.unsplash.com/photo-1576086213369-97a306d36557?auto=format&fit=crop&w=1200&q=80",
       "publishedAt": "2026-10-09T13:26:29.000Z",
       "positivityScore": 97,
+      "readingTimeMinutes": 1,
+      "tags": [
+        "IA"
+      ],
+      "featured": false
+    },
+    {
+      "id": "2fd26792",
+      "title": "Ensayo clínico en EE.UU. indica que los chatbots con IA podrían ayudar en la atención de urgencias médicas - Ex-ante",
+      "summary": "Ensayo clínico en EE.UU. indica que los chatbots con IA podrían ayudar en la atención de urgencias médicas  Ex-ante",
+      "contentSnippet": "Ensayo clínico en EE.UU. indica que los chatbots con IA podrían ayudar en la atención de urgencias médicas  Ex-ante",
+      "category": "ia",
+      "sourceName": "IA Positiva",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCYUJ2dTJOdlJmMFM4WWdPZlUtcGtOVEh5cG5uaUwwOGtLZTh6T183ZGYwUDhucmNZcjl0SkhzTThjYnFZQm5hdmNJRUREelZrcVlpYlBIeTZ2NHNsLTVPWGZ5b3huWFVBWnpJTUVORWEwWDgtLWxXelFBQjB4Zw?oc=5",
+      "imageUrl": "https://images.unsplash.com/photo-1576086213369-97a306d36557?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-09T13:12:59.000Z",
+      "positivityScore": 93,
       "readingTimeMinutes": 1,
       "tags": [
         "IA"
@@ -1124,74 +1192,6 @@
       "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1200&q=80",
       "publishedAt": "2026-10-06T20:01:00.000Z",
       "positivityScore": 93,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "98f060d10382cf97",
-      "title": "Espectáculos de drones se preparan en Perú en honor a la banda surcoreana BTS - Infobae",
-      "summary": "Espectáculos de drones se preparan en Perú en honor a la banda surcoreana BTS  Infobae",
-      "contentSnippet": "Espectáculos de drones se preparan en Perú en honor a la banda surcoreana BTS  Infobae",
-      "category": "musica",
-      "sourceName": "Los Tres",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRjhqTUprVUcwblg1VlVSb2M2S2FjVUNoYUJyWExReU1hSWs1YUY4SVZ0TU9jblpxVDRRVC1XNC0tVEtwZk9sQk5WUW5XSVFSTHdEcVB6WWZoOXVfNncyX1dQOEZtcllLTGFXWk9EaVZrYkY1MUtXVWZsanhpQVBLZTV2VFVnMGdXYTBDWTk4VEx5VlZRY3NHbDdTbnJhMDZQZ1JwS05jMkI5ekg1WExQMzNMY1FrRVIxUzNscnZDRlNFRUJtak1mVE1B0gHkAUFVX3lxTE5lRWR0V2FrNWhHMThELWRFY2pnNmdTUnR2OVQwQ1A4OHI2MXN3TF9ocTFBZWx3WWhyakhBYWhtNjB5YUZPNUtGanlPSjhPTVVpa1NRWXdVLVc5a1JMODJLdUhwdUtmOExkNTRRQkJnWWkwSDJVdjd6VF8wNHJqLWZrV2N3a0NqdnZ5QWFGSFptUTR0VW9waE9lYUtoOUhBVUxnRUJlZExkbjFUY1FmWXRvVGZNNjJvVEtNRzE0STdjYl9jeVR4Vkk0UGVvRnhweEFRTlhwZjQ2bE5yREN5Q0JmQUFoNQ?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-06T19:50:57.000Z",
-      "positivityScore": 86,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "a1b078cacc6aa7ae",
-      "title": "Oldest Man in Oregon Credits Clean Diet and “Good Mind” for Reaching 108-years Young",
-      "summary": "A man who’s believed to be the oldest individual in the state of Oregon recently rung in 108-years-young with a cake and some words of wisdom. “You don’t know what it’s like to be 100-plus. I’ve found out and I like it!” the Birthday Boy said beneath 3 large blue balloons forming 108, with […]",
-      "contentSnippet": "A man who’s believed to be the oldest individual in the state of Oregon recently rung in 108-years-young with a cake and some words of wisdom. “You don’t know w",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/oldest-man-in-oregon-credits-clean-diet-and-good-mind-for-reaching-108-years-young/",
-      "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-06T18:30:43.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "MUNDO"
-      ],
-      "featured": false
-    },
-    {
-      "id": "01c0c67b277ae628",
-      "title": "Nolla Health: primer médico IA que receta en Utah - El Ecosistema Startup",
-      "summary": "Nolla Health: primer médico IA que receta en Utah  El Ecosistema Startup",
-      "contentSnippet": "Nolla Health: primer médico IA que receta en Utah  El Ecosistema Startup",
-      "category": "ia",
-      "sourceName": "IA Positiva & Ciencia",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU2FaR3BvYzBlRGV1VDN1VGNEd1JSYkpYMU4ta3FiS3BmT0l2eGNCajl6S1VkcFh4N0dHMnF3eWxqS3NiZ3FVX0ZGbGRGZGRiOEJOdFBLdHNCTkprdk81SkoxdmRfQUhEdTlPNl9mTl81ekF0Sk53dUNaVElnOU50dGcxbXR4Zw?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-06T17:22:01.000Z",
-      "positivityScore": 98,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "IA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "dab0d82e6d5e9224",
-      "title": "🔴🔵Brian May no ve posible otra gira de Queen: \"Quizá 50 años sean suficientes\" - Facebook",
-      "summary": "🔴🔵Brian May no ve posible otra gira de Queen: \"Quizá 50 años sean suficientes\"  Facebook",
-      "contentSnippet": "🔴🔵Brian May no ve posible otra gira de Queen: \"Quizá 50 años sean suficientes\"  Facebook",
-      "category": "musica",
-      "sourceName": "Queen",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdUxVSUpDRG9mcjdwR1JEMVktVmpRakVna3RBa3g2MnNJd19WOFhjZTRvRUpFemZ6Tmk2NGtsdWpBcjVvSWhWYThRYzFSeFVMX0NtMHo5LUVjWDF4TFNfWm5oTDAwRWdoQ3d3U3V0WVk0R2dkaDdTdjNkcDBJTFlHTE9LM3pMZ25Mb3RYUXNlcXRYbE9xdXI0MmR1NllVd29Wci11SlVoZ2Q3N20wRGJ0R3M2RjVzWW54S0wyNFBvcm9QcXo3UE5RYmxDcGtwMDdha25RZy1WMWtycDdJMUQ3a0Vn?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-06T17:00:59.000Z",
-      "positivityScore": 97,
       "readingTimeMinutes": 1,
       "tags": [
         "MUSICA"
