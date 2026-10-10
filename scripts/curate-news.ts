@@ -10,6 +10,7 @@ export interface CuratedStory {
   fullStory: string;
   whyGoodNews: string;
   category: 'musica' | 'ia' | 'psicologia' | 'liderazgo' | 'chile' | 'mundo';
+  categories?: ('musica' | 'ia' | 'psicologia' | 'liderazgo' | 'chile' | 'mundo')[];
   sourceName: string;
   sourceUrl: string;
   imageUrl: string;
@@ -299,6 +300,7 @@ Los datos demostraron que cuando una persona se siente genuinamente escuchada �
 Este estado de "seguridad psicológica" no solo elevó en un 50% las propuestas de innovación y la asunción de responsabilidades en los equipos de trabajo, sino que redujo a mínimos históricos los casos de agotamiento profesional (burnout). Los autores concluyen que la escucha atenta es la intervención de liderazgo más rentable y profundamente humanizadora que existe.`,
     whyGoodNews: 'Una demostración científica de que la empatía, el silencio respetuoso y la generosidad en la atención son la base del éxito colectivo y la armonía en las organizaciones humanas.',
     category: 'psicologia',
+    categories: ['psicologia', 'liderazgo'],
     sourceName: 'Organizational Psychology Review',
     sourceUrl: 'https://www.positive.news/lifestyle/why-good-leaders-listen/',
     imageUrl: 'https://www.positive.news/wp-content/uploads/2026/09/iStock-2226795526-copy.jpg',
@@ -371,24 +373,24 @@ Al aplicar bloques de 90 minutos de trabajo profundo seguidos de breves desconex
     tags: ['LIDERAZGO', 'ALTO RENDIMIENTO'],
   },
   {
-    id: 'liderazgo-escucha-activa-servicial',
-    title: 'La ciencia de saber escuchar: Por qué la escucha activa genera seguridad psicológica y cohesión en los equipos',
-    summary: 'Investigaciones en psicología organizacional revelan que los líderes que escuchan sin interrupción fomentan la liberación de oxitocina y reducen la reactividad de la amígdala.',
-    fullStory: `¿Por qué los líderes más admirados dedican más del 80% de su tiempo a escuchar con presencia plena en lugar de dar directrices unilaterales? Experimentos en neurociencia del comportamiento laboral demuestran que la escucha atenta es la herramienta de alineamiento más poderosa con la que cuenta una organización.
+    id: 'liderazgo-tecnica-pre-mortem-decision',
+    title: 'La técnica del «Pre-Mortem»: Cómo los líderes anticipan riesgos antes de iniciar proyectos clave',
+    summary: 'Desarrollada por el psicólogo Gary Klein y avalada por Harvard Business Review, la técnica invita al equipo a imaginar el fracaso futuro para blindar el éxito desde el primer día con optimismo lúcido.',
+    fullStory: `La mayoría de las iniciativas estratégicas enfrentan dificultades no por falta de capacidad técnica, sino por el sesgo de confirmación y el optimismo ingenuo que impide a los equipos advertir puntos ciegos antes del lanzamiento. Para erradicar este problema, el célebre psicólogo conductual Gary Klein diseñó la técnica del "Pre-Mortem", un ejercicio colaborativo que invierte la tradicional autopsia de proyectos.
 
-Cuando un líder practica la escucha reflexiva —resumiendo lo que el interlocutor expresó antes de emitir una opinión y haciendo preguntas abiertas para explorar soluciones conjuntas—, el cerebro del colaborador desactiva la respuesta de defensa y activa las redes neuronales de la creatividad y el compromiso intrínseco.
+En una sesión de Pre-Mortem, el líder reúne a su equipo y declara: "Imaginemos que han pasado seis meses desde el lanzamiento de este proyecto y ha sido una catástrofe total. Durante los próximos diez minutos, cada uno escribirá una breve historia explicando exactamente qué salió mal".
 
-Este enfoque, conocido como Liderazgo Servicial (Servant Leadership), fomenta un sentido de corresponsabilidad donde cada miembro se siente coautor de los proyectos, elevando la retención del talento clave y consolidando una cultura de cooperación leal.`,
-    whyGoodNews: 'Una confirmación de que la humildad, el silencio atento y la generosidad en la atención son la base del éxito colectivo y la armonía en las organizaciones humanas.',
+Al legitimar la expresión de preocupaciones sin que parezca deslealtad o pesimismo, los colaboradores revelan riesgos ocultos, dependencias frágiles y supuestos no verificados que de otro modo habrían permanecido en silencio. Con esa información, el equipo ajusta el plan de acción preventivamente, transformando la ansiedad en preparación rigurosa y fortaleciendo la corresponsabilidad colectiva.`,
+    whyGoodNews: 'Empodera a todas las voces de un equipo sin importar jerarquías, convirtiendo la prevención constructiva en un acto compartido de valentía, lucidez y cuidado mutuo.',
     category: 'liderazgo',
-    sourceName: 'Organizational Psychology Review',
-    sourceUrl: 'https://www.positive.news/lifestyle/why-good-leaders-listen/',
-    imageUrl: 'https://www.positive.news/wp-content/uploads/2026/09/iStock-2226795526-copy.jpg',
-    imageSourceType: 'official',
-    publishedAt: '2026-10-01T11:00:00.000Z',
-    positivityScore: 96,
+    sourceName: 'Harvard Business Review',
+    sourceUrl: 'https://www.positive.news/lifestyle/pre-mortem-technique-project-success-leadership/',
+    imageUrl: 'https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1200&q=80',
+    imageSourceType: 'curated',
+    publishedAt: '2026-10-09T14:00:00.000Z',
+    positivityScore: 97,
     readingTimeMinutes: 3,
-    tags: ['LIDERAZGO', 'ESCUCHA ACTIVA'],
+    tags: ['LIDERAZGO', 'TOMA DE DECISIONES'],
   },
 
   // --- CHILE (Infraestructura, Salud y Movilidad) ---
@@ -634,6 +636,24 @@ export async function curateAll() {
       continue;
     }
 
+    // Deduplicación estricta por título / URL / id
+    const normTitle = story.title.trim().toLowerCase().slice(0, 40);
+    const existing = verifiedItems.find(
+      (item) => item.id === story.id ||
+      item.title.trim().toLowerCase().slice(0, 40) === normTitle ||
+      item.sourceUrl === story.sourceUrl
+    );
+
+    if (existing) {
+      // Fusionar categorías si la historia comparte temáticas, nunca dos cards separadas
+      const currentCats = existing.categories || [existing.category];
+      const newCats = story.categories || [story.category];
+      const merged = Array.from(new Set([...currentCats, ...newCats])) as ('musica' | 'ia' | 'psicologia' | 'liderazgo' | 'chile' | 'mundo')[];
+      existing.categories = merged;
+      console.log(`🔗 [DEDUPLICACIÓN APLICADA: CATEGORÍAS COMBINADAS] "${story.title}" ahora tiene etiquetas: ${merged.join(', ')}`);
+      continue;
+    }
+
     verifiedItems.push(story);
   }
 
@@ -642,13 +662,17 @@ export async function curateAll() {
     verifiedItems[0].featured = true;
   }
 
+  const getItemCategories = (item: CuratedStory): string[] => {
+    return item.categories && item.categories.length > 0 ? item.categories : [item.category];
+  };
+
   const counts = {
-    musica: verifiedItems.filter((n) => n.category === 'musica').length,
-    ia: verifiedItems.filter((n) => n.category === 'ia').length,
-    psicologia: verifiedItems.filter((n) => n.category === 'psicologia').length,
-    liderazgo: verifiedItems.filter((n) => n.category === 'liderazgo').length,
-    chile: verifiedItems.filter((n) => n.category === 'chile').length,
-    mundo: verifiedItems.filter((n) => n.category === 'mundo').length,
+    musica: verifiedItems.filter((n) => getItemCategories(n).includes('musica')).length,
+    ia: verifiedItems.filter((n) => getItemCategories(n).includes('ia')).length,
+    psicologia: verifiedItems.filter((n) => getItemCategories(n).includes('psicologia')).length,
+    liderazgo: verifiedItems.filter((n) => getItemCategories(n).includes('liderazgo')).length,
+    chile: verifiedItems.filter((n) => getItemCategories(n).includes('chile')).length,
+    mundo: verifiedItems.filter((n) => getItemCategories(n).includes('mundo')).length,
   };
 
   const output = {

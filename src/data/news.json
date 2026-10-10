@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-10T19:47:46.823Z",
+  "lastUpdated": "2026-10-10T19:58:00.393Z",
   "totalCount": 28,
   "categories": {
     "musica": 5,
     "ia": 4,
     "psicologia": 5,
-    "liderazgo": 4,
+    "liderazgo": 5,
     "chile": 3,
     "mundo": 7
   },
@@ -219,6 +219,25 @@
       "tags": [
         "SALUD MENTAL",
         "PSICOLOGÍA COGNITIVA"
+      ]
+    },
+    {
+      "id": "liderazgo-tecnica-pre-mortem-decision",
+      "title": "La técnica del «Pre-Mortem»: Cómo los líderes anticipan riesgos antes de iniciar proyectos clave",
+      "summary": "Desarrollada por el psicólogo Gary Klein y avalada por Harvard Business Review, la técnica invita al equipo a imaginar el fracaso futuro para blindar el éxito desde el primer día con optimismo lúcido.",
+      "fullStory": "La mayoría de las iniciativas estratégicas enfrentan dificultades no por falta de capacidad técnica, sino por el sesgo de confirmación y el optimismo ingenuo que impide a los equipos advertir puntos ciegos antes del lanzamiento. Para erradicar este problema, el célebre psicólogo conductual Gary Klein diseñó la técnica del \"Pre-Mortem\", un ejercicio colaborativo que invierte la tradicional autopsia de proyectos.\n\nEn una sesión de Pre-Mortem, el líder reúne a su equipo y declara: \"Imaginemos que han pasado seis meses desde el lanzamiento de este proyecto y ha sido una catástrofe total. Durante los próximos diez minutos, cada uno escribirá una breve historia explicando exactamente qué salió mal\".\n\nAl legitimar la expresión de preocupaciones sin que parezca deslealtad o pesimismo, los colaboradores revelan riesgos ocultos, dependencias frágiles y supuestos no verificados que de otro modo habrían permanecido en silencio. Con esa información, el equipo ajusta el plan de acción preventivamente, transformando la ansiedad en preparación rigurosa y fortaleciendo la corresponsabilidad colectiva.",
+      "whyGoodNews": "Empodera a todas las voces de un equipo sin importar jerarquías, convirtiendo la prevención constructiva en un acto compartido de valentía, lucidez y cuidado mutuo.",
+      "category": "liderazgo",
+      "sourceName": "Harvard Business Review",
+      "sourceUrl": "https://www.positive.news/lifestyle/pre-mortem-technique-project-success-leadership/",
+      "imageUrl": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1200&q=80",
+      "imageSourceType": "curated",
+      "publishedAt": "2026-10-09T14:00:00.000Z",
+      "positivityScore": 97,
+      "readingTimeMinutes": 3,
+      "tags": [
+        "LIDERAZGO",
+        "TOMA DE DECISIONES"
       ]
     },
     {
@@ -494,6 +513,10 @@
       "fullStory": "¿Por qué los mejores líderes dedican más del 80% de su tiempo a escuchar en lugar de dar instrucciones? Una exhaustiva serie de experimentos conducida por facultades de psicología organizacional y liderazgo conductual examinó la respuesta neuroquímica de colaboradores sometidos a distintos estilos de supervisión.\n\nLos datos demostraron que cuando una persona se siente genuinamente escuchada —con contacto visual cálido, pausas reflexivas y ausencia de interrupciones defensivas— su cerebro registra una disminución inmediata en la reactividad de la amígdala cerebral (centro del miedo y la alerta) y un incremento en la síntesis de oxitocina, el neuropéptido de la confianza y el apego seguro.\n\nEste estado de \"seguridad psicológica\" no solo elevó en un 50% las propuestas de innovación y la asunción de responsabilidades en los equipos de trabajo, sino que redujo a mínimos históricos los casos de agotamiento profesional (burnout). Los autores concluyen que la escucha atenta es la intervención de liderazgo más rentable y profundamente humanizadora que existe.",
       "whyGoodNews": "Una demostración científica de que la empatía, el silencio respetuoso y la generosidad en la atención son la base del éxito colectivo y la armonía en las organizaciones humanas.",
       "category": "psicologia",
+      "categories": [
+        "psicologia",
+        "liderazgo"
+      ],
       "sourceName": "Organizational Psychology Review",
       "sourceUrl": "https://www.positive.news/lifestyle/why-good-leaders-listen/",
       "imageUrl": "https://www.positive.news/wp-content/uploads/2026/09/iStock-2226795526-copy.jpg",
@@ -504,25 +527,6 @@
       "tags": [
         "PSICOLOGÍA ORGANIZACIONAL",
         "LIDERAZGO"
-      ]
-    },
-    {
-      "id": "liderazgo-escucha-activa-servicial",
-      "title": "La ciencia de saber escuchar: Por qué la escucha activa genera seguridad psicológica y cohesión en los equipos",
-      "summary": "Investigaciones en psicología organizacional revelan que los líderes que escuchan sin interrupción fomentan la liberación de oxitocina y reducen la reactividad de la amígdala.",
-      "fullStory": "¿Por qué los líderes más admirados dedican más del 80% de su tiempo a escuchar con presencia plena en lugar de dar directrices unilaterales? Experimentos en neurociencia del comportamiento laboral demuestran que la escucha atenta es la herramienta de alineamiento más poderosa con la que cuenta una organización.\n\nCuando un líder practica la escucha reflexiva —resumiendo lo que el interlocutor expresó antes de emitir una opinión y haciendo preguntas abiertas para explorar soluciones conjuntas—, el cerebro del colaborador desactiva la respuesta de defensa y activa las redes neuronales de la creatividad y el compromiso intrínseco.\n\nEste enfoque, conocido como Liderazgo Servicial (Servant Leadership), fomenta un sentido de corresponsabilidad donde cada miembro se siente coautor de los proyectos, elevando la retención del talento clave y consolidando una cultura de cooperación leal.",
-      "whyGoodNews": "Una confirmación de que la humildad, el silencio atento y la generosidad en la atención son la base del éxito colectivo y la armonía en las organizaciones humanas.",
-      "category": "liderazgo",
-      "sourceName": "Organizational Psychology Review",
-      "sourceUrl": "https://www.positive.news/lifestyle/why-good-leaders-listen/",
-      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/09/iStock-2226795526-copy.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-01T11:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 3,
-      "tags": [
-        "LIDERAZGO",
-        "ESCUCHA ACTIVA"
       ]
     },
     {

@@ -8,6 +8,7 @@ export interface NewsItem {
   whyGoodNews: string; // Sección destacada: Por qué es una buena noticia
   contentSnippet?: string;
   category: 'musica' | 'ia' | 'psicologia' | 'liderazgo' | 'chile' | 'mundo';
+  categories?: ('musica' | 'ia' | 'psicologia' | 'liderazgo' | 'chile' | 'mundo')[];
   sourceName: string;
   sourceUrl: string;
   imageUrl: string; // 100% obligatoria: foto oficial verificada

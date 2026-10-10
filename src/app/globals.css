@@ -263,6 +263,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  gap: var(--s-4);
   padding: clamp(24px, 3.2vw, 36px);
   background: var(--bg-card);
   border: 1px solid var(--hairline);
@@ -282,21 +283,27 @@ body {
   position: absolute;
   top: -40px;
   right: -40px;
-  width: 220px;
-  height: 220px;
+  width: 240px;
+  height: 240px;
   border-radius: 50%;
-  background: radial-gradient(circle, rgba(255, 179, 107, 0.16) 0%, rgba(175, 82, 222, 0.08) 50%, transparent 70%);
+  background: radial-gradient(circle, rgba(255, 179, 107, 0.18) 0%, rgba(175, 82, 222, 0.1) 50%, transparent 70%);
   pointer-events: none;
-  filter: blur(28px);
+  filter: blur(32px);
 }
 
 .hero-quote-header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-bottom: var(--s-3);
   position: relative;
   z-index: 2;
+}
+
+.hero-quote-header-left {
+  display: flex;
+  align-items: center;
+  gap: var(--s-2);
+  flex-wrap: wrap;
 }
 
 .hero-quote-badge {
@@ -314,11 +321,24 @@ body {
   border: 1px solid rgba(245, 166, 35, 0.25);
 }
 
+.hero-quote-counter {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text-tertiary);
+  padding: 4px 8px;
+  border-radius: var(--r-pill);
+  background: var(--bg-subtle);
+  border: 1px solid var(--hairline);
+}
+
 .hero-quote-body {
   position: relative;
   z-index: 2;
-  margin-block: auto;
-  padding-block: var(--s-2);
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-3);
+  flex-grow: 1;
+  justify-content: center;
 }
 
 .hero-quote-mark {
@@ -327,17 +347,16 @@ body {
   line-height: 1;
   color: #ffb36b;
   opacity: 0.6;
-  margin-bottom: -8px;
+  margin-bottom: -10px;
 }
 
 .hero-quote-text {
   font-family: var(--font-display);
-  font-size: clamp(18px, 1.55vw, 22px);
+  font-size: clamp(18px, 1.5vw, 22px);
   font-weight: 500;
   line-height: 1.42;
   letter-spacing: -0.015em;
   color: var(--text);
-  margin-bottom: var(--s-4);
   text-wrap: pretty;
 }
 
@@ -345,22 +364,26 @@ body {
   display: flex;
   align-items: center;
   gap: var(--s-3);
+  padding-block: var(--s-1);
 }
 
-.hero-quote-avatar {
-  width: 42px;
-  height: 42px;
+.hero-quote-avatar-frame {
+  width: 52px;
+  height: 52px;
   border-radius: 50%;
-  background: linear-gradient(135deg, rgba(255, 179, 107, 0.25), rgba(175, 82, 222, 0.25));
-  border: 1px solid var(--hairline);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: var(--font-display);
-  font-weight: 700;
-  font-size: 15px;
-  color: #ffb36b;
+  overflow: hidden;
+  border: 2px solid rgba(255, 179, 107, 0.45);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.18);
+  background: var(--bg-subtle);
   flex-shrink: 0;
+}
+
+.hero-quote-avatar-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+  display: block;
 }
 
 .hero-quote-author-details {
@@ -379,16 +402,43 @@ body {
 .hero-quote-context {
   font-size: 12px;
   color: var(--text-tertiary);
-  line-height: 1.3;
+  line-height: 1.35;
+}
+
+.hero-quote-key-box {
+  background: var(--bg-subtle);
+  border: 1px solid var(--hairline);
+  border-radius: var(--r-md);
+  padding: 12px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.hero-quote-key-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #ffb36b;
+}
+
+.hero-quote-focus-tag {
+  font-size: 10px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  background: rgba(255, 255, 255, 0.08);
+  padding: 2px 8px;
+  border-radius: var(--r-pill);
 }
 
 .hero-quote-reflection {
   font-size: 13px;
-  line-height: 1.5;
+  line-height: 1.48;
   color: var(--text-secondary);
-  border-top: 1px solid var(--hairline);
-  padding-top: var(--s-3);
-  margin-top: var(--s-3);
 }
 
 .hero-quote-footer {
@@ -399,30 +449,38 @@ body {
   justify-content: space-between;
   border-top: 1px solid var(--hairline);
   padding-top: var(--s-3);
-  margin-top: var(--s-3);
   font-size: 12px;
   color: var(--text-tertiary);
+  flex-wrap: wrap;
+  gap: var(--s-2);
 }
 
 .hero-quote-cycle-btn {
   background: var(--bg-subtle);
   border: 1px solid var(--hairline);
-  color: var(--text-secondary);
+  color: var(--text);
   cursor: pointer;
   display: inline-flex;
   align-items: center;
   gap: 6px;
   font-size: 12px;
-  font-weight: 500;
-  padding: 5px 10px;
+  font-weight: 600;
+  padding: 6px 12px;
   border-radius: var(--r-pill);
   transition: all var(--dur-fast) ease;
 }
 
 .hero-quote-cycle-btn:hover {
-  color: var(--text);
-  background: var(--bg-card);
-  border-color: rgba(255, 179, 107, 0.4);
+  color: #ffffff;
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+.card__eyebrows {
+  display: flex;
+  align-items: center;
+  gap: var(--s-2);
+  flex-wrap: wrap;
 }
 
 .hero-media {

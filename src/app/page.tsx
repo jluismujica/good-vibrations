@@ -15,8 +15,9 @@ interface DailyQuote {
   quote: string;
   author: string;
   context: string;
-  initials: string;
-  field: 'Filosofía' | 'Psicología';
+  photoUrl: string;
+  field: string;
+  focus: string;
   reflection: string;
 }
 
@@ -25,49 +26,91 @@ const DAILY_QUOTES: DailyQuote[] = [
     quote: 'Cuando ya no somos capaces de cambiar una situación, nos encontramos ante el desafío de cambiarnos a nosotros mismos.',
     author: 'Viktor Frankl',
     context: 'Neurólogo, psiquiatra y autor de El hombre en busca de sentido',
-    initials: 'VF',
-    field: 'Psicología',
-    reflection: 'Incluso ante la dificultad más compleja, conservamos la última de las libertades humanas: elegir la actitud con la que respondemos.',
+    photoUrl: '/authors/viktor-frankl.jpg',
+    field: 'Psicología & Sentido',
+    focus: 'Resiliencia Interior',
+    reflection: 'Incluso ante la dificultad más compleja, conservamos la última de las libertades humanas: elegir la actitud con la que respondemos y dar sentido a nuestra existencia.',
+  },
+  {
+    quote: 'Tienes poder sobre tu mente, no sobre los acontecimientos externos. Comprende esto y hallarás una fuerza invencible.',
+    author: 'Marco Aurelio',
+    context: 'Filósofo estoico y autor de Meditaciones',
+    photoUrl: '/authors/marco-aurelio.jpg',
+    field: 'Filosofía Estoica',
+    focus: 'Dominio Mental',
+    reflection: 'La serenidad no proviene de pretender controlar el entorno, sino de gobernar con templanza y sabiduría nuestros propios juicios internos.',
   },
   {
     quote: 'No nos afecta lo que nos sucede, sino lo que nos decimos sobre lo que nos sucede. En tu interpretación reside tu libertad.',
     author: 'Epicteto',
     context: 'Filósofo estoico de la escuela clásica',
-    initials: 'EP',
-    field: 'Filosofía',
-    reflection: 'La mente lúcida no busca controlar las olas, sino ajustar las velas. La serenidad es una conquista diaria de perspectiva.',
+    photoUrl: '/authors/epicteto.jpg',
+    field: 'Filosofía Estoica',
+    focus: 'Claridad Cognitiva',
+    reflection: 'La mente lúcida no busca detener las olas, sino aprender a navegar con destreza. La paz interior es una conquista diaria de perspectiva.',
   },
   {
     quote: 'El mayor descubrimiento de mi generación es que los seres humanos pueden transformar su vida transformando sus actitudes mentales.',
     author: 'William James',
     context: 'Pionero de la psicología moderna y catedrático en Harvard',
-    initials: 'WJ',
-    field: 'Psicología',
-    reflection: 'La atención consciente hacia aquello que edifica y funciona determina directamente la vitalidad de nuestras acciones cotidianas.',
+    photoUrl: '/authors/william-james.jpg',
+    field: 'Psicología Funcional',
+    focus: 'Atención Constructiva',
+    reflection: 'La atención deliberada hacia lo que edifica y funciona determina directamente la vitalidad de nuestras acciones cotidianas y el bienestar personal.',
   },
   {
-    quote: 'La curiosa paradoja es que cuando me acepto tal como soy, entonces puedo cambiar y evolucionar.',
+    quote: 'La curiosa paradoja es que cuando me acepto tal como soy, entonces puedo cambiar y florecer plenamente.',
     author: 'Carl Rogers',
-    context: 'Fundador de la psicología humanista',
-    initials: 'CR',
-    field: 'Psicología',
-    reflection: 'La transformación genuina no brota de la autocrítica destructiva, sino del reconocimiento sereno y compasivo de nuestras circunstancias.',
+    context: 'Fundador del enfoque centrado en la persona',
+    photoUrl: '/authors/carl-rogers.jpg',
+    field: 'Psicología Humanista',
+    focus: 'Autoaceptación',
+    reflection: 'La evolución personal auténtica no brota de la autocrítica destructiva, sino del reconocimiento sereno y compasivo de nuestro momento presente.',
   },
   {
     quote: 'A menudo sufrimos más en la imaginación que en la realidad. La calma empieza donde se apaga la anticipación catastrófica.',
     author: 'Séneca',
     context: 'Filósofo y ensayista clásico',
-    initials: 'SE',
-    field: 'Filosofía',
-    reflection: 'Separar los hechos objetivos de los laberintos que construye el temor devuelve de inmediato la lucidez y el equilibrio interior.',
+    photoUrl: '/authors/seneca.jpg',
+    field: 'Filosofía Clásica',
+    focus: 'Sosiego & Templanza',
+    reflection: 'Separar los hechos objetivos de las historias temerosas que elabora la mente devuelve de inmediato la calma y el descanso interior.',
   },
   {
-    quote: 'El fracaso no es una identidad, es tan solo información de laboratorio para afinar la estrategia y crecer con propósito.',
-    author: 'Dra. Carol Dweck',
-    context: 'Investigadora de psicología del aprendizaje en Stanford',
-    initials: 'CD',
-    field: 'Psicología',
-    reflection: 'La mentalidad de crecimiento concibe cada desafío no como un veredicto definitivo, sino como un músculo que se entrena.',
+    quote: 'No soy lo que me sucedió en el pasado; soy lo que decido ser hoy a través de cada acto consciente.',
+    author: 'Carl Gustav Jung',
+    context: 'Psiquiatra y fundador de la psicología analítica',
+    photoUrl: '/authors/carl-jung.jpg',
+    field: 'Psicología Profunda',
+    focus: 'Autodeterminación',
+    reflection: 'La historia previa nos otorga raíces y experiencia, pero nunca un destino inamovible. Cada jornada ofrece la posibilidad de renovarnos.',
+  },
+  {
+    quote: 'En cualquier momento tenemos dos opciones: dar un paso adelante hacia el crecimiento o retroceder hacia la seguridad cómoda.',
+    author: 'Abraham Maslow',
+    context: 'Pionero de la psicología de la autorrealización',
+    photoUrl: '/authors/abraham-maslow.jpg',
+    field: 'Psicología Humanista',
+    focus: 'Crecimiento Continuo',
+    reflection: 'La autorrealización no es un acontecimiento aislado, sino una pequeña elección valiente y constructiva reiterada a lo largo del día.',
+  },
+  {
+    quote: 'La alegría es el paso de un ser humano de una menor vitalidad a una mayor perfección y potencia de actuar.',
+    author: 'Baruch Spinoza',
+    context: 'Filósofo de la Ética y la razón afectiva',
+    photoUrl: '/authors/baruch-spinoza.jpg',
+    field: 'Filosofía Ética',
+    focus: 'Vitalidad Activa',
+    reflection: 'La verdadera alegría es lúcida y expansiva: fortalece nuestra capacidad de actuar generosamente y conectar con quienes nos rodean.',
+  },
+  {
+    quote: 'Somos lo que hacemos repetidamente. La excelencia, por tanto, no es un acto aislado, sino un hábito cotidiano.',
+    author: 'Aristóteles',
+    context: 'Filósofo clásico y autor de Ética a Nicómaco',
+    photoUrl: '/authors/aristoteles.jpg',
+    field: 'Filosofía Práctica',
+    focus: 'Hábito & Virtud',
+    reflection: 'El bienestar duradero se construye con la constancia de las pequeñas acciones bien orientadas y coherentes con nuestros valores más nobles.',
   },
 ];
 
@@ -114,11 +157,32 @@ export default function HomePage() {
   const [selectedArticle, setSelectedArticle] = useState<NewsItem | null>(null);
   const [quoteIndex, setQuoteIndex] = useState(0);
 
+  // Inicializar quote del día sin repetición basado en fecha y almacenamiento local
+  useEffect(() => {
+    const now = new Date();
+    const daySeed = Math.floor(now.getTime() / (1000 * 60 * 60 * 24));
+    const stored = localStorage.getItem('gv_quote_idx');
+    if (stored !== null) {
+      const parsed = parseInt(stored, 10);
+      if (!isNaN(parsed)) {
+        setQuoteIndex(parsed % DAILY_QUOTES.length);
+        return;
+      }
+    }
+    setQuoteIndex(daySeed % DAILY_QUOTES.length);
+  }, []);
+
   const currentQuote = DAILY_QUOTES[quoteIndex % DAILY_QUOTES.length];
 
   const handleNextQuote = (e: React.MouseEvent) => {
     e.stopPropagation();
-    setQuoteIndex((prev) => (prev + 1) % DAILY_QUOTES.length);
+    setQuoteIndex((prev) => {
+      const next = (prev + 1) % DAILY_QUOTES.length;
+      try {
+        localStorage.setItem('gv_quote_idx', next.toString());
+      } catch {}
+      return next;
+    });
   };
 
   // Inicializar tema y detectar preferencia
@@ -204,12 +268,13 @@ export default function HomePage() {
     } catch {}
   }, []);
 
-  // Filtrado de noticias (Garantizando regla 1: 100% con fotografía)
+  // Filtrado de noticias (1 card por noticia, soporte para categorías múltiples)
   const filteredNews = useMemo(() => {
     return allNews
       .filter((item) => !!item.imageUrl && item.imageUrl.trim() !== '')
       .filter((item) => {
-        const matchesCat = selectedCategory === 'todas' || item.category === selectedCategory;
+        const itemCats = item.categories && item.categories.length > 0 ? item.categories : [item.category];
+        const matchesCat = selectedCategory === 'todas' || itemCats.includes(selectedCategory);
         const q = searchQuery.toLowerCase().trim();
         const matchesSearch =
           !q ||
@@ -359,10 +424,15 @@ export default function HomePage() {
             <aside className="hero-quote-card">
               <div className="hero-quote-ambient" />
               <div className="hero-quote-header">
-                <span className="hero-quote-badge">
-                  <Sparkles size={12} />
-                  <span>{currentQuote.field} & Sabiduría</span>
-                </span>
+                <div className="hero-quote-header-left">
+                  <span className="hero-quote-badge">
+                    <Sparkles size={12} />
+                    <span>{currentQuote.field}</span>
+                  </span>
+                  <span className="hero-quote-counter">
+                    Reflexión {((quoteIndex % DAILY_QUOTES.length) + 1)} de {DAILY_QUOTES.length}
+                  </span>
+                </div>
                 <Quote size={20} className="hero-quote-icon" style={{ opacity: 0.35 }} />
               </div>
 
@@ -373,8 +443,13 @@ export default function HomePage() {
                 </blockquote>
 
                 <div className="hero-quote-author-wrap">
-                  <div className="hero-quote-avatar">
-                    {currentQuote.initials}
+                  <div className="hero-quote-avatar-frame">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img
+                      src={currentQuote.photoUrl}
+                      alt={currentQuote.author}
+                      className="hero-quote-avatar-img"
+                    />
                   </div>
                   <div className="hero-quote-author-details">
                     <span className="hero-quote-author">{currentQuote.author}</span>
@@ -382,13 +457,19 @@ export default function HomePage() {
                   </div>
                 </div>
 
-                <div className="hero-quote-reflection">
-                  💡 {currentQuote.reflection}
+                <div className="hero-quote-key-box">
+                  <div className="hero-quote-key-header">
+                    <span>💡 Clave práctica para hoy</span>
+                    <span className="hero-quote-focus-tag">{currentQuote.focus}</span>
+                  </div>
+                  <p className="hero-quote-reflection">
+                    {currentQuote.reflection}
+                  </p>
                 </div>
               </div>
 
               <div className="hero-quote-footer">
-                <span>Píldora diaria de perspectiva</span>
+                <span>Píldora diaria · Sin repetición</span>
                 <button
                   type="button"
                   onClick={handleNextQuote}
@@ -396,7 +477,7 @@ export default function HomePage() {
                   title="Ver otra reflexión inspiradora"
                 >
                   <RotateCw size={12} />
-                  <span>Siguiente reflexión</span>
+                  <span>Siguiente reflexión ({((quoteIndex + 1) % DAILY_QUOTES.length) + 1}/{DAILY_QUOTES.length})</span>
                 </button>
               </div>
             </aside>
@@ -508,9 +589,13 @@ export default function HomePage() {
                       />
                     </div>
                     <div className="card__body">
-                      <span className={`eyebrow eyebrow--${item.category}`}>
-                        {formatCategoryBadge(item.category)}
-                      </span>
+                      <div className="card__eyebrows">
+                        {(item.categories && item.categories.length > 0 ? item.categories : [item.category]).map((cat) => (
+                          <span key={cat} className={`eyebrow eyebrow--${cat}`}>
+                            {formatCategoryBadge(cat)}
+                          </span>
+                        ))}
+                      </div>
                       <h3 className="card__title">{item.title}</h3>
                       <p className="card__dek">{item.summary}</p>
                       <div className="card__meta">
@@ -598,9 +683,13 @@ export default function HomePage() {
             {/* Contenido del resumen en el sistema */}
             <div className="reader-content">
               <div className="reader-category-row">
-                <span className={`eyebrow eyebrow--${selectedArticle.category}`}>
-                  {formatCategoryFull(selectedArticle.category)}
-                </span>
+                <div className="card__eyebrows">
+                  {(selectedArticle.categories && selectedArticle.categories.length > 0 ? selectedArticle.categories : [selectedArticle.category]).map((cat) => (
+                    <span key={cat} className={`eyebrow eyebrow--${cat}`}>
+                      {formatCategoryFull(cat)}
+                    </span>
+                  ))}
+                </div>
                 <span style={{ fontSize: '13px', color: 'var(--text-tertiary)', display: 'inline-flex', alignItems: 'center', gap: '6px' }}>
                   <Clock size={13} />
                   {selectedArticle.readingTimeMinutes} min de lectura · {formatNewsDate(selectedArticle.publishedAt)}
