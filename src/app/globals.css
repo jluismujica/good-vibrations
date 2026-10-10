@@ -142,12 +142,17 @@ body {
   letter-spacing: -0.015em;
 }
 
-.logo-dot {
-  width: 9px;
-  height: 9px;
-  border-radius: 50%;
-  background: var(--gradient-sunrise);
+.logo-emoji {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
   display: inline-block;
+  vertical-align: middle;
+  transition: transform var(--dur-fast) var(--ease-out);
+}
+
+.logo:hover .logo-emoji {
+  transform: rotate(8deg) scale(1.1);
 }
 
 .header-center {

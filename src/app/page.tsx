@@ -145,7 +145,14 @@ export default function HomePage() {
       <header className="site-header">
         <div className="header-inner">
           <a href="#" className="logo" onClick={(e) => { e.preventDefault(); setSelectedCategory('todas'); }}>
-            <span className="logo-dot" />
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src="/logo-emoji.png"
+              alt="Good Vibrations Smiley"
+              className="logo-emoji"
+              width={24}
+              height={24}
+            />
             <span>Good Vibrations</span>
           </a>
 
