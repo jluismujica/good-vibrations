@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState, useMemo, useEffect } from 'react';
-import { Search, Sun, Moon, ArrowUpRight, X, Sparkles, BookOpen, Clock, ArrowLeft } from 'lucide-react';
+import { Search, Sun, Moon, ArrowUpRight, X, Sparkles, BookOpen, Clock, ArrowLeft, Quote, RotateCw } from 'lucide-react';
 import rawData from '@/data/news.json';
 import { Category, NewsItem, NewsDatabase } from '@/lib/types';
 
@@ -10,6 +10,90 @@ const allNews: NewsItem[] = data.news;
 
 const FALLBACK_IMAGE =
   "data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 800' width='1200' height='800'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' stop-color='%23ffb36b'/%3E%3Cstop offset='50%25' stop-color='%23ff7a45'/%3E%3Cstop offset='100%25' stop-color='%23e8558a'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='100%25' height='100%25' fill='url(%23g)'/%3E%3Ccircle cx='600' cy='400' r='90' fill='white' fill-opacity='0.25'/%3E%3Cpath d='M560 400 L640 400 M600 360 L600 440' stroke='white' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E";
+
+interface DailyQuote {
+  quote: string;
+  author: string;
+  context: string;
+  initials: string;
+  field: 'Filosofía' | 'Psicología';
+  reflection: string;
+}
+
+const DAILY_QUOTES: DailyQuote[] = [
+  {
+    quote: 'Cuando ya no somos capaces de cambiar una situación, nos encontramos ante el desafío de cambiarnos a nosotros mismos.',
+    author: 'Viktor Frankl',
+    context: 'Neurólogo, psiquiatra y autor de El hombre en busca de sentido',
+    initials: 'VF',
+    field: 'Psicología',
+    reflection: 'Incluso ante la dificultad más compleja, conservamos la última de las libertades humanas: elegir la actitud con la que respondemos.',
+  },
+  {
+    quote: 'No nos afecta lo que nos sucede, sino lo que nos decimos sobre lo que nos sucede. En tu interpretación reside tu libertad.',
+    author: 'Epicteto',
+    context: 'Filósofo estoico de la escuela clásica',
+    initials: 'EP',
+    field: 'Filosofía',
+    reflection: 'La mente lúcida no busca controlar las olas, sino ajustar las velas. La serenidad es una conquista diaria de perspectiva.',
+  },
+  {
+    quote: 'El mayor descubrimiento de mi generación es que los seres humanos pueden transformar su vida transformando sus actitudes mentales.',
+    author: 'William James',
+    context: 'Pionero de la psicología moderna y catedrático en Harvard',
+    initials: 'WJ',
+    field: 'Psicología',
+    reflection: 'La atención consciente hacia aquello que edifica y funciona determina directamente la vitalidad de nuestras acciones cotidianas.',
+  },
+  {
+    quote: 'La curiosa paradoja es que cuando me acepto tal como soy, entonces puedo cambiar y evolucionar.',
+    author: 'Carl Rogers',
+    context: 'Fundador de la psicología humanista',
+    initials: 'CR',
+    field: 'Psicología',
+    reflection: 'La transformación genuina no brota de la autocrítica destructiva, sino del reconocimiento sereno y compasivo de nuestras circunstancias.',
+  },
+  {
+    quote: 'A menudo sufrimos más en la imaginación que en la realidad. La calma empieza donde se apaga la anticipación catastrófica.',
+    author: 'Séneca',
+    context: 'Filósofo y ensayista clásico',
+    initials: 'SE',
+    field: 'Filosofía',
+    reflection: 'Separar los hechos objetivos de los laberintos que construye el temor devuelve de inmediato la lucidez y el equilibrio interior.',
+  },
+  {
+    quote: 'El fracaso no es una identidad, es tan solo información de laboratorio para afinar la estrategia y crecer con propósito.',
+    author: 'Dra. Carol Dweck',
+    context: 'Investigadora de psicología del aprendizaje en Stanford',
+    initials: 'CD',
+    field: 'Psicología',
+    reflection: 'La mentalidad de crecimiento concibe cada desafío no como un veredicto definitivo, sino como un músculo que se entrena.',
+  },
+];
+
+function formatCategoryBadge(category: string): string {
+  switch (category) {
+    case 'musica': return 'Música';
+    case 'ia': return 'Ciencia & IA';
+    case 'psicologia': return 'Psicología';
+    case 'liderazgo': return 'Liderazgo';
+    case 'chile': return 'Chile';
+    case 'mundo': return 'Planeta';
+    default: return category;
+  }
+}
+
+function formatCategoryFull(category: string): string {
+  switch (category) {
+    case 'musica': return 'Música';
+    case 'ia': return 'Ciencia & IA';
+    case 'psicologia': return 'Psicología & Salud Mental';
+    case 'liderazgo': return 'Liderazgo & Equipos';
+    case 'chile': return 'Chile';
+    case 'mundo': return 'Planeta';
+    default: return category;
+  }
+}
 
 function formatNewsDate(isoDate: string): string {
   try {
@@ -28,6 +112,14 @@ export default function HomePage() {
   const [searchQuery, setSearchQuery] = useState('');
   const [theme, setTheme] = useState<'light' | 'dark'>('light');
   const [selectedArticle, setSelectedArticle] = useState<NewsItem | null>(null);
+  const [quoteIndex, setQuoteIndex] = useState(0);
+
+  const currentQuote = DAILY_QUOTES[quoteIndex % DAILY_QUOTES.length];
+
+  const handleNextQuote = (e: React.MouseEvent) => {
+    e.stopPropagation();
+    setQuoteIndex((prev) => (prev + 1) % DAILY_QUOTES.length);
+  };
 
   // Inicializar tema y detectar preferencia
   useEffect(() => {
@@ -186,6 +278,13 @@ export default function HomePage() {
               Psicología
             </button>
             <button
+              onClick={() => setSelectedCategory('liderazgo')}
+              className="nav-link"
+              style={{ background: 'none', border: 'none', cursor: 'pointer', color: selectedCategory === 'liderazgo' ? 'var(--text)' : undefined, fontWeight: selectedCategory === 'liderazgo' ? 600 : 500 }}
+            >
+              Liderazgo
+            </button>
+            <button
               onClick={() => setSelectedCategory('chile')}
               className="nav-link"
               style={{ background: 'none', border: 'none', cursor: 'pointer', color: selectedCategory === 'chile' ? 'var(--text)' : undefined, fontWeight: selectedCategory === 'chile' ? 600 : 500 }}
@@ -210,50 +309,98 @@ export default function HomePage() {
         </div>
       </header>
 
-      {/* 4.2 Hero (Noticia del día) */}
+      {/* 4.2 Hero (Noticia del día & Reflexión Diaria) */}
       {heroItem && !searchQuery && selectedCategory === 'todas' && (
         <section className="hero-wrapper reveal">
           <div className="hero-saludo">{greeting}</div>
-          <article
-            className="hero-article"
-            onClick={() => setSelectedArticle(heroItem)}
-            style={{ cursor: 'pointer' }}
-          >
-            <div className="hero-media">
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img
-                src={heroItem.imageUrl}
-                alt={heroItem.title}
-                className="hero-img"
-                loading="eager"
-                onError={(e) => {
-                  e.currentTarget.onerror = null;
-                  e.currentTarget.src = FALLBACK_IMAGE;
-                }}
-              />
-            </div>
-            <div className="hero-gradient" />
-
-            <div className="hero-content">
-              <span className="hero-eyebrow">
-                {heroItem.category === 'psicologia' ? 'Psicología & Salud Mental' : heroItem.category} · Noticia del día
-              </span>
-              <h1 className="hero-title">{heroItem.title}</h1>
-              <p className="hero-dek">{heroItem.summary}</p>
-              <div className="hero-meta">
-                <span>{heroItem.sourceName}</span>
-                <span>·</span>
-                <span>{heroItem.readingTimeMinutes} min</span>
-                <span>·</span>
-                <span>{formatNewsDate(heroItem.publishedAt)}</span>
-                <span>·</span>
-                <span style={{ color: '#ffffff', display: 'inline-flex', alignItems: 'center', gap: '4px', fontWeight: 600 }}>
-                  <BookOpen size={14} />
-                  <span>Leer resumen completo</span>
-                </span>
+          <div className="hero-grid-layout">
+            <article
+              className="hero-article"
+              onClick={() => setSelectedArticle(heroItem)}
+              style={{ cursor: 'pointer' }}
+            >
+              <div className="hero-media">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src={heroItem.imageUrl}
+                  alt={heroItem.title}
+                  className="hero-img"
+                  loading="eager"
+                  onError={(e) => {
+                    e.currentTarget.onerror = null;
+                    e.currentTarget.src = FALLBACK_IMAGE;
+                  }}
+                />
               </div>
-            </div>
-          </article>
+              <div className="hero-gradient" />
+
+              <div className="hero-content">
+                <span className="hero-eyebrow">
+                  {formatCategoryFull(heroItem.category)} · Noticia del día
+                </span>
+                <h1 className="hero-title">{heroItem.title}</h1>
+                <p className="hero-dek">{heroItem.summary}</p>
+                <div className="hero-meta">
+                  <span>{heroItem.sourceName}</span>
+                  <span>·</span>
+                  <span>{heroItem.readingTimeMinutes} min</span>
+                  <span>·</span>
+                  <span>{formatNewsDate(heroItem.publishedAt)}</span>
+                  <span>·</span>
+                  <span style={{ color: '#ffffff', display: 'inline-flex', alignItems: 'center', gap: '4px', fontWeight: 600 }}>
+                    <BookOpen size={14} />
+                    <span>Leer resumen completo</span>
+                  </span>
+                </div>
+              </div>
+            </article>
+
+            {/* Card de Filosofía / Psicología Positiva */}
+            <aside className="hero-quote-card">
+              <div className="hero-quote-ambient" />
+              <div className="hero-quote-header">
+                <span className="hero-quote-badge">
+                  <Sparkles size={12} />
+                  <span>{currentQuote.field} & Sabiduría</span>
+                </span>
+                <Quote size={20} className="hero-quote-icon" style={{ opacity: 0.35 }} />
+              </div>
+
+              <div className="hero-quote-body">
+                <div className="hero-quote-mark">&ldquo;</div>
+                <blockquote className="hero-quote-text">
+                  {currentQuote.quote}
+                </blockquote>
+
+                <div className="hero-quote-author-wrap">
+                  <div className="hero-quote-avatar">
+                    {currentQuote.initials}
+                  </div>
+                  <div className="hero-quote-author-details">
+                    <span className="hero-quote-author">{currentQuote.author}</span>
+                    <span className="hero-quote-context">{currentQuote.context}</span>
+                  </div>
+                </div>
+
+                <div className="hero-quote-reflection">
+                  💡 {currentQuote.reflection}
+                </div>
+              </div>
+
+              <div className="hero-quote-footer">
+                <span>Píldora diaria de perspectiva</span>
+                <button
+                  type="button"
+                  onClick={handleNextQuote}
+                  className="hero-quote-cycle-btn"
+                  title="Ver otra reflexión inspiradora"
+                >
+                  <RotateCw size={12} />
+                  <span>Siguiente reflexión</span>
+                </button>
+              </div>
+            </aside>
+          </div>
         </section>
       )}
 
@@ -287,6 +434,13 @@ export default function HomePage() {
             aria-pressed={selectedCategory === 'psicologia'}
           >
             Psicología ({data.categories.psicologia})
+          </button>
+          <button
+            onClick={() => setSelectedCategory('liderazgo')}
+            className="pill"
+            aria-pressed={selectedCategory === 'liderazgo'}
+          >
+            Liderazgo ({data.categories.liderazgo})
           </button>
           <button
             onClick={() => setSelectedCategory('chile')}
@@ -355,7 +509,7 @@ export default function HomePage() {
                     </div>
                     <div className="card__body">
                       <span className={`eyebrow eyebrow--${item.category}`}>
-                        {item.category === 'psicologia' ? 'Psicología' : item.category}
+                        {formatCategoryBadge(item.category)}
                       </span>
                       <h3 className="card__title">{item.title}</h3>
                       <p className="card__dek">{item.summary}</p>
@@ -383,7 +537,7 @@ export default function HomePage() {
           <div className="fact-eyebrow">Un dato para hoy</div>
           <div className="fact-number">{data.totalCount}</div>
           <p className="fact-text">
-            Historias positivas y estudios científicos rigurosos registrados en nuestra base hoy, demostrando que los avances en psicología, ciencia, música y comunidad siguen adelante.
+            Historias positivas y estudios científicos rigurosos registrados en nuestra base hoy, demostrando que los avances en psicología, liderazgo, ciencia, música y comunidad siguen adelante.
           </p>
           <div className="fact-source">Good Vibrations · Actualizado dos veces al día</div>
         </div>
@@ -394,9 +548,6 @@ export default function HomePage() {
         <div className="footer-content">
           <div className="footer-copy">
             Good Vibrations · El antídoto diario al ruido mediático
-          </div>
-          <div className="footer-note">
-            Curado para Jorge Mujica · Desplegado en goodvib.app
           </div>
         </div>
       </footer>
@@ -448,7 +599,7 @@ export default function HomePage() {
             <div className="reader-content">
               <div className="reader-category-row">
                 <span className={`eyebrow eyebrow--${selectedArticle.category}`}>
-                  {selectedArticle.category === 'psicologia' ? 'Psicología & Salud Mental' : selectedArticle.category}
+                  {formatCategoryFull(selectedArticle.category)}
                 </span>
                 <span style={{ fontSize: '13px', color: 'var(--text-tertiary)', display: 'inline-flex', alignItems: 'center', gap: '6px' }}>
                   <Clock size={13} />

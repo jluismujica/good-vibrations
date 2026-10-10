@@ -1,4 +1,4 @@
-export type Category = 'todas' | 'musica' | 'ia' | 'psicologia' | 'chile' | 'mundo';
+export type Category = 'todas' | 'musica' | 'ia' | 'psicologia' | 'liderazgo' | 'chile' | 'mundo';
 
 export interface NewsItem {
   id: string;
@@ -7,7 +7,7 @@ export interface NewsItem {
   fullStory: string; // Noticia resumen completa (2 a 4 párrafos en español)
   whyGoodNews: string; // Sección destacada: Por qué es una buena noticia
   contentSnippet?: string;
-  category: 'musica' | 'ia' | 'psicologia' | 'chile' | 'mundo';
+  category: 'musica' | 'ia' | 'psicologia' | 'liderazgo' | 'chile' | 'mundo';
   sourceName: string;
   sourceUrl: string;
   imageUrl: string; // 100% obligatoria: foto oficial verificada
@@ -26,6 +26,7 @@ export interface NewsDatabase {
     musica: number;
     ia: number;
     psicologia: number;
+    liderazgo: number;
     chile: number;
     mundo: number;
   };

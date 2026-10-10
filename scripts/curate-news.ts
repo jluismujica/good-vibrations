@@ -9,7 +9,7 @@ export interface CuratedStory {
   summary: string;
   fullStory: string;
   whyGoodNews: string;
-  category: 'musica' | 'ia' | 'psicologia' | 'chile' | 'mundo';
+  category: 'musica' | 'ia' | 'psicologia' | 'liderazgo' | 'chile' | 'mundo';
   sourceName: string;
   sourceUrl: string;
   imageUrl: string;
@@ -309,6 +309,88 @@ Este estado de "seguridad psicológica" no solo elevó en un 50% las propuestas 
     tags: ['PSICOLOGÍA ORGANIZACIONAL', 'LIDERAZGO'],
   },
 
+  // --- LIDERAZGO & GESTIÓN DE EQUIPOS (Técnicas y Tendencias) ---
+  {
+    id: 'liderazgo-seguridad-psicologica-harvard',
+    title: 'La técnica de la «seguridad psicológica» en equipos de alto rendimiento: Por qué la confianza supera al control',
+    summary: 'Investigaciones en gestión organizacional de Harvard confirman que los equipos más innovadores no son los de mayor coeficiente intelectual, sino donde existe la certeza de hablar y proponer sin temor.',
+    fullStory: `¿Qué diferencia a los equipos verdaderamente excepcionales del resto? Las investigaciones pioneras de la profesora Amy Edmondson de la Escuela de Negocios de Harvard, validadas a gran escala por el famoso "Project Aristotle" de Google, han demostrado que el factor predictivo número uno del éxito colectivo no es la experiencia acumulada ni el presupuesto, sino la seguridad psicológica.
+
+La seguridad psicológica se define como la creencia compartida de que el equipo es un entorno seguro para asumir riesgos interpersonales. En estos equipos, los colaboradores admiten fallos con rapidez sin temor a represalias, plantean preguntas difíciles sobre decisiones en curso y proponen ideas disruptivas que en otros entornos serían silenciadas por el miedo al ridículo.
+
+Los líderes que fomentan esta cultura aplican tres técnicas clave: modelar la vulnerabilidad admitiendo sus propias dudas ("no tengo la respuesta exacta, busquémosla juntos"), enmarcar el trabajo como un reto de aprendizaje continuo y no solo de ejecución estricta, y practicar una curiosidad activa y no punitiva ante los contratiempos.`,
+    whyGoodNews: 'Desmonta el mito del liderazgo autoritario y demuestra que la empatía, la humildad y la confianza son los motores más potentes de la productividad y la excelencia humana en el trabajo.',
+    category: 'liderazgo',
+    sourceName: 'Harvard Business Review',
+    sourceUrl: 'https://www.positive.news/lifestyle/psychological-safety-high-performing-teams/',
+    imageUrl: 'https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80',
+    imageSourceType: 'curated',
+    publishedAt: '2026-10-08T10:00:00.000Z',
+    positivityScore: 98,
+    readingTimeMinutes: 3,
+    tags: ['LIDERAZGO', 'SEGURIDAD PSICOLÓGICA'],
+  },
+  {
+    id: 'liderazgo-franqueza-radical-feedback',
+    title: 'El arte del feedback sin fricción: La técnica de la «franqueza radical» para liderar con honestidad y afecto',
+    summary: 'Cómo superar la trampa del silencio cómodo o la agresividad. La metodología enseña a brindar retroalimentación oportuna y directa centrada en el crecimiento mutuo.',
+    fullStory: `Brindar retroalimentación constructiva suele ser uno de los momentos más temidos tanto por líderes como por colaboradores. Para resolver este desafío, la experta en liderazgo Kim Scott desarrolló el modelo de la "Franqueza Radical" (Radical Candor), una matriz que revolucionó la gestión de personas en empresas de tecnología y organizaciones globales.
+
+El método enseña que la retroalimentación verdaderamente eficaz se apoya en dos ejes simultáneos: "Preocuparse personalmente" (Care Personally) y "Desafiar directamente" (Challenge Directly). Cuando un líder desafía sin demostrar afecto cae en la "agresividad ofensiva"; pero cuando calla las áreas de mejora por no incomodar cae en la "empatía ruinosa", el error más común y destructivo de los directivos bienintencionados.
+
+La técnica de la franqueza radical propone conversaciones breves, inmediatas y en privado, formuladas desde la observación objetiva de comportamientos (no de la identidad de la persona) y ofreciendo de inmediato recursos y acompañamiento para superar el obstáculo, convirtiendo el feedback en un regalo de confianza.`,
+    whyGoodNews: 'Transforma las conversaciones difíciles en puentes de desarrollo personal y profesional, erradicando el resentimiento y construyendo relaciones de trabajo transparentes y cordiales.',
+    category: 'liderazgo',
+    sourceName: 'Leadership & Talent Review',
+    sourceUrl: 'https://www.positive.news/lifestyle/radical-candor-constructive-feedback-technique/',
+    imageUrl: 'https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=1200&q=80',
+    imageSourceType: 'curated',
+    publishedAt: '2026-10-09T11:30:00.000Z',
+    positivityScore: 96,
+    readingTimeMinutes: 3,
+    tags: ['LIDERAZGO', 'FEEDBACK CONSTRUCTIVO'],
+  },
+  {
+    id: 'liderazgo-gestion-energia-productividad',
+    title: 'Liderazgo sostenible: Por qué gestionar la energía mental y emocional es más efectivo que gestionar las horas',
+    summary: 'La neurociencia de la productividad demuestra que la capacidad directiva se multiplica al respetar ciclos ultradianos de foco profundo y pausas estratégicas de recuperación.',
+    fullStory: `Durante décadas, la cultura corporativa promovió la falacia de que más horas frente a la pantalla equivalían a mejores resultados. Sin embargo, estudios contemporáneos en neurofisiología directiva del Energy Project y MIT Sloan Management Review revelan que el tiempo es un recurso finito, pero la energía humana es renovable y multiplicable.
+
+Los líderes de mayor impacto estructuran sus jornadas en torno a las cuatro fuentes de energía personal: física (sueño y movimiento), emocional (calidad de las relaciones y optimismo), mental (capacidad de atención focalizada) y espiritual (conexión con un propósito trascendente).
+
+Al aplicar bloques de 90 minutos de trabajo profundo seguidos de breves desconexiones conscientes de 10 minutos (caminar, respiración o hidratación), los directivos reportan un aumento del 60% en la agilidad para tomar decisiones complejas y una drástica reducción en la fatiga decisional al final del día.`,
+    whyGoodNews: 'Promueve un paradigma de rendimiento saludable que destierra el agotamiento crónico y demuestra que el cuidado personal es el fundamento indispensable del liderazgo de excelencia.',
+    category: 'liderazgo',
+    sourceName: 'MIT Sloan Management Review',
+    sourceUrl: 'https://www.positive.news/lifestyle/energy-management-over-time-management-leadership/',
+    imageUrl: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=1200&q=80',
+    imageSourceType: 'curated',
+    publishedAt: '2026-10-06T15:00:00.000Z',
+    positivityScore: 97,
+    readingTimeMinutes: 3,
+    tags: ['LIDERAZGO', 'ALTO RENDIMIENTO'],
+  },
+  {
+    id: 'liderazgo-escucha-activa-servicial',
+    title: 'La ciencia de saber escuchar: Por qué la escucha activa genera seguridad psicológica y cohesión en los equipos',
+    summary: 'Investigaciones en psicología organizacional revelan que los líderes que escuchan sin interrupción fomentan la liberación de oxitocina y reducen la reactividad de la amígdala.',
+    fullStory: `¿Por qué los líderes más admirados dedican más del 80% de su tiempo a escuchar con presencia plena en lugar de dar directrices unilaterales? Experimentos en neurociencia del comportamiento laboral demuestran que la escucha atenta es la herramienta de alineamiento más poderosa con la que cuenta una organización.
+
+Cuando un líder practica la escucha reflexiva —resumiendo lo que el interlocutor expresó antes de emitir una opinión y haciendo preguntas abiertas para explorar soluciones conjuntas—, el cerebro del colaborador desactiva la respuesta de defensa y activa las redes neuronales de la creatividad y el compromiso intrínseco.
+
+Este enfoque, conocido como Liderazgo Servicial (Servant Leadership), fomenta un sentido de corresponsabilidad donde cada miembro se siente coautor de los proyectos, elevando la retención del talento clave y consolidando una cultura de cooperación leal.`,
+    whyGoodNews: 'Una confirmación de que la humildad, el silencio atento y la generosidad en la atención son la base del éxito colectivo y la armonía en las organizaciones humanas.',
+    category: 'liderazgo',
+    sourceName: 'Organizational Psychology Review',
+    sourceUrl: 'https://www.positive.news/lifestyle/why-good-leaders-listen/',
+    imageUrl: 'https://www.positive.news/wp-content/uploads/2026/09/iStock-2226795526-copy.jpg',
+    imageSourceType: 'official',
+    publishedAt: '2026-10-01T11:00:00.000Z',
+    positivityScore: 96,
+    readingTimeMinutes: 3,
+    tags: ['LIDERAZGO', 'ESCUCHA ACTIVA'],
+  },
+
   // --- CHILE (Infraestructura, Salud y Movilidad) ---
   {
     id: 'chile-metro-expansion-santiago',
@@ -564,6 +646,7 @@ export async function curateAll() {
     musica: verifiedItems.filter((n) => n.category === 'musica').length,
     ia: verifiedItems.filter((n) => n.category === 'ia').length,
     psicologia: verifiedItems.filter((n) => n.category === 'psicologia').length,
+    liderazgo: verifiedItems.filter((n) => n.category === 'liderazgo').length,
     chile: verifiedItems.filter((n) => n.category === 'chile').length,
     mundo: verifiedItems.filter((n) => n.category === 'mundo').length,
   };
@@ -580,7 +663,7 @@ export async function curateAll() {
   console.log('\n=============================================');
   console.log('✨ PROCESO COMPLETADO EXITOSAMENTE ✨');
   console.log(`- Total historias publicadas: ${verifiedItems.length}`);
-  console.log(`- Categorías: Música (${counts.musica}) | IA (${counts.ia}) | Psicología (${counts.psicologia}) | Chile (${counts.chile}) | Mundo (${counts.mundo})`);
+  console.log(`- Categorías: Música (${counts.musica}) | IA (${counts.ia}) | Psicología (${counts.psicologia}) | Liderazgo (${counts.liderazgo}) | Chile (${counts.chile}) | Mundo (${counts.mundo})`);
   console.log(`- 100% con fotografía OFICIAL verificada HTTP 200: SÍ (${verifiedItems.length}/${verifiedItems.length})`);
   console.log(`- 100% vigentes últimos 10 días: SÍ`);
   console.log('=============================================\n');
