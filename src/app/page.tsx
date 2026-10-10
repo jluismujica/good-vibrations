@@ -11,6 +11,17 @@ const allNews: NewsItem[] = data.news;
 const FALLBACK_IMAGE =
   "data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 800' width='1200' height='800'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' stop-color='%23ffb36b'/%3E%3Cstop offset='50%25' stop-color='%23ff7a45'/%3E%3Cstop offset='100%25' stop-color='%23e8558a'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='100%25' height='100%25' fill='url(%23g)'/%3E%3Ccircle cx='600' cy='400' r='90' fill='white' fill-opacity='0.25'/%3E%3Cpath d='M560 400 L640 400 M600 360 L600 440' stroke='white' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E";
 
+function formatNewsDate(isoDate: string): string {
+  try {
+    const d = new Date(isoDate);
+    return new Intl.DateTimeFormat('es-CL', {
+      day: 'numeric',
+      month: 'short',
+    }).format(d).replace('.', '');
+  } catch {
+    return '';
+  }
+}
 
 export default function HomePage() {
   const [selectedCategory, setSelectedCategory] = useState<Category>('todas');
@@ -161,6 +172,13 @@ export default function HomePage() {
               Ciencia & IA
             </button>
             <button
+              onClick={() => setSelectedCategory('psicologia')}
+              className="nav-link"
+              style={{ background: 'none', border: 'none', cursor: 'pointer', color: selectedCategory === 'psicologia' ? 'var(--text)' : undefined, fontWeight: selectedCategory === 'psicologia' ? 600 : 500 }}
+            >
+              Psicología
+            </button>
+            <button
               onClick={() => setSelectedCategory('chile')}
               className="nav-link"
               style={{ background: 'none', border: 'none', cursor: 'pointer', color: selectedCategory === 'chile' ? 'var(--text)' : undefined, fontWeight: selectedCategory === 'chile' ? 600 : 500 }}
@@ -211,14 +229,16 @@ export default function HomePage() {
 
             <div className="hero-content">
               <span className="hero-eyebrow">
-                {heroItem.category} · Noticia del día
+                {heroItem.category === 'psicologia' ? 'Psicología & Salud Mental' : heroItem.category} · Noticia del día
               </span>
               <h1 className="hero-title">{heroItem.title}</h1>
               <p className="hero-dek">{heroItem.summary}</p>
               <div className="hero-meta">
                 <span>{heroItem.sourceName}</span>
                 <span>·</span>
-                <span>{heroItem.readingTimeMinutes} min de lectura</span>
+                <span>{heroItem.readingTimeMinutes} min</span>
+                <span>·</span>
+                <span>{formatNewsDate(heroItem.publishedAt)}</span>
                 <span>·</span>
                 <span style={{ color: '#ffffff', display: 'inline-flex', alignItems: 'center', gap: '4px', fontWeight: 600 }}>
                   <BookOpen size={14} />
@@ -255,6 +275,13 @@ export default function HomePage() {
             Ciencia & IA ({data.categories.ia})
           </button>
           <button
+            onClick={() => setSelectedCategory('psicologia')}
+            className="pill"
+            aria-pressed={selectedCategory === 'psicologia'}
+          >
+            Psicología ({data.categories.psicologia})
+          </button>
+          <button
             onClick={() => setSelectedCategory('chile')}
             className="pill"
             aria-pressed={selectedCategory === 'chile'}
@@ -275,7 +302,7 @@ export default function HomePage() {
           <input
             type="text"
             className="search-input"
-            placeholder="Buscar historia..."
+            placeholder="Buscar historia o estudio..."
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
           />
@@ -321,13 +348,15 @@ export default function HomePage() {
                     </div>
                     <div className="card__body">
                       <span className={`eyebrow eyebrow--${item.category}`}>
-                        {item.category}
+                        {item.category === 'psicologia' ? 'Psicología' : item.category}
                       </span>
                       <h3 className="card__title">{item.title}</h3>
                       <p className="card__dek">{item.summary}</p>
                       <div className="card__meta">
-                        <span>{item.sourceName} · {item.readingTimeMinutes} min</span>
-                        <div style={{ display: 'flex', alignItems: 'center', gap: '4px', color: 'var(--sky)', fontSize: '13px', fontWeight: 500 }}>
+                        <span>
+                          {item.sourceName} · {item.readingTimeMinutes} min · {formatNewsDate(item.publishedAt)}
+                        </span>
+                        <div style={{ display: 'flex', alignItems: 'center', gap: '4px', color: 'var(--sky)', fontSize: '13px', fontWeight: 500, flexShrink: 0 }}>
                           <span>Ver historia</span>
                           <ArrowUpRight size={14} />
                         </div>
@@ -347,7 +376,7 @@ export default function HomePage() {
           <div className="fact-eyebrow">Un dato para hoy</div>
           <div className="fact-number">{data.totalCount}</div>
           <p className="fact-text">
-            Historias positivas y verificadas registradas en nuestra base hoy, demostrando que los avances en música, ciencia y comunidad siguen adelante.
+            Historias positivas y estudios científicos rigurosos registrados en nuestra base hoy, demostrando que los avances en psicología, ciencia, música y comunidad siguen adelante.
           </p>
           <div className="fact-source">Good Vibrations · Actualizado dos veces al día</div>
         </div>
@@ -412,11 +441,11 @@ export default function HomePage() {
             <div className="reader-content">
               <div className="reader-category-row">
                 <span className={`eyebrow eyebrow--${selectedArticle.category}`}>
-                  {selectedArticle.category}
+                  {selectedArticle.category === 'psicologia' ? 'Psicología & Salud Mental' : selectedArticle.category}
                 </span>
-                <span style={{ fontSize: '13px', color: 'var(--text-tertiary)', display: 'inline-flex', alignItems: 'center', gap: '4px' }}>
+                <span style={{ fontSize: '13px', color: 'var(--text-tertiary)', display: 'inline-flex', alignItems: 'center', gap: '6px' }}>
                   <Clock size={13} />
-                  {selectedArticle.readingTimeMinutes} min de lectura
+                  {selectedArticle.readingTimeMinutes} min de lectura · {formatNewsDate(selectedArticle.publishedAt)}
                 </span>
               </div>
 
