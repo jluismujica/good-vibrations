@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState, useMemo, useEffect } from 'react';
-import { Search, Sun, Moon, ArrowUpRight } from 'lucide-react';
+import { Search, Sun, Moon, ArrowUpRight, X, Sparkles, BookOpen, Clock, ArrowLeft } from 'lucide-react';
 import rawData from '@/data/news.json';
 import { Category, NewsItem, NewsDatabase } from '@/lib/types';
 
@@ -12,6 +12,7 @@ export default function HomePage() {
   const [selectedCategory, setSelectedCategory] = useState<Category>('todas');
   const [searchQuery, setSearchQuery] = useState('');
   const [theme, setTheme] = useState<'light' | 'dark'>('light');
+  const [selectedArticle, setSelectedArticle] = useState<NewsItem | null>(null);
 
   // Inicializar tema y detectar preferencia
   useEffect(() => {
@@ -33,6 +34,27 @@ export default function HomePage() {
     localStorage.setItem('gv-theme', next);
     document.documentElement.setAttribute('data-theme', next);
   };
+
+  // Manejo de tecla ESC y bloqueo de scroll al abrir la vista de lectura
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') {
+        setSelectedArticle(null);
+      }
+    };
+
+    if (selectedArticle) {
+      document.body.style.overflow = 'hidden';
+      window.addEventListener('keydown', handleKeyDown);
+    } else {
+      document.body.style.overflow = '';
+    }
+
+    return () => {
+      document.body.style.overflow = '';
+      window.removeEventListener('keydown', handleKeyDown);
+    };
+  }, [selectedArticle]);
 
   // Motion: Intersection Observer para elementos .reveal
   useEffect(() => {
@@ -75,18 +97,20 @@ export default function HomePage() {
     } catch {}
   }, []);
 
-  // Filtrado de noticias
+  // Filtrado de noticias (Garantizando regla 1: 100% con fotografía)
   const filteredNews = useMemo(() => {
-    return allNews.filter((item) => {
-      const matchesCat = selectedCategory === 'todas' || item.category === selectedCategory;
-      const q = searchQuery.toLowerCase().trim();
-      const matchesSearch =
-        !q ||
-        item.title.toLowerCase().includes(q) ||
-        item.summary.toLowerCase().includes(q) ||
-        item.sourceName.toLowerCase().includes(q);
-      return matchesCat && matchesSearch;
-    });
+    return allNews
+      .filter((item) => !!item.imageUrl && item.imageUrl.trim() !== '')
+      .filter((item) => {
+        const matchesCat = selectedCategory === 'todas' || item.category === selectedCategory;
+        const q = searchQuery.toLowerCase().trim();
+        const matchesSearch =
+          !q ||
+          item.title.toLowerCase().includes(q) ||
+          item.summary.toLowerCase().includes(q) ||
+          item.sourceName.toLowerCase().includes(q);
+        return matchesCat && matchesSearch;
+      });
   }, [selectedCategory, searchQuery]);
 
   // Noticia destacada para Hero
@@ -105,7 +129,7 @@ export default function HomePage() {
       {/* 4.1 Header de vidrio */}
       <header className="site-header">
         <div className="header-inner">
-          <a href="#" className="logo">
+          <a href="#" className="logo" onClick={(e) => { e.preventDefault(); setSelectedCategory('todas'); }}>
             <span className="logo-dot" />
             <span>Good Vibrations</span>
           </a>
@@ -161,7 +185,11 @@ export default function HomePage() {
       {heroItem && !searchQuery && selectedCategory === 'todas' && (
         <section className="hero-wrapper reveal">
           <div className="hero-saludo">{greeting}</div>
-          <article className="hero-article">
+          <article
+            className="hero-article"
+            onClick={() => setSelectedArticle(heroItem)}
+            style={{ cursor: 'pointer' }}
+          >
             <div className="hero-media">
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
@@ -184,15 +212,10 @@ export default function HomePage() {
                 <span>·</span>
                 <span>{heroItem.readingTimeMinutes} min de lectura</span>
                 <span>·</span>
-                <a
-                  href={heroItem.sourceUrl}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  style={{ color: '#ffffff', display: 'inline-flex', alignItems: 'center', gap: '3px', textDecoration: 'none', fontWeight: 500 }}
-                >
-                  <span>Leer fuente</span>
-                  <ArrowUpRight size={14} />
-                </a>
+                <span style={{ color: '#ffffff', display: 'inline-flex', alignItems: 'center', gap: '4px', fontWeight: 600 }}>
+                  <BookOpen size={14} />
+                  <span>Leer resumen completo</span>
+                </span>
               </div>
             </div>
           </article>
@@ -265,18 +288,17 @@ export default function HomePage() {
         ) : (
           <div className="bento">
             {gridItems.map((item, index) => {
-              // Bento layout: el primer elemento es large (span 8, row span 2), los demás varían
               const isLarge = index === 0;
               const cardClass = isLarge ? 'card card--large reveal' : 'card card--medium reveal';
 
               return (
-                <article key={item.id} className={cardClass}>
-                  <a
-                    href={item.sourceUrl}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="card__link"
-                  >
+                <article
+                  key={item.id}
+                  className={cardClass}
+                  onClick={() => setSelectedArticle(item)}
+                  style={{ cursor: 'pointer' }}
+                >
+                  <div className="card__link">
                     <div className="card__media">
                       {/* eslint-disable-next-line @next/next/no-img-element */}
                       <img
@@ -293,10 +315,13 @@ export default function HomePage() {
                       <p className="card__dek">{item.summary}</p>
                       <div className="card__meta">
                         <span>{item.sourceName} · {item.readingTimeMinutes} min</span>
-                        <ArrowUpRight size={14} style={{ color: 'var(--sky)' }} />
+                        <div style={{ display: 'flex', alignItems: 'center', gap: '4px', color: 'var(--sky)', fontSize: '13px', fontWeight: 500 }}>
+                          <span>Ver historia</span>
+                          <ArrowUpRight size={14} />
+                        </div>
                       </div>
                     </div>
-                  </a>
+                  </div>
                 </article>
               );
             })}
@@ -323,10 +348,105 @@ export default function HomePage() {
             Good Vibrations · El antídoto diario al ruido mediático
           </div>
           <div className="footer-note">
-            Curado para Jorge Mujica · Desplegado en Vercel
+            Curado para Jorge Mujica · Desplegado en goodvib.app
           </div>
         </div>
       </footer>
+
+      {/* 4.6 Modal de Lectura Interna (Reader View) */}
+      {selectedArticle && (
+        <div
+          className="reader-backdrop"
+          onClick={(e) => {
+            if (e.target === e.currentTarget) setSelectedArticle(null);
+          }}
+          role="dialog"
+          aria-modal="true"
+        >
+          <div className="reader-modal">
+            {/* Barra superior de control */}
+            <div className="reader-header-bar">
+              <div className="reader-meta-source">
+                <span>{selectedArticle.sourceName}</span>
+                {selectedArticle.imageSourceType === 'official' ? (
+                  <span className="reader-badge-official">Foto oficial</span>
+                ) : (
+                  <span className="reader-badge-official" style={{ background: 'var(--bg-subtle)', color: 'var(--text-secondary)' }}>Foto curada</span>
+                )}
+              </div>
+              <button
+                className="reader-close-btn"
+                onClick={() => setSelectedArticle(null)}
+                aria-label="Cerrar lectura (ESC)"
+              >
+                <X size={18} />
+              </button>
+            </div>
+
+            {/* Fotografía principal */}
+            <div className="reader-hero-media">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src={selectedArticle.imageUrl}
+                alt={selectedArticle.title}
+              />
+            </div>
+
+            {/* Contenido del resumen en el sistema */}
+            <div className="reader-content">
+              <div className="reader-category-row">
+                <span className={`eyebrow eyebrow--${selectedArticle.category}`}>
+                  {selectedArticle.category}
+                </span>
+                <span style={{ fontSize: '13px', color: 'var(--text-tertiary)', display: 'inline-flex', alignItems: 'center', gap: '4px' }}>
+                  <Clock size={13} />
+                  {selectedArticle.readingTimeMinutes} min de lectura
+                </span>
+              </div>
+
+              <h1 className="reader-title">{selectedArticle.title}</h1>
+              <p className="reader-lead">{selectedArticle.summary}</p>
+
+              {/* Bloque Destacado: Por qué es una buena noticia */}
+              <div className="reader-why-box">
+                <div className="reader-why-label">
+                  <Sparkles size={15} />
+                  <span>Por qué es una buena noticia</span>
+                </div>
+                <p className="reader-why-text">{selectedArticle.whyGoodNews}</p>
+              </div>
+
+              {/* Noticia Resumen Completa (2-4 párrafos estructurados) */}
+              <div className="reader-body">
+                {selectedArticle.fullStory.split('\n\n').map((paragraph, idx) => (
+                  <p key={idx}>{paragraph}</p>
+                ))}
+              </div>
+
+              {/* Acciones y enlace a la fuente original */}
+              <div className="reader-footer-actions">
+                <button
+                  className="reader-back-btn"
+                  onClick={() => setSelectedArticle(null)}
+                >
+                  <ArrowLeft size={16} />
+                  <span>Volver a la portada</span>
+                </button>
+
+                <a
+                  href={selectedArticle.sourceUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="reader-source-cta"
+                >
+                  <span>Indagar más: Ir a la fuente original en {selectedArticle.sourceName}</span>
+                  <ArrowUpRight size={16} />
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
     </>
   );
 }

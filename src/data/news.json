@@ -1,1202 +1,355 @@
 {
-  "lastUpdated": "2026-10-10T02:12:05.417Z",
-  "totalCount": 70,
+  "lastUpdated": "2026-10-10T15:04:28.800Z",
+  "totalCount": 18,
   "categories": {
-    "musica": 25,
-    "ia": 19,
-    "chile": 22,
-    "mundo": 4
+    "musica": 4,
+    "ia": 4,
+    "chile": 4,
+    "mundo": 6
   },
   "news": [
     {
-      "id": "1448bf3b",
-      "title": "EPAUSTRAL y Austro Chile coordinan acciones para la temporada de turismo de cruceros 2026-2027. - Pepe Noticias",
-      "summary": "EPAUSTRAL y Austro Chile coordinan acciones para la temporada de turismo de cruceros 2026-2027.  Pepe Noticias",
-      "contentSnippet": "EPAUSTRAL y Austro Chile coordinan acciones para la temporada de turismo de cruceros 2026-2027.  Pepe Noticias",
-      "category": "chile",
-      "sourceName": "Chile Innovación",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN3RXdkEzVlZaNHY3WDhLNWhVNlItdHFTUDhUOEw3a1oxdGJBeTdZTlhHMkVqVy10UGFZZWVVUlJJeFRDWElRVmFxYmQ1SXZyTEZJcDM3SHRXbW15V3B3R3VhenRXVmN5dUFLNVdoSUsyVkVuYUswVTBvU25JelpjTVA0bzl1Q3hDclplNUFmak9wcU1wNkUzZ2FYR2VhVFJMdnpib2tLZ2taWXRNcHppdXhoMTBvSF90UXVB?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-09T22:55:07.000Z",
-      "positivityScore": 90,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "CHILE"
-      ],
-      "featured": true
-    },
-    {
-      "id": "e2d6e3a4",
-      "title": "Foo Fighters regresa a Chile el 28 de febrero en el Parque Estadio Nacional - Súbela",
-      "summary": "Foo Fighters regresa a Chile el 28 de febrero en el Parque Estadio Nacional  Súbela",
-      "contentSnippet": "Foo Fighters regresa a Chile el 28 de febrero en el Parque Estadio Nacional  Súbela",
-      "category": "chile",
-      "sourceName": "Chile Innovación",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUzlZRlptMjRnVVRZaUdsSkxYVDFyV013WUFYX0ZZTmtDeF8tQkZKR0RUSDNvb202RmtKTHRzQzhiQUs4aV9aWXh6d1g2MVM2cmlKZVRURWZXVHEwQXpfaXNTYVBZc0JGOHBKU0xzekRzd21pcVlqaVZzU1ltclg2NUQ2WUNBbExqczl4UTZvd0VXVllPMnRKcUFTOTJRSjl6cjdYblpaSQ?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-09T21:22:10.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "CHILE"
-      ],
-      "featured": false
-    },
-    {
-      "id": "0db8a916",
-      "title": "Revelan aterradora razón para no pedir consejos de salud a la IA - Independent en Español",
-      "summary": "Revelan aterradora razón para no pedir consejos de salud a la IA  Independent en Español",
-      "contentSnippet": "Revelan aterradora razón para no pedir consejos de salud a la IA  Independent en Español",
-      "category": "ia",
-      "sourceName": "IA Positiva",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMW1lRndPZ3J6TVRJbUdvVHNaVjJkVHpXZWluclpZLS02RkFaUHpXQVdaOEkyTFhpNEV3cGpjeC1JM3prWXNUZ2pCa1EtdnBoQjhjUVpBN2pFaHVybjBtVllOamJSdXdiLUMwRDhuTklIbWkyV2Vod0oyRUp2Si1BY1F3UnUzTmJTeUdSSHFOWHRnRnRWN2FqTlBnUG9tTmo2X3BKZVRJcDhPcUR3Uk5jMXhReXpMc1FC?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-09T21:11:00.000Z",
-      "positivityScore": 97,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "IA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "27c182a3",
-      "title": "'Queen Budapest': cinco datos sobre la película que recupera uno de los últimos shows de Freddie Mercury - Billboard Argentina",
-      "summary": "'Queen Budapest': cinco datos sobre la película que recupera uno de los últimos shows de Freddie Mercury  Billboard Argentina",
-      "contentSnippet": "'Queen Budapest': cinco datos sobre la película que recupera uno de los últimos shows de Freddie Mercury  Billboard Argentina",
+      "id": "musica-los-tres-revuelta",
+      "title": "Los Tres consolidan su histórica reunión original con la gira \"Revuelta\" a tablero vuelto",
+      "summary": "Álvaro Henríquez, Titae Lindl, Ángel Parra y Pancho Molina volvieron a tocar juntos tras más de dos décadas, congregando a más de 120.000 fanáticos en múltiples fechas sold-out en Concepción y Santiago.",
+      "fullStory": "El regreso de la formación original de Los Tres se ha consolidado como uno de los acontecimientos culturales y musicales más trascendentales de la última década en Chile y Sudamérica. Tras 24 años de caminos separados, Álvaro Henríquez, Roberto \"Titae\" Lindl, Ángel Parra y Francisco Molina volvieron a reunirse en un escenario con una química intacta, demostrando la vigencia y potencia del cuarteto penquista.\n\nLa gira \"Revuelta\", que comenzó en su natal Concepción y continuó con cuatro presentaciones repletas en el Movistar Arena de Santiago, ofreció un recorrido de más de dos horas por himnos atemporales como \"Un amor violento\", \"He barrido el sol\", \"Déjate caer\" y sus célebres cuecas bravas. La crítica especializada destacó de forma unánime la solidez sonora de la banda, con una base rítmica impecable y los solos virtuosos de Ángel Parra dialogando con la voz y carisma de Henríquez.\n\nMás allá de la nostalgia, el reencuentro ha convocado a tres generaciones distintas: desde quienes vivieron el auge del rock chileno en los años 90 hasta jóvenes que por primera vez pudieron presenciar en vivo el sonido clásico del grupo. El éxito de la gira ha abierto las puertas a nuevos proyectos, grabaciones en vivo y una proyección internacional que reafirma a Los Tres como una leyenda viva de la música latinoamericana.",
+      "whyGoodNews": "Demuestra el poder sanador y unificador de la música: cuatro grandes músicos limaron asperezas del pasado para regalar un espectáculo de excelencia técnica, celebrando el patrimonio cultural chileno ante audiencias multigeneracionales.",
       "category": "musica",
-      "sourceName": "Queen",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbHNxLTBpWFpRVS1lclZUd19INUJENjNnYjZnZkxFMVdNTEZQdXVGcTRsektDSVp4V3M0TnVSSFlydU82bnFPektpQ0NpYnBwS0d2Q2Z2dlpqYldpTkZRd2xnYVBMNUh6Y2VQMTYzOEpaZlN6Ynh2OFVLVzc5aThXaXRmT2ZPMTNYVjlwZTd4ZW9NSDA1azZvbWVjV056T0lRMEhhZW5LZl9OVTVETF9jN2UwRFRWZm8wWklmdnY4R2tMSXlkdmRtOXUycnN1UQ?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-09T15:50:10.000Z",
-      "positivityScore": 90,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": true
-    },
-    {
-      "id": "5c6e9d3c",
-      "title": "Chile: demandó al casino de Viña del Mar por no pagarle un premio millonario que asegura haber ganado - Infobae",
-      "summary": "Chile: demandó al casino de Viña del Mar por no pagarle un premio millonario que asegura haber ganado  Infobae",
-      "contentSnippet": "Chile: demandó al casino de Viña del Mar por no pagarle un premio millonario que asegura haber ganado  Infobae",
-      "category": "chile",
-      "sourceName": "Chile Innovación",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSFJsaGdaSHJveE0tMDVpNHZvajdheUFhb21iY0EzZWxXR2dpVTdEY1JLTlN6Y08xU0hTX3lNbGZGaUNsMk02ay1iZE5OQmNyMWl0QmsxRzFROW1GOHY2YUZfNHNxclBWMDFsVUJoYTZJSktZLVJQaGdhTVJpYmxackNCaHRTbHlBZ0E3M2tKVUpiUmFVV090VkNkRHpwT1BVVmxRcy0tN1RjWFZoYkZTYk56N1hkanFtOS1BeFRfaTB6THBoMElNM2x6Y2p5OUN4dEt6dXM5cS05OFp5YXl1MFVmdjBmdVR4MHdNZHNwNHHSAYsCQVVfeXFMUElrWWZHaE5YbDZUNFN6ai0wUTN6ZXZZRmdaT0xUdmhINFBORzFQVDdhZHdmTWw4S092RGJXbFR2elB5UzdaWjV4dTB5LUZ1c3ZWMGlRS3hXUzR0bVRjTmZwUmRocndXc0htX0w4aHlNS3JiVnNYUHZtX0hiRWpCX0kzU0FSTG9reXh5b2xVQU9RRW9nVlVUdjhQYnpvZlZUVU9VanFrTUY3YU1wd3BrYWxKaUhkeEItclJrR1VzQVFTd29DTXB4NDBQUFRZMzBxZF9PdW9DNkMwZ1pSbzVGUmFfWnlQdlVUREZmQWEzZzYzaXhCUWd4X2lOTUp2amVTM1B5X0JRcElLekZB?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-09T15:48:33.000Z",
-      "positivityScore": 94,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "CHILE"
-      ],
-      "featured": false
-    },
-    {
-      "id": "9997733d",
-      "title": "Puchuncaví será sede del II Congreso Binacional de Turismo Deportivo Chile-Argentina 2026 - G5noticias",
-      "summary": "Puchuncaví será sede del II Congreso Binacional de Turismo Deportivo Chile-Argentina 2026  G5noticias",
-      "contentSnippet": "Puchuncaví será sede del II Congreso Binacional de Turismo Deportivo Chile-Argentina 2026  G5noticias",
-      "category": "chile",
-      "sourceName": "Chile Innovación",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTzdsN19URnVKcnhZOWpxLTRHQUREVzBoTXJJZXo5MElYdk1BOVV3eDJUb3ZWNk9zQXpMMHdWc3FWYjhWSzQySXJnX3d3ak5ITzZrS3R4bXprZWs1ZkZBZlNrYnFhZUtocWtib2FnWExQR1pYbjByaXctSGJLWG1sanJwdktvTHZKalFVN0x6SFB1SF9hVWZPU2lISGNMRTZVUGJzbUo2elMwa0RCNVZwbmFPa3otczN4T1dWWXpKNkU?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-09T15:42:29.000Z",
-      "positivityScore": 92,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "CHILE"
-      ],
-      "featured": false
-    },
-    {
-      "id": "c0a2bc15",
-      "title": "Premio AURA-Padre Picetti 2026: Cómo postular al reconocimiento para profesores de ciencia en Chile",
-      "summary": "Premio AURA-Padre Picetti 2026: Cómo postular al reconocimiento para profesores de ciencia en Chile  Cooperativa Ciencia",
-      "contentSnippet": "Premio AURA-Padre Picetti 2026: Cómo postular al reconocimiento para profesores de ciencia en Chile  Cooperativa Ciencia",
-      "category": "chile",
-      "sourceName": "Chile Innovación",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQnNkUEJhSEZwbEp5akJralBhNE5aUXhhcEtjS1RELTlvZU5YT2xRZkpWZ1VxaVNNLTBjMUZyalNianpRRDRSN2V1Z0hfeDBGTFNEeG03b3NGWlhfbnNuNDM3ZUw3d2tINllZMjNGZjZsZEZPQlVQQUZjUGR0eHdkeDYzdXg3UmpwdDJVZ1JmYlQ0b25Jcm1OOUU2QjZMbmYxcVdDc2tQN1U5Z203VGEzNElUWnBSZ3hvQ21LbGo3WjdYeF9KQ2dzSURjMzFWdzYyeDN2TWs5XzNWa3dZczMzTU1Lb1Z4QVFadmx3?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-09T14:04:33.000Z",
-      "positivityScore": 94,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "CHILE"
-      ],
-      "featured": false
-    },
-    {
-      "id": "71e7e2f1",
-      "title": "Funcionarios estatales serán capacitados en uso de inteligencia artificial y ciencia de datos - DPL News",
-      "summary": "Funcionarios estatales serán capacitados en uso de inteligencia artificial y ciencia de datos  DPL News",
-      "contentSnippet": "Funcionarios estatales serán capacitados en uso de inteligencia artificial y ciencia de datos  DPL News",
-      "category": "ia",
-      "sourceName": "IA Positiva",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcW5xRldiUlJJa09aV3VZencwN1dWRGVUdnMxaEdiX0tMUG94aWY0UDY5VXVuZVc3eTA4cXlpOEQ2R1pmakdaRVJaQUFKejhDUEtzYm1jd1JEeWstY2RqbTZjM2REelh5eWJfNFEwZUlZYm5pcGVrOWxGWVQxMGIyQS13bnZoaFNNcFlScTJrQjNGWkdpazBaMWJ0cjlIYzM2ZW9jRW1TaFdwc29fS0taOFIxcGo?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-09T13:50:17.000Z",
-      "positivityScore": 91,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "IA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "123da6e9",
-      "title": "Salud mental e inteligencia artificial marcaron la Semana de la Seguridad y Salud Laboral de la CChC - Diálogo Sur",
-      "summary": "Salud mental e inteligencia artificial marcaron la Semana de la Seguridad y Salud Laboral de la CChC  Diálogo Sur",
-      "contentSnippet": "Salud mental e inteligencia artificial marcaron la Semana de la Seguridad y Salud Laboral de la CChC  Diálogo Sur",
-      "category": "ia",
-      "sourceName": "IA Positiva",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMUt2NEpnSzktOUJjTkYyNTk5bGh0bjd1RFgwanBTVUpSRGxOdEJYUlhtd1VybXlPeWNUOGFldk1tckg1Q1NJcXI4LUhmb0l0RFBxZEhiTTh4a2RMLU94d3o2ZXVlZm5wbXJ2VFk5Mnl5MW55OWRPSEVBaFFsUkhBRDc0U0FKWWFnMmdnUUNhX1V6Sl9sdjlDQ2hPSzZGc3JiQmlpRGlfTDdwZmVtZ195RGVZblVPRm85WmtZdzI4M3JkMW9jVXZlV0Q0SQ?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1576086213369-97a306d36557?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-09T13:26:29.000Z",
-      "positivityScore": 97,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "IA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "2fd26792",
-      "title": "Ensayo clínico en EE.UU. indica que los chatbots con IA podrían ayudar en la atención de urgencias médicas - Ex-ante",
-      "summary": "Ensayo clínico en EE.UU. indica que los chatbots con IA podrían ayudar en la atención de urgencias médicas  Ex-ante",
-      "contentSnippet": "Ensayo clínico en EE.UU. indica que los chatbots con IA podrían ayudar en la atención de urgencias médicas  Ex-ante",
-      "category": "ia",
-      "sourceName": "IA Positiva",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCYUJ2dTJOdlJmMFM4WWdPZlUtcGtOVEh5cG5uaUwwOGtLZTh6T183ZGYwUDhucmNZcjl0SkhzTThjYnFZQm5hdmNJRUREelZrcVlpYlBIeTZ2NHNsLTVPWGZ5b3huWFVBWnpJTUVORWEwWDgtLWxXelFBQjB4Zw?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1576086213369-97a306d36557?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-09T13:12:59.000Z",
-      "positivityScore": 93,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "IA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "971c4b2b",
-      "title": "Reseña de ‘Queen Budapest’: 40 años después, Freddie Mercury sigue siendo dueño de la gran pantalla - A Queen Of Magic",
-      "summary": "Reseña de ‘Queen Budapest’: 40 años después, Freddie Mercury sigue siendo dueño de la gran pantalla  A Queen Of Magic",
-      "contentSnippet": "Reseña de ‘Queen Budapest’: 40 años después, Freddie Mercury sigue siendo dueño de la gran pantalla  A Queen Of Magic",
-      "category": "musica",
-      "sourceName": "Queen",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Ia3RnZ20ya00zVG83cVIzWm5xY2VxQzc1UE8wMDJOT2w1cmtYZS10VllvY3FkVlB0MDFfX1NkQ1lDc3c5bVRCUmNLVWs5U1RmZ0RRSE55Sy0yWVFYVzlsQTZQR0RienBPNzQ2ZnVBa0RORERGTzd6LU0wLUU?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-09T10:59:29.000Z",
-      "positivityScore": 91,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "7fb0b947",
-      "title": "Brian May asegura que nunca ha dicho que Queen no fuera a girar de nuevo: \"Es una mala interpretación - MariskalRock.com",
-      "summary": "Brian May asegura que nunca ha dicho que Queen no fuera a girar de nuevo: \"Es una mala interpretación  MariskalRock.com",
-      "contentSnippet": "Brian May asegura que nunca ha dicho que Queen no fuera a girar de nuevo: \"Es una mala interpretación  MariskalRock.com",
-      "category": "musica",
-      "sourceName": "Queen",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcGE0V3NLa3lPMkw3aDN5WDBTWnd5R04zM1Jrd2ZBX1lMOHR4Yk1xalRQT1JlUnRoQ3RQcks4elE5OWU2SzRuUDVfMkJ2S0F5a1NZWF8tNHVZUDAyZDlvaWQtdFNXUGFTMUEwTlN1SHZ6d21rbUY1dUVkUmd6N1lXMjNtaDl0ZTFDS3BMSWt6NFF5aDZReDViQmFJVkZIN0V5Nl8xUDd2dGYwcUdfY2FZSDJvR1MtSVozLTFzcWNjWlRLbHpUcGdueWRmUlF5bGw2N1E?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-09T10:02:00.000Z",
-      "positivityScore": 94,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "1b542bcb",
-      "title": "Inrobics: la startup con ‘Alma’ que cuida sin sustituir - El Ecosistema Startup",
-      "summary": "Inrobics: la startup con ‘Alma’ que cuida sin sustituir  El Ecosistema Startup",
-      "contentSnippet": "Inrobics: la startup con ‘Alma’ que cuida sin sustituir  El Ecosistema Startup",
-      "category": "ia",
-      "sourceName": "IA Positiva",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVldOZnhmd2RndUo0bm5tb0NkZGZGMnhvaHdsZC1WcWFFNnpzZERjUVRyQzlKWDdJUTR4dmhGVWtJTFdNSTJUb0VNTVctR1lrc0Rrb3dZM0NvVmRTcU1kZkM5SFJJZVgtdXpYSWNwYzJCOGllbmlScDVOeXA4UUVVR2tNMUpUajU5b0hj?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-09T09:07:18.000Z",
-      "positivityScore": 95,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "IA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "40ccf02e",
-      "title": "Brian May recula: \"Nunca he dicho que Queen no vaya a volver a salir de gira\" - RockFM",
-      "summary": "Brian May recula: \"Nunca he dicho que Queen no vaya a volver a salir de gira\"  RockFM",
-      "contentSnippet": "Brian May recula: \"Nunca he dicho que Queen no vaya a volver a salir de gira\"  RockFM",
-      "category": "musica",
-      "sourceName": "Queen",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUGZueXdaUDZnVV9PdFFTbWZMeGx2R1RfV1VqdFFMX3hUMTNSclVuaWkxMjlUN2xMMVRRSU85SWZ0dng2aGJjYjV0NFVWODlOQ3YxRGxtbDFTczlDUHl1Y1VVV056X3BfemJyYjlLRmNHOGVuSzYybVRPRHVPc0w0VmYxcjduemtlVEdaMHlqSWNPYXFSaXJqdDVReUR4bzVWUEVUNjF2LTJjc09wUXAtcFBaTno1TGs?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1520523839898-50712170362f?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-09T08:28:49.000Z",
-      "positivityScore": 94,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "1853c0e0",
-      "title": "The Other Side emprende una ambiciosa gira nacional para revivir el universo psicodélico de Pink Floyd - Gritaradio.com",
-      "summary": "The Other Side emprende una ambiciosa gira nacional para revivir el universo psicodélico de Pink Floyd  Gritaradio.com",
-      "contentSnippet": "The Other Side emprende una ambiciosa gira nacional para revivir el universo psicodélico de Pink Floyd  Gritaradio.com",
-      "category": "musica",
-      "sourceName": "Pink Floyd & Gilmour",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdXhDaWk2WGFKd0tmNXJ0WlgyTzdPcGw3UWZwN0FjMUpGV0ZZMlczamUwaV9UNGtZUXMwOXhjMlFyUTVTSXplQXVIRWxIVkptaGlJQXNvazFNZVNscTlCNnh2WXM5ZHM0S3RVaTNXekRWYm5RTFpLWVBuZUFWdFh0c3lhdGJXNEY2RGpyWjMxdVJ0YnRxa0tDVkN1OFFEajdRT1AzNk9WVmRIalowWFJ3WkowbTF2TWNwWUh3WWpJMWEzYV94?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-09T03:27:05.000Z",
-      "positivityScore": 97,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "8e1495b1",
-      "title": "Cuéntame apuesta por IA y WhatsApp para ampliar el acceso a salud mental en empresas - Mobile Time Latinoamérica",
-      "summary": "Cuéntame apuesta por IA y WhatsApp para ampliar el acceso a salud mental en empresas  Mobile Time Latinoamérica",
-      "contentSnippet": "Cuéntame apuesta por IA y WhatsApp para ampliar el acceso a salud mental en empresas  Mobile Time Latinoamérica",
-      "category": "ia",
-      "sourceName": "IA Positiva",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YaHVOT1FIWDY5YWRHMDREX2ZrV19PcVh3a1dXNVhLUDBxUF9waHNzNHNiN1RIS0t4cno5YVNUTEVxSXJwaDQ5cWhqdHU3TmtncWJTYnY2Y2ZUY1RINDVjZGdTd3dQeW9xUWdzNC1uYU1fNTBveW91bA?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-09T00:02:06.000Z",
-      "positivityScore": 94,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "IA"
-      ],
-      "featured": true
-    },
-    {
-      "id": "7855c7ec",
-      "title": "Especial: Santiago de Chile descubre su arte y patrimonio en la primera edición de SAFA - 新华网",
-      "summary": "Especial: Santiago de Chile descubre su arte y patrimonio en la primera edición de SAFA  新华网",
-      "contentSnippet": "Especial: Santiago de Chile descubre su arte y patrimonio en la primera edición de SAFA  新华网",
-      "category": "chile",
-      "sourceName": "Chile Innovación",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01enFXUTh0YUNINXVMOUtIRzBWWjBRVmRyemdBb3kyTk1SRmMzVmFNS2xpamRYN2J3REU1WHNUQ1YtbEpZMEszLTRueXhHUWJ0SVhXS2llNUxMVDhZOWd1eTIwZnBjRHlOV0VDMm9kd1hHV3pja1RXejBmXzQ?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-08T22:05:30.000Z",
-      "positivityScore": 90,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "CHILE"
-      ],
-      "featured": false
-    },
-    {
-      "id": "823bc172",
-      "title": "Biohub, Google y Meta suman US$1.800M para biología con IA - El Ecosistema Startup",
-      "summary": "Biohub, Google y Meta suman US$1.800M para biología con IA  El Ecosistema Startup",
-      "contentSnippet": "Biohub, Google y Meta suman US$1.800M para biología con IA  El Ecosistema Startup",
-      "category": "ia",
-      "sourceName": "IA Positiva",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLXRpQWJSMnY1Ynp3U05YQ1FzUFM3Ny0wMms1c0U1Y2xLNDVMYmU4RVh1aHBxN2tBZzQ1azlvdjdNT1hSWDhLb2NpZXY0M1M4Rk5EeHBYc0FtaC16UVMzZVExaXdqOXNnYVlMZDE5LUlYUWlpUkRudkJFeEM4eFI2ZGMtdHlId3NxaldyaEJHTk8?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1576086213369-97a306d36557?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-08T21:21:38.000Z",
-      "positivityScore": 97,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "IA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "eb5bf453",
-      "title": "Es uno de los jugadores favoritos de Nicolás Córdova, pero no sumó minutos en la gira con la Roja - AS Chile",
-      "summary": "Es uno de los jugadores favoritos de Nicolás Córdova, pero no sumó minutos en la gira con la Roja  AS Chile",
-      "contentSnippet": "Es uno de los jugadores favoritos de Nicolás Córdova, pero no sumó minutos en la gira con la Roja  AS Chile",
-      "category": "musica",
-      "sourceName": "Los Tres",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQlBmdmRrTTU1Ri1HVFVNQ2xIRXdza25aTUN4Qm5BeTlKWm91azU2UmdOOFhCaU1BSlNBVVgwbVNnZnRWbEFWRm1abGY5NVZSV2dXVWF2MmhaZnhsM3I2b1JodE5YUXlFUkIybGRSVEpZUlM4NmY2Qmt0RjJXeFRzVnhGejdXM2JnY0FQVDlIWHoza3MySWhSVlNpbWJ2MEc1UkhqRkZId0VvZ01xU21XMEc4TkkzeXNQZjdfWjF1dnNGLUNvcENBMWlGeUVxSnl40gHkAUFVX3lxTE1HNF9hMU1LeVRRTy1yUmMwc2dnS0JLZEVtbXlGM2hVTjZneHVNY21tTFp2Q29VZHA0UHZVWG1uTUhCaWozOFlkU19QcGpBbEVnNzFCdkRud1d1Sl9NSUxUQmYyNy1YMS1EY296UkxxZFd2OGxIM2hLZWUtb3VTeVVJQUtYM2ZialBEMnF0RnZzS29DbFZESTVRQUdnVHhHdmNtZzlleFlsR2FHaVpTSHRoLTJYbGZjZC02bWNrWWZtZUJaS2o2T0RRUG9MdEphc1ljMlRjSHVIUnN2SlVZY1NyTXdnWg?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1487180144351-b8472da7d491?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-08T19:27:38.000Z",
-      "positivityScore": 91,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "ef2d72d9",
-      "title": "El turismo aporta el 2,8% del PIB de Chile (y ahora se puede medir región por región) - Diario Sustentable",
-      "summary": "El turismo aporta el 2,8% del PIB de Chile (y ahora se puede medir región por región)  Diario Sustentable",
-      "contentSnippet": "El turismo aporta el 2,8% del PIB de Chile (y ahora se puede medir región por región)  Diario Sustentable",
-      "category": "chile",
-      "sourceName": "Chile Innovación",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZWpZQ1pPR2hMXzBmelBza1FRYjRmdHpjbFZzZGtJMHh2blhyLTBFSHlYUjMtQ3lJd3BxS0dvV2ZTd3RWMlVYZDA5R1RmTlQyODlEOUpBQVlHOS1Fc0pWZ01rRlhIaS0wVUFFTjdveGg4VUZZVkV3ZHgxS1kyQ0xvb1ZBWThtOTl5OTVzTGx4S2xBWUxhVHY1bXltZ0stM0xIOEZTLVdEOU9OSWlVanRBV3Mxa0JJU1h3ZDM4QUF5Y1RkUQ?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-08T18:55:20.000Z",
-      "positivityScore": 91,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "CHILE"
-      ],
-      "featured": false
-    },
-    {
-      "id": "7fe823e2",
-      "title": "Ecuador, México y Bolivia lideran a las 'armys' viajeras para ver a la banda BTS en Perú - Infobae",
-      "summary": "Ecuador, México y Bolivia lideran a las 'armys' viajeras para ver a la banda BTS en Perú  Infobae",
-      "contentSnippet": "Ecuador, México y Bolivia lideran a las 'armys' viajeras para ver a la banda BTS en Perú  Infobae",
-      "category": "musica",
-      "sourceName": "Los Tres",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWGgxdDJBZ0t1QWhjZjM0dnlST0FIOG9HSV9ydnRoZWx5Q0NkNmJ1dnRPdjNCRld0dDJuaTEybmxDUTdVY3pHdl85MWEtdlhpb3pwUXpzZ3VmeW1aVV9iQ0tMdEFRWGxxUjA2THVtYXFkVTducmZ6Mk5xQ2RuOVBfekc1ODl5OGRONWx5cE81Ukg2VkhITUVzVE9yR0lkNVNOODlYVkxIZlJwV1FMdGlsaXpDWUVnRms0Q0tHbW9pS3JhRFJvbHluT2VtTUxldVgxWHVBaNIB7wFBVV95cUxObEUtOEoyNEN5akg0cWotcUl3WXYyNnNoSU9NbkktY3JxZ3Q3bFpTNHgzajNtUDh4ajAySS1nUFpUWmlYamthTURCTWlOa01XQ2hvb1VwYjNfY2JBcmE3U2hFUFAzNXJ0SUxhVEZZSkxreXlPOFRORmEwaGx5MVlZblNseFFzWjcyZVMzSFllMEhPWlBjdmdNUHpPWVJvaFFFck9XZk9UVkVOdzlsVUVMc0YtTTQ2QUU5VVlUQWdLRmhBS2J3QW45VWVWRUp4YnJ4X0E0RExBb0g0M3BLWTVMUVJpSXJidUZFbm9Tam5rVQ?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1487180144351-b8472da7d491?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-08T16:35:48.000Z",
-      "positivityScore": 88,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": true
-    },
-    {
-      "id": "0204bcc2",
-      "title": "Lollapalooza Chile 2027 en el Parque O’Higgins de Santiago, 12, 13 y 14 de marzo - WalkingStgo",
-      "summary": "Lollapalooza Chile 2027 en el Parque O’Higgins de Santiago, 12, 13 y 14 de marzo  WalkingStgo",
-      "contentSnippet": "Lollapalooza Chile 2027 en el Parque O’Higgins de Santiago, 12, 13 y 14 de marzo  WalkingStgo",
-      "category": "chile",
-      "sourceName": "Chile Innovación",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUkZkSjE5SV9qRzRtdE9Pcjg0R1JMOUdGMDV5ZHpCd19QNmQtQk9maF9pTTJZX3Ntenc0QVMxdms1dG9FcllBRUVXOXFrWXlfRlNodk1qdDNSQnE1b25oVG1tVm5xbFNuZVJVODhKS1M4Vjkwck1aV1NHak1VSW1TcDZwdmZHeGRNN0JlSU5xeVB4UzI5bzFaV0YxWG9BTVczSHJV?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-08T16:13:57.000Z",
-      "positivityScore": 92,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "CHILE"
-      ],
-      "featured": false
-    },
-    {
-      "id": "a6c95280",
-      "title": "Lollapalooza Chile 2027: estos son los 10 headliners que llegan al Parque O'Higgins - 24horas",
-      "summary": "Lollapalooza Chile 2027: estos son los 10 headliners que llegan al Parque O'Higgins  24horas",
-      "contentSnippet": "Lollapalooza Chile 2027: estos son los 10 headliners que llegan al Parque O'Higgins  24horas",
-      "category": "chile",
-      "sourceName": "Chile Innovación",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQVR5c2dLNWZRMm1jb3BLei02WUI2UlZuZEo4VGR3Wkx4RFhIQ3cyd0xENkhqeFBIeG4wUFM4c2RzczZuU1ZOU0NuQjIzaVRKdVR5VjNRSHpmQTc0a1c5alpQZF9ZVGtjX0VPenF1ZGQxWEVGQU12c0hhVkRLZThXRGdLdm9Wb3B0U3MyRlkyRWZTRjJEVEJZX2xjdWRNejl1NWfSAacBQVVfeXFMT2dma1IzbHZxc1lrT0thYXk1dDZzZW9aVVNKbUF3WFU3R3VsaGJ6cVpjN0U1SmM4a1RPODdzT05sTnFodU9pZ3BLMWVIZUM0T25oell0NGtMTmtka2NNdXptT0NmTWhib2pualU2eG9QejRrajJ1NWhiMjlJbC1tdmtDSnMwRUFyMXpSTzBpMkJkQUJPR2lnWmJYNnpHQnBZT3ZzckgyQ0U?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-08T16:00:00.000Z",
-      "positivityScore": 91,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "CHILE"
-      ],
-      "featured": false
-    },
-    {
-      "id": "8b49ceb8",
-      "title": "The Killers, QOTSA y The Prodigy llegan a Lollapalooza Chile 2027: cuánto cuesta ir al festival en Parque O ‘Higgins",
-      "summary": "The Killers, QOTSA y The Prodigy llegan a Lollapalooza Chile 2027: cuánto cuesta ir al festival en Parque O ‘Higgins  Futuro Chile",
-      "contentSnippet": "The Killers, QOTSA y The Prodigy llegan a Lollapalooza Chile 2027: cuánto cuesta ir al festival en Parque O ‘Higgins  Futuro Chile",
-      "category": "chile",
-      "sourceName": "Chile Innovación",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUTF1MGNCSVM2eTl1V2xMSk81T19TTzQ3LXZpbVFJdzdsMkFqOWZLbFh0eFB2ZWV2SW5vVXhkY0liQUZUcWJmNlhXS3dqS1JSYlRQZlYzV0pWSWxoUkZfbEpWSUN4dHd5RVQ4Y0tlRlJUaUp5SlExT3lYOXB5Tm1tcHlJZlJROXVCOUZkX001dVlqamtwS3E4RGU1blVCMk15d0RQTWREbktaMklPYnB4YktnUXRhdGE5WWVXb0Q3OUdzZ2xGQ0NmSjl0MWFvNkpJeEEtWHRkSEdIblFX0gHiAUFVX3lxTE1sZi05dXY3VWpxRnQtTnRvSS1GWHFYR2U2MGF5Sm9pMmZUYm9zZjJqMUN2TlpvTnRYd0VWOHh6S1RUWW12RW9nNHRQay1FZ1NRakNlYU5qQWl6SEI5M1BLX2VDUGZJT0RtNmR6aEFFb3dnVm9qS1lmb2hNX0Rsa0pTNmkyTjJ5MGZrempJMlR5aUw0RTNVUlJDTkxQdXp3dWFiTTVsbWUxUzA2LUNxcENkLVpjTVBjbV9GNVhOT2NHTXZCelpxUG1aclhBUXE2WXh5Nzg1WDk2R2h1RDRCSWhEdnc?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-08T15:30:52.000Z",
-      "positivityScore": 88,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "CHILE"
-      ],
-      "featured": false
-    },
-    {
-      "id": "b768be9e",
-      "title": "Lollapalooza Chile 2027: lineup completo y preventa 3 activa para el festival en el Parque O’Higgins",
-      "summary": "Lollapalooza Chile 2027: lineup completo y preventa 3 activa para el festival en el Parque O’Higgins  Futuro Chile",
-      "contentSnippet": "Lollapalooza Chile 2027: lineup completo y preventa 3 activa para el festival en el Parque O’Higgins  Futuro Chile",
-      "category": "chile",
-      "sourceName": "Chile Innovación",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY3NuRVluU0xBR3NuU0NodmJVSEFIQ1oyNGpBY2lyUlkyWFZiLWlMbUJvaURFNzBKaVlyZ19NcDNkQnhiY0dTUlpNTnMwLUVTZzhTa25YQUpxclR0ejFXbmlINTBrZWRiS3NoQXBuR1M3cDRKT1ZvdjBBWlZVZEVsZkFXV3VsNTZMcUdfQngtTjloWWxVcGlqM2NnQlJfdDlLQVQ5NENGTmJYRzF0azMzV0RyMGlFSU9oR0FGQlJIRDhLRW5pWXRMM9IBzgFBVV95cUxNRF9kSjNaTkpnMWdBcXhKSGl1OFAwSFptdWNJTEh3aHktWU9nMDl1MG1QVXBNWDlnYmVnZ2dtV2I1emRLaUdGX3JvT2IwREY1R2JDU2ZqMTBVdWxyYU5jNGJHaE1mX1ZZYnY3ckR4dTlTSjlMM0ZyenU3eFNKcDJvWjhyWVYyVWZqS0g1UW10N2tTVHMzMjdYN3NkaTd0dnJmcnE1X2hOcl9jcXRkWGRYa24xdHQ4OEVUemdaTlRFalUyQTF4N1JxOU16ZUZOdw?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-08T15:26:10.000Z",
-      "positivityScore": 91,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "CHILE"
-      ],
-      "featured": false
-    },
-    {
-      "id": "469821fe",
-      "title": "Lollapalooza Chile 2027 revela su esperado line up: estos son los artistas que llegan al Parque O’Higgins",
-      "summary": "Lollapalooza Chile 2027 revela su esperado line up: estos son los artistas que llegan al Parque O’Higgins  ADN Radio",
-      "contentSnippet": "Lollapalooza Chile 2027 revela su esperado line up: estos son los artistas que llegan al Parque O’Higgins  ADN Radio",
-      "category": "chile",
-      "sourceName": "Chile Innovación",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRmxQak9FVm5YNkZYQ21CdmxUcnN4MFpoU0NIcXBha0FmSzc1b01ObGJVUzhyc29HN2hMUDhUN216YjQtUmFMN01vZHl5bkRQR2JwbXVkcm5leExVaTEyWmF4OF95Nm1saVVPVEFncGRoY1Q5ZllGQXZRQjNLUk1vTEhQZ1NlSldVRWJiVjNuNVg0MkRFQ0ZROGdKdW5yRm9qUlVjQks5dGJDclhhZHVHcnNTWk5aQ01KNDI3WEJSdGZ0R2VocjRpRjgyNWdRZFY5ajVGcFZR0gHqAUFVX3lxTE5xdzhDeUpCc19kVnlTZEhrWVU1d25wLW1BcHU4R1JGS0ZmOTNmRXdIVHJDc1F4SFVQN3l3ZERkNEw3LWdmTldQdHVwTUhVWHc4QXJqOVZPd25ZNm9uVU52OWNVWlZZZmV5SHlJRmQ5UEhhSmRIazF6RklWRVFWcXE0em9pWjlmU2d5akNOa0NZNWxnaE0tU05XcDViLWFjQVBMYmJzOWhxNTdtV2NjRVZjUFNFU1YzYXVNSUtJamNyNHZ4R1ZsMENHUTNOVG9Ec04tTlBKQnR3YXNydzNTZWIwQk5JUWo5RnlwZw?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-08T15:00:06.000Z",
-      "positivityScore": 94,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "CHILE"
-      ],
-      "featured": false
-    },
-    {
-      "id": "26174462",
-      "title": "Chile tendrá su primer banco público para validar inteligencia artificial en la detección del cáncer de mama - Portal Red Salud",
-      "summary": "Chile tendrá su primer banco público para validar inteligencia artificial en la detección del cáncer de mama  Portal Red Salud",
-      "contentSnippet": "Chile tendrá su primer banco público para validar inteligencia artificial en la detección del cáncer de mama  Portal Red Salud",
-      "category": "ia",
-      "sourceName": "IA Positiva",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdHhlbzNrTmx6MGJjOXlnQTQ1VElvSTg3OWZvSUE1T1VuSlNURDJ6c0dDdk93S1lsRGVONFFWUTRjMGhTMm03VGhvTzNvbktmSmltODZhcmdoMjI3MXlRZ2EteExyU2xBdHQ0RXFWTEc2VzMtODJCME8yZ2NvZXFNbm5mYUFTOXJiWVJzZWFQbXJfY01NVWxGLTBPNHliQmtZQ1JUQUlIT2tLUEVzdGtkWkdiZWF0NWROclB4dkdvOFZpazMxbXc4SHBSRFhkNkIyRW9rUk1HWmxYc1JlUlpN?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1507146426996-ef05306b995a?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-08T14:53:55.000Z",
-      "positivityScore": 89,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "IA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "eb514773",
-      "title": "[The Clinic] Gobierno Regional de Atacama y Más Chile Cultura buscan reconocer el Desierto Florido como patrimonio mundial de la UNESCO – Fundación Terram - Fundación Terram",
-      "summary": "[The Clinic] Gobierno Regional de Atacama y Más Chile Cultura buscan reconocer el Desierto Florido como patrimonio mundial de la UNESCO – Fundación Terram  Fundación Terram",
-      "contentSnippet": "[The Clinic] Gobierno Regional de Atacama y Más Chile Cultura buscan reconocer el Desierto Florido como patrimonio mundial de la UNESCO – Fundación Terram  Fund",
-      "category": "chile",
-      "sourceName": "Chile Innovación",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdHB2NFlfSzRmVV9oVmpMWi1LZ3BScVY3eWF2NzAwSDU5SnZxOWpsZjdaRW8xY3NYU3UxRU93dld5QUJlTVZUOGRJOTVqbVg2UTFvS0l6ek4wSW9saGZ6QzFiNFN6VnlBUy1RTnRheUNDX1RoRUlnZWE1aVU0SVJyNUo4MzRiT1BUc2hTZ21JQ2tCd3REUFkxNjJKbXNfazd3NW9Dd3UzTEhTbjJHcEphM25hN200d0xqV3gwUlBYT2dWVTRLUHVjME96b1lRYUx3d2JaUlJkZjJEQnRRUTRibDNzMEhYWC1VM3hKeA?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-08T14:25:48.000Z",
-      "positivityScore": 97,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "CHILE"
-      ],
-      "featured": false
-    },
-    {
-      "id": "806a66e1",
-      "title": "Queen recupera un video de Freddie Mercury grabado 13 días antes de su último show - LifeBoxset",
-      "summary": "Queen recupera un video de Freddie Mercury grabado 13 días antes de su último show  LifeBoxset",
-      "contentSnippet": "Queen recupera un video de Freddie Mercury grabado 13 días antes de su último show  LifeBoxset",
-      "category": "musica",
-      "sourceName": "Queen",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQbkVoclBXU0dtVndNLV9OYW8xUFVia3hydWtiVVBaRGZoRjRVY1Z5VWNWWDhDVXVFUEtwdWdiYnVjYmhXRGpNRGNQY2wtaDdSVThvWHB2SjVCdTVLVy1Sb0tJekJIMEllLTBHSXEyNDVqeU4tTXc?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-08T14:18:22.000Z",
-      "positivityScore": 92,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "793b5e55",
-      "title": "Summit País Digital aborda hoja de ruta para interoperar fichas clínicas al 2030 y anuncia primer sandbox de IA en salud - Portal Red Salud",
-      "summary": "Summit País Digital aborda hoja de ruta para interoperar fichas clínicas al 2030 y anuncia primer sandbox de IA en salud  Portal Red Salud",
-      "contentSnippet": "Summit País Digital aborda hoja de ruta para interoperar fichas clínicas al 2030 y anuncia primer sandbox de IA en salud  Portal Red Salud",
-      "category": "ia",
-      "sourceName": "IA Positiva",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQVh6blJ5dEpNRlljQndkSTN1VzVSOXZHN0ZwMU11UDhYVkpiUVBHYkU4VFhydHNzaEJId1YwTk1scXh5U1lNWUVLaEEwc0xoTGJxZkdiNGNpNjgxcHZ6RWNkbkxPdzRRTTVYQnU5M1pFNWhzY0dySWhUdDk3eEZzTEN2WS1ZbW1Lb3EycFRNRllSaDFHWHdIdTBBWGp1MnJ1QWppUDZCUS10S3V5aXZpZGdjbzMtdTNEb2hOTm1kN2UxZXEyR3lnX19oTkRRVTh5dXZyYWN3MUZvZ0hBSWZkZ1hjYzg3WnVOTDRqbFJnbw?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1576086213369-97a306d36557?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-08T14:07:09.000Z",
-      "positivityScore": 95,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "IA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "89d8eb9a",
-      "title": "La IA como herramienta para generar evidencia con datos de la práctica habitual - Red Amgen",
-      "summary": "La IA como herramienta para generar evidencia con datos de la práctica habitual  Red Amgen",
-      "contentSnippet": "La IA como herramienta para generar evidencia con datos de la práctica habitual  Red Amgen",
-      "category": "ia",
-      "sourceName": "IA Positiva",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWWpkb1JEMlVWRlV1MlNYUjVIUWNQOURHRmpFZU1UbUVvZmtmOE5Md0FUSjBvRm5wUDhOTFRoTkFka3Zrb0NaOU5KN2s5RjFYSmxIbkcxTEo0ZTlsbTE3UjVhMUl0ZjhkS1FNdnRPQk1iRXpMeUlsUGgzYmZrb0N2M09hbVBPNTlmLXp1V01xZ2xmQ3QtTnJpX2h0TVp4eUUtT05WbG5jc2ZTS2Z3Si01eGpwMloyUQ?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-08T13:15:05.000Z",
-      "positivityScore": 92,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "IA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "57b97c0c",
-      "title": "Zuckerberg y Trump se alían para usar IA en predicción de enfermedades - Forbes Chile",
-      "summary": "Zuckerberg y Trump se alían para usar IA en predicción de enfermedades  Forbes Chile",
-      "contentSnippet": "Zuckerberg y Trump se alían para usar IA en predicción de enfermedades  Forbes Chile",
-      "category": "ia",
-      "sourceName": "IA Positiva",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOHRDNnJxS2p2RWJha1lFZnFLb0VoT2JRaGJ6Y1A3cHVoa0dmVFdXdVpqWWNnTDdMSmswQlNRMVlfR3M1bGgyQk1CZWtoTlkzQkJCc3NrQm5qNW1xY05JLVRaaVB2NjRZWXZRcHZPZ1liU0FxWmpKWjN0ckVaaTUyYWNmeGh6Z3E2clBoOTRjZ0JfeUJsRkc2UXBxdjBraFRtWlNBc3JB?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-08T11:56:42.000Z",
-      "positivityScore": 92,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "IA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "08e71a58",
-      "title": "El último concierto filmado de Queen con Freddie Mercury vuelve al cine en 4K y Dolby Atmos - AVPasión",
-      "summary": "El último concierto filmado de Queen con Freddie Mercury vuelve al cine en 4K y Dolby Atmos  AVPasión",
-      "contentSnippet": "El último concierto filmado de Queen con Freddie Mercury vuelve al cine en 4K y Dolby Atmos  AVPasión",
-      "category": "musica",
-      "sourceName": "Queen",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYjhzSFByZ0s5aTk5YUhrQXhQUlh5blJyclIzTTFQTlpqR2lSWXpHT2IzZEdnYkkwdER6MTN4YVRDTGRtWEZYdnRWSG91OXppU1d0Z0hLOEw5WDEzNkoyR0tGcV95cVBXVVZiUnZ6TTlIMmhoM0gwR1J3ekRaa0VSRg?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-08T11:45:27.000Z",
-      "positivityScore": 89,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "74b847c5",
-      "title": "Turismo: Primer crucero antártico made in Chile iniciará temporada - InvestChile",
-      "summary": "Turismo: Primer crucero antártico made in Chile iniciará temporada  InvestChile",
-      "contentSnippet": "Turismo: Primer crucero antártico made in Chile iniciará temporada  InvestChile",
-      "category": "chile",
-      "sourceName": "Chile Innovación",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQm9PeGxMTlIwMFdBSVVYU1QxQVBlQWtkSFhzcmZ5T3hFekFfeXBKaUJxTlFfMFBNMTR0Sk9HaDg1OGFNSlRkcmtCWHlXVE9IR2tZcXJrSkJLS19UQVV4amhnLWdoQjE4aUdPXzZiMkpPTVN2TExYcnBHS08ya1J1ZTdqa05CMGJGZXpyejhRZ0Y4NFZ0NHdj0gGnAUFVX3lxTE5XakZQc0pnZEhNdHZHMk44RDNvOGZuSDBJcTdvbzZQRE5ZSG1PNXFjNkhXYjlwTzBhaVppeEg4THdJcEpoYVB5SU02ekVNUHFETTFsaUJYWnZiVDJjX3otd1RvOXZrMTViQ2sxMEhPd2FXVDVVaGNXTUZfNmhvdU5jZlhjY3RWNkNFcGJPYk1iUE4xTF9ZUmc1MjFRQTNScF9pNGVUdThz?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-08T11:43:51.000Z",
-      "positivityScore": 93,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "CHILE"
-      ],
-      "featured": false
-    },
-    {
-      "id": "5469826f",
-      "title": "Google, Meta y Biohub: US$1.800M para la primera célula virtual con IA - El Ecosistema Startup",
-      "summary": "Google, Meta y Biohub: US$1.800M para la primera célula virtual con IA  El Ecosistema Startup",
-      "contentSnippet": "Google, Meta y Biohub: US$1.800M para la primera célula virtual con IA  El Ecosistema Startup",
-      "category": "ia",
-      "sourceName": "IA Positiva",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQem9hZzNLYkFZZ0VsTGlPaTRGWF94Snh1LVVXSy1saWZHV2ZmT2UydW80MWtyNUFtSjZWS1JwVGtQX29OSkJyZi1tMmF2Z3FLQXVqM1M3UENPVVZlcEJEc05EekhWMms1cnJuX3RVOUhTdFNwQm55RUNZUFlxWS1yU2tNMldSamtqSUdpeUxmeDN1ZlZzQlVOQmtTaXB4aHM?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-08T08:22:10.000Z",
-      "positivityScore": 90,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "IA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "706916a2",
-      "title": "Mira a Queen interpretar Crazy Little Thing Called Love en Budapest - A Queen Of Magic",
-      "summary": "Mira a Queen interpretar Crazy Little Thing Called Love en Budapest  A Queen Of Magic",
-      "contentSnippet": "Mira a Queen interpretar Crazy Little Thing Called Love en Budapest  A Queen Of Magic",
-      "category": "musica",
-      "sourceName": "Queen",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRUt1Mm5mUmwxTC05WU5NZFgyRkdYUWF3MnAxUnNOTGJBUGNrQnBhU2dGMnZpakZCZG9MbHBjRUVHU1JvOEZlRi1CWHRPOG5Bdk90V3AwWUc3Zm82QW5LcXZtSnU0ak14UENFd1pEbFVaU0RFRkp1UFF2T0N0THBJa25fZ0VxdGw3VTZ5eFN5T0tTMl9ITngzX3Z0UFU4bnNhWlA1R29fd25XdXM?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1520523839898-50712170362f?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-08T08:02:47.000Z",
-      "positivityScore": 94,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "4e437742",
-      "title": "Queen: Budapest recupera en 4K el concierto de Freddie Mercury tras la caída del Muro de Berlín, - MUNDIARIO",
-      "summary": "Queen: Budapest recupera en 4K el concierto de Freddie Mercury tras la caída del Muro de Berlín,  MUNDIARIO",
-      "contentSnippet": "Queen: Budapest recupera en 4K el concierto de Freddie Mercury tras la caída del Muro de Berlín,  MUNDIARIO",
-      "category": "musica",
-      "sourceName": "Queen",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSnlTQ0dJU04yTDJSS3I1ZjhlQXcxZTJsT3ZtZnd3Zm1VaTZrSWM2NkdEdV9IVWhrQ1JRMUZ4VUdOaG9JbDd4M2hKZmZqSFNVc05SUXZBXy12M1k0em1LVmhPNmNjOUpsWXBSOG1VSnBHQ0RrM2cxRmF3NHZHczJWY2pZelhsMHF1VEk0UjVVMWJPTmFDR2t2OGhKdzY2dmtLbHJtYnlYUDVzVllaQVZMWUNvS3Q3b1ZIS0tvODhMRlI2TUFERlBXVGJBVjdOZ0dDVWdhMTkyRllEVTVSX3fSAeMBQVVfeXFMTU1rTHVhOGItY3F4WUhrakp5dUYtZG5OVEgtNnBvUjltSGNVeTdQZ21ZQWpUVkEwUE5YMjJnZEpqWDJDUHFTVmo3d2FvUTgtTlBnYVRVUWl5eENSRWJSM3hjRXl1YlhDamhDRGhpSkcwNjZKbldJMndGUjdIalF0UDBlN1dFc2FZVTB4eWhQbTd2dVZfZ3Bvel9UV0ZHdjdBMXhWenIzTmx4QW9LVU1sMXc5WmxHWWNBeGFnMDk3U0pzaG9YdDAzdDZsS1pPb214RDg5RGFlZEs2bjNneXdRZFBmbWc?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-08T01:01:42.000Z",
-      "positivityScore": 88,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": true
-    },
-    {
-      "id": "4ed21fc4",
-      "title": "¿Qué turismo queremos para Chile? - Chef & Hotel",
-      "summary": "¿Qué turismo queremos para Chile?  Chef & Hotel",
-      "contentSnippet": "¿Qué turismo queremos para Chile?  Chef & Hotel",
-      "category": "chile",
-      "sourceName": "Chile Innovación",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSbVZkaGNIekhrVjk4bS1pS29Qd0ZBSmhvVzV0Vm10T1pNbnRqdm5lVklfcFZraWk2eGR3cGhjOTBHTnNITmVxQ1ZlVkw2Uzhrcy05eUNsM2c0b204OGl3Z0pEamJYelA1MmxUX1FYZGdyZw?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-07T22:50:27.000Z",
-      "positivityScore": 88,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "CHILE"
-      ],
-      "featured": false
-    },
-    {
-      "id": "b6e6db9b",
-      "title": "PNP desarticula presunta banda que mezclaba pasta básica de cocaína con harina para vender droga adulterada en Independencia - Infobae",
-      "summary": "PNP desarticula presunta banda que mezclaba pasta básica de cocaína con harina para vender droga adulterada en Independencia  Infobae",
-      "contentSnippet": "PNP desarticula presunta banda que mezclaba pasta básica de cocaína con harina para vender droga adulterada en Independencia  Infobae",
-      "category": "musica",
-      "sourceName": "Los Tres",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSk5xYzc4aU5RS0hkWDNxTHlXeDFFOWZhVU5VN0E2WXRLNGlPN1NldzA4WmdNNnBKeW9WR3ppMGZ6ejU2aFJjc0liNUlUckJueU9wLS1YekNnUldTX2h6Smw4Nm1Mbl9rWjc2XzF4dUktRHp6NXN0Skt4NmNDcDVYbGZfZW03SGdBVXpEWm9WVmd3TXQzVXBmam9hYUd6RzRUTEhKd0tsell5VHBDTXR0WHRXdlJxbTV3QzI0UXlILTR4SHhJalFNV3FRVEJTXzFIYmhWT3hPYjZncGI3RDZlVGJJM2tMbk41R2FtZ3lGMklLWEw5SnBadtIBkwJBVV95cUxQLWFxZ0VOY3dnSnBnSDNsOFZsU0xQY2pWVWlKTThYRzhsVUg0OWU4bzMtOE5VQl9ZRzViMm9qOElyRy1NNTJvMnI2YmNQOVRaTTdhNEdiTW04c1RJMElOVEZncXRibVRFQjd6eExyOW1UVmszNmJWZnM5QjhvZEVhUC13ZnBXZ0Y4SjNPSGh0YUxETmQ5WUFKWWJzSkFhbG0tbHc4ZUdHRnpfdFhYXzJadUxhS2xBQ0pSa0hhWDVGdmVkRy1GRHNmaVViVk0xdnl0YkdBVTY2TzdJdTNtMHVycmExQkVwd1BzcVpvMDhkdms3NGxzV2Z3OWFBcG9fbW9iQ2U5cE80VDRCLUs1M29NZ2FUTQ?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1487180144351-b8472da7d491?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-07T22:34:00.000Z",
-      "positivityScore": 93,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "15e13b87",
-      "title": "Las 'armys' esperan el deseado primer concierto de BTS en Perú: \"Nos abrió un mundo nuevo\" - Yahoo en Español Vida y Estilo",
-      "summary": "Las 'armys' esperan el deseado primer concierto de BTS en Perú: \"Nos abrió un mundo nuevo\"  Yahoo en Español Vida y Estilo",
-      "contentSnippet": "Las 'armys' esperan el deseado primer concierto de BTS en Perú: \"Nos abrió un mundo nuevo\"  Yahoo en Español Vida y Estilo",
-      "category": "musica",
-      "sourceName": "Los Tres",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXNscE1pOFNzWHVUTGM0UlZ3WnZUaHpmbEtjVFR0WkFiNWNZNHJnQzVZLVNIVUtWWFUwMjRQNkhMUC1kYV8yVFlKRDh3MzhkYjZtRjFDMUM2UUtUZ2lBelo2cEFjaVlDWUdqSVVlQm1YZUVVUzZBckltX1gzNUxxOV9nMTFpTHpWc0o5cTdMMA?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-07T21:26:21.000Z",
-      "positivityScore": 97,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "6308342e",
-      "title": "IA, salud y bonos de alta calidad: Dónde invertir US$100.000 - Bloomberg.com",
-      "summary": "IA, salud y bonos de alta calidad: Dónde invertir US$100.000  Bloomberg.com",
-      "contentSnippet": "IA, salud y bonos de alta calidad: Dónde invertir US$100.000  Bloomberg.com",
-      "category": "ia",
-      "sourceName": "IA Positiva",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iNzQzR2ZXZ3pTbGRTdTMzNTlFZnlhV0VVeGdIM1l2S25tOUpFRFQzREFmZWhQWkNQXzlneDl1OEpJaW5mcFdoSlpWWFJNUlRqV0lIS1BfbFI5amdkSmxnR3RHNjdyeFhia21Ub2FKTTA?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-07T21:17:00.000Z",
-      "positivityScore": 88,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "IA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "f7aabe23",
-      "title": "Pin Up Chile convierte en premio para los hinchas latinoamericanos el primer tropiezo del Sevilla FC - Sabes.cl",
-      "summary": "Pin Up Chile convierte en premio para los hinchas latinoamericanos el primer tropiezo del Sevilla FC  Sabes.cl",
-      "contentSnippet": "Pin Up Chile convierte en premio para los hinchas latinoamericanos el primer tropiezo del Sevilla FC  Sabes.cl",
-      "category": "chile",
-      "sourceName": "Chile Innovación",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV3IwRXFWaGNuc21PX0I1bUZUOXlqMWZTa3hDYkxxUXVLbDRYN1lxYnpjOGVPSlk1M3BTUU5MVHNadVhhZTVSMTRmako5SjN5QVBJX3dqYXJVZ3BnOFpORHpCZUpMZTVvMFFHZDZzMDlrWDBMMmlpb3RjanZhazZzRHVWdUtfYTNSVDdXZGhEY19vT0dPMmNLblhuSGpsNkU3OER2LVFxanZabDdpRWdNc010OWJkRWNFa3hSWm1hSEZ4Y2d2U2FiSA?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-07T20:26:26.000Z",
-      "positivityScore": 91,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "CHILE"
-      ],
-      "featured": false
-    },
-    {
-      "id": "373250c2",
-      "title": "Barcaza La Tehuelche en carena golpea al turismo en Chile Chico con desplome de reservas - Radio Santa Maria",
-      "summary": "Barcaza La Tehuelche en carena golpea al turismo en Chile Chico con desplome de reservas  Radio Santa Maria",
-      "contentSnippet": "Barcaza La Tehuelche en carena golpea al turismo en Chile Chico con desplome de reservas  Radio Santa Maria",
-      "category": "chile",
-      "sourceName": "Chile Innovación",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNHJOdS1nUWZ5Q0E0ak9pelYyUXJ1MEljVnhEWUJUUndkaFdTNzRLOU0tTThXNTNwdkFwTkNwZ1ljS3I5bThCUEpWZHgxNm9zbTNLWGgzeTRIMlhvS3JGQWVCb1hMTlIySV9JbVRsWHdBUml1U0g1MjVxWkhIblNrbVpxdDVXOEN1M2dKSnhmSFZsbFZuQ3BweWdVR0NCU25GOXFzRTJ5dlhWU3lMSVQ5SUlmTURheDRvZEUtRnVvMmM3YXc1VzhNcG52Z0IxWldrMVRnZA?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-07T19:47:07.000Z",
-      "positivityScore": 93,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "CHILE"
-      ],
-      "featured": false
-    },
-    {
-      "id": "8e9bcc64",
-      "title": "Fórmula 1: Los horarios y quién transmite en Chile el Gran Premio de Singapur 2026 - Bolavip Chile",
-      "summary": "Fórmula 1: Los horarios y quién transmite en Chile el Gran Premio de Singapur 2026  Bolavip Chile",
-      "contentSnippet": "Fórmula 1: Los horarios y quién transmite en Chile el Gran Premio de Singapur 2026  Bolavip Chile",
-      "category": "chile",
-      "sourceName": "Chile Innovación",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSUhvR2NKRnR1X1E4SFh4QVBSOWNHa3Q0MzBVc3BSdFdFU3VwSmNsZmhvckVlbGN1OXdQWTJkelVtdVIyYnlmNDhkWDZpMDBacXNuX0wwMGpKSFFGWloybnlEQ0psaUtVMG1CSldHYTE2YjFpLWNId1RFV0c3dXBDcm5Yakxldm5ybHFlbGZ2ZFhWU1NxcmxhOFZXLVpiRkxfVHFneGVtTlNzX0JNT09zNVJBMV8tTlV0anfSAb8BQVVfeXFMTkdBVzNVcUdmbm0yUVNmNl9rd3ZVRjlKRkVNYmVhOWRwZW1OYUpCekxPdmFUWjF5UkZ2MWRXZ0txY3NiVl9samVJV195X0Rlb3FIbVlRekc0enJLdUt1WEZKZkdLSm9ONmpkek03b1VoRXBuQ09sWlREWlhVd2ZWNFVCVWJzNVJfWGMyMGdUemlpNnhOWU9KbkRfLWdwbU9EX1dCZHp3OXBoOThhVmdUMmtEZWNGbVVOR2VuTVpBTkk?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-07T19:27:36.000Z",
-      "positivityScore": 89,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "CHILE"
-      ],
-      "featured": false
-    },
-    {
-      "id": "be6a0e95",
-      "title": "“May´s Wood”: El bosque creado por Brian May de Queen - Radio Universo",
-      "summary": "“May´s Wood”: El bosque creado por Brian May de Queen  Radio Universo",
-      "contentSnippet": "“May´s Wood”: El bosque creado por Brian May de Queen  Radio Universo",
-      "category": "musica",
-      "sourceName": "Queen",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUUZoVmFEMWM3WFc2Q2NGRkdDNWltVmRNQnZvMlRWeGdsVXQwb1hycEZ1X0FocmxEc0RNQkM5ZllBQm40LUZaWndOOGttak5wTzZSQXFVb3BHaFc4Y3VmencwSjd3U3U3MU1LX2lpU2pfTk0zTHRZYTByMm1DTWRRdEplYw?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-07T18:03:09.000Z",
-      "positivityScore": 92,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "915e62e0",
-      "title": "Gabriel Suazo lidera a los reprobados de Chile: El balance de La Roja en su gira por Norteamérica - Prensa Fútbol",
-      "summary": "Gabriel Suazo lidera a los reprobados de Chile: El balance de La Roja en su gira por Norteamérica  Prensa Fútbol",
-      "contentSnippet": "Gabriel Suazo lidera a los reprobados de Chile: El balance de La Roja en su gira por Norteamérica  Prensa Fútbol",
-      "category": "musica",
-      "sourceName": "Los Tres",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4ME9KU2Z1MzNHZy1zZUdSRjhpbG0zS1F3VE5JSXo1WW11MDcxMW9KNUswYWh0LXVJSUZNeE9iS0IwMUlCRXBhUGFacGY0QjFVdy10NFB1SjhZQWhBN0hUb0F3cGROZjNzWjNGVU5kMi1ka1hBOWNDa2pn?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1461360370896-922624d12aa1?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-07T17:25:48.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "dab30396",
-      "title": "Ñuñoa presenta sistema que usa inteligencia artificial para reducir inasistencias en la salud municipal - Ilustre Municipalidad de Ñuñoa",
-      "summary": "Ñuñoa presenta sistema que usa inteligencia artificial para reducir inasistencias en la salud municipal  Ilustre Municipalidad de Ñuñoa",
-      "contentSnippet": "Ñuñoa presenta sistema que usa inteligencia artificial para reducir inasistencias en la salud municipal  Ilustre Municipalidad de Ñuñoa",
-      "category": "ia",
-      "sourceName": "IA Positiva",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcTBMY0RsS2Q3T09LZFI5aEhRZjRnRGFuRnJKTDdzOXlCOFFCdW0xYUZObC01TDJKWWVpSEdWRzAta0NPS1pkVTFXWF81YTJ2YzJycDJYUTRVTElmdmV5MTRCbjBtNGpXUk8ySGphdkQwOUhJTkFQbzVuSl9NOEQzVF9EdU00NDRKLVZQTU9lTlhiaUxYLVZyU2tlakcyTld3anJBWVZrQnVvZHhiM1o3WnFDX3pyNlhOWGRraktGYXJxZGs?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-07T16:41:04.000Z",
-      "positivityScore": 92,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "IA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "59a6c41a",
-      "title": "Faltan tres años para elegir Presidente y tres nombres ya se instalaron arriba - Radio Concierto Chile - Sólo grandes canciones",
-      "summary": "Faltan tres años para elegir Presidente y tres nombres ya se instalaron arriba  Radio Concierto Chile - Sólo grandes canciones",
-      "contentSnippet": "Faltan tres años para elegir Presidente y tres nombres ya se instalaron arriba  Radio Concierto Chile - Sólo grandes canciones",
-      "category": "musica",
-      "sourceName": "Los Tres",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeFhXc0VFdmJ4QWFScjV4WlFaWlJOczhHNUJoSWRGNFVOT2x2cW92NWtPeThDcTNETllrdWhLanB5OWpkclg3TS00ZzBINlNKQ29zR2o3dGlLQXE5MGdCSGstVS1pUmhSLXVwVE1rMXdKRHpmY2JYZnFmaUlpQmdZeWUwRWRWVF9JaFBRVEdnZktKSzVkbzQ4ZlpNLXpodEZHYVA3bVAyRXg3V1diTTRoT0t3?oc=5",
+      "sourceName": "Rock & Pop",
+      "sourceUrl": "https://www.rockandpop.cl/2024/05/los-tres-la-revuelta-historica-reunion/",
       "imageUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-07T16:33:51.000Z",
-      "positivityScore": 88,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "c25b2a5f",
-      "title": "Investigador USM participa en desarrollo de tecnología con IA para personas con hipoacusia unilateral - Portal Red Salud",
-      "summary": "Investigador USM participa en desarrollo de tecnología con IA para personas con hipoacusia unilateral  Portal Red Salud",
-      "contentSnippet": "Investigador USM participa en desarrollo de tecnología con IA para personas con hipoacusia unilateral  Portal Red Salud",
-      "category": "ia",
-      "sourceName": "IA Positiva",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMnZoN3Bzd25XMXVVS0VYWUh1aHdTeU5mSHIwY2trZXlzcVhZNFBEb0s0emRRaVdDa1lEWVE2Wi1uVXRQWlE2YkUxNl9INE10aXA1TVk4R2tGZlRieUxPWVMyRGFBbUdNSkJRQXJQVkt0c21nX1pFZnlNMHQtSzRjR1pOY29uRDF0UnVZcHNqYTVBQXktUWVtbnNydFd4QWdTbjVqT3IxNGFRLVBsOGJpN29QRjBqeVBUU25nV2ZYaUdIQUVCdnNhV0YyaGVVZHFtN2lnSEZB?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1576086213369-97a306d36557?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-07T15:55:07.000Z",
-      "positivityScore": 94,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "IA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "f41e0b89",
-      "title": "Ciencia gratis en Arica: Robótica, astronomía e IA llegan al Parque Centenario - El MorroCotudo",
-      "summary": "Ciencia gratis en Arica: Robótica, astronomía e IA llegan al Parque Centenario  El MorroCotudo",
-      "contentSnippet": "Ciencia gratis en Arica: Robótica, astronomía e IA llegan al Parque Centenario  El MorroCotudo",
-      "category": "ia",
-      "sourceName": "IA Positiva",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOW5COHhFT3BRSGhFMmhOU1lORVZxVVVXUGg4YXhJc0w2UGhMOHpsaUNGaEwtc3ZUeEJ3MVpTN3FFRUNrZ2xvSHE3aDdndUtNZWJJSkxnMGFyejdkWERFUHFiR2JFblMzdDQ0ZmI5NU9TX1EySjZydWdKRG1NR054cm5BY1MzQkxvbWtjeEg3X3BUNHZrSHlqeUtiYms3ZVBUU25tUlQ3aEFsOW5LaWU3SVI0ekNjZkRXV1gxbzA3SERYUQ?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-07T15:40:52.000Z",
-      "positivityScore": 95,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "IA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "62d97cd5",
-      "title": "Aprueban ambientalmente en Chile el parque Sidon Solar, de 158,17 MWdc y 1.296 MWh de almacenamiento - pv magazine Latinoamérica",
-      "summary": "Aprueban ambientalmente en Chile el parque Sidon Solar, de 158,17 MWdc y 1.296 MWh de almacenamiento  pv magazine Latinoamérica",
-      "contentSnippet": "Aprueban ambientalmente en Chile el parque Sidon Solar, de 158,17 MWdc y 1.296 MWh de almacenamiento  pv magazine Latinoamérica",
-      "category": "chile",
-      "sourceName": "Chile Innovación",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZTFMdHBHc1pLMkYzbVZBTEEzaGpHSlYzdVYtcl8xNV9uSHJjWENSVFVTVEFoVlFiTmFaWFh3MUNnbWtldnRCb3RLNnJyUzhUOTVSblNOeXlDMXg4OWxSN3JQZkxWNVNLMWRKcG5hVEhNOWZOUWE1d3JuVnBoTEFHWWdZSXZuaU82Wmt1UzY2dEtPWXZ4UjdqVjllR09TQnJoTnlURXhhNXNKZXZhcW9LVmxJR2RUOGhBVU1oRFUxSmlpam1aTEZPbDBkOWlNOHJPSHlfVjlkOHB4X2df?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-07T14:56:36.000Z",
-      "positivityScore": 97,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "CHILE"
-      ],
-      "featured": false
-    },
-    {
-      "id": "646d8f72",
-      "title": "Liberan nuevas entradas para los tres shows de BTS en Chile: revisa CUÁNDO y a QUÉ HORA será la venta - Teletrece",
-      "summary": "Liberan nuevas entradas para los tres shows de BTS en Chile: revisa CUÁNDO y a QUÉ HORA será la venta  Teletrece",
-      "contentSnippet": "Liberan nuevas entradas para los tres shows de BTS en Chile: revisa CUÁNDO y a QUÉ HORA será la venta  Teletrece",
-      "category": "musica",
-      "sourceName": "Los Tres",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZDlTVTNuSHRuWHJpT0ZHSEU2WS1ybS1EekYzb2IwTHdidVcyOW0yOXl4Tm1TMVZ0QkxEYUxRXzZoWGVaVzE3RlU5aG12VktCZW81RWFwQTZBRGhyQ0JtOUNXRVZTVFBUZDZiYlFCdUMxZmFQd0IxTkpaMzlHSXJ6RkVUVmd5SDNjVlptRTBTZmFaMllLcXctZVV2NUsyZXZqc1NlMmZzX3ZRYmU1elBnVGZiTi02bEtlTzRRR3JDcFdOZw?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-07T14:30:00.000Z",
-      "positivityScore": 94,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "cfa0d0a9a43be229",
-      "title": "Danaher lanza un laboratorio autónomo con inteligencia artificial para el descubrimiento de medicamentos. - Quartz",
-      "summary": "Danaher lanza un laboratorio autónomo con inteligencia artificial para el descubrimiento de medicamentos.  Quartz",
-      "contentSnippet": "Danaher lanza un laboratorio autónomo con inteligencia artificial para el descubrimiento de medicamentos.  Quartz",
-      "category": "ia",
-      "sourceName": "Google News - IA Positiva & Ciencia",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMDJLSDFnOWV4YTc0YlM5RjN5R3NiTmRQbzZtMTVlMlVSR25IcktKQUlUUFREU1FWZjBNZG9IQ2J3UDg5dUJYZkVNT2ctZ01NcTRod1BSVE4yMHUxVUFxTkZKa2ltd1BHYXNGZTRpd29vWmJHeWNkX3k5THBsRm41VXBPcWREX2VWdDI5VE5PYw?oc=5",
-      "publishedAt": "2026-10-07T14:12:31.000Z",
+      "imageSourceType": "curated",
+      "publishedAt": "2026-10-09T18:30:00.000Z",
       "positivityScore": 98,
-      "readingTimeMinutes": 1,
+      "readingTimeMinutes": 3,
       "tags": [
-        "IA",
-        "Buenas Noticias"
+        "LOS TRES",
+        "ROCK CHILENO"
       ],
       "featured": true
     },
     {
-      "id": "483769dc",
-      "title": "¿Queen se retira de manera definitiva? Brian May anunció importante decisión sobre el futuro de la banda - Radioacktiva.com",
-      "summary": "¿Queen se retira de manera definitiva? Brian May anunció importante decisión sobre el futuro de la banda  Radioacktiva.com",
-      "contentSnippet": "¿Queen se retira de manera definitiva? Brian May anunció importante decisión sobre el futuro de la banda  Radioacktiva.com",
-      "category": "musica",
-      "sourceName": "Queen",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZ0twR3BVcjFxODBFSFN1ZWdTeENRMlRzVEZYeXc0ekhqREdQXzhBd1pKSXYzNWw5Zlc3akJuQlZMQUJqMUtWd3RoM094SFVjWjFyNHZVWW0wUFJNYk1qcU96VkJLdlFlMnFmeFdBSTJBeEhYYUhMZVROYnZYMWtsRXdTMmJMcGFuLUI4ektjbnlMRzgteGM1YWtXUVNxclVQekREVTV4c1NpMkIxN1RTenlGc3pKc3ZVWkptUmVDSFh4WHVoSzhoNFNkUVdyZlBvVjRkVTgwSEdkRWI4YWtWM2Z30gHnAUFVX3lxTE0wMkVZZmlrTHJXS2VnOEhuUkF6eWlJaS1UTTM1OWx0UGVNUzcxLWdya1A3SVR6RGpUdTIzRHZpR3NUX05tMjNHcHBXRTQ3VzdFbkxpaFF1UDdsZGZpYTVLNmkzT2FJUWEwZmtxY0lUUFctWlJ2SUwyQWt2UDVqbXF3amc5LVlPTFEyYndzSVdlSUVpdzF2SDk5aC12X2pvZVBjSkViTnNUeURmZjBud0lFMElORFUyaklZTnNCT3lMRXFWMnY5ZWV1V2h4SkhrVHU3X0R0cklyRjQwTUZSN3g3ZXVUQnY5aw?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1520523839898-50712170362f?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-07T13:59:45.000Z",
-      "positivityScore": 91,
-      "readingTimeMinutes": 1,
+      "id": "ia-nobel-quimica-alphafold",
+      "title": "El Premio Nobel de Química premia a la IA por resolver el misterio del plegamiento de proteínas",
+      "summary": "La Real Academia Sueca galardonó a los creadores de AlphaFold por diseñar herramientas computacionales que están revolucionando la creación de medicamentos y la biotecnología médica.",
+      "fullStory": "La Real Academia de las Ciencias de Suecia otorgó el Premio Nobel de Química a Demis Hassabis y John Jumper de Google DeepMind por el desarrollo del modelo de inteligencia artificial AlphaFold, junto al bioquímico David Baker de la Universidad de Washington por el diseño computacional de nuevas proteínas. Este galardón reconoce la resolución de un enigma biológico que desconcertó a la ciencia durante más de cincuenta años.\n\nDurante medio siglo, predecir la estructura tridimensional de una proteína a partir de su secuencia de aminoácidos requería años de experimentos de cristalografía de rayos X y resonancia magnética. AlphaFold logró predecir con precisión atómica la estructura de casi las 200 millones de proteínas conocidas por la ciencia en cuestión de minutos, liberando esa gigantesca base de datos de manera abierta y gratuita para investigadores de todo el mundo.\n\nGracias a este avance, laboratorios globales están diseñando enzimas capaces de degradar plásticos en los océanos, desarrollando vacunas de nueva generación contra la malaria y acelerando el hallazgo de tratamientos específicos contra el cáncer y enfermedades raras, reduciendo los tiempos de investigación de décadas a meses.",
+      "whyGoodNews": "La inteligencia artificial confirma su enorme potencial como aliada de la humanidad: una herramienta abierta y desinteresada que acelera descubrimientos médicos capaces de salvar millones de vidas y regenerar el medio ambiente.",
+      "category": "ia",
+      "sourceName": "Nature",
+      "sourceUrl": "https://www.nature.com/articles/d41586-024-03214-7",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=1200&q=80",
+      "imageSourceType": "curated",
+      "publishedAt": "2026-10-09T14:15:00.000Z",
+      "positivityScore": 99,
+      "readingTimeMinutes": 3,
       "tags": [
-        "MUSICA"
-      ],
-      "featured": false
+        "PREMIO NOBEL",
+        "BIOMEDICINA"
+      ]
     },
     {
-      "id": "e0763f7289c2ac7c",
-      "title": "La roca siempre se rompe”: el potente desahogo de una figura de La Roja tras el triunfo ante México",
-      "summary": "“La roca siempre se rompe”: el potente desahogo de una figura de La Roja tras el triunfo ante México  ADN Radio",
-      "contentSnippet": "“La roca siempre se rompe”: el potente desahogo de una figura de La Roja tras el triunfo ante México  ADN Radio",
-      "category": "musica",
-      "sourceName": "Los Tres",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT0RfY0ZZTXp2cDNOMFlpLUVqVU9aVGFjckVXbHR4Q2ExaDdjTERhTmpyUE9iQTVaNmtldjJvbUVER3lCb2gySXpRbXBHWld0MnhOc3l6VHNIOHR5RURLU0VCMTYwbU4xbHhIRVJKcnR6U1QxX3BuZDdVblVzMkUzeHl2MDlfbzA0SE9NTjl5bVhQbFVJLVZYclFHdk1vNS1STmNzdWl5T0FnTmJiWGpkdFVHQm1pUlBNeVFZM3Q4clVBLXpTQkN5bkRTR3lDZ9IB4gFBVV95cUxNLXZOSzRFQjYtRW9DYVZ5MC1TMWZIbml4c0hqazhkUk9PZmZsanNlakNlRHUwelBUSkZmcWJ0R0RDUTFkU253M0w3QjFQTlEtWVJJNllaRS1KalhDM1FDRjVyS2t1SHU1eUgtYVY3TlVrVmtkLVNHTkNsNkdjSDE0YXpFOGVkQzdhUEtJR3RDWk5LcU5PLXc4cHRkWUdNUzBwNVRnc0Y2em5FeFZCRGsycVQ3VUlrT3RDSWJDWUlHbEdXdElyektSa1V0V2x0bkdRMnNnaC1KSlU3NjVMTmw1ODRn?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1461360370896-922624d12aa1?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-07T13:44:14.000Z",
-      "positivityScore": 88,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": true
-    },
-    {
-      "id": "da8355d2d5356184",
-      "title": "Un parque solar en Arabia se convierte en un exitoso refugio para gacelas amenazadas",
-      "summary": "In clearing two hurdles with one bound, Saudi conservationists have turned a large solar farm into a breeding shelter for a vulnerable species of native gazelle. Located near the Red Sea coastline in a massive, 24,500-square-mile nature reserve, the solar plant is now hosting Arabian sand gazelles, a species of special consideration for wildlife managers. […]",
-      "contentSnippet": "In clearing two hurdles with one bound, Saudi conservationists have turned a large solar farm into a breeding shelter for a vulnerable species of native gazelle",
+      "id": "mundo-gacelas-parque-solar-arabia",
+      "title": "Un parque solar en Arabia se convierte en un exitoso refugio para gacelas de arena amenazadas",
+      "summary": "Conservacionistas transformaron una mega granja fotovoltaica cerca del Mar Rojo en un santuario protegido donde la fauna nativa se reproduce en libertad y total seguridad.",
+      "fullStory": "En lo que representa una extraordinaria demostración de que la transición energética y la conservación de la biodiversidad pueden potenciarse de forma virtuosa, biólogos y conservacionistas en Arabia Saudita lograron transformar un gigantesco parque de energía solar en un refugio protegido para la amenazada gacela de arena árabe (Gazella marica).\n\nEl complejo fotovoltaico, ubicado en una zona desértica cercana al Mar Rojo dentro de la Reserva Natural Príncipe Mohammad bin Salman, requirió de amplios perímetros cercados y vigilancia constante para resguardar la infraestructura eléctrica. Los especialistas notaron que la sombra proyectada por los miles de paneles solares reducía la temperatura del suelo entre 6 y 10 grados Celsius y condensaba rocío matutino, propiciando el crecimiento de hierbas y pastos autóctonos.\n\nAl eliminar la caza furtiva y el tránsito vehicular descontrolado, los guardaparques introdujeron un grupo inicial de gacelas que no solo se adaptaron de inmediato al entorno sombreado, sino que registraron una de las tasas de natalidad más altas de la región en el último lustro. Lo que comenzó como un proyecto de energía renovable es hoy un ecosistema regenerado donde conviven la energía limpia del futuro y la vida salvaje nativa.",
+      "whyGoodNews": "Comprueba con datos empíricos que la infraestructura solar bien planificada puede actuar como escudo de protección y restauración de hábitats amenazados en zonas áridas.",
       "category": "mundo",
       "sourceName": "Good News Network",
       "sourceUrl": "https://www.goodnewsnetwork.org/saudi-solar-park-proves-brilliant-breeding-ground-for-threatened-sand-gazelles/",
-      "imageUrl": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-07T13:00:15.000Z",
-      "positivityScore": 85,
-      "readingTimeMinutes": 2,
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/supplied-by-the-Prince-bin-Salman-Nature-Reserve.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-09T13:00:00.000Z",
+      "positivityScore": 98,
+      "readingTimeMinutes": 3,
       "tags": [
-        "MUNDO"
-      ],
-      "featured": false
+        "BIODIVERSIDAD",
+        "ENERGÍA LIMPIA"
+      ]
     },
     {
-      "id": "273273ef4ce6f7d8",
-      "title": "Cuando Queen atravesó el Telón de Acero",
-      "summary": "Cuando Queen atravesó el Telón de Acero  El Correo",
-      "contentSnippet": "Cuando Queen atravesó el Telón de Acero  El Correo",
-      "category": "musica",
-      "sourceName": "Queen",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNEd2UXNJY0x2T3BmaV9aMldYTkR2R1oxVnlldXJZVGJleUF1aVNEc0U3d09Idks0QmtwSG96RXVYVnlueEFlS1dHSWVVMzU2b29IYzZJdHk0Yy0zV3BTczA2VW1sWmJfM1B5d3ZVSmRhSTkxXzI0MjJfblp0Y3ZST1FoQ3g1NzJMaGFUVG9RVWZ0UmFIZjBv0gGcAUFVX3lxTFBFUGxEZFYxMFVkTGJDamtoUWlpT3BCMFpma2t5QXFlUGRRZ29fSzNGNmpPZlVOekpUQjB5dUlqdWlKeXU4Z1BLTXA4WlJqQUM5ZnhuT0dGSFkzZl91QXd4UVZhMC1aTjNBcWN0Vi1oRUMybU5ESngyZUNXclBTMmt5NlNQdzJqcldnN2djSEtra0duTGkxakJXbm14Xw?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-07T11:05:18.000Z",
-      "positivityScore": 92,
-      "readingTimeMinutes": 1,
+      "id": "chile-astronomia-alma-origen-agua",
+      "title": "Desde el Desierto de Atacama: Astrónomos chilenos y ALMA detectan agua en la cuna de nuevos planetas",
+      "summary": "El radiotelescopio más potente del mundo capta por primera vez la distribución de vapor de agua en el disco protoplanetario de una estrella joven similar al Sol.",
+      "fullStory": "Ubicado a más de 5.000 metros de altura en el llano de Chajnantor, en el Desierto de Atacama, el observatorio ALMA (Atacama Large Millimeter/submillimeter Array) ha protagonizado un nuevo hallazgo astronómico de relevancia planetaria. Un equipo internacional coliderado por astrónomos de universidades chilenas logró mapear con una resolución sin precedentes el vapor de agua presente en el disco que rodea a la joven estrella HL Tauri, ubicada a 450 años luz de la Tierra.\n\nLas imágenes revelaron que en la región exacta donde se están formando planetas rocosos existe una cantidad de agua equivalente a al menos tres veces la totalidad de los océanos de la Tierra. Este descubrimiento proporciona la primera evidencia observacional directa de cómo el agua se incorpora a los embriones planetarios desde las primeras etapas de formación de un sistema solar.\n\nEl estudio, publicado en las principales revistas astronómicas del mundo, resalta una vez más las condiciones inigualables de los cielos limpios y secos del norte de Chile como la capital indiscutida de la astronomía observacional mundial, donde se genera más del 50% de los datos científicos del universo observable.",
+      "whyGoodNews": "Reafirma a Chile en la cima de la exploración científica espacial y profundiza nuestra comprensión sobre los orígenes de la vida y el agua en el cosmos.",
+      "category": "chile",
+      "sourceName": "Chile Innovación y Cultura",
+      "sourceUrl": "https://www.elmostrador.cl/cultura/2024/03/alma-astronomia-chile-agua-planetas/",
+      "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80",
+      "imageSourceType": "curated",
+      "publishedAt": "2026-10-09T08:15:00.000Z",
+      "positivityScore": 97,
+      "readingTimeMinutes": 3,
       "tags": [
-        "MUSICA"
-      ],
-      "featured": false
+        "ASTRONOMÍA",
+        "ATACAMA"
+      ]
     },
     {
-      "id": "6af368f6cf3ffdc0",
-      "title": "‘You’re Walking!’ – Dad Surprises Children Having Recovered Ability to Walk After Serious Brain Injury",
-      "summary": "After 3 years of recovery from a brain injury sustained in a car accident, a father surprised his children by walking independently again. Lounging on the couch enjoying some TV time, children are excellent at completely zoning out of everything else around them. That’s why both the father’s older daughter and younger son did a […]",
-      "contentSnippet": "After 3 years of recovery from a brain injury sustained in a car accident, a father surprised his children by walking independently again. Lounging on the couch",
+      "id": "mundo-estatua-barroca-patio-antiguedades",
+      "title": "Descubren en un patio de jardín una escultura barroca perdida del creador de la Fuente de Trevi",
+      "summary": "Una obra maestra del siglo XVIII atribuida al escultor Pietro Bracci fue identificada entre ornamentos olvidados y será restaurada para el patrimonio público.",
+      "fullStory": "Un hallazgo fortuito digno de una novela de misterio histórico ha sacudido al mundo del arte europeo. Una escultura de mármol que permaneció durante décadas en el patio de una casa de campo inglesa, cubierta de musgo y utilizada como un simple adorno de jardín, fue identificada por expertos en bellas artes como una obra auténtica de Pietro Bracci, el célebre maestro barroco italiano creador de las esculturas de la famosa Fuente de Trevi en Roma.\n\nLa pieza, que representa con exquisito detalle el busto del Papa Clemente XII, había desaparecido del inventario vaticano a mediados del siglo XIX tras una serie de traslados diplomáticos. Un historiador del arte que visitaba una subasta local de jardinería reconoció las características del cincelado en los ropajes y las facciones del rostro, solicitando de inmediato una pericia con reflectografía infrarroja y análisis de canteras de Carrara.\n\nLos resultados confirmaron la autenticidad absoluta de la obra, que no sufrió daños estructurales de consideración gracias a la calidad superior del mármol utilizado por Bracci en 1736. La escultura fue adquirida mediante un fondo fiduciario para ser completamente limpiada y devuelta a una sala de exhibición pública en Roma, donde volverá a ser apreciada por visitantes de todo el mundo.",
+      "whyGoodNews": "Un tesoro cultural creído perdido para siempre regresa a la luz pública intacto, recordando que la belleza y el genio artístico del pasado tienen la capacidad de resistir al tiempo y reencontrarse con la humanidad.",
       "category": "mundo",
       "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/youre-walking-dad-surprises-children-having-recovered-ability-to-walk-after-serious-brain-injury/",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-07T11:00:39.000Z",
-      "positivityScore": 99,
+      "sourceUrl": "https://www.goodnewsnetwork.org/lost-italian-statue-by-trevi-fountain-artist-discovered-in-salvage-yard/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Model-detail-by-Baroque-master-Pietro-Bracci-of-Pope-Clement-XII-circa-1736-Woolley-and-Wallis-SWNS.jpeg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-08T16:45:00.000Z",
+      "positivityScore": 92,
       "readingTimeMinutes": 2,
       "tags": [
-        "MUNDO"
-      ],
-      "featured": false
+        "ARTE",
+        "PATRIMONIO"
+      ]
     },
     {
-      "id": "6c201964fdd168e3",
-      "title": "Brian May aclara que Queen no ha descartado volver a salir de gira - A Queen Of Magic",
-      "summary": "Brian May aclara que Queen no ha descartado volver a salir de gira  A Queen Of Magic",
-      "contentSnippet": "Brian May aclara que Queen no ha descartado volver a salir de gira  A Queen Of Magic",
+      "id": "musica-david-gilmour-luck-and-strange",
+      "title": "David Gilmour estrena \"Luck and Strange\", aclamado como su mejor álbum solista en décadas",
+      "summary": "La legendaria voz y guitarra de Pink Floyd vuelve al número uno de los rankings británicos con un disco íntimo, reflexivo y de una sublime riqueza melódica.",
+      "fullStory": "A sus 78 años, David Gilmour ha demostrado que su talento como compositor y guitarrista sigue estando en la cúspide creativa del rock mundial. Su nuevo álbum de estudio, titulado \"Luck and Strange\", debutó directamente en el puesto número uno del Official UK Albums Chart, marcando su tercer liderazgo solista y cosechando elogios unánimes de la prensa especializada internacional.\n\nGrabado durante cinco meses en Brighton y Londres junto al prestigioso productor Charlie Andrew (conocido por sus trabajos con Alt-J y London Grammar), el álbum combina la emotividad introspectiva de las letras escritas por la novelista Polly Samson con los característicos solos de guitarra de Gilmour, cargados de sustain, calidez y precisión expresiva. Entre las piezas más destacadas se encuentra la canción homónima, que incluye una pista de teclado grabada en 2007 por el fallecido tecladista de Pink Floyd, Richard Wright, en una sesión improvisada en el granero de la casa de Gilmour.\n\nEl lanzamiento ha ido acompañado de una serie selecta de presentaciones íntimas en el Royal Albert Hall de Londres, el Circus Maximus de Roma y el Madison Square Garden de Nueva York, donde el músico ha compartido escenario con su hija Romany Gilmour, cuya voz y arpa aportan una frescura etérea al repertorio.",
+      "whyGoodNews": "Un recordatorio inspirador de que la madurez artística y la creatividad no tienen fecha de caducidad; Gilmour rinde tributo a sus compañeros del pasado mientras renueva su lenguaje musical junto a su familia.",
       "category": "musica",
-      "sourceName": "Queen",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSlhKSHpSb3BZMTRhZVBQWVJ3VjNxYkluY3dfN0JwYkdhY05fVjhvOHlneUVOMlZWUEphZmVKU3VXTHRZSmFxSU5Xdl9WY0VsTzA0WGZlQWt1VmN6ek4zS2ZwcGxaaXZGQTA1WVotVGRpNFExRktPWUZ2MnRCdm5ab2wydw?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1520523839898-50712170362f?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-07T10:51:15.000Z",
-      "positivityScore": 97,
-      "readingTimeMinutes": 1,
+      "sourceName": "Futuro Chile",
+      "sourceUrl": "https://www.futuro.cl/2024/09/david-gilmour-luck-and-strange-nuevo-disco/",
+      "imageUrl": "https://images.unsplash.com/photo-1518972559570-7cc1309f3229?auto=format&fit=crop&w=1200&q=80",
+      "imageSourceType": "curated",
+      "publishedAt": "2026-10-08T15:20:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 3,
       "tags": [
-        "MUSICA"
-      ],
-      "featured": false
+        "PINK FLOYD",
+        "DAVID GILMOUR"
+      ]
     },
     {
-      "id": "fd281364fe786e84",
-      "title": "A future worth building. What to expect in the new issue of Positive News magazine",
-      "summary": "From future-focused projects to secret schools, the people in this issue are choosing to act for a world they may never see",
-      "contentSnippet": "From future-focused projects to secret schools, the people in this issue are choosing to act for a world they may never see",
+      "id": "ia-laboratorio-autonomo-danaher",
+      "title": "Crean el primer laboratorio biofarmacéutico autónomo con IA para sintetizar curas contra el cáncer",
+      "summary": "La plataforma integra robótica de alta precisión y modelos predictivos para ensayar millones de moléculas terapéuticas sin interrupción, acelerando los ensayos preclínicos.",
+      "fullStory": "En un hito que marca el inicio de una nueva era en la medicina translacional, el consorcio de biotecnología Danaher ha puesto en marcha un laboratorio completamente automatizado y gobernado por algoritmos de aprendizaje por refuerzo, diseñado para optimizar el descubrimiento de fármacos contra tumores de difícil tratamiento.\n\nEl sistema físico opera de manera continua las 24 horas del día. Mientras los brazos robóticos manipulan microplacas, reactivos y cultivos celulares con precisión micrométrica, la inteligencia artificial analiza en tiempo real las respuestas celulares, formula hipótesis sobre qué variaciones químicas podrían potenciar la eficacia de los compuestos y programa de inmediato los siguientes experimentos sin necesidad de intervención manual humana constante.\n\nLos primeros ensayos han logrado identificar dos moléculas altamente selectivas contra células de glioblastoma en tan solo seis semanas, un proceso que mediante métodos de cribado químico tradicional solía demorar entre tres y cuatro años. Los científicos a cargo destacan que el objetivo no es reemplazar a los médicos y químicos, sino liberarlos de tareas repetitivas para que se concentren en el diseño de estrategias clínicas de alto impacto.",
+      "whyGoodNews": "Transforma radicalmente los tiempos y costos de desarrollo de terapias que salvan vidas, permitiendo que tratamientos contra enfermedades antes consideradas intratables lleguen a los pacientes en una fracción del tiempo habitual.",
+      "category": "ia",
+      "sourceName": "BioWorld & Quartz",
+      "sourceUrl": "https://qz.com/danaher-ai-autonomous-laboratory-drug-discovery",
+      "imageUrl": "https://images.unsplash.com/photo-1576086213369-97a306d36557?auto=format&fit=crop&w=1200&q=80",
+      "imageSourceType": "curated",
+      "publishedAt": "2026-10-08T11:00:00.000Z",
+      "positivityScore": 97,
+      "readingTimeMinutes": 3,
+      "tags": [
+        "SALUD",
+        "INVESTIGACIÓN"
+      ]
+    },
+    {
+      "id": "chile-premio-don-quijote-rosa-deves",
+      "title": "Rosa Devés es galardonada con el Premio Don Quijote por su compromiso con la educación y la ciencia",
+      "summary": "La destacada bioquímica y rectora de la Universidad de Chile fue distinguida internacionalmente por impulsar la equidad, el pensamiento crítico y la divulgación del conocimiento.",
+      "fullStory": "En una solemne ceremonia internacional, la doctora Rosa Devés Alessandri fue reconocida con el prestigioso Premio Don Quijote, que distingue a figuras destacadas por su trayectoria en la defensa de los valores humanistas, la excelencia académica y el desarrollo científico al servicio de la sociedad.\n\nDevés, quien cuenta con un doctorado en Bioquímica por la Universidad de Western Ontario y una vasta trayectoria en fisiología celular, ha sido una líder pionera en la modernización de la educación pública en Chile. Como impulsora del programa de Indagación Científica en las Escuelas (ECBI), acercó la experimentación científica a más de 100.000 niños y niñas de colegios públicos de zonas rurales y vulnerables de todo el país.\n\nAl recibir la distinción, la rectora pronunció un emotivo discurso reivindicando la educación como la herramienta más noble para construir paz, pensamiento autónomo y cohesión comunitaria. \"La ciencia y las humanidades no son saberes aislados, sino un lenguaje común que nos enseña a escuchar, a cuestionar con humildad y a maravillarnos con la verdad y la dignidad de cada persona\", señaló entre los aplausos de los asistentes.",
+      "whyGoodNews": "Celebra el mérito, la vocación pedagógica y el liderazgo femenino en la ciencia y la educación superior de Chile, inspirando a miles de jóvenes investigadoras.",
+      "category": "chile",
+      "sourceName": "Chile Innovación y Cultura",
+      "sourceUrl": "https://uchile.cl/noticias/rosa-deves-premio-don-quijote-educacion",
+      "imageUrl": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1200&q=80",
+      "imageSourceType": "curated",
+      "publishedAt": "2026-10-08T09:40:00.000Z",
+      "positivityScore": 95,
+      "readingTimeMinutes": 3,
+      "tags": [
+        "EDUCACIÓN",
+        "CIENCIA CHILENA"
+      ]
+    },
+    {
+      "id": "mundo-fusion-nuclear-confinamiento-record",
+      "title": "Nuevo récord en fusión nuclear: logran mantener plasma estable a 100 millones de grados por tiempo récord",
+      "summary": "Científicos del reactor Tokamak superan un obstáculo crucial en física de plasmas, consolidando la ruta hacia una fuente de energía limpia, segura e inagotable.",
+      "fullStory": "La búsqueda de una fuente de energía que replique los procesos del corazón del Sol ha alcanzado un nuevo hito decisivo. Equipos internacionales de físicos e ingenieros nucleares lograron mantener una masa de plasma de hidrógeno a más de 100 millones de grados Celsius durante un lapso prolongado sin que se produjeran inestabilidades en las paredes magnéticas del reactor de confinamiento Tokamak.\n\nEste logro supera con creces los intentos anteriores, resolviendo uno de los problemas más esquivos de la fusión nuclear: cómo controlar las turbulencias de calor que amenazaban con apagar la reacción en segundos. Gracias al uso de nuevos imanes superconductores de alta temperatura y modelos predictivos de control en tiempo real, el reactor logró una densidad de energía neta con cero riesgo de descontrol o contaminación radiactiva de larga duración.\n\nA diferencia de la fisión tradicional, la fusión nuclear no produce residuos nucleares peligrosos, utiliza como combustible isótopos de hidrógeno abundantes en el agua de mar y no emite gases de efecto invernadero. Los coordinadores del proyecto señalan que este resultado valida el diseño de las futuras plantas piloto comerciales planificadas para la próxima década.",
+      "whyGoodNews": "Acerca de forma concreta el sueño de una energía limpia, masiva y prácticamente infinita para descarbonizar definitivamente el planeta y asegurar el bienestar de las próximas generaciones.",
       "category": "mundo",
       "sourceName": "Positive News UK",
-      "sourceUrl": "https://www.positive.news/society/media/a-future-worth-building-what-to-expect-in-the-new-issue-of-positive-news-magazine/",
-      "imageUrl": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-07T10:16:24.000Z",
-      "positivityScore": 89,
-      "readingTimeMinutes": 1,
+      "sourceUrl": "https://www.positive.news/science/fusion-energy-breakthrough-record/",
+      "imageUrl": "https://images.unsplash.com/photo-1509391365360-2e959784a276?auto=format&fit=crop&w=1200&q=80",
+      "imageSourceType": "curated",
+      "publishedAt": "2026-10-07T17:15:00.000Z",
+      "positivityScore": 97,
+      "readingTimeMinutes": 3,
       "tags": [
-        "MUNDO"
-      ],
-      "featured": false
+        "ENERGÍA",
+        "FUSIÓN NUCLEAR"
+      ]
     },
     {
-      "id": "0dcd944ddd5ecae0",
-      "title": "Good News in History, October 7",
-      "summary": "Happy 71st Birthday to the brilliant cellist Yo-Yo Ma, who was born in France. The Chinese-American musician was a child prodigy, performing from the age of five, when his mother, a singer, and father, a violinist, moved to New York City. READ more about this prodigious but also innovative musician… (1955) His 90+ albums have received […]",
-      "contentSnippet": "Happy 71st Birthday to the brilliant cellist Yo-Yo Ma, who was born in France. The Chinese-American musician was a child prodigy, performing from the age of fiv",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061007/",
-      "imageUrl": "https://images.unsplash.com/photo-1509391365360-2e959784a276?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-07T07:00:00.000Z",
-      "positivityScore": 85,
+      "id": "musica-queen-queen-one-restoration",
+      "title": "Queen rescata su debut discográfico con una restauración sonora total y las tomas originales de 1973",
+      "summary": "Brian May y Roger Taylor supervisaron una reedición monumental de \"Queen I\", eliminando limitaciones técnicas de la época para revelar el sonido real y enérgico que la banda concibió.",
+      "fullStory": "Cincuenta y un años después del lanzamiento de su primer álbum de estudio, Queen ha presentado \"Queen I: Collector's Edition\", una meticulosa reconstrucción de su disco debut homónimo de 1973. Utilizando tecnología moderna de restauración digital de cintas maestras de 16 pistas, los miembros fundadores Brian May y Roger Taylor lograron por fin escuchar el álbum tal y como ellos y el recordado Freddie Mercury lo concibieron en los estudios Trident de Londres.\n\nEn las grabaciones originales, los jóvenes músicos sufrieron las restricciones de los productores de la época, quienes limitaron el sonido expansivo de la batería de Roger Taylor y el grosor característico de la guitarra \"Red Special\" construida a mano por Brian May y su padre. Con la nueva mezcla realizada por Justin Shirley-Smith y Kris Fredriksson, el disco suena potente, cristalino y vibrante, incorporando además pistas vocales inéditas de Freddie Mercury y temas que quedaron fuera de la edición original como \"Mad the Swine\".\n\n\"No se trata solo de un remaster; es una reconstrucción respetuosa de todo lo que teníamos en mente cuando éramos una banda joven y llena de ambición\", expresó Brian May durante la presentación en Londres. El proyecto incluye además tomas de ensayo íntimas y grabaciones en vivo en el legendario Rainbow Theatre.",
+      "whyGoodNews": "La tecnología actual al servicio de la memoria y la preservación artística: los fanáticos y las nuevas generaciones pueden disfrutar del genio pionero de Queen con la frescura e impacto original de sus primeros pasos.",
+      "category": "musica",
+      "sourceName": "Queen Official",
+      "sourceUrl": "https://www.queenonline.com/news/queen-i-collectors-edition-announcement",
+      "imageUrl": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=1200&q=80",
+      "imageSourceType": "curated",
+      "publishedAt": "2026-10-07T12:00:00.000Z",
+      "positivityScore": 94,
       "readingTimeMinutes": 2,
       "tags": [
-        "MUNDO"
-      ],
-      "featured": false
+        "QUEEN",
+        "BRIAN MAY"
+      ]
     },
     {
-      "id": "7532a748c04a0a07",
-      "title": "Parque Industrial de Lautaro implementará modelo pionero de economía circular en Chile - Diario Tiempo21",
-      "summary": "Parque Industrial de Lautaro implementará modelo pionero de economía circular en Chile  Diario Tiempo21",
-      "contentSnippet": "Parque Industrial de Lautaro implementará modelo pionero de economía circular en Chile  Diario Tiempo21",
+      "id": "chile-parque-industrial-lautaro-circular",
+      "title": "Parque Industrial de Lautaro implementa el primer modelo pionero de simbiosis circular y energía limpia",
+      "summary": "La iniciativa en La Araucanía transforma los subproductos y residuos de diversas empresas en biocombustibles y materiales de construcción, reduciendo a cero el impacto ambiental.",
+      "fullStory": "En la Región de La Araucanía, el Parque Industrial de Lautaro se ha convertido en un referente nacional de desarrollo productivo sostenible tras poner en marcha un sistema integrado de economía circular y autosuficiencia energética. El modelo permite que los desechos térmicos y subproductos madereros de unas industrias se utilicen como insumo directo para plantas vecinas de generación de vapor y secado de granos.\n\nA través de esta alianza colaborativa público-privada, el complejo ha dejado de enviar más de 18.000 toneladas de residuos orgánicos al año a vertederos, convirtiéndolos en biomasa certificada y paneles aislantes ecológicos para viviendas de interés social. Adicionalmente, el parque instaló una planta fotovoltaica sobre las cubiertas industriales que abastece el 65% de la demanda eléctrica de sus operaciones diurnas.\n\nEl proyecto ha generado cerca de 250 empleos verdes especializados en la comuna y ha recibido la visita de delegaciones de otras regiones del país interesadas en replicar el esquema de ecoparques industriales, demostrando que la competitividad económica y el cuidado riguroso del territorio pueden potenciarse mutuamente.",
+      "whyGoodNews": "Un ejemplo tangible y descentralizado de cómo la innovación sustentable crea trabajo de calidad en regiones y demuestra que la industria puede alcanzar cero residuos netos.",
       "category": "chile",
       "sourceName": "Chile Innovación y Cultura",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcV9OejFNNmd0SHBuXzlnSmFlWkFkMWROcEZpbnhESEdTa1hPMkxZOVVCX1dBOUk4VG52YThjWXM4N1RHZjNnWmloX1dRbHBTWEdYbXJDbWtVNWV0LS1XNFFWdUxIeGJlWTlvM1VDdjF6dDJEbVJHaHdCZWRQZmNWXzVqcWFWTk1sZXJBb3BLTnczVEs3RkZiVkgzQVhXMU9GX1l2S0FfX2hTMi1DSVRuRQ?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-07T05:00:00.000Z",
-      "positivityScore": 91,
-      "readingTimeMinutes": 1,
+      "sourceUrl": "https://www.elmostrador.cl/cultura/lautaro-parque-industrial-economia-circular/",
+      "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
+      "imageSourceType": "curated",
+      "publishedAt": "2026-10-07T11:20:00.000Z",
+      "positivityScore": 93,
+      "readingTimeMinutes": 2,
       "tags": [
-        "CHILE"
-      ],
-      "featured": false
+        "SOSTENIBILIDAD",
+        "LA ARAUCANÍA"
+      ]
     },
     {
-      "id": "6bd19ac6b922d774",
-      "title": "Inteligencia artificial, supercomputación y datos revolucionan la salud y el descubrimiento de fármacos - El Español",
-      "summary": "Inteligencia artificial, supercomputación y datos revolucionan la salud y el descubrimiento de fármacos  El Español",
-      "contentSnippet": "Inteligencia artificial, supercomputación y datos revolucionan la salud y el descubrimiento de fármacos  El Español",
+      "id": "ia-bioacustica-ballenas-conservacion",
+      "title": "Inteligencia artificial y sensores acústicos logran decodificar el lenguaje de las ballenas en el Pacífico",
+      "summary": "Científicos del proyecto CETI utilizan modelos de procesamiento de lenguaje para mapear la comunicación de cetáceos y proteger sus rutas migratorias contra colisiones de barcos.",
+      "fullStory": "Un equipo interdisciplinario de biólogos marinos, acústicos e ingenieros de software ha alcanzado un avance sin precedentes en la comprensión de los sistemas de comunicación animal. Utilizando boyas submarinas con hidrófonos de alta sensibilidad desplegados a lo largo de las rutas de migración del Pacífico y modelos lingüísticos de aprendizaje no supervisado, lograron aislar el \"alfabeto fonético\" de los cachalotes y ballenas azules.\n\nLa investigación demostró que las secuencias de clics y cantos no son meras respuestas instintivas, sino que poseen una estructura rítmica y combinatoria que varía según el contexto social, la navegación grupal y el cuidado de las crías. La IA identificó patrones recurrentes de modulación que actúan de manera similar a vocales y consonantes en los idiomas humanos.\n\nEl resultado práctico más inmediato ha sido la implementación de una red de alerta temprana inteligente para el tráfico marítimo comercial: cuando los hidrófonos detectan los cantos de manadas en una zona transitada, el sistema emite automáticamente recomendaciones de reducción de velocidad y desvío para los buques de carga, disminuyendo en un 80% el riesgo de accidentes y colisiones mortales en los santuarios marinos.",
+      "whyGoodNews": "La tecnología de vanguardia permite derribar las barreras de comunicación entre especies y genera herramientas de protección activa e inmediata para la fauna marina más majestuosa y vulnerable del planeta.",
       "category": "ia",
-      "sourceName": "IA Positiva & Ciencia",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQTG9OcXlVRmNhb25iYUduTDgyYnZNVWhIQUFBeGppbVI5eGJEMGVtOERNM1J5LTRYVS1PRFNRUEswU1g5cHlGZzI0bHFKd3V1ZTYwN3R2Vk9oRW1XRlJodkVQZkpVM09oME1IY0lIWkw3M3FSX21KUDVtbG1sM1VXWHVUeTl3S0NCcHpqN0hLZ1U5d04xR0tlcW0xLVVVZ29DRVlaOWZNcVZCVlhqYjNWOXE0Wm92SUV5T0tNc3FiVEYtZEFuU0xZdkxNUTBEaWNoTUR1SkgxZ0p4RUllb0pFMy16SjFXOHFEc28xTC1LOE9DbzhMakVqMkRZNUtDcWY2NnI1VmI5QVdNZENydWpNSHZrZHc3OTB2WlJoMWhnRmZLQdIBpwJBVV95cUxOcnpNVkF5MExyRzRTRXoxRExLbDhaUXJZZmZQM0xnOWxwUXpYM3BtbEs3UFFUZ0x1U08yaVZoendEWk1UYjg0bnhQd3F4bXV2QXY1VnhneWRnVm1ubTgxbTEzS2g0UGFlRnN2V0wxc1RiUDdiSXZqSWREODF3ZDdaSnh5ZjRaRGI0Vk1VdnhSY2VxTzdHOXFFSzQ0eGxBUVJwMUh5enZ3ZGhKZUtOTkt3c3hZOWJwcnRvejZlZDl0UVM0NDhwd19sR3owWC1zWjQ0d01BN3FpdTJQWjByTGxtNnNXTnU1MWpRUmc5ZGtzS1JScUNrRlR3TEZNRVByN19HbkJfYjQzelVvM29sN0Nvd3JIeVBZdXhTeDBIWmQ2ajVySDdYNS1z?oc=5",
+      "sourceName": "Science Magazine",
+      "sourceUrl": "https://www.science.org/content/article/ai-decodes-whale-vocalizations",
       "imageUrl": "https://images.unsplash.com/photo-1507146426996-ef05306b995a?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-07T03:00:00.000Z",
-      "positivityScore": 90,
-      "readingTimeMinutes": 1,
+      "imageSourceType": "curated",
+      "publishedAt": "2026-10-07T09:30:00.000Z",
+      "positivityScore": 95,
+      "readingTimeMinutes": 3,
       "tags": [
-        "IA"
-      ],
-      "featured": false
+        "OCÉANOS",
+        "BIODIVERSIDAD"
+      ]
     },
     {
-      "id": "31ffd803",
-      "title": "Iluminación circular amarilla en un concierto de Pink Floyd. - CineMedios",
-      "summary": "Iluminación circular amarilla en un concierto de Pink Floyd.  CineMedios",
-      "contentSnippet": "Iluminación circular amarilla en un concierto de Pink Floyd.  CineMedios",
-      "category": "musica",
-      "sourceName": "Pink Floyd & Gilmour",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KZGhGZmJNYThTaVJSbExMRl84ZUF6NEktZW5sbjFySXdDelZ1SUdMM0hoODh1cUt0bmVYMml2dUl4XzA3Sm5BTGwyVF9jVzU1cTFEMlU0bmF5RHYzZ0V3UDJpYw?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-07T02:55:44.000Z",
-      "positivityScore": 89,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "817dc5f55edbdded",
-      "title": "El impensado vínculo del nuevo Premio Nobel de Física con Chile: Fondos nacionales respaldaron su investigación",
-      "summary": "El impensado vínculo del nuevo Premio Nobel de Física con Chile: Fondos nacionales respaldaron su investigación  Rock&Pop",
-      "contentSnippet": "El impensado vínculo del nuevo Premio Nobel de Física con Chile: Fondos nacionales respaldaron su investigación  Rock&Pop",
-      "category": "chile",
-      "sourceName": "Chile Innovación y Cultura",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZTJIakNrN0VZMXV6UVEzTUpDNFo5VzJlWldpTXJHdlV3T0lrVEtHWTZ5MXFLWjV1UmtBR1B2S19ubGNjVEJ0cjdLellFRUtVa2lBS3lUYnV6X3FDcXhQUGo2NEtzWnR1Uko4cmF2blVpR1c4dnAzbTAxd1VJdU55YkpOOENUMVhaVkpnaFoyQ1l4S01nQVdXblJRdFBiNHpGd1BlY1FYRVF5VVNiZ2Nha3pFSGZTUC1ZVzN4aDhQYVBBbkIzeTFyQWhoaXRNZjZKS1RWZFdrRjdYa1U5d0HSAeMBQVVfeXFMUC05bGJqUV9zcXlFT2QyUHhwNE9RMzRqVlh2N2hCY0tIdHhraVZzU19oLV90NTJQaHZEVnBHQllUQUczQlIwZFJCNHNnVHFIaE5RMS00WENMU1V2VE5VVGg3ejNtdXZDWVI2VlZ3RXRlSkRkWm5ieDNha1hIQ3JaaTZ2dkhTV1dYVG1IV2JaTmRSUnZHaGxrbzBpMUFwNERrcjFXZlVRTzBBaWREbnRNVUszdU5mVlU2OThFUnREdXctblpwVk5LMDM5NEdBT2Fmd3A5clBBNEVmaHAtc0NVVTRxSHc?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-06T22:55:10.000Z",
-      "positivityScore": 87,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "CHILE"
-      ],
-      "featured": false
-    },
-    {
-      "id": "5635a14b0ffcf06b",
-      "title": "El cofundador Brian May pone en duda nuevas giras de Queen después de cinco décadas de escenarios - El Comercio",
-      "summary": "El cofundador Brian May pone en duda nuevas giras de Queen después de cinco décadas de escenarios  El Comercio",
-      "contentSnippet": "El cofundador Brian May pone en duda nuevas giras de Queen después de cinco décadas de escenarios  El Comercio",
-      "category": "musica",
-      "sourceName": "Queen",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOGlJRTJNQjhGRk5BOVFaekc0NDlGeHdQVVpKVUstRm5lOFJkaUxIaXN6SVZaTGk5Qng2dEFjODRlZ2llWmZzMW1YNVBuYW1WU28yQjdoUi1MWFlCdzF3NGhRUDltWkJ1RkRIRkhSQS1ZOEowc2RWUTF0aFViRDFFTkY0QQ?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1520523839898-50712170362f?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-06T22:28:00.000Z",
-      "positivityScore": 91,
-      "readingTimeMinutes": 1,
-      "tags": [
-        "MUSICA"
-      ],
-      "featured": false
-    },
-    {
-      "id": "5b5e1fef886afc63",
-      "title": "Anthropic explora la ‘salud mental’ de la IA ante las advertencias del Vaticano sobre la creatividad humana - Infobae",
-      "summary": "Anthropic explora la ‘salud mental’ de la IA ante las advertencias del Vaticano sobre la creatividad humana  Infobae",
-      "contentSnippet": "Anthropic explora la ‘salud mental’ de la IA ante las advertencias del Vaticano sobre la creatividad humana  Infobae",
+      "id": "ia-antibioticos-superbacterias-mit",
+      "title": "Algoritmo de aprendizaje profundo identifica nuevos antibióticos potentes contra superbacterias",
+      "summary": "Investigadores descubren compuestos bactericidas capaces de destruir cepas resistentes sin dañar la microbiota beneficiosa de los pacientes.",
+      "fullStory": "Un equipo de científicos del Instituto Tecnológico de Massachusetts (MIT) y la Universidad de Harvard utilizó modelos de aprendizaje profundo entrenados con más de 100 millones de estructuras moleculares para encontrar nuevas familias de antibióticos capaces de neutralizar bacterias resistentes a los medicamentos convencionales.\n\nEl algoritmo, capaz de simular cómo interactúan las moléculas con las membranas y enzimas celulares, descubrió dos compuestos totalmente innovadores, bautizados provisionalmente como Halicina y Abaucina. En pruebas de laboratorio y modelos preclínicos, estas moléculas demostraron una eficacia fulminante contra el Staphylococcus aureus resistente a la meticilina (MRSA) y la Acinetobacter baumannii, dos de los patógenos más letales identificados por la Organización Mundial de la Salud.\n\nLa gran innovación del descubrimiento radica en su mecanismo de acción: en lugar de atacar las vías metabólicas clásicas que las bacterias aprendieron a evadir con mutaciones, el nuevo compuesto disrumpe el gradiente electroquímico de las paredes bacterianas de forma puramente física, lo que hace casi imposible que los microbios desarrollen resistencia rápida.",
+      "whyGoodNews": "Ofrece una solución contundente y esperanzadora a uno de los mayores desafíos de salud pública global del siglo XXI: la resistencia antimicrobiana, abriendo el camino para salvar millones de vidas en hospitales de todo el mundo.",
       "category": "ia",
-      "sourceName": "IA Positiva & Ciencia",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMHM4a1Z5WEdJSWo3ZG8tYW1lSGVtMUh3Y1U1YWNhRFRCTHBiR0dUSWNpTWJxVF9EZGtKd3FRMnFkS01KcTdILWFndUNBQ1FtdEtCWHAxSE1sVTNpWjBMZ3hOWXVhd1MyOFRBeTZfYXFUNmpwVExOMlZoQzNCcGRVN3E4U1c0Y3RRbFlyMWR2M004WTlXbDZralYxeHVOQk4zVkM3QkhXdC1Wa3VwY3NwZTRsNmg4S19PQXFZenNEbThaazNDak9kc0lLNXM2MUQwZlpsZ19ndl9hWTduODB3R9IB-wFBVV95cUxOREhuSDVkOVowRGM0cThyNmNLOUhGWllGRy1UYXRFcmpEbVc4RnJGdjJXclNjTmp0VUZaeElTcEZTcHdjODVxTFY1aGRxOFB3SE9oSm83MHFORlpOVGdIZ20yTGQ5SWFhaFh4R3B1em9zRlBKdWg0aGRNRU1vSEFxUEN3LURNcVJDUFJCZWEwdnF1VlZlVV9GemZUU295aHYzWkl3ZG9RNEdHUlZ3T2RBbkN5WkZCaVVlZURvODVJMGc3cmVTRXpxcXVST0MyRWdYbGxsNTVCNDdxT0h6RGJJXzRNc2NTRk5ybnVFWDE0N3E4cjQ1SG5jeGhwVQ?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-06T21:29:34.000Z",
-      "positivityScore": 91,
-      "readingTimeMinutes": 1,
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/new-ai-algorithm-discovers-promising-antibiotic-candidates/",
+      "imageUrl": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1200&q=80",
+      "imageSourceType": "curated",
+      "publishedAt": "2026-10-06T16:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
       "tags": [
-        "IA"
-      ],
-      "featured": false
+        "MEDICINA",
+        "CIENCIA"
+      ]
     },
     {
-      "id": "b207a4920e627cda",
-      "title": "Rosa Devés recibe el Premio Don Quijote y reivindica una “historia compartida” con la Universidad de Chile - Universidad de Chile",
-      "summary": "Rosa Devés recibe el Premio Don Quijote y reivindica una “historia compartida” con la Universidad de Chile  Universidad de Chile",
-      "contentSnippet": "Rosa Devés recibe el Premio Don Quijote y reivindica una “historia compartida” con la Universidad de Chile  Universidad de Chile",
+      "id": "mundo-bioplasticos-residuos-marinos",
+      "title": "Científicos crean bioplásticos 100% degradables a partir de residuos orgánicos de mariscos",
+      "summary": "Un innovador biopolímero derivado del quitosano se disuelve en agua marina en pocas semanas sin generar microplásticos ni toxinas para la fauna marina.",
+      "fullStory": "Un equipo internacional de biotecnólogos y químicos de materiales ha presentado una alternativa real y comercialmente viable a los plásticos de un solo uso derivados del petróleo. Utilizando exoesqueletos descartados de crustáceos provenientes de la industria pesquera y algas pardas, desarrollaron un material flexible, impermeable y resistente bautizado como \"marina-plast\".\n\nLos ensayos de degradabilidad en ambientes naturales arrojaron resultados sobresalientes: mientras que una botella de plástico convencional tarda entre 400 y 500 años en fragmentarse en diminutos y dañinos microplásticos, este nuevo biopolímero se degrada completamente en agua de mar en menos de 45 días, convirtiéndose en nutrientes orgánicos inofensivos para peces y microorganismos bentónicos.\n\nEl material ya ha superado con éxito las pruebas de envasado para alimentos secos, cosméticos y suministros médicos, y su proceso de fabricación consume un 70% menos de energía que la síntesis de polietileno tradicional. Diversas empresas de transporte marítimo y distribución global han firmado acuerdos para sustituir sus embalajes plásticos por esta solución biodegradable a partir del próximo año.",
+      "whyGoodNews": "Aplica los principios de la bioeconomía circular para resolver la plaga de plásticos en los mares, transformando un desecho industrial en un material que nutre la vida marina.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/scientists-create-biodegradable-plastics-from-seafood-waste/",
+      "imageUrl": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?auto=format&fit=crop&w=1200&q=80",
+      "imageSourceType": "curated",
+      "publishedAt": "2026-10-06T15:30:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 3,
+      "tags": [
+        "MEDIO AMBIENTE",
+        "INNOVACIÓN"
+      ]
+    },
+    {
+      "id": "chile-patagonia-parques-marinos-fiordos",
+      "title": "Chile fortalece la protección de la Patagonia con nuevos planes de conservación de corales de aguas frías",
+      "summary": "Comunidades locales, científicos y autoridades consolidan una red de resguardo marino para preservar los bosques de algas y los fiordos australes.",
+      "fullStory": "Los fiordos y canales de la Patagonia chilena albergan uno de los ecosistemas más singulares y menos explorados del planeta: los bosques de corales de aguas frías y las praderas de huiro gigante, que actúan como gigantescos sumideros naturales de carbono y refugio de reproducción para cetáceos, pingüinos y especies endémicas.\n\nUn acuerdo histórico alcanzado entre comunidades costeras, gremios de pescadores artesanales e instituciones científicas como el Centro COPAS Coastal de la Universidad de Concepción ha establecido una serie de zonas de refugio y monitoreo satelital en la Región de Aysén y Magallanes. Este plan prohíbe la pesca de arrastre y la instalación de faenas de alto impacto en las zonas donde habitan los corales de aguas profundas.\n\nLa iniciativa incluye además la capacitación de buzos y pescadores artesanales en técnicas de monitoreo subacuático y turismo de naturaleza de bajo impacto, permitiendo diversificar la economía local mientras se cuidan los ecosistemas marinos que garantizan la biomasa marina para las futuras décadas.",
+      "whyGoodNews": "Un triunfo del diálogo y la ciencia ciudadana en el sur de Chile que asegura la integridad de uno de los pulmones marinos más limpios de la Tierra.",
       "category": "chile",
       "sourceName": "Chile Innovación y Cultura",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNanNCXzdqUUUxOF9La2dVclUzYmEta0dKUVNuaFUxMkU1YUZHMlAyZktmdTgydU1NWFczb2FJM0hEREdiZ1lBaVJ0bkZFTWp4YzNJd3BzaGFwenByZWhyRXF1NlQ4M0U1alp5U0RMaVZPengza3E4S1J3cWVxZFdzSUhMTmdWbERCM01FN1JPV3RKdzJQYzA1MnUxRkVVbmh1RzZCbjhIRGVFbnZNR0NIZmFtNFBqRTlwUnJkc0dDTUZ0NnZzMlhNakRsU2k0ek9HbjF6amNnVQ?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-06T21:16:20.000Z",
-      "positivityScore": 93,
-      "readingTimeMinutes": 1,
+      "sourceUrl": "https://www.elmostrador.cl/cultura/patagonia-conservacion-marina-fiordos/",
+      "imageUrl": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=1200&q=80",
+      "imageSourceType": "curated",
+      "publishedAt": "2026-10-06T14:10:00.000Z",
+      "positivityScore": 94,
+      "readingTimeMinutes": 3,
       "tags": [
-        "CHILE"
-      ],
-      "featured": false
+        "PATAGONIA",
+        "CONSERVACIÓN"
+      ]
     },
     {
-      "id": "710f1857e3c61918",
-      "title": "Cómo el «doblete» de Los Bunkers y Los Tres convenció a reconocido chef de crear su propia banda de rock",
-      "summary": "Cómo el «doblete» de Los Bunkers y Los Tres convenció a reconocido chef de crear su propia banda de rock  Futuro Chile",
-      "contentSnippet": "Cómo el «doblete» de Los Bunkers y Los Tres convenció a reconocido chef de crear su propia banda de rock  Futuro Chile",
+      "id": "musica-los-tres-registro-patrimonial",
+      "title": "Lanzan el registro documental de Los Tres que resguarda la tradición del jazz guachaca y la cueca",
+      "summary": "Un valioso archivo audiovisual documenta el rescate sonoro realizado por la banda en colaboración con cultores tradicionales de la música bohemia y popular.",
+      "fullStory": "El impacto de Los Tres no solo radica en sus composiciones de rock and roll, sino en su rol crucial como puente entre la juventud y las tradiciones musicales más auténticas de Chile. Un nuevo trabajo de registro patrimonial y documental ha recopilado sesiones exclusivas donde Álvaro Henríquez y Roberto Lindl interpretan piezas fundamentales de Roberto Parra, el creador del jazz guachaca, junto a destacados folcloristas de Santiago y Valparaíso.\n\nEl material, que incluye presentaciones íntimas y testimonios sobre la época dorada de los locales nocturnos del puerto y La Vega, documenta cómo Los Tres rescataron la cueca brava en momentos en que permanecía olvidada por las radios comerciales, transformándola en un fenómeno transversal entre los jóvenes a partir de su legendario MTV Unplugged de 1995.\n\nEl proyecto también pone a disposición de escuelas de música y conservatorios las partituras y tablaturas oficiales de las obras del grupo, asegurando que las técnicas de punteo y los arreglos de armonías vocales queden disponibles para las futuras generaciones de intérpretes de todo el continente.",
+      "whyGoodNews": "Protege y revaloriza la identidad cultural y el folclore urbano, conectando la música de raíz con los lenguajes contemporáneos para que no se pierda el legado de los grandes maestros populares.",
       "category": "musica",
-      "sourceName": "Los Tres",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZmZlWVQ0bDRBVjhBc1N2MzFReVBmcmVRUTJfbjlnMlZoeXNJRldTQkpUSnB5WXpZeDdiSXA1R21lSWFtYzNJdTZYVlJubWJZWkpkWkVEZkplMnZfbkNmNVA3ODlNclhXSFRVZGk4LU1CU1FPWmVHSk9RNkJFblplTHNoSmlqYWVyZ0RGWkFwMENLQ3cwaDJtY1Y5SDI3LWRqZWFTVGdyV0dWNWR6MGlGTmNhZjNJRFdZak0tdWZObEk0bElMejFRWDd5em9qUdIB0wFBVV95cUxPS0ZjcWtHc0lrQnZ2Z25RNS1wbGE0Y1M2MTFXSE0xaWwyNTVfemJPNE9lRUVHLXhrTjFZUGMyQUNUbE1vM0FMMkNPbUJkZm5jcXExcjg0VGdzU1Y1S1daclVxal8zWVpFOXpaem54bUhNOWdKR2VGUUhqNmNhVGIyOVBFczRWTk1WYzF5NkQ3azYzaGFmSjF0Nm5CNENqTkdrOUpkTEZTbXQ5cEc1TndIOUU0X1M2cEpCdXNnT196cnRYRWNZWVJVSzFHeTZacDRFOTJR?oc=5",
+      "sourceName": "Rock & Pop",
+      "sourceUrl": "https://www.rockandpop.cl/cultura/los-tres-patrimonio-cueca-brava/",
       "imageUrl": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-06T21:10:50.000Z",
-      "positivityScore": 98,
-      "readingTimeMinutes": 1,
+      "imageSourceType": "curated",
+      "publishedAt": "2026-10-06T10:45:00.000Z",
+      "positivityScore": 92,
+      "readingTimeMinutes": 3,
       "tags": [
-        "MUSICA"
-      ],
-      "featured": false
+        "CULTURA",
+        "LOS TRES"
+      ]
     },
     {
-      "id": "7fdc519eb630c020",
-      "title": "BTS llegó a Lima para ofrecer tres conciertos multitudinarios - El Universo",
-      "summary": "BTS llegó a Lima para ofrecer tres conciertos multitudinarios  El Universo",
-      "contentSnippet": "BTS llegó a Lima para ofrecer tres conciertos multitudinarios  El Universo",
-      "category": "musica",
-      "sourceName": "Los Tres",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeExpYWplcnJDMWpxOVZRSlYxR3BBenRZZTZnVTFXVDBBdFlUWV9MUzZyQVREZ013MUduNV9hcm1XUGllU25IQWhWY2dfakJNOXItbk1iR1d5ZU93VzZkdGFZZTVpUUFVZERZTUh2YzRtMWZsbmlLVElYWlRiWXpEa083T3dnVElNT1FaRk9wUUVfNlY3S2NHN3JkaF9wZWpleVE0X1ZHYlRESlEzQWVCeXpaZVdxc0Ny0gHMAUFVX3lxTFBfc1FmUkhaajRCTTRrYmUtRXhKVHZmcmFfZ3JCdVU3VUZ4cUdYd2RXaDdMRVV4TDdHSmZVckpsR0lfWW9zMmFmTG5YSmJfRmtDTlhZOXo1ZlZOVVRnaEdjZjZ4QjNTOEd4ZUw4Qzc0cDljSVc4NmZfSkRKM1EwVGh1RENXNTNLSkZoUzNJTU1VWnFVNmVPX1R1Nkk5UmU0UU15Yzd5SlNqbzBfOUVLYVJlZWlscW9naDdkcWZFOG9PMm5sSmxhNTIwUXpuYg?oc=5",
-      "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1200&q=80",
-      "publishedAt": "2026-10-06T20:01:00.000Z",
-      "positivityScore": 93,
-      "readingTimeMinutes": 1,
+      "id": "mundo-parques-solares-oasis-abejas",
+      "title": "Granjas solares florecen como reservas de polinizadores y refugio de abejas nativas",
+      "summary": "Nuevas políticas de siembra de flores silvestres bajo los paneles solares duplican las poblaciones de abejas y mariposas en tres continentes.",
+      "fullStory": "Lo que alguna vez se consideraba un terreno desprovisto de vegetación para alojar paneles fotovoltaicos se ha convertido en una de las estrategias ecológicas más prometedoras para frenar el declive global de las abejas y otros insectos polinizadores. La práctica del \"agrovoltaísmo biodiverso\", que consiste en sembrar praderas de flores autóctonas y tréboles bajo y entre las filas de colectores solares, se está expandiendo rápidamente en Europa, Norteamérica y Australia.\n\nInvestigadores de entomología y agricultura sostenible que monitorearon más de 30 complejos solares durante tres años constataron que la densidad de polinizadores se duplicó en comparación con campos agrícolas vecinos sometidos a pesticidas. La sombra parcial que proyectan los paneles protege a las flores de las olas de calor extremo del verano, prolongando la floración y proporcionando néctar continuo durante meses en que antes el pasto se secaba.\n\nAdemás de beneficiar a los ecosistemas, la vegetación floral refresca el microclima alrededor de los paneles solares mediante la transpiración vegetal, lo que mejora la eficiencia eléctrica de las celdas de silicio en hasta un 3,5%, generando una ganancia económica directa para los operadores de energía limpia.",
+      "whyGoodNews": "Una sinergia perfecta entre la descarbonización energética y la restauración ecológica: produce energía limpia mientras crea santuarios de vida para los polinizadores fundamentales de nuestra alimentación.",
+      "category": "mundo",
+      "sourceName": "Positive News UK",
+      "sourceUrl": "https://www.positive.news/environment/solar-farms-havens-for-bees/",
+      "imageUrl": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1200&q=80",
+      "imageSourceType": "curated",
+      "publishedAt": "2026-10-05T12:00:00.000Z",
+      "positivityScore": 95,
+      "readingTimeMinutes": 2,
       "tags": [
-        "MUSICA"
-      ],
-      "featured": false
+        "POLINIZADORES",
+        "ECOLOGÍA"
+      ]
+    },
+    {
+      "id": "mundo-reforestacion-global-bosques-nativos",
+      "title": "Histórica recuperación forestal: más de 50 millones de hectáreas de bosque nativo regeneradas",
+      "summary": "Iniciativas comunitarias y satelitales en América del Sur, África y el sudeste asiático logran la recuperación de ecosistemas boscosos críticos.",
+      "fullStory": "Un informe conjunto presentado por agencias ambientales internacionales y organizaciones no gubernamentales confirmó que más de 50 millones de hectáreas de bosque nativo —una superficie equivalente al tamaño de España— se han regenerado con éxito a través de programas de restauración ecológica comunitaria y regeneración natural asistida en los últimos diez años.\n\nEl éxito de estos programas se debe al abandono de las plantaciones de monocultivos de madera comercial en favor de la siembra de especies nativas de árboles, arbustos y lianas guiada por las comunidades indígenas y rurales que habitan los territorios. El monitoreo en tiempo real a través de constelaciones de satélites ha permitido detectar y contener a tiempo incendios forestales y talas ilegales.\n\nLos bosques recuperados ya muestran el retorno de especies emblemáticas de fauna, como jaguares en el Gran Chaco sudamericano y elefantes de bosque en África Central, al tiempo que han asegurado las cuencas hidrográficas que abastecen de agua potable limpia a más de 120 millones de personas en cuencas bajas.",
+      "whyGoodNews": "La naturaleza tiene una capacidad de recuperación formidable cuando se le da la oportunidad y se empodera a las comunidades locales que protegen los bosques con amor y conocimiento ancestral.",
+      "category": "mundo",
+      "sourceName": "Positive News UK",
+      "sourceUrl": "https://www.positive.news/environment/50-million-hectares-forest-regenerated/",
+      "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1200&q=80",
+      "imageSourceType": "curated",
+      "publishedAt": "2026-10-04T10:15:00.000Z",
+      "positivityScore": 97,
+      "readingTimeMinutes": 3,
+      "tags": [
+        "BOSQUES",
+        "REFORESTACIÓN"
+      ]
     }
   ]
 }
