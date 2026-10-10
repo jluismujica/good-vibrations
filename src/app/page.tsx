@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState, useMemo, useEffect } from 'react';
-import { Search, Sun, Moon, ArrowUpRight, X, Sparkles, BookOpen, Clock, ArrowLeft, Quote, RotateCw } from 'lucide-react';
+import { Search, Sun, Moon, ArrowUpRight, X, Sparkles, BookOpen, Clock, ArrowLeft, Quote, ChevronLeft, ChevronRight } from 'lucide-react';
 import rawData from '@/data/news.json';
 import { Category, NewsItem, NewsDatabase } from '@/lib/types';
 
@@ -182,6 +182,17 @@ export default function HomePage() {
         localStorage.setItem('gv_quote_idx', next.toString());
       } catch {}
       return next;
+    });
+  };
+
+  const handlePrevQuote = (e: React.MouseEvent) => {
+    e.stopPropagation();
+    setQuoteIndex((prev) => {
+      const prevIdx = (prev - 1 + DAILY_QUOTES.length) % DAILY_QUOTES.length;
+      try {
+        localStorage.setItem('gv_quote_idx', prevIdx.toString());
+      } catch {}
+      return prevIdx;
     });
   };
 
@@ -469,15 +480,35 @@ export default function HomePage() {
               </div>
 
               <div className="hero-quote-footer">
-                <span>Píldora diaria · Sin repetición</span>
+                <button
+                  type="button"
+                  onClick={handlePrevQuote}
+                  className="hero-quote-nav-btn"
+                  title="Ver reflexión anterior"
+                  aria-label="Reflexión anterior"
+                >
+                  <ChevronLeft size={15} />
+                  <span>Anterior</span>
+                </button>
+
+                <div className="hero-quote-dots" aria-hidden="true">
+                  {DAILY_QUOTES.map((_, i) => (
+                    <span
+                      key={i}
+                      className={`hero-quote-dot ${i === (quoteIndex % DAILY_QUOTES.length) ? 'is-active' : ''}`}
+                    />
+                  ))}
+                </div>
+
                 <button
                   type="button"
                   onClick={handleNextQuote}
-                  className="hero-quote-cycle-btn"
-                  title="Ver otra reflexión inspiradora"
+                  className="hero-quote-nav-btn"
+                  title="Ver siguiente reflexión"
+                  aria-label="Siguiente reflexión"
                 >
-                  <RotateCw size={12} />
-                  <span>Siguiente reflexión ({((quoteIndex + 1) % DAILY_QUOTES.length) + 1}/{DAILY_QUOTES.length})</span>
+                  <span>Siguiente</span>
+                  <ChevronRight size={15} />
                 </button>
               </div>
             </aside>

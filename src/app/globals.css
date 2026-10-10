@@ -449,13 +449,10 @@ body {
   justify-content: space-between;
   border-top: 1px solid var(--hairline);
   padding-top: var(--s-3);
-  font-size: 12px;
-  color: var(--text-tertiary);
-  flex-wrap: wrap;
   gap: var(--s-2);
 }
 
-.hero-quote-cycle-btn {
+.hero-quote-nav-btn {
   background: var(--bg-subtle);
   border: 1px solid var(--hairline);
   color: var(--text);
@@ -463,17 +460,40 @@ body {
   display: inline-flex;
   align-items: center;
   gap: 6px;
-  font-size: 12px;
+  font-size: 13px;
   font-weight: 600;
-  padding: 6px 12px;
+  padding: 6px 14px;
   border-radius: var(--r-pill);
   transition: all var(--dur-fast) ease;
 }
 
-.hero-quote-cycle-btn:hover {
+.hero-quote-nav-btn:hover {
   color: #ffffff;
   background: var(--accent);
   border-color: var(--accent);
+  transform: translateY(-1px);
+}
+
+.hero-quote-dots {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.hero-quote-dot {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--text-tertiary);
+  opacity: 0.35;
+  transition: all var(--dur-fast) ease;
+}
+
+.hero-quote-dot.is-active {
+  width: 14px;
+  border-radius: 4px;
+  background: #ffb36b;
+  opacity: 1;
 }
 
 .card__eyebrows {
