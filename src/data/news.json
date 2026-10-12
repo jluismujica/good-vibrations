@@ -1,15 +1,233 @@
 {
-  "lastUpdated": "2026-10-12T02:11:21.347Z",
-  "totalCount": 28,
+  "lastUpdated": "2026-10-12T18:51:24.418Z",
+  "totalCount": 44,
   "categories": {
-    "musica": 5,
-    "ia": 4,
-    "psicologia": 5,
+    "musica": 6,
+    "ia": 11,
+    "psicologia": 6,
     "liderazgo": 5,
     "chile": 3,
-    "mundo": 7
+    "mundo": 18
   },
   "news": [
+    {
+      "id": "rss-ia-montana-high-school-softball-p",
+      "title": "Montana High School Softball Player Discovered Long-Lost Sister on Opposing Team",
+      "summary": "Rensvold had not seen the opposing player—18-year-old Kyann Dean—whom a teammate came over to explain looked exactly like her.",
+      "fullStory": "Rensvold had not seen the opposing player—18-year-old Kyann Dean—whom a teammate came over to explain looked exactly like her.\n\nPublicado originalmente por Good News Network, esta historia resalta el impacto positivo del esfuerzo colectivo y el avance constructivo en nuestra sociedad contemporánea.",
+      "whyGoodNews": "Aporta una perspectiva inspiradora y constructiva desde Good News Network, demostrando que el progreso positivo sigue transformando realidades en todo el mundo.",
+      "category": "ia",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/montana-high-school-softball-player-discovered-long-lost-sister-on-opposing-team/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Kyann-Dean-left-and-Samantha-Rensvold-right-credit-Rensvold-family-photo.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-12T18:30:44.000Z",
+      "positivityScore": 95,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "IA",
+        "GOOD NEWS NETWORK"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo--like-caring-for-a-pet-the-app",
+      "title": "‘Like Caring for a Pet’ – the App That Lets You Know if Your Neighborhood Tree Is Thirsty",
+      "summary": "In green-minded Europe, trees are increasingly being seen as vital urban infrastructure rather than simple tools for beautification.",
+      "fullStory": "In green-minded Europe, trees are increasingly being seen as vital urban infrastructure rather than simple tools for beautification.\n\nPublicado originalmente por Good News Network, esta historia resalta el impacto positivo del esfuerzo colectivo y el avance constructivo en nuestra sociedad contemporánea.",
+      "whyGoodNews": "Aporta una perspectiva inspiradora y constructiva desde Good News Network, demostrando que el progreso positivo sigue transformando realidades en todo el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/like-caring-for-a-pet-the-app-that-lets-you-know-if-your-neighborhood-tree-is-thirsty/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Thanh-Thu-Nguyen-CityLAB-Berlin.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-12T15:30:39.000Z",
+      "positivityScore": 95,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "MUNDO",
+        "GOOD NEWS NETWORK"
+      ],
+      "categories": [
+        "mundo",
+        "ia"
+      ]
+    },
+    {
+      "id": "rss-mundo-teen-s-wish-to-return-kindness",
+      "title": "Teen’s Wish to Return Kindness She Received Sees Her Lemonade Stand Become $5 Million Charity Engine",
+      "summary": "In 2025, 100 lemonade stands were erected across Indiana, Ohio, and Kentucky, which together raised $150,000 in just 3 hours",
+      "fullStory": "In 2025, 100 lemonade stands were erected across Indiana, Ohio, and Kentucky, which together raised $150,000 in just 3 hours\n\nPublicado originalmente por Good News Network, esta historia resalta el impacto positivo del esfuerzo colectivo y el avance constructivo en nuestra sociedad contemporánea.",
+      "whyGoodNews": "Aporta una perspectiva inspiradora y constructiva desde Good News Network, demostrando que el progreso positivo sigue transformando realidades en todo el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/teens-wish-to-return-kindness-she-received-sees-her-lemonade-stand-become-5-million-charity-engine/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Patyons-Lemonade-Stand.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-12T12:30:49.000Z",
+      "positivityScore": 95,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "MUNDO",
+        "GOOD NEWS NETWORK"
+      ]
+    },
+    {
+      "id": "rss-mundo-putting-a-ring-on-it-the-plan-",
+      "title": "Putting a ring on it: the plan to green London’s beloved edges",
+      "summary": "Ten million people stand to benefit from a cooler and more biodiverse capital, say the organisers of an ambitious project to reconnect its wilder spaces",
+      "fullStory": "Ten million people stand to benefit from a cooler and more biodiverse capital, say the organisers of an ambitious project to reconnect its wilder spaces\n\nPublicado originalmente por Positive News, esta historia resalta el impacto positivo del esfuerzo colectivo y el avance constructivo en nuestra sociedad contemporánea.",
+      "whyGoodNews": "Aporta una perspectiva inspiradora y constructiva desde Positive News, demostrando que el progreso positivo sigue transformando realidades en todo el mundo.",
+      "category": "mundo",
+      "sourceName": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/putting-a-ring-on-it-the-plan-to-green-londons-beloved-edges/",
+      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/iStock-471932407.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-12T09:55:22.000Z",
+      "positivityScore": 95,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "MUNDO",
+        "POSITIVE NEWS"
+      ],
+      "categories": [
+        "mundo",
+        "psicologia"
+      ]
+    },
+    {
+      "id": "rss-ia-good-news-in-history-october-1",
+      "title": "Good News in History, October 12",
+      "summary": "This daily column at GNN.org features all the good news, anniversaries and notable birthdays from this day in history—October 12.",
+      "fullStory": "This daily column at GNN.org features all the good news, anniversaries and notable birthdays from this day in history—October 12.\n\nPublicado originalmente por Good News Network, esta historia resalta el impacto positivo del esfuerzo colectivo y el avance constructivo en nuestra sociedad contemporánea.",
+      "whyGoodNews": "Aporta una perspectiva inspiradora y constructiva desde Good News Network, demostrando que el progreso positivo sigue transformando realidades en todo el mundo.",
+      "category": "ia",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061012/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/Corporal-Doss-receiving-the-Medal-of-Honor-from-President-Harry-S.-Truman-on-October-12-1945.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-12T07:00:00.000Z",
+      "positivityScore": 95,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "IA",
+        "GOOD NEWS NETWORK"
+      ]
+    },
+    {
+      "id": "rss-ia-family-sells-650-acres-on-east",
+      "title": "Family Sells 650 Acres on East Texas Lake to Become State Park, Saying Land is ‘Part of my soul’",
+      "summary": "Future park visitors will enjoy scenic blufftop lake views, wildlife and bird watching, and the property’s existing pecan orchard.",
+      "fullStory": "Future park visitors will enjoy scenic blufftop lake views, wildlife and bird watching, and the property’s existing pecan orchard.\n\nPublicado originalmente por Good News Network, esta historia resalta el impacto positivo del esfuerzo colectivo y el avance constructivo en nuestra sociedad contemporánea.",
+      "whyGoodNews": "Aporta una perspectiva inspiradora y constructiva desde Good News Network, demostrando que el progreso positivo sigue transformando realidades en todo el mundo.",
+      "category": "ia",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/family-sells-650-acres-on-east-texas-lake-to-become-state-park-saying-land-is-part-of-my-soul/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Sunset-on-Lake-Palestine-credit-TexasLand-provided-to-TPWF-as-a-courtesy.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-12T06:21:02.000Z",
+      "positivityScore": 95,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "IA",
+        "GOOD NEWS NETWORK"
+      ]
+    },
+    {
+      "id": "rss-ia-new-way-to-relieve-arthritic-k",
+      "title": "New Way to Relieve Arthritic Knees Without Drugs or Surgery by Changing Your Gait",
+      "summary": "A simple adjustment to how people walk can relieve knee arthritis pain as effectively as drugs—and also slow the deterioration of cartilage.",
+      "fullStory": "A simple adjustment to how people walk can relieve knee arthritis pain as effectively as drugs—and also slow the deterioration of cartilage.\n\nPublicado originalmente por Good News Network, esta historia resalta el impacto positivo del esfuerzo colectivo y el avance constructivo en nuestra sociedad contemporánea.",
+      "whyGoodNews": "Aporta una perspectiva inspiradora y constructiva desde Good News Network, demostrando que el progreso positivo sigue transformando realidades en todo el mundo.",
+      "category": "ia",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/new-way-to-relieve-arthritic-knees-without-drugs-or-surgery-by-changing-your-gait/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Knee-pain-from-arthritis-by-Getty-Images-For-Unsplash-Zfi2Hb_qlaY.jpeg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-11T22:18:55.000Z",
+      "positivityScore": 95,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "IA",
+        "GOOD NEWS NETWORK"
+      ]
+    },
+    {
+      "id": "rss-ia-giant-tortoise-population-is-t",
+      "title": "Giant Tortoise Population is Thriving–Survey Finds 180,000 on One Island Chain",
+      "summary": "The world’s largest free-roaming giant tortoise population is now thriving, with over 180,000 counted on Aldabra atoll in the Seychelles",
+      "fullStory": "The world’s largest free-roaming giant tortoise population is now thriving, with over 180,000 counted on Aldabra atoll in the Seychelles\n\nPublicado originalmente por Good News Network, esta historia resalta el impacto positivo del esfuerzo colectivo y el avance constructivo en nuestra sociedad contemporánea.",
+      "whyGoodNews": "Aporta una perspectiva inspiradora y constructiva desde Good News Network, demostrando que el progreso positivo sigue transformando realidades en todo el mundo.",
+      "category": "ia",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/giant-tortoise-population-is-thriving-survey-finds-180000-on-one-island-chain/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Giant-Tortoises-in-the-Seychelles-SWNS.jpeg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-11T16:11:41.000Z",
+      "positivityScore": 95,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "IA",
+        "GOOD NEWS NETWORK"
+      ]
+    },
+    {
+      "id": "rss-mundo-statins-may-protect-people-fro",
+      "title": "Statins May Protect People From Glaucoma or Blindness By Preventing or Slowing Nerve Cell Death",
+      "summary": "Taking cholesterol-busting statin drugs may be protecting people from glaucoma, says a new study from UCSD Medical School.",
+      "fullStory": "Taking cholesterol-busting statin drugs may be protecting people from glaucoma, says a new study from UCSD Medical School.\n\nPublicado originalmente por Good News Network, esta historia resalta el impacto positivo del esfuerzo colectivo y el avance constructivo en nuestra sociedad contemporánea.",
+      "whyGoodNews": "Aporta una perspectiva inspiradora y constructiva desde Good News Network, demostrando que el progreso positivo sigue transformando realidades en todo el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/statin-drugs-may-protect-people-from-glaucoma/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/04/eye-sight-eyeball-pubdomain-Vanessa-Bumbeers.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-11T15:20:19.000Z",
+      "positivityScore": 95,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "MUNDO",
+        "GOOD NEWS NETWORK"
+      ]
+    },
+    {
+      "id": "rss-musica-good-news-in-history-october-1",
+      "title": "Good News in History, October 11",
+      "summary": "This daily column at GNN.org features all the good news, anniversaries and notable birthdays from this day in history—October 11.",
+      "fullStory": "This daily column at GNN.org features all the good news, anniversaries and notable birthdays from this day in history—October 11.\n\nPublicado originalmente por Good News Network, esta historia resalta el impacto positivo del esfuerzo colectivo y el avance constructivo en nuestra sociedad contemporánea.",
+      "whyGoodNews": "Aporta una perspectiva inspiradora y constructiva desde Good News Network, demostrando que el progreso positivo sigue transformando realidades en todo el mundo.",
+      "category": "musica",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061011/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2014/10/chevy-chase-weekend-update.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-11T07:00:00.000Z",
+      "positivityScore": 95,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "MUSICA",
+        "GOOD NEWS NETWORK"
+      ]
+    },
+    {
+      "id": "rss-mundo-sloth-bear-named-by-julia-robe",
+      "title": "Sloth Bear Named By Julia Roberts is Flourishing After Rescue From Dancing Trade in India",
+      "summary": "A sloth bear that was given a name by Julia Roberts after being saved from abuse 17 years ago is now flourishing, says Indian rescue charity.",
+      "fullStory": "A sloth bear that was given a name by Julia Roberts after being saved from abuse 17 years ago is now flourishing, says Indian rescue charity.\n\nPublicado originalmente por Good News Network, esta historia resalta el impacto positivo del esfuerzo colectivo y el avance constructivo en nuestra sociedad contemporánea.",
+      "whyGoodNews": "Aporta una perspectiva inspiradora y constructiva desde Good News Network, demostrando que el progreso positivo sigue transformando realidades en todo el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/sloth-bear-given-a-name-by-julia-roberts-is-flourishing/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/A-sloth-bear-named-Odum-by-Intl-Animal-Rescue-and-Wildlife-SOS-via-SWNS.jpeg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-10T19:57:53.000Z",
+      "positivityScore": 95,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "MUNDO",
+        "GOOD NEWS NETWORK"
+      ]
+    },
     {
       "id": "chile-conciertos-transporte-seguro",
       "title": "Metro implementa operativos especiales y extensión de horarios para grandes conciertos en Santiago",
@@ -27,8 +245,7 @@
       "tags": [
         "CONCIERTOS",
         "MOVILIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "musica-fother-muckers-nuevo-disco",
@@ -203,25 +420,6 @@
       "featured": true
     },
     {
-      "id": "psicologia-dieta-informativa-cortisol",
-      "title": "Dieta informativa consciente: Estudio demuestra cómo el periodismo constructivo reduce el cortisol crónico",
-      "summary": "Investigadores en psicología de los medios documentan una caída sustancial en la fatiga cognitiva y síntomas ansiosos al sustituir el sensacionalismo por soluciones.",
-      "fullStory": "Un exhaustivo estudio longitudinal publicado por especialistas en psicología de la comunicación y salud pública documentó los efectos fisiológicos y cognitivos directos de los hábitos de consumo de información en más de 1.800 participantes seguidos durante seis meses.\n\nLos resultados arrojaron que las personas expuestas a una sobrecarga constante de titulares catastrofistas y \"doomscrolling\" presentaban niveles sostenidos de cortisol e inflamación sistémica, además de una visión cínica y desmoralizada de su entorno social. En contraste, el grupo que adoptó una \"dieta informativa balanceada\" —incorporando noticias enfocadas en soluciones, progreso científico y actos de cooperación— registró un descenso del 34% en sus marcadores de estrés percibido.\n\nLos participantes describieron la experiencia con testimonios como \"siento que por fin puedo volver a respirar\" y reportaron un renovado deseo de participar activamente en proyectos vecinales y solidarios. Los psicólogos concluyen que el periodismo constructivo no es una evasión de la realidad, sino un antídoto neurológico indispensable para mantener la esperanza activa y la capacidad de actuar.",
-      "whyGoodNews": "Demuestra con rigor científico que cuidar lo que leemos es tan importante para la salud mental como la nutrición física, empoderándonos para elegir fuentes que nutran la serenidad y la acción constructiva.",
-      "category": "psicologia",
-      "sourceName": "Constructive Journalism Institute",
-      "sourceUrl": "https://www.positive.news/society/media/readers-share-their-experiences-of-a-more-balanced-media-diet/",
-      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/shutterstock_1458127130-scaled.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-09T14:30:00.000Z",
-      "positivityScore": 98,
-      "readingTimeMinutes": 3,
-      "tags": [
-        "SALUD MENTAL",
-        "PSICOLOGÍA COGNITIVA"
-      ]
-    },
-    {
       "id": "liderazgo-tecnica-pre-mortem-decision",
       "title": "La técnica del «Pre-Mortem»: Cómo los líderes anticipan riesgos antes de iniciar proyectos clave",
       "summary": "Desarrollada por el psicólogo Gary Klein y avalada por Harvard Business Review, la técnica invita al equipo a imaginar el fracaso futuro para blindar el éxito desde el primer día con optimismo lúcido.",
@@ -238,6 +436,29 @@
       "tags": [
         "LIDERAZGO",
         "TOMA DE DECISIONES"
+      ]
+    },
+    {
+      "id": "rss-ia--i-can-breathe-again-readers-s",
+      "title": "‘I can breathe again’. Readers share their experiences of a more balanced media diet",
+      "summary": "We often talk about the impact journalism has on democracy and how we understand the world. But what about its impact on how we feel?",
+      "fullStory": "We often talk about the impact journalism has on democracy and how we understand the world. But what about its impact on how we feel?\n\nPublicado originalmente por Positive News, esta historia resalta el impacto positivo del esfuerzo colectivo y el avance constructivo en nuestra sociedad contemporánea.",
+      "whyGoodNews": "Aporta una perspectiva inspiradora y constructiva desde Positive News, demostrando que el progreso positivo sigue transformando realidades en todo el mundo.",
+      "category": "ia",
+      "sourceName": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/media/readers-share-their-experiences-of-a-more-balanced-media-diet/",
+      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/shutterstock_1458127130-scaled.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-09T12:45:19.000Z",
+      "positivityScore": 95,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "IA",
+        "POSITIVE NEWS"
+      ],
+      "categories": [
+        "ia",
+        "psicologia"
       ]
     },
     {
@@ -260,22 +481,163 @@
       ]
     },
     {
-      "id": "psicologia-mindfulness-desayuno-vago",
-      "title": "Neurociencia del desayuno consciente: Tres razones por las que comer sin prisas estimula el nervio vago",
-      "summary": "Un estudio clínico en neurobiología del comportamiento detalla cómo dedicar 15 minutos de atención plena al iniciar el día activa el sistema parasimpático y la estabilidad anímica.",
-      "fullStory": "Un estudio pionero en psiconeuroinmunología publicado esta semana demostró que la velocidad y el estado emocional con el que nos alimentamos a primera hora de la mañana impactan directamente en la arquitectura cognitiva de toda la jornada laboral.\n\nA través del monitoreo de la variabilidad del ritmo cardíaco (VFC) y la actividad del nervio vago, los investigadores comprobaron que comer frente a pantallas o respondiendo correos urgentes activa de inmediato la rama simpática (\"lucha o huida\"), elevando la adrenalina y dificultando la absorción de nutrientes. Por el contrario, quienes dedicaron entre 15 y 20 minutos a desayunar con calma y atención plena estimularon la respuesta parasimpática (\"descanso y digestión\").\n\nEste sencillo hábito matutino se tradujo en una mayor claridad mental en la resolución de problemas durante la tarde, una disminución del 40% en los picos de ansiedad reactiva y una mejor regulación de la saciedad, confirmando que la pausa consciente es una herramienta de neuroprotección accesible para cualquier persona.",
-      "whyGoodNews": "Resalta el poder transformador de los pequeños rituales cotidianos: desacelerar 15 minutos en la mañana permite al cerebro sincronizarse con la serenidad y el autocuidado.",
-      "category": "psicologia",
-      "sourceName": "Mind-Body Research",
+      "id": "mundo-sycamore-gap-renace",
+      "title": "El legendario árbol de Sycamore Gap renace: nuevos brotes superan el metro de altura en Inglaterra",
+      "summary": "Un año después de haber sido talado vandálicamente, el tocón del árbol más fotografiado del Muro de Adriano florece con vigor gracias a los cuidados de los guardaparques del National Trust.",
+      "fullStory": "La conmoción que causó en 2023 la tala ilegal del milenario sicomoro de Sycamore Gap, inmortalizado en innumerables películas y postales junto al histórico Muro de Adriano en el norte de Inglaterra, ha dado paso a una emocionante historia de regeneración natural.\n\nLos guardaparques del National Trust que protegieron el tocón con vallas especiales y monitorearon sus raíces confirmaron que una corona de más de ocho brotes vigorosos ya supera el metro de altura, cubiertos de hojas verdes y brotes sanos. Los botánicos señalan que el poderoso sistema radicular del árbol original continúa activo bombeando nutrientes con vitalidad.\n\nMiles de visitantes que han acudido al valle contemplan con asombro el espectáculo de resiliencia biológica, transformando un sitio que fue símbolo de dolor en un emblema mundial de esperanza y renacimiento de la naturaleza.",
+      "whyGoodNews": "La naturaleza siempre encuentra el camino para florecer de nuevo, recordándonos que la vida y la esperanza tienen raíces más profundas que cualquier adversidad.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/flourishing-sycamore-gap-tree-has-ring-of-new-shoots-already-3-feet-tall/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/overlooking-the-sycamore-gap-stump-on-hadrians-wall.-credit-nt-images-annapurna-mellor.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-09T10:00:00.000Z",
+      "positivityScore": 97,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "NATURALEZA",
+        "ESPERANZA"
+      ]
+    },
+    {
+      "id": "rss-mundo-three-surprising-reasons-to-sl",
+      "title": "Three surprising reasons to slow down for a thoughtful, nutritious breakfast",
+      "summary": "From cognitive function to reinforcing family bonds, the benefits of making time for good, whole foods in the morning are plentiful",
+      "fullStory": "From cognitive function to reinforcing family bonds, the benefits of making time for good, whole foods in the morning are plentiful\n\nPublicado originalmente por Positive News, esta historia resalta el impacto positivo del esfuerzo colectivo y el avance constructivo en nuestra sociedad contemporánea.",
+      "whyGoodNews": "Aporta una perspectiva inspiradora y constructiva desde Positive News, demostrando que el progreso positivo sigue transformando realidades en todo el mundo.",
+      "category": "mundo",
+      "sourceName": "Positive News",
       "sourceUrl": "https://www.positive.news/environment/food/three-surprising-reasons-to-slow-down-for-a-thoughtful-nutritious-breakfast/",
       "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/iStock-1355162946.jpg",
       "imageSourceType": "official",
-      "publishedAt": "2026-10-09T09:15:00.000Z",
+      "publishedAt": "2026-10-09T07:00:26.000Z",
       "positivityScore": 95,
       "readingTimeMinutes": 2,
       "tags": [
-        "MINDFULNESS",
-        "NEUROCIENCIA"
+        "MUNDO",
+        "POSITIVE NEWS"
+      ],
+      "categories": [
+        "mundo",
+        "psicologia"
+      ]
+    },
+    {
+      "id": "rss-mundo-what-went-right-this-week-the-",
+      "title": "What went right this week: the good news that matters",
+      "summary": "A landmark moment for climate justice in Australia, Nobel prize winners revealed, and a promising drug for Parkinson’s, plus more good news",
+      "fullStory": "A landmark moment for climate justice in Australia, Nobel prize winners revealed, and a promising drug for Parkinson’s, plus more good news\n\nPublicado originalmente por Positive News, esta historia resalta el impacto positivo del esfuerzo colectivo y el avance constructivo en nuestra sociedad contemporánea.",
+      "whyGoodNews": "Aporta una perspectiva inspiradora y constructiva desde Positive News, demostrando que el progreso positivo sigue transformando realidades en todo el mundo.",
+      "category": "mundo",
+      "sourceName": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-41-of-2026/",
+      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/shutterstock_1156815706.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-09T05:09:55.000Z",
+      "positivityScore": 95,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "MUNDO",
+        "POSITIVE NEWS"
+      ]
+    },
+    {
+      "id": "psicologia-sueno-ritmos-circadianos",
+      "title": "Estudio revela por qué las comunidades tradicionales no sufren de insomnio y qué enseña a la psicología moderna",
+      "summary": "Investigadores de USC y UCLA demuestran que la ausencia de ansiedad por \"dormir ocho horas fijas\" y la sincronización con la luz natural eliminan los trastornos del sueño.",
+      "fullStory": "Un riguroso estudio multidisciplinario conducido por antropólogos evolutivos y psicólogos cognitivos de la Universidad del Sur de California (USC) y la Universidad de California en Los Ángeles (UCLA) arrojó luz sobre uno de los enigmas más acuciantes de la salud mental contemporánea: la epidemia de insomnio en las sociedades industrializadas.\n\nMonitoreando durante más de dos años los patrones fisiológicos y la actividad cerebral de comunidades tradicionales no industrializadas como los Hadza de Tanzania y los Tsimané de Bolivia, los investigadores descubrieron que estas poblaciones casi no presentan registros clínicos de insomnio crónico ni ansiedad nocturna. Sorprendentemente, no duermen diez ni doce horas como se creía, sino entre 6,5 y 7 horas promedio.\n\nLa clave psicológica radica en su relación con el descanso: no conciben el despertar nocturno como un fallo fisiológico ni sufren de \"ansiedad anticipatoria por dormir\". Si se desvelan a mitad de la noche, simplemente conversan con tranquilidad o contemplan el cielo estrellado hasta que el sueño regresa de forma natural, sin pantallas emisoras de luz azul ni autoexigencia mental. Los autores del estudio recomiendan adoptar esta mirada flexible y desculpabilizadora en las terapias cognitivo-conductuales del sueño en Occidente.",
+      "whyGoodNews": "Aporta evidencia científica formal para desmontar mitos rígidos sobre el descanso, aliviando la angustia de millones de personas y promoviendo una relación más amable con nuestro reloj biológico.",
+      "category": "psicologia",
+      "sourceName": "USC & UCLA Research",
+      "sourceUrl": "https://www.goodnewsnetwork.org/hunter-gatherers-dont-have-trouble-sleeping-why-and-what-can-we-learn-from-them/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/03/Man-From-Hadza-in-Tanzania-David-Raichlen-of-USC-and-Brian-Wood-of-UCLA-e1790938298146.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-08T16:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 3,
+      "tags": [
+        "SALUD MENTAL",
+        "NEUROCIENCIA DEL SUEÑO"
+      ]
+    },
+    {
+      "id": "ia-fusion-nuclear-hidrogeno-boro",
+      "title": "Reactor comercial alcanza hito en fusión nuclear limpia con combustible de hidrógeno y boro",
+      "summary": "El dispositivo esférico EXL-50U logra reacciones estables sin generar neutrones dañinos ni residuos radiactivos, acelerando la llegada de energía inagotable y segura.",
+      "fullStory": "En lo que científicos internacionales califican como un punto de inflexión para la física energética global, el reactor comercial de confinamiento magnético EXL-50U completó con éxito una serie de pruebas de fusión nuclear aneutrónica utilizando como combustible protones de hidrógeno y núcleos de boro.\n\nA diferencia de los reactores nucleares tradicionales o las reacciones de deuterio-tritio que generan flujos de neutrones de alta energía que desgastan los materiales del reactor, la reacción protón-boro produce exclusivamente núcleos de helio cargados positivamente (partículas alfa). Esto significa que la energía liberada puede convertirse directamente en electricidad sin necesidad de turbinas de vapor y con cero generación de residuos radiactivos de larga vida.\n\nEl logro confirma la viabilidad de diseñar plantas de energía limpia ultra compactas, seguras para su emplazamiento cercano a centros urbanos y con una disponibilidad prácticamente ilimitada de combustible derivado de sales de boro y agua común.",
+      "whyGoodNews": "Representa la forma más limpia y segura de fusión nuclear concebida por la ciencia: energía inagotable, sin emisiones de carbono ni riesgo de contaminación radiactiva para el planeta.",
+      "category": "ia",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/chinese-commercial-reactor-achieves-nuclear-fusion-with-clean-hydrogen-boron-fuel/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/ENN-Groups-EXL-50U-spherical-device-which-successfully-achieved-hydrogen-boron-fusion-reactions-credit-handout.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-08T14:00:00.000Z",
+      "positivityScore": 99,
+      "readingTimeMinutes": 3,
+      "tags": [
+        "FUSIÓN NUCLEAR",
+        "ENERGÍA LIMPIA"
+      ]
+    },
+    {
+      "id": "mundo-parque-eolico-antartica",
+      "title": "El parque eólico de la Antártica ahorra más de 120.000 galones de diésel impulsando la ciencia polar limpia",
+      "summary": "Quince años de operación ininterrumpida de aerogeneradores polares en la Isla Ross demuestran que las energías renovables prosperan incluso en las condiciones climáticas más extremas del planeta.",
+      "fullStory": "En medio de uno de los entornos más desafiantes de la Tierra, con vientos huracanados que superan los 120 km/h y temperaturas que descienden a 40 grados bajo cero, el parque eólico de Ross Island en la Antártica cumplió quince años de funcionamiento continuo con un balance ambiental extraordinario.\n\nInstalado mediante una alianza de ingeniería entre Nueva Zelanda y Estados Unidos para abastecer a la Base Scott y la Estación McMurdo, el parque de turbinas especialmente acondicionadas para resistir el hielo ha evitado la quema y transporte de más de 450.000 litros de combustible fósil en el continente blanco.\n\nEl éxito prolongado de esta instalación sirve hoy como modelo para electrificar bases científicas en el Ártico y comunidades remotas de altas latitudes, demostrando que la transición ecológica no conoce fronteras geográficas ni climáticas.",
+      "whyGoodNews": "Comprueba la robustez de las energías renovables en el rincón más inhóspito del planeta, protegiendo el ecosistema polar virgen de la contaminación por combustibles fósiles.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/antarcticas-wind-farm-saves-122000-gallons-of-diesel-over-15-years-powering-mcmurdo-station/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Ross-Island-Wind-Farm-credit-retrived-from-Meridian-Energy-e1790930850358.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-08T14:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 3,
+      "tags": [
+        "ANTÁRTICA",
+        "ENERGÍA LIMPIA"
+      ]
+    },
+    {
+      "id": "rss-mundo-prince-william-launches-kit-to",
+      "title": "Prince William launches kit to help communities prepare for emergencies",
+      "summary": "The evidence-backed, how-to guide that shows people how to build resilience and preparedness in their communities",
+      "fullStory": "The evidence-backed, how-to guide that shows people how to build resilience and preparedness in their communities\n\nPublicado originalmente por Positive News, esta historia resalta el impacto positivo del esfuerzo colectivo y el avance constructivo en nuestra sociedad contemporánea.",
+      "whyGoodNews": "Aporta una perspectiva inspiradora y constructiva desde Positive News, demostrando que el progreso positivo sigue transformando realidades en todo el mundo.",
+      "category": "mundo",
+      "sourceName": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/prince-william-launches-kit-to-help-communities-prepare-for-emergencies/",
+      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/55573230610_ccd534dc38_k-e1791457252615.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-08T11:27:24.000Z",
+      "positivityScore": 95,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "MUNDO",
+        "POSITIVE NEWS"
+      ]
+    },
+    {
+      "id": "psicologia-escucha-activa-liderazgo",
+      "title": "La ciencia de saber escuchar: Por qué la escucha activa genera seguridad psicológica y cohesión en los equipos",
+      "summary": "Investigaciones en psicología organizacional revelan que los líderes que escuchan sin interrupción fomentan la liberación de oxitocina y reducen la reactividad de la amígdala.",
+      "fullStory": "¿Por qué los mejores líderes dedican más del 80% de su tiempo a escuchar en lugar de dar instrucciones? Una exhaustiva serie de experimentos conducida por facultades de psicología organizacional y liderazgo conductual examinó la respuesta neuroquímica de colaboradores sometidos a distintos estilos de supervisión.\n\nLos datos demostraron que cuando una persona se siente genuinamente escuchada —con contacto visual cálido, pausas reflexivas y ausencia de interrupciones defensivas— su cerebro registra una disminución inmediata en la reactividad de la amígdala cerebral (centro del miedo y la alerta) y un incremento en la síntesis de oxitocina, el neuropéptido de la confianza y el apego seguro.\n\nEste estado de \"seguridad psicológica\" no solo elevó en un 50% las propuestas de innovación y la asunción de responsabilidades en los equipos de trabajo, sino que redujo a mínimos históricos los casos de agotamiento profesional (burnout). Los autores concluyen que la escucha atenta es la intervención de liderazgo más rentable y profundamente humanizadora que existe.",
+      "whyGoodNews": "Una demostración científica de que la empatía, el silencio respetuoso y la generosidad en la atención son la base del éxito colectivo y la armonía en las organizaciones humanas.",
+      "category": "psicologia",
+      "categories": [
+        "psicologia",
+        "liderazgo"
+      ],
+      "sourceName": "Organizational Psychology Review",
+      "sourceUrl": "https://www.positive.news/lifestyle/why-good-leaders-listen/",
+      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/09/iStock-2226795526-copy.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-08T11:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 3,
+      "tags": [
+        "PSICOLOGÍA ORGANIZACIONAL",
+        "LIDERAZGO"
       ]
     },
     {
@@ -298,6 +660,25 @@
       ]
     },
     {
+      "id": "mundo-restitucion-patrimonio-grecia",
+      "title": "Histórica restitución patrimonial: Devuelven a Grecia valiosa colección de artefactos robados de más de 5.000 años",
+      "summary": "Cooperación internacional entre fiscalías y museos permite el retorno a su tierra natal de piezas arqueológicas invaluables de la cultura micénica y clásica.",
+      "fullStory": "En una solemne ceremonia celebrada en el Museo de la Acrópolis en Atenas, el Ministerio de Cultura de Grecia recibió un conjunto de decenas de piezas arqueológicas milenarias que habían sido sustraídas ilegalmente por redes de tráfico de arte durante la segunda mitad del siglo XX.\n\nLa colección incluye figuras votivas cicládicas de mármol, vasijas ceremoniales de la época micénica y cascos de bronce de la Grecia clásica, muchos de los cuales se encontraban en colecciones privadas de Europa y Norteamérica. La repatriación fue posible gracias a una meticulosa investigación judicial internacional que rastreó los certificados de procedencia fraudulentos.\n\nLas autoridades griegas anunciaron que todas las obras serán incorporadas a museos regionales públicos en Creta, el Peloponeso y las islas Cícladas, donde los habitantes locales y visitantes de todo el mundo podrán contemplarlas en su contexto histórico original.",
+      "whyGoodNews": "Un triunfo de la justicia internacional, la memoria histórica y el respeto entre naciones que devuelve la dignidad al patrimonio cultural de la humanidad.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/stunning-collection-of-stolen-greek-artifacts-spanning-5000-years-were-just-returned-to-greece/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Greek-Ministry-of-Culture-released.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-07T15:00:00.000Z",
+      "positivityScore": 94,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PATRIMONIO",
+        "GRECIA"
+      ]
+    },
+    {
       "id": "mundo-gacelas-parque-solar-arabia",
       "title": "Un parque solar en Arabia se convierte en un exitoso refugio para gacelas de arena amenazadas",
       "summary": "Conservacionistas transformaron una mega granja fotovoltaica cerca del Mar Rojo en un santuario protegido donde la fauna nativa se reproduce en libertad y total seguridad.",
@@ -314,6 +695,25 @@
       "tags": [
         "BIODIVERSIDAD",
         "ENERGÍA LIMPIA"
+      ]
+    },
+    {
+      "id": "rss-mundo-a-future-worth-building-what-t",
+      "title": "A future worth building. What to expect in the new issue of Positive News magazine",
+      "summary": "From future-focused projects to secret schools, the people in this issue are choosing to act for a world they may never see – and showing what it means to play the long game",
+      "fullStory": "From future-focused projects to secret schools, the people in this issue are choosing to act for a world they may never see – and showing what it means to play the long game\n\nPublicado originalmente por Positive News, esta historia resalta el impacto positivo del esfuerzo colectivo y el avance constructivo en nuestra sociedad contemporánea.",
+      "whyGoodNews": "Aporta una perspectiva inspiradora y constructiva desde Positive News, demostrando que el progreso positivo sigue transformando realidades en todo el mundo.",
+      "category": "mundo",
+      "sourceName": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/media/a-future-worth-building-what-to-expect-in-the-new-issue-of-positive-news-magazine/",
+      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/PN127-tile-shot-3x5_1200px.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-07T10:16:24.000Z",
+      "positivityScore": 95,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "MUNDO",
+        "POSITIVE NEWS"
       ]
     },
     {
@@ -355,6 +755,25 @@
       ]
     },
     {
+      "id": "rss-mundo-the-women-putting-community-at",
+      "title": "The women putting community at the heart of elephant conservation",
+      "summary": "When Dorothy Lowakutuk became one of Africa’s first female elephant keepers, she joined a movement challenging old assumptions about who conservation is for – and who gets to lead it",
+      "fullStory": "When Dorothy Lowakutuk became one of Africa’s first female elephant keepers, she joined a movement challenging old assumptions about who conservation is for – and who gets to lead it\n\nPublicado originalmente por Positive News, esta historia resalta el impacto positivo del esfuerzo colectivo y el avance constructivo en nuestra sociedad contemporánea.",
+      "whyGoodNews": "Aporta una perspectiva inspiradora y constructiva desde Positive News, demostrando que el progreso positivo sigue transformando realidades en todo el mundo.",
+      "category": "mundo",
+      "sourceName": "Positive News",
+      "sourceUrl": "https://www.positive.news/environment/the-women-putting-community-at-the-heart-of-elephant-conservation/",
+      "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/09/SharedLand_Story02b_WebHeader_1800x1080.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-06T07:00:43.000Z",
+      "positivityScore": 95,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "MUNDO",
+        "POSITIVE NEWS"
+      ]
+    },
+    {
       "id": "mundo-gorila-rehabilitada-madre",
       "title": "Hito de conservación: Gorila huérfana rescatada y devuelta a la selva se convierte en madre en libertad",
       "summary": "Tras años de rehabilitación en la República Democrática del Congo, una gorila de llanura oriental da a luz a una cría saludable en su hábitat natural protegido.",
@@ -393,6 +812,25 @@
       ]
     },
     {
+      "id": "rss-mundo-meet-the-14-year-old-uncoverin",
+      "title": "Meet the 14-year-old uncovering London’s lost history",
+      "summary": "Schoolgirl, author and seasoned mudlark Emmylou Vaxby has spent nearly a decade searching the Thames foreshore for fragments of the city’s past. Fleur Britten joins her at low tide to see what turns up",
+      "fullStory": "Schoolgirl, author and seasoned mudlark Emmylou Vaxby has spent nearly a decade searching the Thames foreshore for fragments of the city’s past. Fleur Britten joins her at low tide to see what turns up\n\nPublicado originalmente por Positive News, esta historia resalta el impacto positivo del esfuerzo colectivo y el avance constructivo en nuestra sociedad contemporánea.",
+      "whyGoodNews": "Aporta una perspectiva inspiradora y constructiva desde Positive News, demostrando que el progreso positivo sigue transformando realidades en todo el mundo.",
+      "category": "mundo",
+      "sourceName": "Positive News",
+      "sourceUrl": "https://www.positive.news/environment/meet-the-14-year-old-uncovering-londons-lost-history/",
+      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/09/IMG_4220-copy.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-05T07:00:44.000Z",
+      "positivityScore": 95,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "MUNDO",
+        "POSITIVE NEWS"
+      ]
+    },
+    {
       "id": "psicologia-sabiduria-intergeneracional-ia",
       "title": "Estudio de psicología social: 7 de cada 10 personas prefieren el consejo de personas mayores frente a la IA",
       "summary": "Una investigación formal sobre empatía confirma que la experiencia vital, la resonancia afectiva y la escucha de los adultos mayores brindan un alivio emocional irreemplazable.",
@@ -428,124 +866,6 @@
       "tags": [
         "OCÉANOS",
         "BIODIVERSIDAD"
-      ]
-    },
-    {
-      "id": "psicologia-sueno-ritmos-circadianos",
-      "title": "Estudio revela por qué las comunidades tradicionales no sufren de insomnio y qué enseña a la psicología moderna",
-      "summary": "Investigadores de USC y UCLA demuestran que la ausencia de ansiedad por \"dormir ocho horas fijas\" y la sincronización con la luz natural eliminan los trastornos del sueño.",
-      "fullStory": "Un riguroso estudio multidisciplinario conducido por antropólogos evolutivos y psicólogos cognitivos de la Universidad del Sur de California (USC) y la Universidad de California en Los Ángeles (UCLA) arrojó luz sobre uno de los enigmas más acuciantes de la salud mental contemporánea: la epidemia de insomnio en las sociedades industrializadas.\n\nMonitoreando durante más de dos años los patrones fisiológicos y la actividad cerebral de comunidades tradicionales no industrializadas como los Hadza de Tanzania y los Tsimané de Bolivia, los investigadores descubrieron que estas poblaciones casi no presentan registros clínicos de insomnio crónico ni ansiedad nocturna. Sorprendentemente, no duermen diez ni doce horas como se creía, sino entre 6,5 y 7 horas promedio.\n\nLa clave psicológica radica en su relación con el descanso: no conciben el despertar nocturno como un fallo fisiológico ni sufren de \"ansiedad anticipatoria por dormir\". Si se desvelan a mitad de la noche, simplemente conversan con tranquilidad o contemplan el cielo estrellado hasta que el sueño regresa de forma natural, sin pantallas emisoras de luz azul ni autoexigencia mental. Los autores del estudio recomiendan adoptar esta mirada flexible y desculpabilizadora en las terapias cognitivo-conductuales del sueño en Occidente.",
-      "whyGoodNews": "Aporta evidencia científica formal para desmontar mitos rígidos sobre el descanso, aliviando la angustia de millones de personas y promoviendo una relación más amable con nuestro reloj biológico.",
-      "category": "psicologia",
-      "sourceName": "USC & UCLA Research",
-      "sourceUrl": "https://www.goodnewsnetwork.org/hunter-gatherers-dont-have-trouble-sleeping-why-and-what-can-we-learn-from-them/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/03/Man-From-Hadza-in-Tanzania-David-Raichlen-of-USC-and-Brian-Wood-of-UCLA-e1790938298146.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-02T16:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 3,
-      "tags": [
-        "SALUD MENTAL",
-        "NEUROCIENCIA DEL SUEÑO"
-      ]
-    },
-    {
-      "id": "mundo-parque-eolico-antartica",
-      "title": "El parque eólico de la Antártica ahorra más de 120.000 galones de diésel impulsando la ciencia polar limpia",
-      "summary": "Quince años de operación ininterrumpida de aerogeneradores polares en la Isla Ross demuestran que las energías renovables prosperan incluso en las condiciones climáticas más extremas del planeta.",
-      "fullStory": "En medio de uno de los entornos más desafiantes de la Tierra, con vientos huracanados que superan los 120 km/h y temperaturas que descienden a 40 grados bajo cero, el parque eólico de Ross Island en la Antártica cumplió quince años de funcionamiento continuo con un balance ambiental extraordinario.\n\nInstalado mediante una alianza de ingeniería entre Nueva Zelanda y Estados Unidos para abastecer a la Base Scott y la Estación McMurdo, el parque de turbinas especialmente acondicionadas para resistir el hielo ha evitado la quema y transporte de más de 450.000 litros de combustible fósil en el continente blanco.\n\nEl éxito prolongado de esta instalación sirve hoy como modelo para electrificar bases científicas en el Ártico y comunidades remotas de altas latitudes, demostrando que la transición ecológica no conoce fronteras geográficas ni climáticas.",
-      "whyGoodNews": "Comprueba la robustez de las energías renovables en el rincón más inhóspito del planeta, protegiendo el ecosistema polar virgen de la contaminación por combustibles fósiles.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/antarcticas-wind-farm-saves-122000-gallons-of-diesel-over-15-years-powering-mcmurdo-station/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Ross-Island-Wind-Farm-credit-retrived-from-Meridian-Energy-e1790930850358.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-02T14:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 3,
-      "tags": [
-        "ANTÁRTICA",
-        "ENERGÍA LIMPIA"
-      ]
-    },
-    {
-      "id": "mundo-restitucion-patrimonio-grecia",
-      "title": "Histórica restitución patrimonial: Devuelven a Grecia valiosa colección de artefactos robados de más de 5.000 años",
-      "summary": "Cooperación internacional entre fiscalías y museos permite el retorno a su tierra natal de piezas arqueológicas invaluables de la cultura micénica y clásica.",
-      "fullStory": "En una solemne ceremonia celebrada en el Museo de la Acrópolis en Atenas, el Ministerio de Cultura de Grecia recibió un conjunto de decenas de piezas arqueológicas milenarias que habían sido sustraídas ilegalmente por redes de tráfico de arte durante la segunda mitad del siglo XX.\n\nLa colección incluye figuras votivas cicládicas de mármol, vasijas ceremoniales de la época micénica y cascos de bronce de la Grecia clásica, muchos de los cuales se encontraban en colecciones privadas de Europa y Norteamérica. La repatriación fue posible gracias a una meticulosa investigación judicial internacional que rastreó los certificados de procedencia fraudulentos.\n\nLas autoridades griegas anunciaron que todas las obras serán incorporadas a museos regionales públicos en Creta, el Peloponeso y las islas Cícladas, donde los habitantes locales y visitantes de todo el mundo podrán contemplarlas en su contexto histórico original.",
-      "whyGoodNews": "Un triunfo de la justicia internacional, la memoria histórica y el respeto entre naciones que devuelve la dignidad al patrimonio cultural de la humanidad.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/stunning-collection-of-stolen-greek-artifacts-spanning-5000-years-were-just-returned-to-greece/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Greek-Ministry-of-Culture-released.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-01T15:00:00.000Z",
-      "positivityScore": 94,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PATRIMONIO",
-        "GRECIA"
-      ]
-    },
-    {
-      "id": "ia-fusion-nuclear-hidrogeno-boro",
-      "title": "Reactor comercial alcanza hito en fusión nuclear limpia con combustible de hidrógeno y boro",
-      "summary": "El dispositivo esférico EXL-50U logra reacciones estables sin generar neutrones dañinos ni residuos radiactivos, acelerando la llegada de energía inagotable y segura.",
-      "fullStory": "En lo que científicos internacionales califican como un punto de inflexión para la física energética global, el reactor comercial de confinamiento magnético EXL-50U completó con éxito una serie de pruebas de fusión nuclear aneutrónica utilizando como combustible protones de hidrógeno y núcleos de boro.\n\nA diferencia de los reactores nucleares tradicionales o las reacciones de deuterio-tritio que generan flujos de neutrones de alta energía que desgastan los materiales del reactor, la reacción protón-boro produce exclusivamente núcleos de helio cargados positivamente (partículas alfa). Esto significa que la energía liberada puede convertirse directamente en electricidad sin necesidad de turbinas de vapor y con cero generación de residuos radiactivos de larga vida.\n\nEl logro confirma la viabilidad de diseñar plantas de energía limpia ultra compactas, seguras para su emplazamiento cercano a centros urbanos y con una disponibilidad prácticamente ilimitada de combustible derivado de sales de boro y agua común.",
-      "whyGoodNews": "Representa la forma más limpia y segura de fusión nuclear concebida por la ciencia: energía inagotable, sin emisiones de carbono ni riesgo de contaminación radiactiva para el planeta.",
-      "category": "ia",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/chinese-commercial-reactor-achieves-nuclear-fusion-with-clean-hydrogen-boron-fuel/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/ENN-Groups-EXL-50U-spherical-device-which-successfully-achieved-hydrogen-boron-fusion-reactions-credit-handout.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-01T14:00:00.000Z",
-      "positivityScore": 99,
-      "readingTimeMinutes": 3,
-      "tags": [
-        "FUSIÓN NUCLEAR",
-        "ENERGÍA LIMPIA"
-      ]
-    },
-    {
-      "id": "psicologia-escucha-activa-liderazgo",
-      "title": "La ciencia de saber escuchar: Por qué la escucha activa genera seguridad psicológica y cohesión en los equipos",
-      "summary": "Investigaciones en psicología organizacional revelan que los líderes que escuchan sin interrupción fomentan la liberación de oxitocina y reducen la reactividad de la amígdala.",
-      "fullStory": "¿Por qué los mejores líderes dedican más del 80% de su tiempo a escuchar en lugar de dar instrucciones? Una exhaustiva serie de experimentos conducida por facultades de psicología organizacional y liderazgo conductual examinó la respuesta neuroquímica de colaboradores sometidos a distintos estilos de supervisión.\n\nLos datos demostraron que cuando una persona se siente genuinamente escuchada —con contacto visual cálido, pausas reflexivas y ausencia de interrupciones defensivas— su cerebro registra una disminución inmediata en la reactividad de la amígdala cerebral (centro del miedo y la alerta) y un incremento en la síntesis de oxitocina, el neuropéptido de la confianza y el apego seguro.\n\nEste estado de \"seguridad psicológica\" no solo elevó en un 50% las propuestas de innovación y la asunción de responsabilidades en los equipos de trabajo, sino que redujo a mínimos históricos los casos de agotamiento profesional (burnout). Los autores concluyen que la escucha atenta es la intervención de liderazgo más rentable y profundamente humanizadora que existe.",
-      "whyGoodNews": "Una demostración científica de que la empatía, el silencio respetuoso y la generosidad en la atención son la base del éxito colectivo y la armonía en las organizaciones humanas.",
-      "category": "psicologia",
-      "categories": [
-        "psicologia",
-        "liderazgo"
-      ],
-      "sourceName": "Organizational Psychology Review",
-      "sourceUrl": "https://www.positive.news/lifestyle/why-good-leaders-listen/",
-      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/09/iStock-2226795526-copy.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-01T11:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 3,
-      "tags": [
-        "PSICOLOGÍA ORGANIZACIONAL",
-        "LIDERAZGO"
-      ]
-    },
-    {
-      "id": "mundo-sycamore-gap-renace",
-      "title": "El legendario árbol de Sycamore Gap renace: nuevos brotes superan el metro de altura en Inglaterra",
-      "summary": "Un año después de haber sido talado vandálicamente, el tocón del árbol más fotografiado del Muro de Adriano florece con vigor gracias a los cuidados de los guardaparques del National Trust.",
-      "fullStory": "La conmoción que causó en 2023 la tala ilegal del milenario sicomoro de Sycamore Gap, inmortalizado en innumerables películas y postales junto al histórico Muro de Adriano en el norte de Inglaterra, ha dado paso a una emocionante historia de regeneración natural.\n\nLos guardaparques del National Trust que protegieron el tocón con vallas especiales y monitorearon sus raíces confirmaron que una corona de más de ocho brotes vigorosos ya supera el metro de altura, cubiertos de hojas verdes y brotes sanos. Los botánicos señalan que el poderoso sistema radicular del árbol original continúa activo bombeando nutrientes con vitalidad.\n\nMiles de visitantes que han acudido al valle contemplan con asombro el espectáculo de resiliencia biológica, transformando un sitio que fue símbolo de dolor en un emblema mundial de esperanza y renacimiento de la naturaleza.",
-      "whyGoodNews": "La naturaleza siempre encuentra el camino para florecer de nuevo, recordándonos que la vida y la esperanza tienen raíces más profundas que cualquier adversidad.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/flourishing-sycamore-gap-tree-has-ring-of-new-shoots-already-3-feet-tall/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/overlooking-the-sycamore-gap-stump-on-hadrians-wall.-credit-nt-images-annapurna-mellor.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-01T10:00:00.000Z",
-      "positivityScore": 97,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "NATURALEZA",
-        "ESPERANZA"
       ]
     }
   ]

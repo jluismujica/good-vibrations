@@ -38,6 +38,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No hay cambios nuevos en las noticias."
           else
-            git commit -m "feat(robot): 🌞 Buenas noticias actualizadas $(date +'%Y-%m-%d %H:%M') [skip ci]"
+            git commit -m "feat(robot): 🌞 Buenas noticias actualizadas $(date +'%Y-%m-%d %H:%M')"
             git push origin main
           fi
