@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-10-13T03:26:37.244Z",
-  "totalCount": 42,
+  "lastUpdated": "2026-10-13T18:05:33.471Z",
+  "totalCount": 34,
   "categories": {
     "musica": 5,
-    "ia": 5,
+    "ia": 4,
     "psicologia": 6,
     "liderazgo": 5,
     "chile": 3,
-    "mundo": 23
+    "mundo": 15
   },
   "news": [
     {
-      "id": "rss-mundo-montana-high-school-softball-p",
-      "title": "Jugadora de softbol de secundaria de Montana descubre a su hermana perdida en el equipo contrario",
-      "summary": "Rensvold no había visto a la jugadora contraria, Kyann Dean, de 18 años, a quien un compañero de equipo se acercó para explicarle que era exactamente igual a ella.",
-      "fullStory": "Un diamante de softbol en Montana fue el escenario de una reunión familiar gigantesca.\n\nComo algo sacado de Field of Dreams, una jugadora de softbol adolescente se había alineado contra un equipo de otro estado para un partido de agosto, y su hermana biológica perdida hacía mucho tiempo estaba en la lista opuesta.\n\nSamantha Rensvold fue adoptada cuando era niña. Es algo que sabe desde hace mucho tiempo y que tiene una hermana biológica en algún lugar de Estados Unidos. Sin embargo, estas cosas estaban muy en el fondo de su mente, el 1 de agosto de 2025, durante un torneo de softbol en Montana.",
+      "id": "rss-mundo-the-in-awe-artist-painting-a-w",
+      "title": "El artista 'asombrado' que pinta una Gran Bretaña más salvaje",
+      "summary": "Las pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que rescatan a la naturaleza del abismo",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLas pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que rescatan a la naturaleza del abismo\n\nLa marisma salada se está extendiendo por el estuario de Ribble, en la costa noroeste de Inglaterra. En Cornualles, robles centenarios se encuentran dentro de un fragmento de uno de los antiguos bosques tropicales templados de Gran Bretaña. En otros lugares, se están dejando, gestionando o remodelando tierras para dar a la vida silvestre la oportunidad de regresar. Estos son los paisajes que la artista Rebecca Howard pasó el año pasado pintando para A Year in the Wild, una exposición que documenta nueve proyectos de reconstrucción del Reino Unido.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/montana-high-school-softball-player-discovered-long-lost-sister-on-opposing-team/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Kyann-Dean-left-and-Samantha-Rensvold-right-credit-Rensvold-family-photo.jpg",
+      "sourceName": "Positive News",
+      "sourceUrl": "https://www.positive.news/environment/the-in-awe-artist-painting-a-wilder-britain/",
+      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/DSCF2218.jpg",
       "imageSourceType": "official",
-      "publishedAt": "2026-10-12T18:30:44.000Z",
+      "publishedAt": "2026-10-13T09:25:37.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
@@ -31,45 +31,22 @@
       "featured": true
     },
     {
-      "id": "rss-mundo--like-caring-for-a-pet-the-app",
-      "title": "‘Como cuidar una mascota’: la aplicación que te permite saber si el árbol de tu vecindario tiene sed",
-      "summary": "En una Europa con mentalidad ecológica, los árboles se consideran cada vez más una infraestructura urbana vital en lugar de simples herramientas de embellecimiento.",
-      "fullStory": "Una aplicación de código abierto permite a miles de berlineses adoptar y regar los árboles de la ciudad como si fueran sus mascotas, lo que ayuda a mantener la ciudad verde en medio de las repetidas olas de calor del verano.\n\nLos árboles que necesitan riego aparecen como puntos naranjas o rojos, y la aplicación también tiene íconos para todos los grifos o bombas de agua accesibles para los ciudadanos en la calle.\n\nEn una Europa con mentalidad ecológica, los árboles se consideran cada vez más una infraestructura urbana vital en lugar de simples herramientas de embellecimiento. Berlín registró temperaturas de más de 39 °C (103 °F) este verano, y el efecto refrescante que proporciona la copa de los árboles es más que un simple alivio agradable, sino un potencial salvavidas.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
+      "id": "ia-sensores-comunitarios-riego-arboles",
+      "title": "Sensores comunitarios e IA protegen los bosques urbanos optimizando el riego en tiempo real",
+      "summary": "Una innovadora plataforma digital moviliza a miles de vecinos y utiliza algoritmos predictivos para cuidar el arbolado de las ciudades ante sequías y olas de calor.",
+      "fullStory": "En respuesta a los veranos cada vez más secos en Europa, una iniciativa ciudadana apoyada por laboratorios de innovación abierta y algoritmos de inteligencia artificial ha transformado el cuidado de más de 800.000 árboles urbanos. A través de sensores de humedad en el suelo y una aplicación colaborativa, los vecinos reciben alertas en tiempo real sobre qué árbol de su calle necesita agua de manera prioritaria.\n\nEl sistema cruza datos satelitales, pronósticos meteorológicos hiperlocales y modelos de transpiración vegetal para calcular con precisión milimétrica el déficit hídrico de cada ejemplar. Los ciudadanos pueden \"adoptar\" árboles, registrar sus riegos comunitarios y coordinar cuadrillas de hidratación con aguas reutilizadas.\n\nLos resultados del primer año de implementación a gran escala son elocuentes: la tasa de supervivencia de árboles jóvenes aumentó en más de un 40%, revitalizando la sombra urbana y reforzando el tejido social y la corresponsabilidad ecológica en los barrios participantes.",
+      "whyGoodNews": "La tecnología cívica y la inteligencia artificial se ponen al servicio de la empatía comunitaria y la ecología, empoderando a las personas para regenerar sus propios vecindarios.",
+      "category": "ia",
       "sourceName": "Good News Network",
       "sourceUrl": "https://www.goodnewsnetwork.org/like-caring-for-a-pet-the-app-that-lets-you-know-if-your-neighborhood-tree-is-thirsty/",
       "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Thanh-Thu-Nguyen-CityLAB-Berlin.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-10-12T15:30:39.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
+      "positivityScore": 97,
+      "readingTimeMinutes": 3,
       "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ],
-      "categories": [
-        "mundo",
-        "ia"
-      ]
-    },
-    {
-      "id": "rss-mundo-teen-s-wish-to-return-kindness",
-      "title": "El deseo de una adolescente de devolver la amabilidad que recibió hace que su puesto de limonada se convierta en un motor de caridad de $5 millones",
-      "summary": "En 2025, se construyeron 100 puestos de limonada en Indiana, Ohio y Kentucky, que en conjunto recaudaron 150.000 dólares en solo 3 horas.",
-      "fullStory": "Cuando el calor del verano se vuelve insoportable, un vaso de limonada helada es un alivio bienvenido, pero lo que decenas de miles de personas en todo Ohio han aprendido es que la limonada también puede proporcionar un tipo diferente de alivio.\n\nDurante 8 años, los puestos de limonada para niños aparecen en toda la ciudad en julio como parte de una recaudación de fondos anual que hasta la fecha ha canalizado $5 millones en regalos y artículos de primera necesidad para niños que enfrentan dificultades económicas o estadías prolongadas en el hospital luchando contra enfermedades.\n\nTodo comenzó con la esperanza de Payton Obert de poder recaudar dinero a través de un puesto de limonada para hacer llegar juguetes a los niños en el hospital, un simple acto de apoyo del que ella misma se benefició enormemente cuando recibió un osito de peluche de una organización benéfica que trabaja con hospitales infantiles.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/teens-wish-to-return-kindness-she-received-sees-her-lemonade-stand-become-5-million-charity-engine/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Patyons-Lemonade-Stand.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-12T12:30:49.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
+        "INTELIGENCIA ARTIFICIAL",
+        "SUSTENTABILIDAD"
       ]
     },
     {
@@ -93,101 +70,6 @@
       "categories": [
         "mundo",
         "psicologia"
-      ]
-    },
-    {
-      "id": "rss-mundo-good-news-in-history-october-1",
-      "title": "Buenas noticias en la historia, 12 de octubre",
-      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 12 de octubre.",
-      "fullStory": "Hoy hace 81 años, Desmond Doss se convirtió en el único objetor de conciencia en ganar la Medalla de Honor después de salvar a unos 75 hombres durante la Batalla de Hacksaw Ridge en la invasión de Okinawa. Doss se negó a llevar un arma al combate debido a sus creencias personales como adventista del séptimo día en contra de matar. En consecuencia, se convirtió en médico asignado a la 307.a infantería de la 77.a división de infantería. LEA sobre su heroísmo… (1945)\n\nCriado como un vegetariano no violento y observador del sábado, Doss se unió al ejército como médico y nunca portó un arma. En Guam y Filipinas, recibió dos estrellas de bronce con una V por acciones valerosas en lugar de logros meritorios.\n\nDurante la Batalla de Okinawa, salvó a docenas de soldados heridos en lo alto de un área conocida como Medea Escarpment o Hacksaw Ridge, lo que inspiró una película del mismo nombre en 2016.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061012/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/Corporal-Doss-receiving-the-Medal-of-Honor-from-President-Harry-S.-Truman-on-October-12-1945.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-12T07:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-family-sells-650-acres-on-east",
-      "title": "Una familia vende 650 acres en el lago del este de Texas para convertirlo en parque estatal, diciendo que la tierra es \"parte de mi alma\"",
-      "summary": "Los futuros visitantes del parque disfrutarán de vistas panorámicas del lago desde lo alto de un acantilado, observación de aves y vida silvestre, y del huerto de nueces pecanas existente en la propiedad.",
-      "fullStory": "Sus propietarios multigeneracionales han vendido una \"joya\" de un paisaje en el este de Texas con el propósito de convertirla en un parque estatal.\n\nLa propiedad es el terreno contiguo más largo que queda en la orilla del lago Palestina y contiene bosques de pinos, acantilados cortos, humedales y un huerto de nueces que pronto estarán abiertos para acampar, practicar kayak y otras formas de recreación.\n\nSituada en 650 acres en el condado de Henderson, la propiedad ha sido durante 80 años propiedad de la familia Pollard, que construyó un negocio de cultivo de nueces allí hasta el día de hoy, cuando el propietario actual, Sam Pollard, decidió ponerla en el mercado con fines de conservación públicos o privados.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/family-sells-650-acres-on-east-texas-lake-to-become-state-park-saying-land-is-part-of-my-soul/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Sunset-on-Lake-Palestine-credit-TexasLand-provided-to-TPWF-as-a-courtesy.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-12T06:21:02.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-new-way-to-relieve-arthritic-k",
-      "title": "Nueva forma de aliviar las rodillas artríticas sin medicamentos ni cirugía cambiando su forma de andar",
-      "summary": "Un simple ajuste en la forma de caminar puede aliviar el dolor de la artritis de rodilla con tanta eficacia como los medicamentos y también retardar el deterioro del cartílago.",
-      "fullStory": "Los científicos informan que un simple ajuste en la forma de caminar de las personas puede aliviar el dolor de la artritis de rodilla con tanta eficacia como los medicamentos recetados, y al mismo tiempo ralentizar el deterioro del cartílago.\n\nCasi una cuarta parte de las personas mayores de 40 años experimentan osteoartritis dolorosa debido a la degradación del cartílago que protege las articulaciones, y actualmente no hay forma de revertir este daño. La única opción es controlar el dolor con medicamentos y, eventualmente, con un reemplazo articular.\n\nAhora, investigadores de la Universidad de Utah, la Universidad de Nueva York y Stanford están demostrando el potencial de otra opción: el reentrenamiento de la marcha.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/new-way-to-relieve-arthritic-knees-without-drugs-or-surgery-by-changing-your-gait/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Knee-pain-from-arthritis-by-Getty-Images-For-Unsplash-Zfi2Hb_qlaY.jpeg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-11T22:18:55.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-giant-tortoise-population-is-t",
-      "title": "La población de tortugas gigantes está prosperando: una encuesta encuentra 180.000 en una cadena de islas",
-      "summary": "La mayor población de tortugas gigantes en libertad del mundo está prosperando: se cuentan más de 180.000 en el atolón de Aldabra, en las Seychelles.",
-      "fullStory": "Un estudio histórico de la población de tortugas gigantes en libertad más grande del mundo ha revelado que la especie que alguna vez estuvo en peligro de extinción ahora está prosperando.\n\nEl último recuento de tortugas en el atolón de Aldabra, en Seychelles, reveló que hay aproximadamente 180.000 viviendo en las islas.\n\nSe trata de la cifra más alta jamás registrada para la especie y supera con creces la población humana de Seychelles.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/giant-tortoise-population-is-thriving-survey-finds-180000-on-one-island-chain/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Giant-Tortoises-in-the-Seychelles-SWNS.jpeg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-11T16:11:41.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-statins-may-protect-people-fro",
-      "title": "Las estatinas pueden proteger a las personas del glaucoma o la ceguera al prevenir o retardar la muerte de las células nerviosas",
-      "summary": "Tomar estatinas, que destruyen el colesterol, puede proteger a las personas del glaucoma, según un nuevo estudio de la Facultad de Medicina de UCSD.",
-      "fullStory": "Las estatinas pueden proteger a las personas de algo más que el colesterol, sugiere una nueva investigación de la Universidad de California en San Diego.\n\nSegún los hallazgos, los pacientes con glaucoma que toman pastillas para reducir el colesterol parecen tener menos probabilidades de necesitar cirugía y tienen menos posibilidades de que la afección empeore.\n\nLlamado el \"ladrón silencioso de la vista\" porque la pérdida de visión generalmente ocurre lentamente durante un largo período de tiempo, el glaucoma puede causar ceguera si no se trata, dañando el nervio óptico, que transmite información visual desde el ojo al cerebro.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/statin-drugs-may-protect-people-from-glaucoma/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/04/eye-sight-eyeball-pubdomain-Vanessa-Bumbeers.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-11T15:20:19.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
       ]
     },
     {
@@ -662,8 +544,8 @@
     {
       "id": "rss-mundo-a-future-worth-building-what-t",
       "title": "Un futuro que vale la pena construir. Qué esperar en el nuevo número de la revista Positive News",
-      "summary": "Desde proyectos centrados en el futuro hasta escuelas secretas, las personas que aparecen en este número eligen actuar en un mundo que quizás nunca verán y muestran lo que significa jugar a largo plazo.",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nDesde proyectos centrados en el futuro hasta escuelas secretas, las personas que aparecen en este número eligen actuar en un mundo que quizás nunca verán y muestran lo que significa jugar a largo plazo.\n\nAl pasar varios meses trabajando en un número de la revista Positive News, me doy cuenta de lo rápido que avanza el ciclo de las noticias. A veces, las historias que parecían urgentes cuando fueron encargadas pueden, si no se juzgan cuidadosamente, parecer menos importantes cuando llegan a los lectores.",
+      "summary": "Desde proyectos centrados en el futuro hasta escuelas secretas, las personas que aparecen en este número eligen actuar en un mundo que tal vez nunca vean y muestran lo que significa jugar a largo plazo.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nDesde proyectos centrados en el futuro hasta escuelas secretas, las personas que aparecen en este número eligen actuar en un mundo que tal vez nunca vean y muestran lo que significa jugar a largo plazo.\n\nAl pasar varios meses trabajando en un número de la revista Positive News, me doy cuenta de lo rápido que avanza el ciclo de las noticias. A veces, las historias que parecían urgentes cuando fueron encargadas pueden, si no se juzgan cuidadosamente, parecer menos importantes cuando llegan a los lectores.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
@@ -774,25 +656,6 @@
       ]
     },
     {
-      "id": "rss-mundo-meet-the-14-year-old-uncoverin",
-      "title": "Conozca al joven de 14 años que descubre la historia perdida de Londres",
-      "summary": "Emmylou Vaxby, colegiala, autora y alondra experimentada, ha pasado casi una década buscando en la playa del Támesis fragmentos del pasado de la ciudad. Fleur Britten se une a ella durante la marea baja para ver qué sucede",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nEmmylou Vaxby, colegiala, autora y alondra experimentada, ha pasado casi una década buscando en la playa del Támesis fragmentos del pasado de la ciudad. Fleur Britten se une a ella durante la marea baja para ver qué sucede\n\nEs una templada mañana de domingo de finales de septiembre y estoy en la orilla norte del Támesis, cerca de Wapping. Es sorprendentemente tranquilo aquí abajo: el ruido de la ciudad ha sido reemplazado por el sonido de las olas rompiendo suavemente; entre la bulliciosa multitud con algún paseador de perros ocasional. Estoy con Emmylou Vaxby, de 14 años, una colegiala londinense, mudlark (recolectora de artefactos en la orilla de un río) y autora de A Guide to Mudlarking on the River Thames. Estamos aquí, por supuesto, para bromear.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Positive News",
-      "sourceUrl": "https://www.positive.news/environment/meet-the-14-year-old-uncovering-londons-lost-history/",
-      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/09/IMG_4220-copy.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-05T07:00:44.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
       "id": "psicologia-sabiduria-intergeneracional-ia",
       "title": "Estudio de psicología social: 7 de cada 10 personas prefieren el consejo de personas mayores frente a la IA",
       "summary": "Una investigación formal sobre empatía confirma que la experiencia vital, la resonancia afectiva y la escucha de los adultos mayores brindan un alivio emocional irreemplazable.",
@@ -809,25 +672,6 @@
       "tags": [
         "PSICOLOGÍA SOCIAL",
         "BIENESTAR EMOCIONAL"
-      ]
-    },
-    {
-      "id": "ia-sombrillas-submarinas-corales",
-      "title": "Desarrollan «sombrillas submarinas» biodegradables para proteger los arrecifes de coral del calor extremo",
-      "summary": "Investigadores marinos diseñan coberturas flotantes de materiales orgánicos que reducen la radiación solar en los meses más calurosos, evitando el blanqueamiento y salvando ecosistemas marinos.",
-      "fullStory": "Científicos de la Universidad Nova Southeastern en Florida y biólogos marinos internacionales han desarrollado un innovador sistema de protección pasiva para arrecifes de coral amenazados por las olas de calor marinas. Bautizado como \"sombrillas submarinas\", el dispositivo consiste en toldos flotantes porosos fabricados con biopolímeros 100% degradables.\n\nDesplegadas sobre colonias de coral en periodos de máxima insolación veraniega, estas estructuras reducen la radiación solar incidente entre un 30% y un 50% sin bloquear el flujo de corrientes ricas en nutrientes. En los ensayos realizados, los corales bajo sombra artificial mantuvieron sus microalgas simbióticas intactas, registrando cero blanqueamiento en comparación con colonias adyacentes no protegidas.\n\nUna vez que descienden las temperaturas del agua al llegar el otoño, los anclajes y coberturas se disuelven de forma inocua en el lecho marino sin dejar rastro de microplásticos, convirtiéndose en una herramienta accesible y de despliegue rápido para resguardar los puntos calientes de biodiversidad marina en todo el mundo.",
-      "whyGoodNews": "Una solución biotecnológica elegante, económica y no contaminante que brinda un escudo protector vital para los arrecifes de coral mientras el mundo avanza en la mitigación climática.",
-      "category": "ia",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/underwater-umbrellas-could-protect-coral-reefs-from-heat-damage/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Underwater-Coral-umbrellas-by-Nova-Southeastern-University-in-Florida-Journal-Frontiers-in-Marine-Science.jpeg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-03T16:00:00.000Z",
-      "positivityScore": 95,
-      "readingTimeMinutes": 3,
-      "tags": [
-        "OCÉANOS",
-        "BIODIVERSIDAD"
       ]
     }
   ]
