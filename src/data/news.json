@@ -1,20 +1,97 @@
 {
-  "lastUpdated": "2026-10-13T18:05:33.471Z",
-  "totalCount": 34,
+  "lastUpdated": "2026-10-14T01:43:33.987Z",
+  "totalCount": 41,
   "categories": {
     "musica": 5,
     "ia": 4,
     "psicologia": 6,
-    "liderazgo": 5,
+    "liderazgo": 6,
     "chile": 3,
-    "mundo": 15
+    "mundo": 22
   },
   "news": [
+    {
+      "id": "rss-mundo-scientists-shocked-to-discover",
+      "title": "Los científicos se sorprenden al descubrir el 'D-rex', un hongo gigante de los bosques chinos que data de hace 65 millones de años",
+      "summary": "La especie recientemente descrita, Dianjunus rex, o \"Rey de Dian\", llamada así por un antiguo reino chino, produce frutos de hasta 20 pulgadas de alto.",
+      "fullStory": "En lo profundo de los bosques del suroeste de China, los científicos han descubierto un \"gigante fúngico\" que desafía nuestra comprensión de cuán grandes pueden llegar a ser los hongos.\n\nLa especie recientemente descrita, Dianjunus rex, o \"Rey de Dian\", llamada así por un antiguo reino chino, produce cuerpos fructíferos verticales de hasta 20 pulgadas de alto y un peso de hasta 5 libras.\n\nCientíficos de China, Tailandia y México hicieron el descubrimiento, que constituyó no sólo su propio género nuevo, sino también una familia completamente nueva de hongos dentro del filo de Ascomycota.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/scientists-shocked-to-discover-d-rex-a-giant-fungus-from-chinese-forests-dating-back-65-million-years/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/pictured-the-stromata-of-Dianjunus-rex-in-the-field.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-13T18:30:53.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo-italian-bio-methane-plant-come",
+      "title": "Planta italiana de biometano entra en funcionamiento y suministra gas renovable a más de 3.000 hogares",
+      "summary": "La planta de biometano de Grottole utiliza subproductos agrícolas de granjas regionales para producir fertilizantes y gas con bajas emisiones de carbono.",
+      "fullStory": "Un promotor energético europeo ha puesto en marcha una importante planta de biometano en el sur de Italia que permitirá ahorrar unas 9.000 toneladas de CO2 al año al producir un sustituto del gas natural a partir de residuos agrícolas.\n\nSituada en Grottole, en el \"empeine\" de la península italiana, la planta producirá en última instancia 45 gigavatios-hora de energía renovable al año durante décadas.\n\nMás que casi cualquier otra economía europea importante, Italia funciona con gas natural. Representa el 46% de la generación de electricidad del país (tres veces más que la energía hidroeléctrica del segundo mayor contribuyente) y las empresas de servicios públicos del país mantienen una importante infraestructura de gas natural ubicada por todo el país.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/italian-biomethane-plant-comes-online-providing-renewable-gas-supply-to-over-3000-homes/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/The-Grottole-biomethane-plant-operated-by-Axpo-credit-Axpo-released.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-13T15:30:50.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-liderazgo-barbie-honors-serena-williams-",
+      "title": "Barbie rinde homenaje a Serena Williams con una nueva muñeca exclusiva que servirá de inspiración a la próxima generación de mujeres",
+      "summary": "\"Al crecer, no vi a muchas chicas que se parecían a mí a las que les dijeran que no había límite en lo que podían llegar a ser\", dijo Williams.",
+      "fullStory": "Barbie ha lanzado una muñeca edición exclusiva de nada menos que la leyenda del tenis Serena Williams.\n\nEl lanzamiento se produjo junto con la noticia de que Williams se unió oficialmente al Equipo Barbie, un grupo de poderosas atletas y modelos a seguir que inspiran y elevan como mujeres, líderes y muñecas icónicas.\n\nSu padre la introdujo al tenis a una edad temprana y Williams, la más joven, transformó el deporte, ganando 23 títulos individuales en torneos importantes y cuatro medallas de oro.",
+      "whyGoodNews": "Demuestra que la confianza, la empatía y la comunicación abierta son las herramientas más eficaces para inspirar y liderar equipos humanos.",
+      "category": "liderazgo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/barbie-honors-serena-williams-with-new-signature-doll-to-serve-inspiration-to-next-generation-of-women/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/released-by-Barbie.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-13T13:00:10.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "LIDERAZGO",
+        "EQUIPOS"
+      ]
+    },
+    {
+      "id": "rss-mundo-elderly-theater-worker-surpris",
+      "title": "Trabajadora de teatro mayor sorprendida por $146,000 para su jubilación financiados colectivamente por un joven cinéfilo",
+      "summary": "Todo comenzó cuando Brooklyn Green, de 21 años, decidió de forma bastante espontánea sus planes de ver una película en el AMC local.",
+      "fullStory": "Se está convirtiendo en una especie de tendencia: los jóvenes se encuentran con personas mayores que trabajan mucho después de la edad de jubilación y recaudan miles de dólares para que finalmente puedan descansar.\n\nGNN ha cubierto este tipo de historias en múltiples ocasiones, y ahora otro ejemplo proviene de Maryville, Tennessee, donde un anciano trabajador de un teatro fue sorprendido con 146.000 dólares.\n\nRecaudado a través de GoFundMe, todo comenzó cuando Brooklyn Green, de 21 años, decidió de manera bastante espontánea sus planes de ver una película en el AMC local. Allí vio a una mujer mayor con la espalda encorvada recogiendo basura para el negocio.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/elderly-theater-worker-surprised-with-146000-for-retirement-crowdfunded-by-young-moviegoer/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Mary-the-theater-worker-credit-GoFundMe.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-13T11:00:52.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
     {
       "id": "rss-mundo-the-in-awe-artist-painting-a-w",
       "title": "El artista 'asombrado' que pinta una Gran Bretaña más salvaje",
       "summary": "Las pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que rescatan a la naturaleza del abismo",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLas pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que rescatan a la naturaleza del abismo\n\nLa marisma salada se está extendiendo por el estuario de Ribble, en la costa noroeste de Inglaterra. En Cornualles, robles centenarios se encuentran dentro de un fragmento de uno de los antiguos bosques tropicales templados de Gran Bretaña. En otros lugares, se están dejando, gestionando o remodelando tierras para dar a la vida silvestre la oportunidad de regresar. Estos son los paisajes que la artista Rebecca Howard pasó el año pasado pintando para A Year in the Wild, una exposición que documenta nueve proyectos de reconstrucción del Reino Unido.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLas pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que rescatan a la naturaleza del abismo\n\nLa marisma salada se está extendiendo por el estuario de Ribble, en la costa noroeste de Inglaterra. En Cornualles, robles centenarios se encuentran dentro de un fragmento de uno de los antiguos bosques tropicales templados de Gran Bretaña. En otros lugares, se están dejando, gestionando o remodelando tierras para dar a la vida silvestre la oportunidad de regresar. Estos son los paisajes que la artista Rebecca Howard pasó el año pasado pintando para A Year in the Wild, una exposición que documenta nueve proyectos de reconstrucción salvaje en el Reino Unido.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
@@ -27,26 +104,86 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
-      "id": "ia-sensores-comunitarios-riego-arboles",
-      "title": "Sensores comunitarios e IA protegen los bosques urbanos optimizando el riego en tiempo real",
-      "summary": "Una innovadora plataforma digital moviliza a miles de vecinos y utiliza algoritmos predictivos para cuidar el arbolado de las ciudades ante sequías y olas de calor.",
-      "fullStory": "En respuesta a los veranos cada vez más secos en Europa, una iniciativa ciudadana apoyada por laboratorios de innovación abierta y algoritmos de inteligencia artificial ha transformado el cuidado de más de 800.000 árboles urbanos. A través de sensores de humedad en el suelo y una aplicación colaborativa, los vecinos reciben alertas en tiempo real sobre qué árbol de su calle necesita agua de manera prioritaria.\n\nEl sistema cruza datos satelitales, pronósticos meteorológicos hiperlocales y modelos de transpiración vegetal para calcular con precisión milimétrica el déficit hídrico de cada ejemplar. Los ciudadanos pueden \"adoptar\" árboles, registrar sus riegos comunitarios y coordinar cuadrillas de hidratación con aguas reutilizadas.\n\nLos resultados del primer año de implementación a gran escala son elocuentes: la tasa de supervivencia de árboles jóvenes aumentó en más de un 40%, revitalizando la sombra urbana y reforzando el tejido social y la corresponsabilidad ecológica en los barrios participantes.",
-      "whyGoodNews": "La tecnología cívica y la inteligencia artificial se ponen al servicio de la empatía comunitaria y la ecología, empoderando a las personas para regenerar sus propios vecindarios.",
-      "category": "ia",
+      "id": "rss-mundo-good-news-in-history-october-1",
+      "title": "Buenas noticias en la historia, 13 de octubre",
+      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 13 de octubre.",
+      "fullStory": "Hoy hace 95 años, el Cristo Redentor se abrió al público en las colinas de Río de Janeiro. Con una altura de 98 pies y brazos que se extienden por 92 pies de ancho, la estatua fue construida en la cima del Monte Corcovado por el ingeniero Heitor da Silva Costa. El Cristo Redentor difiere considerablemente de su diseño original, ya que la planta inicial era un Cristo de gran tamaño con un globo terráqueo en una mano y una cruz en la otra. Aunque los organizadores del proyecto aceptaron originalmente el diseño, más tarde lo cambiaron a la estatua actual, con los brazos extendidos. LEER más sobre la famosa estatua… (1931)\n\nEsta estatua es la escultura de estilo Art Déco más grande del mundo y fue votada como una de las Siete Maravillas del Mundo en 2001, una decisión bastante extraña, ya que no fue ni costosa ni complicada.\n\nLa construcción tomó nueve años, de 1922 a 1931, y costó el equivalente a 250.000 dólares (equivalentes a 4.400.000 dólares en 2024), siendo la mayor parte de hormigón armado y el exterior de una especie de esquisto conocido como esteatita.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061013/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/10/Christ-the-Redeemer-above-Rio-de-Janeiro-credit-Artyominc-CC-3.0.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-13T07:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-montana-high-school-softball-p",
+      "title": "Jugadora de softbol de secundaria de Montana descubre a su hermana perdida en el equipo contrario",
+      "summary": "Rensvold no había visto a la jugadora contraria, Kyann Dean, de 18 años, a quien un compañero de equipo se acercó para explicarle que era exactamente igual a ella.",
+      "fullStory": "Un diamante de softbol en Montana fue el escenario de una reunión familiar gigantesca.\n\nComo algo sacado de Field of Dreams, una jugadora de softbol adolescente se había alineado contra un equipo de otro estado para un partido de agosto, y su hermana biológica perdida hacía mucho tiempo estaba en la lista opuesta.\n\nSamantha Rensvold fue adoptada cuando era niña. Es algo que sabe desde hace mucho tiempo y que tiene una hermana biológica en algún lugar de Estados Unidos. Sin embargo, estas cosas estaban muy en el fondo de su mente, el 1 de agosto de 2025, durante un torneo de softbol en Montana.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/montana-high-school-softball-player-discovered-long-lost-sister-on-opposing-team/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Kyann-Dean-left-and-Samantha-Rensvold-right-credit-Rensvold-family-photo.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-12T18:30:44.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo--like-caring-for-a-pet-the-app",
+      "title": "‘Como cuidar una mascota’: la aplicación que te permite saber si el árbol de tu vecindario tiene sed",
+      "summary": "En una Europa con mentalidad ecológica, los árboles se consideran cada vez más una infraestructura urbana vital en lugar de simples herramientas de embellecimiento.",
+      "fullStory": "Una aplicación de código abierto permite a miles de berlineses adoptar y regar los árboles de la ciudad como si fueran sus mascotas, lo que ayuda a mantener la ciudad verde en medio de las repetidas olas de calor del verano.\n\nLos árboles que necesitan riego aparecen como puntos naranjas o rojos, y la aplicación también tiene íconos para todos los grifos o bombas de agua accesibles para los ciudadanos en la calle.\n\nEn una Europa con mentalidad ecológica, los árboles se consideran cada vez más una infraestructura urbana vital en lugar de simples herramientas de embellecimiento. Berlín registró temperaturas de más de 39 °C (103 °F) este verano, y el efecto refrescante que proporciona la copa de los árboles es más que un simple alivio agradable, sino un potencial salvavidas.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
       "sourceName": "Good News Network",
       "sourceUrl": "https://www.goodnewsnetwork.org/like-caring-for-a-pet-the-app-that-lets-you-know-if-your-neighborhood-tree-is-thirsty/",
       "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Thanh-Thu-Nguyen-CityLAB-Berlin.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-10-12T15:30:39.000Z",
-      "positivityScore": 97,
-      "readingTimeMinutes": 3,
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
       "tags": [
-        "INTELIGENCIA ARTIFICIAL",
-        "SUSTENTABILIDAD"
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "categories": [
+        "mundo",
+        "ia"
+      ]
+    },
+    {
+      "id": "rss-mundo-teen-s-wish-to-return-kindness",
+      "title": "El deseo de una adolescente de devolver la amabilidad que recibió hace que su puesto de limonada se convierta en un motor de caridad de $5 millones",
+      "summary": "En 2025, se construyeron 100 puestos de limonada en Indiana, Ohio y Kentucky, que en conjunto recaudaron 150.000 dólares en solo 3 horas.",
+      "fullStory": "Cuando el calor del verano se vuelve insoportable, un vaso de limonada helada es un alivio bienvenido, pero lo que decenas de miles de personas en todo Ohio han aprendido es que la limonada también puede proporcionar un tipo diferente de alivio.\n\nDurante 8 años, los puestos de limonada para niños aparecen en toda la ciudad en julio como parte de una recaudación de fondos anual que hasta la fecha ha canalizado $5 millones en regalos y artículos de primera necesidad para niños que enfrentan dificultades económicas o estadías prolongadas en el hospital luchando contra enfermedades.\n\nTodo comenzó con la esperanza de Payton Obert de poder recaudar dinero a través de un puesto de limonada para hacer llegar juguetes a los niños en el hospital, un simple acto de apoyo del que ella misma se benefició enormemente cuando recibió un osito de peluche de una organización benéfica que trabaja con hospitales infantiles.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/teens-wish-to-return-kindness-she-received-sees-her-lemonade-stand-become-5-million-charity-engine/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Patyons-Lemonade-Stand.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-12T12:30:49.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
       ]
     },
     {
@@ -544,8 +681,8 @@
     {
       "id": "rss-mundo-a-future-worth-building-what-t",
       "title": "Un futuro que vale la pena construir. Qué esperar en el nuevo número de la revista Positive News",
-      "summary": "Desde proyectos centrados en el futuro hasta escuelas secretas, las personas que aparecen en este número eligen actuar en un mundo que tal vez nunca vean y muestran lo que significa jugar a largo plazo.",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nDesde proyectos centrados en el futuro hasta escuelas secretas, las personas que aparecen en este número eligen actuar en un mundo que tal vez nunca vean y muestran lo que significa jugar a largo plazo.\n\nAl pasar varios meses trabajando en un número de la revista Positive News, me doy cuenta de lo rápido que avanza el ciclo de las noticias. A veces, las historias que parecían urgentes cuando fueron encargadas pueden, si no se juzgan cuidadosamente, parecer menos importantes cuando llegan a los lectores.",
+      "summary": "Desde proyectos centrados en el futuro hasta escuelas secretas, las personas que aparecen en este número eligen actuar en un mundo que quizás nunca verán y muestran lo que significa jugar a largo plazo.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nDesde proyectos centrados en el futuro hasta escuelas secretas, las personas que aparecen en este número eligen actuar en un mundo que quizás nunca verán y muestran lo que significa jugar a largo plazo.\n\nAl pasar varios meses trabajando en un número de la revista Positive News, me doy cuenta de lo rápido que avanza el ciclo de las noticias. A veces, las historias que parecían urgentes cuando fueron encargadas pueden, si no se juzgan cuidadosamente, parecer menos importantes cuando llegan a los lectores.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
