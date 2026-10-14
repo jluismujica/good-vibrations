@@ -1,15 +1,111 @@
 {
-  "lastUpdated": "2026-10-14T01:43:33.987Z",
+  "lastUpdated": "2026-10-14T15:46:46.473Z",
   "totalCount": 41,
   "categories": {
     "musica": 5,
     "ia": 4,
-    "psicologia": 6,
+    "psicologia": 5,
     "liderazgo": 6,
     "chile": 3,
     "mundo": 22
   },
   "news": [
+    {
+      "id": "rss-mundo-pittsburgh-water-launches-debt",
+      "title": "Pittsburgh Water lanza un programa de condonación de deuda para ayudar a las familias con costos crecientes",
+      "summary": "Los clientes sólo necesitan mantenerse al día con los pagos mensuales para ver la condonación gradual de la deuda pendiente anterior a septiembre.",
+      "fullStory": "Los residentes de Pittsburgh con deudas pendientes en sus servicios de agua pueden obtener la condonación de ésta en un período de 24 meses.\n\nInstituidos por la autoridad del agua de Pittsburgh, ciertos clientes ya se han inscrito a partir de septiembre y sólo necesitan mantenerse al día con los pagos mensuales para ver la condonación gradual de la deuda pendiente anterior a septiembre.\n\nPittsburgh Water, llamado Programa de Condonación de Atrasos, actualizó y mejoró recientemente el programa, mientras que unos 4.300 hogares de la ciudad que vivían por debajo del 200% de la Línea Federal de Pobreza fueron inscritos automáticamente.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/pittsburgh-water-launches-debt-forgiveness-program-to-help-families-with-rising-costs/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2015/09/erase-debt-CC-Images_of_Money-e1776148421784.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-14T15:30:44.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo-inches-below-the-forest-floor-",
+      "title": "A centímetros debajo del suelo del bosque, arqueólogos en Alemania desenterraron un templo romano dedicado al dios de la guerra",
+      "summary": "Dentro del vicus, los arqueólogos encontraron planos de áreas habitables, centros de artesanía y un templo que se cree que estuvo dedicado a Marte.",
+      "fullStory": "A lo largo de una serie de fortificaciones romanas que atraviesan Alemania, justo al norte de Frankfurt, las excavaciones arqueológicas han revelado extensos planos que pertenecen a un templo, un campamento militar y un centro de artesanía.\n\nEl descubrimiento, que se encuentra a pocos centímetros bajo el suelo del bosque, proporciona una amplia visión de cómo era la vida a lo largo de esta frontera, así como del uso del área después de su abandono.\n\nDesde 2024, arqueólogos del estado de Hesse y colegas de la Universidad de Frankfurt han estado excavando Kapersburg, un fuerte romano ubicado en las estribaciones de las montañas Taunus orientales.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/inches-below-the-forest-floor-archeologists-in-germany-unearthed-a-roman-temple-to-the-war-god/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Lars-Gorze-MA-Hesse-State-Office-for-Monument-Preservation-e1791968271919.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-14T13:00:21.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-world-s-heaviest-pumpkin-sets-",
+      "title": "La calabaza más pesada del mundo establece un nuevo récord increíble con 2,856 libras.",
+      "summary": "Esta calabaza sísmica acaba de ser certificada como la más grande jamás cultivada por un hombre en una reciente competencia británica. Cuando los voluntarios del Pesaje de Calabazas Gigantes del Vivero Wargrave finalmente subieron el espécimen a la báscula, la lectura fue simplemente increíble: 2.856. 8 libras (1295,8 kg) Es más pesado que un rinoceronte blanco, más pesado que un Volkswagen Beetle y en comparación […]",
+      "fullStory": "Esta calabaza sísmica acaba de ser certificada como la más grande jamás cultivada por un hombre en una reciente competencia británica.\n\nCuando los voluntarios del Pesaje de Calabazas Gigantes del Vivero Wargrave finalmente subieron el espécimen a la báscula, la lectura fue simplemente increíble: 2.856. 8 libras (1295, 8 kg)\n\nEs más pesada que un rinoceronte blanco, más pesada que un Volkswagen Beetle y, en comparación con otras calabazas de la historia que han batido récords, se destaca como la calabaza indiscutible de la montaña.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/worlds-heaviest-pumpkin-sets-incredible-new-record-at-2856-lbs/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Ian-Paton.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-14T11:00:23.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-wildlife-photographer-of-the-y",
+      "title": "Fotógrafo de vida silvestre del año 2026, las imágenes ganadoras",
+      "summary": "Celebrando la complejidad del mundo natural y la importancia de protegerlo, el concurso Fotógrafo de Vida Silvestre del Año de este año ha atraído un número récord de inscripciones.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nCelebrando la complejidad del mundo natural y la importancia de protegerlo, el concurso de este año ha atraído un número récord de inscripciones.\n\nUna conmovedora imagen (ver más abajo) de una elefanta cargando a su cría muerta en el valle del río Huab, Namibia, ganó el primer premio en el concurso de fotografía de vida silvestre de este año.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/wildlife-photographer-of-the-year-2026-the-winning-images/",
+      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/©-Loren-Elliott.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-14T07:00:50.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-good-news-in-history-october-1",
+      "title": "Buenas noticias en la historia, 14 de octubre",
+      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 14 de octubre.",
+      "fullStory": "Y hoy hace 136 años, nació en Kansas Dwight D. Eisenhower, el 34º presidente de los Estados Unidos y comandante de las Fuerzas Aliadas Europeas en la Segunda Guerra Mundial. Apodado \"Ike\", fue elegido doce veces como el hombre más admirado de Gallup, logrando una estima popular generalizada, tanto dentro como fuera de su cargo, como uno de los más grandes presidentes de Estados Unidos. MIRA una breve biografía... (1890)\n\nÉstas son algunas de las razones... Era un conservador moderado que continuó con las agencias del New Deal y amplió la Seguridad Social. Lanzó el Sistema de Carreteras Interestatales y envió tropas federales a Little Rock, Arkansas, para hacer cumplir una orden que permitía a los negros asistir a las escuelas públicas. También firmó una legislación sobre el derecho al voto y eliminó la segregación en las fuerzas armadas.\n\nEn su discurso de despedida a la nación, Eisenhower expresó su preocupación por los peligros del control corporativo del Congreso y el gasto militar masivo con contratos gubernamentales a fabricantes militares privados, acuñando el término “Complejo Militar-Industrial-Congresal”, sobre el cual puede aprender más en estos libros y videos.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061014/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/President-General-Dwight-D-Eisenhower-1959.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-14T07:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
     {
       "id": "rss-mundo-scientists-shocked-to-discover",
       "title": "Los científicos se sorprenden al descubrir el 'D-rex', un hongo gigante de los bosques chinos que data de hace 65 millones de años",
@@ -27,14 +123,13 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-italian-bio-methane-plant-come",
       "title": "Planta italiana de biometano entra en funcionamiento y suministra gas renovable a más de 3.000 hogares",
       "summary": "La planta de biometano de Grottole utiliza subproductos agrícolas de granjas regionales para producir fertilizantes y gas con bajas emisiones de carbono.",
-      "fullStory": "Un promotor energético europeo ha puesto en marcha una importante planta de biometano en el sur de Italia que permitirá ahorrar unas 9.000 toneladas de CO2 al año al producir un sustituto del gas natural a partir de residuos agrícolas.\n\nSituada en Grottole, en el \"empeine\" de la península italiana, la planta producirá en última instancia 45 gigavatios-hora de energía renovable al año durante décadas.\n\nMás que casi cualquier otra economía europea importante, Italia funciona con gas natural. Representa el 46% de la generación de electricidad del país (tres veces más que la energía hidroeléctrica del segundo mayor contribuyente) y las empresas de servicios públicos del país mantienen una importante infraestructura de gas natural ubicada por todo el país.",
+      "fullStory": "Un promotor energético europeo ha puesto en marcha una importante planta de biometano en el sur de Italia que permitirá ahorrar unas 9.000 toneladas de CO2 al año al producir un sustituto del gas natural a partir de residuos agrícolas.\n\nSituada en Grottole, en el \"empeine\" de la península italiana, la planta producirá en última instancia 45 gigavatios-hora de energía renovable al año durante décadas.\n\nMás que casi cualquier otra economía europea importante, Italia funciona con gas natural. Representa el 46% de la generación de electricidad del país (tres veces más que la energía hidroeléctrica del segundo mayor contribuyente) y las empresas de servicios públicos del país mantienen una importante infraestructura de gas natural ubicada en todo el país.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Good News Network",
@@ -72,7 +167,7 @@
       "id": "rss-mundo-elderly-theater-worker-surpris",
       "title": "Trabajadora de teatro mayor sorprendida por $146,000 para su jubilación financiados colectivamente por un joven cinéfilo",
       "summary": "Todo comenzó cuando Brooklyn Green, de 21 años, decidió de forma bastante espontánea sus planes de ver una película en el AMC local.",
-      "fullStory": "Se está convirtiendo en una especie de tendencia: los jóvenes se encuentran con personas mayores que trabajan mucho después de la edad de jubilación y recaudan miles de dólares para que finalmente puedan descansar.\n\nGNN ha cubierto este tipo de historias en múltiples ocasiones, y ahora otro ejemplo proviene de Maryville, Tennessee, donde un anciano trabajador de un teatro fue sorprendido con 146.000 dólares.\n\nRecaudado a través de GoFundMe, todo comenzó cuando Brooklyn Green, de 21 años, decidió de manera bastante espontánea sus planes de ver una película en el AMC local. Allí vio a una mujer mayor con la espalda encorvada recogiendo basura para el negocio.",
+      "fullStory": "Se está convirtiendo en una especie de tendencia: los jóvenes se encuentran con personas mayores que trabajan mucho después de la edad de jubilación y recaudan miles de dólares para que finalmente puedan descansar.\n\nGNN ha cubierto historias de este tipo en múltiples ocasiones, y ahora otro ejemplo proviene de Maryville, Tennessee, donde un anciano trabajador de un teatro fue sorprendido con 146.000 dólares.\n\nRecaudado a través de GoFundMe, todo comenzó cuando Brooklyn Green, de 21 años, decidió de manera bastante espontánea sus planes de ver una película en el AMC local. Allí vio a una mujer mayor con la espalda encorvada recogiendo basura para el negocio.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Good News Network",
@@ -91,7 +186,7 @@
       "id": "rss-mundo-the-in-awe-artist-painting-a-w",
       "title": "El artista 'asombrado' que pinta una Gran Bretaña más salvaje",
       "summary": "Las pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que rescatan a la naturaleza del abismo",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLas pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que rescatan a la naturaleza del abismo\n\nLa marisma salada se está extendiendo por el estuario de Ribble, en la costa noroeste de Inglaterra. En Cornualles, robles centenarios se encuentran dentro de un fragmento de uno de los antiguos bosques tropicales templados de Gran Bretaña. En otros lugares, se están dejando, gestionando o remodelando tierras para dar a la vida silvestre la oportunidad de regresar. Estos son los paisajes que la artista Rebecca Howard pasó el año pasado pintando para A Year in the Wild, una exposición que documenta nueve proyectos de reconstrucción salvaje en el Reino Unido.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLas pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que recuperan la naturaleza del abismo\n\nLa marisma salada se está extendiendo por el estuario de Ribble, en la costa noroeste de Inglaterra. En Cornualles, robles centenarios se encuentran dentro de un fragmento de uno de los antiguos bosques tropicales templados de Gran Bretaña. En otros lugares, se están dejando, gestionando o remodelando tierras para dar a la vida silvestre la oportunidad de regresar. Estos son los paisajes que la artista Rebecca Howard pasó el año pasado pintando para A Year in the Wild, una exposición que documenta nueve proyectos de reconstrucción salvaje en el Reino Unido.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
@@ -107,83 +202,22 @@
       ]
     },
     {
-      "id": "rss-mundo-good-news-in-history-october-1",
-      "title": "Buenas noticias en la historia, 13 de octubre",
-      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 13 de octubre.",
-      "fullStory": "Hoy hace 95 años, el Cristo Redentor se abrió al público en las colinas de Río de Janeiro. Con una altura de 98 pies y brazos que se extienden por 92 pies de ancho, la estatua fue construida en la cima del Monte Corcovado por el ingeniero Heitor da Silva Costa. El Cristo Redentor difiere considerablemente de su diseño original, ya que la planta inicial era un Cristo de gran tamaño con un globo terráqueo en una mano y una cruz en la otra. Aunque los organizadores del proyecto aceptaron originalmente el diseño, más tarde lo cambiaron a la estatua actual, con los brazos extendidos. LEER más sobre la famosa estatua… (1931)\n\nEsta estatua es la escultura de estilo Art Déco más grande del mundo y fue votada como una de las Siete Maravillas del Mundo en 2001, una decisión bastante extraña, ya que no fue ni costosa ni complicada.\n\nLa construcción tomó nueve años, de 1922 a 1931, y costó el equivalente a 250.000 dólares (equivalentes a 4.400.000 dólares en 2024), siendo la mayor parte de hormigón armado y el exterior de una especie de esquisto conocido como esteatita.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061013/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/10/Christ-the-Redeemer-above-Rio-de-Janeiro-credit-Artyominc-CC-3.0.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-13T07:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-montana-high-school-softball-p",
-      "title": "Jugadora de softbol de secundaria de Montana descubre a su hermana perdida en el equipo contrario",
-      "summary": "Rensvold no había visto a la jugadora contraria, Kyann Dean, de 18 años, a quien un compañero de equipo se acercó para explicarle que era exactamente igual a ella.",
-      "fullStory": "Un diamante de softbol en Montana fue el escenario de una reunión familiar gigantesca.\n\nComo algo sacado de Field of Dreams, una jugadora de softbol adolescente se había alineado contra un equipo de otro estado para un partido de agosto, y su hermana biológica perdida hacía mucho tiempo estaba en la lista opuesta.\n\nSamantha Rensvold fue adoptada cuando era niña. Es algo que sabe desde hace mucho tiempo y que tiene una hermana biológica en algún lugar de Estados Unidos. Sin embargo, estas cosas estaban muy en el fondo de su mente, el 1 de agosto de 2025, durante un torneo de softbol en Montana.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/montana-high-school-softball-player-discovered-long-lost-sister-on-opposing-team/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Kyann-Dean-left-and-Samantha-Rensvold-right-credit-Rensvold-family-photo.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-12T18:30:44.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo--like-caring-for-a-pet-the-app",
-      "title": "‘Como cuidar una mascota’: la aplicación que te permite saber si el árbol de tu vecindario tiene sed",
-      "summary": "En una Europa con mentalidad ecológica, los árboles se consideran cada vez más una infraestructura urbana vital en lugar de simples herramientas de embellecimiento.",
-      "fullStory": "Una aplicación de código abierto permite a miles de berlineses adoptar y regar los árboles de la ciudad como si fueran sus mascotas, lo que ayuda a mantener la ciudad verde en medio de las repetidas olas de calor del verano.\n\nLos árboles que necesitan riego aparecen como puntos naranjas o rojos, y la aplicación también tiene íconos para todos los grifos o bombas de agua accesibles para los ciudadanos en la calle.\n\nEn una Europa con mentalidad ecológica, los árboles se consideran cada vez más una infraestructura urbana vital en lugar de simples herramientas de embellecimiento. Berlín registró temperaturas de más de 39 °C (103 °F) este verano, y el efecto refrescante que proporciona la copa de los árboles es más que un simple alivio agradable, sino un potencial salvavidas.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
+      "id": "ia-sensores-comunitarios-riego-arboles",
+      "title": "Sensores comunitarios e IA protegen los bosques urbanos optimizando el riego en tiempo real",
+      "summary": "Una innovadora plataforma digital moviliza a miles de vecinos y utiliza algoritmos predictivos para cuidar el arbolado de las ciudades ante sequías y olas de calor.",
+      "fullStory": "En respuesta a los veranos cada vez más secos en Europa, una iniciativa ciudadana apoyada por laboratorios de innovación abierta y algoritmos de inteligencia artificial ha transformado el cuidado de más de 800.000 árboles urbanos. A través de sensores de humedad en el suelo y una aplicación colaborativa, los vecinos reciben alertas en tiempo real sobre qué árbol de su calle necesita agua de manera prioritaria.\n\nEl sistema cruza datos satelitales, pronósticos meteorológicos hiperlocales y modelos de transpiración vegetal para calcular con precisión milimétrica el déficit hídrico de cada ejemplar. Los ciudadanos pueden \"adoptar\" árboles, registrar sus riegos comunitarios y coordinar cuadrillas de hidratación con aguas reutilizadas.\n\nLos resultados del primer año de implementación a gran escala son elocuentes: la tasa de supervivencia de árboles jóvenes aumentó en más de un 40%, revitalizando la sombra urbana y reforzando el tejido social y la corresponsabilidad ecológica en los barrios participantes.",
+      "whyGoodNews": "La tecnología cívica y la inteligencia artificial se ponen al servicio de la empatía comunitaria y la ecología, empoderando a las personas para regenerar sus propios vecindarios.",
+      "category": "ia",
       "sourceName": "Good News Network",
       "sourceUrl": "https://www.goodnewsnetwork.org/like-caring-for-a-pet-the-app-that-lets-you-know-if-your-neighborhood-tree-is-thirsty/",
       "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Thanh-Thu-Nguyen-CityLAB-Berlin.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-10-12T15:30:39.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
+      "positivityScore": 97,
+      "readingTimeMinutes": 3,
       "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ],
-      "categories": [
-        "mundo",
-        "ia"
-      ]
-    },
-    {
-      "id": "rss-mundo-teen-s-wish-to-return-kindness",
-      "title": "El deseo de una adolescente de devolver la amabilidad que recibió hace que su puesto de limonada se convierta en un motor de caridad de $5 millones",
-      "summary": "En 2025, se construyeron 100 puestos de limonada en Indiana, Ohio y Kentucky, que en conjunto recaudaron 150.000 dólares en solo 3 horas.",
-      "fullStory": "Cuando el calor del verano se vuelve insoportable, un vaso de limonada helada es un alivio bienvenido, pero lo que decenas de miles de personas en todo Ohio han aprendido es que la limonada también puede proporcionar un tipo diferente de alivio.\n\nDurante 8 años, los puestos de limonada para niños aparecen en toda la ciudad en julio como parte de una recaudación de fondos anual que hasta la fecha ha canalizado $5 millones en regalos y artículos de primera necesidad para niños que enfrentan dificultades económicas o estadías prolongadas en el hospital luchando contra enfermedades.\n\nTodo comenzó con la esperanza de Payton Obert de poder recaudar dinero a través de un puesto de limonada para hacer llegar juguetes a los niños en el hospital, un simple acto de apoyo del que ella misma se benefició enormemente cuando recibió un osito de peluche de una organización benéfica que trabaja con hospitales infantiles.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/teens-wish-to-return-kindness-she-received-sees-her-lemonade-stand-become-5-million-charity-engine/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Patyons-Lemonade-Stand.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-12T12:30:49.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
+        "INTELIGENCIA ARTIFICIAL",
+        "SUSTENTABILIDAD"
       ]
     },
     {
@@ -484,7 +518,7 @@
       "id": "rss-mundo-three-surprising-reasons-to-sl",
       "title": "Tres razones sorprendentes para reducir el ritmo y disfrutar de un desayuno nutritivo y bien pensado",
       "summary": "Desde la función cognitiva hasta el refuerzo de los vínculos familiares, los beneficios de dedicar tiempo a comer alimentos integrales por la mañana son abundantes",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nSocios de Positive News Este artículo ha sido creado por Positive News y apoyado por St Ewe Compartir: . a2a_s_facebook, . a2a_s_linkedin, . a2a_s_email{ color de fondo:#00bcdb! importante; } Pantalla solo @media y (ancho máximo: 768 px) { div#social_btns { display: none; }} La primera comida del día suele ser la que más se salta, pero desde el punto de vista cognitivo Para reforzar los vínculos familiares, los beneficios de dedicar tiempo a los alimentos integrales y saludables por la mañana son abundantes.\n\nProbablemente estés familiarizado con el viejo proverbio \"debes desayunar como un rey, almorzar como un príncipe y cenar como un pobre\". Pero la verdad es que, en el caos de la vida moderna, muy pocos de nosotros logramos comer de esta manera.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nSocios de Positive News Este artículo ha sido creado por Positive News y apoyado por St Ewe Compartir: . a2a_s_facebook, . a2a_s_linkedin, . a2a_s_email{ color de fondo:#00bcdb! importante; } Pantalla solo @media y (ancho máximo: 768 px) { div#social_btns { display: none; }} La primera comida del día suele ser la que más se salta, pero desde el punto de vista cognitivo Para reforzar los vínculos familiares, los beneficios de dedicar tiempo a los alimentos integrales por la mañana son abundantes.\n\nProbablemente estés familiarizado con el viejo proverbio \"debes desayunar como un rey, almorzar como un príncipe y cenar como un pobre\". Pero la verdad es que, en el caos de la vida moderna, muy pocos de nosotros logramos comer de esta manera.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
@@ -681,8 +715,8 @@
     {
       "id": "rss-mundo-a-future-worth-building-what-t",
       "title": "Un futuro que vale la pena construir. Qué esperar en el nuevo número de la revista Positive News",
-      "summary": "Desde proyectos centrados en el futuro hasta escuelas secretas, las personas que aparecen en este número eligen actuar en un mundo que quizás nunca verán y muestran lo que significa jugar a largo plazo.",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nDesde proyectos centrados en el futuro hasta escuelas secretas, las personas que aparecen en este número eligen actuar en un mundo que quizás nunca verán y muestran lo que significa jugar a largo plazo.\n\nAl pasar varios meses trabajando en un número de la revista Positive News, me doy cuenta de lo rápido que avanza el ciclo de las noticias. A veces, las historias que parecían urgentes cuando fueron encargadas pueden, si no se juzgan cuidadosamente, parecer menos importantes cuando llegan a los lectores.",
+      "summary": "Desde proyectos centrados en el futuro hasta escuelas secretas, las personas que aparecen en este número eligen actuar en un mundo que tal vez nunca vean y muestran lo que significa jugar a largo plazo.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nDesde proyectos centrados en el futuro hasta escuelas secretas, las personas que aparecen en este número eligen actuar en un mundo que tal vez nunca vean y muestran lo que significa jugar a largo plazo.\n\nAl pasar varios meses trabajando en un número de la revista Positive News, me doy cuenta de lo rápido que avanza el ciclo de las noticias. A veces, las historias que parecían urgentes cuando fueron encargadas pueden, si no se juzgan cuidadosamente, parecer menos importantes cuando llegan a los lectores.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
@@ -736,25 +770,6 @@
       ]
     },
     {
-      "id": "rss-mundo-the-women-putting-community-at",
-      "title": "Las mujeres ponen a la comunidad en el centro de la conservación de los elefantes",
-      "summary": "Cuando Dorothy Lowakutuk se convirtió en una de las primeras cuidadoras de elefantes de África, se unió a un movimiento que desafiaba viejas suposiciones sobre para quién es la conservación y quién puede liderarla.",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nCuando Dorothy Lowakutuk se convirtió en una de las primeras cuidadoras de elefantes de África, se unió a un movimiento que desafiaba viejas suposiciones sobre para quién es la conservación y quién puede liderarla.\n\nNemparwai tenía apenas una semana cuando llegó al santuario de elefantes Reteti, en el norte de Kenia. Tenía los ojos cerrados por la hinchazón, el cuerpo magullado después de caer en un pozo y sus orejas todavía tenían el color rosado de un ternero recién nacido. La guardiana Dorothy Lowakutuk había conducido durante la noche para llegar hasta ella, cruzando llanuras empapadas de lluvia mientras nubes de tormenta se acumulaban sobre los picos boscosos de las colinas Lenkiyo, conocidas internacionalmente como la Cordillera Matthews. Ahora venía la parte más difícil: ganarse la confianza del joven elefante.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Positive News",
-      "sourceUrl": "https://www.positive.news/environment/the-women-putting-community-at-the-heart-of-elephant-conservation/",
-      "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/09/SharedLand_Story02b_WebHeader_1800x1080.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-06T07:00:43.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
       "id": "mundo-gorila-rehabilitada-madre",
       "title": "Hito de conservación: Gorila huérfana rescatada y devuelta a la selva se convierte en madre en libertad",
       "summary": "Tras años de rehabilitación en la República Democrática del Congo, una gorila de llanura oriental da a luz a una cría saludable en su hábitat natural protegido.",
@@ -790,25 +805,6 @@
       "tags": [
         "EDUCACIÓN",
         "MÚSICA"
-      ]
-    },
-    {
-      "id": "psicologia-sabiduria-intergeneracional-ia",
-      "title": "Estudio de psicología social: 7 de cada 10 personas prefieren el consejo de personas mayores frente a la IA",
-      "summary": "Una investigación formal sobre empatía confirma que la experiencia vital, la resonancia afectiva y la escucha de los adultos mayores brindan un alivio emocional irreemplazable.",
-      "fullStory": "En plena era de aceleración digital y chatbots conversacionales, una investigación formal en psicología social y relaciones intergeneracionales reveló que más del 70% de los adultos jóvenes y de mediana edad consideran que el consejo sincero de un adulto mayor posee un valor terapéutico y emocional inmensamente superior al de cualquier sistema tecnológico.\n\nEl estudio, realizado a través de experimentos de interacción controlada y mediciones psicofisiológicas de estrés, concluyó que lo que las personas buscan al atravesar un dilema vital no es una respuesta algorítmica optimizada, sino la validación emocional y la sensación de ser acogidos por alguien que ha sobrevivido a las vicisitudes del tiempo.\n\n\"La sabiduría de los abuelos y mentores mayores opera como un potente amortiguador del cortisol: transmite la certeza tangible de que las crisis pasan, las heridas cicatrizan y la vida continúa\", explican los psicólogos a cargo. El trabajo insta a revitalizar espacios comunitarios de diálogo intergeneracional como una de las estrategias de salud pública más efectivas contra la soledad y la ansiedad juvenil.",
-      "whyGoodNews": "Reivindica el incalculable valor de la vejez y los lazos humanos auténticos, confirmando que la compasión y la sabiduría compartida son el corazón insustituible del bienestar emocional.",
-      "category": "psicologia",
-      "sourceName": "SWNS Social Science",
-      "sourceUrl": "https://www.goodnewsnetwork.org/ai-chatbots-will-never-replace-advice-from-elders-say-seven-of-10-in-new-poll/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Senior-Actress-Sue-Johnston-for-Maltesers-SWNS.jpeg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-04T12:00:00.000Z",
-      "positivityScore": 97,
-      "readingTimeMinutes": 3,
-      "tags": [
-        "PSICOLOGÍA SOCIAL",
-        "BIENESTAR EMOCIONAL"
       ]
     }
   ]
