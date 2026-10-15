@@ -1,15 +1,92 @@
 {
-  "lastUpdated": "2026-10-15T01:19:28.093Z",
-  "totalCount": 41,
+  "lastUpdated": "2026-10-15T15:33:12.794Z",
+  "totalCount": 39,
   "categories": {
-    "musica": 5,
-    "ia": 4,
+    "musica": 4,
+    "ia": 5,
     "psicologia": 5,
-    "liderazgo": 7,
+    "liderazgo": 6,
     "chile": 3,
-    "mundo": 21
+    "mundo": 20
   },
   "news": [
+    {
+      "id": "rss-mundo-esa-s-new-sentinel-3c-satellit",
+      "title": "El nuevo satélite Sentinel 3C de la ESA hace su debut con suntuosas imágenes de Italia y el Ártico",
+      "summary": "La primera imagen, capturada por el instrumento de color del océano y la tierra, es una sorprendente vista en color natural que revela Italia con hermoso detalle.",
+      "fullStory": "Dos semanas después de su lanzamiento, el satélite Copernicus Sentinel 3C de la Agencia Espacial Europea ha devuelto sus primeras imágenes de nuestro mundo en suntuosos colores.\n\nEste primer conjunto de imágenes incluye impresionantes vistas de Italia, el Ártico canadiense y el Caribe desde el instrumento de color de la tierra y el océano del satélite, así como mediciones de la altura de la capa de hielo de Groenlandia y la superficie del mar desde su altímetro de radar de apertura sintética.\n\nSentinel-3C es el tercer satélite de la serie Sentinel-3 y continuará la tarea a largo plazo de la misión de entregar datos ambientales que son esenciales para una amplia gama de aplicaciones.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/esas-new-sentinel-3c-satellite-makes-its-debut-with-sumptuous-images-of-italy-and-the-arctic/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Italy-satellite-image-credit-Copernicus-Sentinel-3C-ESA-copyright-.jpeg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-15T13:00:06.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo-woman-who-lost-her-sister-inve",
+      "title": "Mujer que perdió a su hermana inventa una pegatina para el asiento del automóvil de un niño que también funciona como pulsera de hospital",
+      "summary": "Una hermana convirtió su tragedia personal en un brillante producto de seguridad de emergencia. Simple pero vital, la etiqueta de identificación Roth es un adhesivo diseñado para adherirse para siempre a la tela del asiento de seguridad de un niño. Si es necesario llevar rápidamente a ese niño al hospital, la pestaña desprendible convierte la pegatina en una pulsera del hospital, con […]",
+      "fullStory": "Una hermana convirtió su tragedia personal en un brillante producto de seguridad de emergencia.\n\nSimple pero vital, la etiqueta de identificación Roth es un adhesivo diseñado para adherirse para siempre a la tela del asiento de seguridad de un niño.\n\nSi es necesario llevar a ese niño de urgencia al hospital, la pestaña desprendible hace que la pegatina se convierta en una pulsera del hospital, con información médica y de contacto vital.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/woman-who-lost-her-sister-invents-a-childs-car-seat-sticker-that-doubles-as-hospital-bracelet/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Roth-ID-Tag-e1792051060617.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-15T11:00:37.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-in-ukraine-the-repair-movement",
+      "title": "En Ucrania, el movimiento reparador pasa a la clandestinidad",
+      "summary": "Una ciudad ucraniana se prepara para celebrar un festival de reparación en un refugio subterráneo, dando un nuevo significado al acto de arreglar cosas rotas",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nMientras continúan los ataques rusos, una ciudad ucraniana se prepara para celebrar un festival de reparación en un refugio subterráneo, dando un nuevo significado al simple acto de arreglar cosas rotas.\n\nCasi cinco años después de que Rusia lanzara su invasión a gran escala, Ucrania ha demostrado una resiliencia notable frente a la guerra, y no sólo en el campo de batalla.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/in-ukraine-the-repair-movement-is-heading-underground/",
+      "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/Repair-volunteer-and-visitor-repair-together-at-a-Fixfest-Photo-credit_-The-Restart-Project_Mark-A-Phillips-licensed-under-CC-BY-NC-SA-4.0-scaled.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-15T07:00:51.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-ia-good-news-in-history-october-1",
+      "title": "Buenas noticias en la historia, 15 de octubre",
+      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 15 de octubre.",
+      "fullStory": "Hoy hace 29 años, la misión Cassini de la NASA y la ESA, destinada a recopilar datos sobre Saturno y sus lunas, fue lanzada desde Cabo Cañaveral. La nave espacial robótica de clase Flagship estaba compuesta por la sonda espacial Cassini de la NASA y el módulo de aterrizaje Huygens de la ESA, que aterrizó en Titán, la luna más grande de Saturno. Cassini estuvo activa en el espacio durante casi 20 años, y pasó 13 años orbitando Saturno y estudiando el planeta y su sistema después de entrar en órbita el 1 de julio de 2004. LEA sobre lo que encontró... (1997)\n\nEn total, la misión Cassini descubrió siete nuevas lunas orbitando Saturno, incluida Metone, un extraño satélite con forma de huevo e increíblemente liso de 3,8 por 2,5 km de tamaño. También sobrevoló el satélite gigante irregular Phoebe y tomó las mejores fotografías hasta la fecha de esta luna.\n\nEn un anuncio del 28 de junio de 2004, los científicos del programa Cassini describieron la medición del período de rotación de Saturno. Debido a que no existen características fijas en la superficie que puedan usarse para obtener este período, se utilizó la repetición de emisiones de radio. Un día saturino se calculó en 10 horas y 33 minutos.",
+      "whyGoodNews": "Muestra cómo la innovación científica y el ingenio humano colaboran para resolver desafíos ambientales y sociales concretos.",
+      "category": "ia",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061015/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/Official-project-image-NASA.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-15T07:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "INNOVACIÓN",
+        "CIENCIA"
+      ]
+    },
     {
       "id": "rss-liderazgo-teen-triathlete-raises-more-th",
       "title": "Triatleta adolescente recauda más de $30,000 para donar bicicletas y lecciones de equitación a familias de bajos ingresos",
@@ -27,8 +104,7 @@
       "tags": [
         "LIDERAZGO",
         "EQUIPOS"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-pittsburgh-water-launches-debt",
@@ -126,67 +202,10 @@
       ]
     },
     {
-      "id": "rss-mundo-scientists-shocked-to-discover",
-      "title": "Los científicos se sorprenden al descubrir el 'D-rex', un hongo gigante de los bosques chinos que data de hace 65 millones de años",
-      "summary": "La especie recientemente descrita, Dianjunus rex, o \"Rey de Dian\", llamada así por un antiguo reino chino, produce frutos de hasta 20 pulgadas de alto.",
-      "fullStory": "En lo profundo de los bosques del suroeste de China, los científicos han descubierto un \"gigante fúngico\" que desafía nuestra comprensión de cuán grandes pueden llegar a ser los hongos.\n\nLa especie recientemente descrita, Dianjunus rex, o \"Rey de Dian\", llamada así por un antiguo reino chino, produce cuerpos fructíferos verticales de hasta 20 pulgadas de alto y un peso de hasta 5 libras.\n\nCientíficos de China, Tailandia y México hicieron el descubrimiento, que constituyó no sólo su propio género nuevo, sino también una familia completamente nueva de hongos dentro del filo de Ascomycota.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/scientists-shocked-to-discover-d-rex-a-giant-fungus-from-chinese-forests-dating-back-65-million-years/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/pictured-the-stromata-of-Dianjunus-rex-in-the-field.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-13T18:30:53.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-italian-bio-methane-plant-come",
-      "title": "Planta italiana de biometano entra en funcionamiento y suministra gas renovable a más de 3.000 hogares",
-      "summary": "La planta de biometano de Grottole utiliza subproductos agrícolas de granjas regionales para producir fertilizantes y gas con bajas emisiones de carbono.",
-      "fullStory": "Un promotor energético europeo ha puesto en marcha una importante planta de biometano en el sur de Italia que permitirá ahorrar unas 9.000 toneladas de CO2 al año al producir un sustituto del gas natural a partir de residuos agrícolas.\n\nSituada en Grottole, en el \"empeine\" de la península italiana, la planta producirá en última instancia 45 gigavatios-hora de energía renovable al año durante décadas.\n\nMás que casi cualquier otra economía europea importante, Italia funciona con gas natural. Representa el 46% de la generación de electricidad del país (tres veces más que la energía hidroeléctrica del segundo mayor contribuyente) y las empresas de servicios públicos del país mantienen una importante infraestructura de gas natural ubicada en todo el país.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/italian-biomethane-plant-comes-online-providing-renewable-gas-supply-to-over-3000-homes/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/The-Grottole-biomethane-plant-operated-by-Axpo-credit-Axpo-released.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-13T15:30:50.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-liderazgo-barbie-honors-serena-williams-",
-      "title": "Barbie rinde homenaje a Serena Williams con una nueva muñeca exclusiva que servirá de inspiración a la próxima generación de mujeres",
-      "summary": "\"Al crecer, no vi a muchas chicas que se parecían a mí a las que les dijeran que no había límite en lo que podían llegar a ser\", dijo Williams.",
-      "fullStory": "Barbie ha lanzado una muñeca edición exclusiva de nada menos que la leyenda del tenis Serena Williams.\n\nEl lanzamiento se produjo junto con la noticia de que Williams se unió oficialmente al Equipo Barbie, un grupo de poderosas atletas y modelos a seguir que inspiran y elevan como mujeres, líderes y muñecas icónicas.\n\nSu padre la introdujo al tenis a una edad temprana y Williams, la más joven, transformó el deporte, ganando 23 títulos individuales en torneos importantes y cuatro medallas de oro.",
-      "whyGoodNews": "Demuestra que la confianza, la empatía y la comunicación abierta son las herramientas más eficaces para inspirar y liderar equipos humanos.",
-      "category": "liderazgo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/barbie-honors-serena-williams-with-new-signature-doll-to-serve-inspiration-to-next-generation-of-women/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/released-by-Barbie.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-13T13:00:10.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "LIDERAZGO",
-        "EQUIPOS"
-      ]
-    },
-    {
       "id": "rss-mundo-the-in-awe-artist-painting-a-w",
       "title": "El artista 'asombrado' que pinta una Gran Bretaña más salvaje",
       "summary": "Las pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que rescatan a la naturaleza del abismo",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLas pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que rescatan a la naturaleza del abismo\n\nLa marisma salada se está extendiendo por el estuario de Ribble, en la costa noroeste de Inglaterra. En Cornualles, robles centenarios se encuentran dentro de un fragmento de uno de los antiguos bosques tropicales templados de Gran Bretaña. En otros lugares, se están dejando, gestionando o remodelando tierras para dar a la vida silvestre la oportunidad de regresar. Estos son los paisajes que la artista Rebecca Howard pasó el año pasado pintando para A Year in the Wild, una exposición que documenta nueve proyectos de reconstrucción del Reino Unido.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLas pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que recuperan la naturaleza del abismo\n\nLa marisma salada se está extendiendo por el estuario de Ribble, en la costa noroeste de Inglaterra. En Cornualles, robles centenarios se encuentran dentro de un fragmento de uno de los antiguos bosques tropicales templados de Gran Bretaña. En otros lugares, se están dejando, gestionando o remodelando tierras para dar a la vida silvestre la oportunidad de regresar. Estos son los paisajes que la artista Rebecca Howard pasó el año pasado pintando para A Year in the Wild, una exposición que documenta nueve proyectos de reconstrucción salvaje en el Reino Unido.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
@@ -518,7 +537,7 @@
       "id": "rss-mundo-three-surprising-reasons-to-sl",
       "title": "Tres razones sorprendentes para reducir el ritmo y disfrutar de un desayuno nutritivo y bien pensado",
       "summary": "Desde la función cognitiva hasta el refuerzo de los vínculos familiares, los beneficios de dedicar tiempo a comer alimentos integrales por la mañana son abundantes",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nSocios de Positive News Este artículo ha sido creado por Positive News y apoyado por St Ewe Compartir: . a2a_s_facebook, . a2a_s_linkedin, . a2a_s_email{ color de fondo:#00bcdb! importante; } Pantalla solo @media y (ancho máximo: 768 px) { div#social_btns { display: none; }} La primera comida del día suele ser la que más se salta, pero desde el punto de vista cognitivo Para reforzar los vínculos familiares, los beneficios de dedicar tiempo a los alimentos integrales y saludables por la mañana son abundantes.\n\nProbablemente estés familiarizado con el viejo proverbio \"debes desayunar como un rey, almorzar como un príncipe y cenar como un pobre\". Pero la verdad es que, en el caos de la vida moderna, muy pocos de nosotros logramos comer de esta manera.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nSocios de Positive News Este artículo ha sido creado por Positive News y apoyado por St Ewe Compartir: . a2a_s_facebook, . a2a_s_linkedin, . a2a_s_email{ color de fondo:#00bcdb! importante; } Pantalla solo @media y (ancho máximo: 768 px) { div#social_btns { display: none; }} La primera comida del día suele ser la que más se salta, pero desde el punto de vista cognitivo Para reforzar los vínculos familiares, los beneficios de dedicar tiempo a los alimentos integrales por la mañana son abundantes.\n\nProbablemente estés familiarizado con el viejo proverbio \"debes desayunar como un rey, almorzar como un príncipe y cenar como un pobre\". Pero la verdad es que, en el caos de la vida moderna, muy pocos de nosotros logramos comer de esta manera.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
@@ -538,8 +557,8 @@
       ]
     },
     {
-      "id": "rss-mundo-what-went-right-this-week-the-",
-      "title": "Lo que salió bien esta semana: las buenas noticias que importan",
+      "id": "rss-mundo-what-went-right-this-week-peop",
+      "title": "Lo que salió bien esta semana: justicia climática impulsada por las personas y más",
       "summary": "Un momento histórico para la justicia climática en Australia, revelaron los premios Nobel, y un fármaco prometedor para el Parkinson, además de más buenas noticias",
       "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nUn momento crucial para la justicia climática en Australia, los ganadores del Premio Nobel y un fármaco prometedor para el Parkinson, además de más buenas noticias\n\nEn un momento crucial para la justicia climática en Australia, el tribunal más alto del país falló en contra de las propuestas para expandir una enorme mina de carbón en Nueva Gales del Sur.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
@@ -713,25 +732,6 @@
       ]
     },
     {
-      "id": "rss-mundo-a-future-worth-building-what-t",
-      "title": "Un futuro que vale la pena construir. Qué esperar en el nuevo número de la revista Positive News",
-      "summary": "Desde proyectos centrados en el futuro hasta escuelas secretas, las personas que aparecen en este número eligen actuar en un mundo que tal vez nunca vean y muestran lo que significa jugar a largo plazo.",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nDesde proyectos centrados en el futuro hasta escuelas secretas, las personas que aparecen en este número eligen actuar en un mundo que tal vez nunca vean y muestran lo que significa jugar a largo plazo.\n\nAl pasar varios meses trabajando en un número de la revista Positive News, me doy cuenta de lo rápido que avanza el ciclo de las noticias. A veces, las historias que parecían urgentes cuando fueron encargadas pueden, si no se juzgan cuidadosamente, parecer menos importantes cuando llegan a los lectores.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/media/a-future-worth-building-what-to-expect-in-the-new-issue-of-positive-news-magazine/",
-      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/PN127-tile-shot-3x5_1200px.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-07T10:16:24.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
       "id": "liderazgo-gestion-energia-productividad",
       "title": "Liderazgo sostenible: Por qué gestionar la energía mental y emocional es más efectivo que gestionar las horas",
       "summary": "La neurociencia de la productividad demuestra que la capacidad directiva se multiplica al respetar ciclos ultradianos de foco profundo y pausas estratégicas de recuperación.",
@@ -767,44 +767,6 @@
       "tags": [
         "ESPACIO",
         "NASA & NOKIA"
-      ]
-    },
-    {
-      "id": "mundo-gorila-rehabilitada-madre",
-      "title": "Hito de conservación: Gorila huérfana rescatada y devuelta a la selva se convierte en madre en libertad",
-      "summary": "Tras años de rehabilitación en la República Democrática del Congo, una gorila de llanura oriental da a luz a una cría saludable en su hábitat natural protegido.",
-      "fullStory": "El santuario de primates GRACE en la República Democrática del Congo y conservacionistas de todo el mundo celebran un logro conmovedor. Lulingu, una gorila de llanura oriental que fue rescatada siendo una cría lactante tras perder a su madre a manos de cazadores furtivos, ha dado a luz a su primer bebé en estado silvestre.\n\nEl proceso de reinserción de Lulingu requirió más de ocho años de trabajo paciente: aprender a buscar alimento en el bosque denso, construir nidos nocturnos en los árboles y aprender las dinámicas sociales de una manada silvestre. Hace dos años, los biólogos constataron que Lulingu se había integrado armónicamente a un grupo familiar salvaje liderado por un macho de lomo plateado.\n\nLas cámaras trampa y el monitoreo satelital captaron las primeras imágenes de la madre amamantando con ternura a su pequeña cría en la densa vegetación del parque nacional. Este nacimiento marca un hito en la preservación de una de las subespecies de primates más amenazadas del planeta.",
-      "whyGoodNews": "Demuestra que la paciencia y el amor de los cuidadores de fauna pueden revertir tragedias del pasado y devolver la vida salvaje a sus hogares ancestrales.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/orphaned-rescued-and-rewilded-female-gorilla-becomes-a-mother-in-historic-conservation-success/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Lulingu-and-her-infant-credit-Rewild-released-e1791180403372.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-05T12:00:00.000Z",
-      "positivityScore": 98,
-      "readingTimeMinutes": 3,
-      "tags": [
-        "BIODIVERSIDAD",
-        "CONSERVACIÓN"
-      ]
-    },
-    {
-      "id": "musica-educacion-gratuita-escuelas",
-      "title": "Organización sin fines de lucro lleva educación musical gratuita a más de 20.000 estudiantes",
-      "summary": "Una fundación comunitaria entrega instrumentos musicales y clases sin costo a 131 escuelas públicas, abriendo oportunidades creativas para jóvenes de sectores vulnerables.",
-      "fullStory": "En un inspirador esfuerzo por democratizar las artes, la fundación Music for Minors ha logrado expandir su programa de educación artística gratuita a 131 colegios públicos, beneficiando a más de 20.000 niños y adolescentes que carecían de formación musical regular en sus planes de estudio.\n\nLa iniciativa proporciona desde guitarras, teclados y violines hasta instrumentos de percusión y viento, complementados con talleres semanales impartidos por músicos profesionales y pedagogos certificados. Los docentes del programa destacan cómo el aprendizaje instrumental fortalece el rendimiento cognitivo, la autoestima y la convivencia escolar entre los jóvenes.\n\nLos resultados del programa muestran no solo mejoras en el rendimiento académico general, sino la creación de más de 40 orquestas y ensambles juveniles comunitarios donde los estudiantes descubren sus talentos y forjan amistades duraderas a través de la práctica colectiva de la música.",
-      "whyGoodNews": "Abre caminos de esperanza, disciplina y alegría para miles de niñas y niños, garantizando que el acceso al arte no sea un privilegio socioeconómico sino un derecho compartido.",
-      "category": "musica",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/nonprofit-brings-free-music-education-to-more-than-20000-miami-students-in-131-schools/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/maxresdefault-1.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-05T10:00:00.000Z",
-      "positivityScore": 97,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "EDUCACIÓN",
-        "MÚSICA"
       ]
     }
   ]
