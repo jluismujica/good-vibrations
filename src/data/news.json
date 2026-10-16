@@ -1,15 +1,111 @@
 {
-  "lastUpdated": "2026-10-16T01:05:17.438Z",
-  "totalCount": 39,
+  "lastUpdated": "2026-10-16T15:19:55.967Z",
+  "totalCount": 37,
   "categories": {
-    "musica": 4,
-    "ia": 5,
+    "musica": 5,
+    "ia": 4,
     "psicologia": 5,
-    "liderazgo": 6,
+    "liderazgo": 4,
     "chile": 3,
     "mundo": 20
   },
   "news": [
+    {
+      "id": "rss-mundo-teen-s-disaster-messaging-app-",
+      "title": "La aplicación de mensajería de desastres para adolescentes puede \"saltar\" a través de Bluetooth cuando las redes celulares colapsan",
+      "summary": "Crisis Connect permite a los usuarios enviar mensajes y llamadas a través de Bluetooth cuando se interrumpen las comunicaciones móviles y 4G.",
+      "fullStory": "No son sólo las casas las que colapsan durante un terremoto, sino también las torres de telefonía móvil y las redes que mantienen.\n\nEl 6 de febrero de 2023, unos terremotos devastaron el sur de Türkiye y el norte de Siria. Cuando más se necesitaban, los milagros de las comunicaciones instantáneas modernas estuvieron ausentes cuando la infraestructura celular y de Internet resultó dañada o destruida.\n\nAl ver eso, un estudiante de secundaria a cientos de kilómetros de distancia, en Estambul, comenzó a trabajar en una aplicación de mensajería específica para crisis, una que funcionaría cuando otras no.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/teens-disaster-messaging-app-can-hop-across-bluetooth-when-cellular-networks-collapse/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Crisis-Connect-Press-1400x700-1.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-16T13:00:35.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo-largest-private-conservation-p",
+      "title": "El proyecto de conservación privado más grande de EE. UU. alcanza un hito importante cuando los bisontes en libertad superan los 1.000",
+      "summary": "El recuento anual de terneros de American Prairie, que se realiza al final de la temporada de reproducción, sitúa el tamaño de la manada de la organización sin fines de lucro en 1.016.",
+      "fullStory": "A medida que el otoño desciende sobre las Grandes Llanuras de América del Norte, el proyecto privado de conservación de tierras más grande del país está marcando un hito inspirador.\n\nLa manada residente de bisontes relativamente libres ahora cuenta con 4 dígitos por primera vez desde la fundación de la organización hace más de 20 años.\n\nAmerican Prairie es una organización conservacionista sin fines de lucro con la que los lectores de GNN pueden estar familiarizados. El grupo simplemente está intentando unir el tramo de pradera de América del Norte contiguamente salvaje más grande del país con fines de conservación y recreación.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/largest-private-conservation-project-in-the-us-hits-major-milestone-as-free-roaming-bison-pass-1000/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/unnamed.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-16T11:00:30.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-good-news-in-history-october-1",
+      "title": "Buenas noticias en la historia, 16 de octubre",
+      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 16 de octubre.",
+      "fullStory": "Hoy hace 57 años, el equipo de béisbol desvalido de Nueva York, 'The Miracle Mets', ganó la Serie Mundial en solo 5 juegos, un triunfo romántico sobre un equipo muy favorito de los Orioles. En las siete temporadas anteriores, los Mets nunca terminaron por encima del noveno lugar y perdieron consistentemente cien juegos. Sin embargo, a partir de mayo, los Mets lograron un récord sorprendente de 82-39. Ganaron 38 de sus últimos 49 juegos, terminando ocho juegos por delante de los Cachorros, uno de los mayores cambios en la historia de la MLB. MIRA un homenaje… (1969)\n\nLo que levantó a los “Amazin‘ Mets” fue su cuerpo de lanzadores, que lideró la MLB con 28 blanqueadas. Para poner eso en contexto, en los últimos 100 años sólo un equipo anotó más blanqueadas que los Mets de 1969. Liderados por los lanzadores Tom Seaver (quien ganó 25 juegos camino al premio Cy Young) y un joven Nolan Ryan, lanzaron 10 sorprendentes blanqueadas en 25 juegos en septiembre. Debido a que los Mets de 1969 también fueron uno de los dos equipos con peores golpes en medio siglo en ganar la Serie Mundial, llamarlo un milagro no es descabellado.\n\nHoy hace 103 años, Roy y Walt Disney fundaron Disney Brothers Cartoon Studio. Su nombre pronto se cambió a The Walt Disney Studio, en honor al animador de Missouri a quien cinco años más tarde se le ocurrió la idea de un personaje de ratón que se convertiría en la caricatura de Mickey Mouse, la mascota distintiva de la compañía y uno de los personajes más reconocibles del mundo. El estudio 'Disney' creció hasta establecerse como líder en la industria de la animación estadounidense con éxitos como Bambi y Blancanieves antes de diversificarse hacia la producción de películas de acción real, televisión y parques temáticos.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061016/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2018/10/Miracle-Mets-1969-fairuse-youtube.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-16T07:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-what-went-right-this-week-the-",
+      "title": "Lo que salió bien esta semana: las buenas noticias que importan",
+      "summary": "La caída en picado de la tasa de pobreza en Indonesia, el puente para la vida silvestre más grande de Estados Unidos y “una nueva era” para el río Támesis, y más buenas noticias",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLa caída en picado de la tasa de pobreza en Indonesia, el puente para la vida silvestre más grande de Estados Unidos y “una nueva era” para el río Támesis, y más buenas noticias\n\nEl número de indonesios que viven en la pobreza extrema se ha desplomado casi un 83% en sólo cuatro décadas, revelan nuevas cifras \"impresionantes\".",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-42-of-2026/",
+      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/iStock-475084328.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-16T05:00:50.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-musica-an-extinct-crocodilian-s-skull",
+      "title": "Se encontró el cráneo de un cocodrilo extinto en las rocas que construyeron la esfinge, y también le falta la nariz",
+      "summary": "Los investigadores ahora redescriben a la criatura como Herugavialis cairensis, traducido como algo así como \"el gavial de El Cairo de Heru\".",
+      "fullStory": "Se ha identificado una nueva especie de cocodrilo a partir de fósiles recuperados de una capa de roca extraída por los antiguos egipcios para construir la Esfinge.\n\nY, curiosamente, al igual que el emblemático monumento egipcio, a este reptil fosilizado le falta la punta de su hocico.\n\nEn la década de 1920, se recuperaron varios fósiles de la Formación Mokattam de 45 millones de años en Egipto. Esos fósiles, incluido un cráneo casi completo, fueron descritos como pertenecientes a Tomistoma, un género de cocodrilo gavial, primo de los caimanes y los cocodrilos con hocicos largos y delgados.",
+      "whyGoodNews": "Celebra el poder unificador de la música y el arte para conectar personas, sanar heridas y despertar emociones profundas.",
+      "category": "musica",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/an-extinct-crocodilians-skull-was-found-in-the-rocks-that-built-the-sphinx-and-its-also-missing-its-nose/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/low-res_herugavialis_cairensis-e1792061695449.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-15T17:30:16.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "MÚSICA",
+        "CULTURA"
+      ]
+    },
     {
       "id": "rss-mundo-tribe-just-a-signature-away-fr",
       "title": "Tribu a solo una firma de recuperar 1,100 acres ancestrales a lo largo del río Elwha sin represas",
@@ -27,8 +123,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-esa-s-new-sentinel-3c-satellit",
@@ -107,82 +202,6 @@
       ]
     },
     {
-      "id": "rss-liderazgo-teen-triathlete-raises-more-th",
-      "title": "Triatleta adolescente recauda más de $30,000 para donar bicicletas y lecciones de equitación a familias de bajos ingresos",
-      "summary": "Con solo 17 años, el residente de Alpharetta ya ha recaudado $30,000, consiguió 400 bicicletas donadas y distribuyó 500 cascos.",
-      "fullStory": "Continuando con la cobertura de GNN sobre jóvenes líderes sin fines de lucro, la Pedal Forward Foundation en Georgia ha distribuido cientos de bicicletas a familias de bajos ingresos y ha enseñado a cientos de niños a montarlas.\n\nSu fundador, Jonathan Thai, se inspiró para dar un paso al frente y servir a su comunidad después de que el REI local cerrara un taller comunitario para andar en bicicleta.\n\nCon solo 17 años, el residente de Alpharetta ya recaudó $30,000, obtuvo 400 bicicletas donadas y distribuyó 500 cascos, además de organizar más de una docena de clínicas comunitarias gratuitas sobre bicicletas para niños de todas las edades.",
-      "whyGoodNews": "Demuestra que la confianza, la empatía y la comunicación abierta son las herramientas más eficaces para inspirar y liderar equipos humanos.",
-      "category": "liderazgo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/teen-triathlete-raises-more-than-30000-to-donate-bikes-and-riding-lessons-to-low-income-families/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Jonathan-Thai-credit-screengrab-via-Pedal-Forward.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-14T18:30:16.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "LIDERAZGO",
-        "EQUIPOS"
-      ]
-    },
-    {
-      "id": "rss-mundo-pittsburgh-water-launches-debt",
-      "title": "Pittsburgh Water lanza un programa de condonación de deuda para ayudar a las familias con costos crecientes",
-      "summary": "Los clientes sólo necesitan mantenerse al día con los pagos mensuales para ver la condonación gradual de la deuda pendiente anterior a septiembre.",
-      "fullStory": "Los residentes de Pittsburgh con deudas pendientes en sus servicios de agua pueden obtener la condonación de ésta en un período de 24 meses.\n\nInstituidos por la autoridad del agua de Pittsburgh, ciertos clientes ya se han inscrito a partir de septiembre y sólo necesitan mantenerse al día con los pagos mensuales para ver la condonación gradual de la deuda pendiente anterior a septiembre.\n\nPittsburgh Water, llamado Programa de Condonación de Atrasos, actualizó y mejoró recientemente el programa, mientras que unos 4.300 hogares de la ciudad que vivían por debajo del 200% de la Línea Federal de Pobreza fueron inscritos automáticamente.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/pittsburgh-water-launches-debt-forgiveness-program-to-help-families-with-rising-costs/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2015/09/erase-debt-CC-Images_of_Money-e1776148421784.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-14T15:30:44.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-inches-below-the-forest-floor-",
-      "title": "A centímetros debajo del suelo del bosque, arqueólogos en Alemania desenterraron un templo romano dedicado al dios de la guerra",
-      "summary": "Dentro del vicus, los arqueólogos encontraron planos de áreas habitables, centros de artesanía y un templo que se cree que estuvo dedicado a Marte.",
-      "fullStory": "A lo largo de una serie de fortificaciones romanas que atraviesan Alemania, justo al norte de Frankfurt, las excavaciones arqueológicas han revelado extensos planos que pertenecen a un templo, un campamento militar y un centro de artesanía.\n\nEl descubrimiento, que se encuentra a pocos centímetros bajo el suelo del bosque, proporciona una amplia visión de cómo era la vida a lo largo de esta frontera, así como del uso del área después de su abandono.\n\nDesde 2024, arqueólogos del estado de Hesse y colegas de la Universidad de Frankfurt han estado excavando Kapersburg, un fuerte romano ubicado en las estribaciones de las montañas Taunus orientales.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/inches-below-the-forest-floor-archeologists-in-germany-unearthed-a-roman-temple-to-the-war-god/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Lars-Gorze-MA-Hesse-State-Office-for-Monument-Preservation-e1791968271919.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-14T13:00:21.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-world-s-heaviest-pumpkin-sets-",
-      "title": "La calabaza más pesada del mundo establece un nuevo récord increíble con 2,856 libras.",
-      "summary": "Esta calabaza sísmica acaba de ser certificada como la más grande jamás cultivada por un hombre en una reciente competencia británica. Cuando los voluntarios del Pesaje de Calabazas Gigantes del Vivero Wargrave finalmente subieron el espécimen a la báscula, la lectura fue simplemente increíble: 2.856. 8 libras (1295,8 kg) Es más pesado que un rinoceronte blanco, más pesado que un Volkswagen Beetle y en comparación […]",
-      "fullStory": "Esta calabaza sísmica acaba de ser certificada como la más grande jamás cultivada por un hombre en una reciente competencia británica.\n\nCuando los voluntarios del Pesaje de Calabazas Gigantes del Vivero Wargrave finalmente subieron el espécimen a la báscula, la lectura fue simplemente increíble: 2.856. 8 libras (1295, 8 kg)\n\nEs más pesada que un rinoceronte blanco, más pesada que un Volkswagen Beetle y, en comparación con otras calabazas de la historia que han batido récords, se destaca como la calabaza indiscutible de la montaña.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/worlds-heaviest-pumpkin-sets-incredible-new-record-at-2856-lbs/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Ian-Paton.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-14T11:00:23.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
       "id": "rss-mundo-wildlife-photographer-of-the-y",
       "title": "Fotógrafo de vida silvestre del año 2026, las imágenes ganadoras",
       "summary": "Celebrando la complejidad del mundo natural y la importancia de protegerlo, el concurso Fotógrafo de Vida Silvestre del Año de este año ha atraído un número récord de inscripciones.",
@@ -205,7 +224,7 @@
       "id": "rss-mundo-the-in-awe-artist-painting-a-w",
       "title": "El artista 'asombrado' que pinta una Gran Bretaña más salvaje",
       "summary": "Las pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que rescatan a la naturaleza del abismo",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLas pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que rescatan a la naturaleza del abismo\n\nLa marisma salada se está extendiendo por el estuario de Ribble, en la costa noroeste de Inglaterra. En Cornualles, robles centenarios se encuentran dentro de un fragmento de uno de los antiguos bosques tropicales templados de Gran Bretaña. En otros lugares, se están dejando, gestionando o remodelando tierras para dar a la vida silvestre la oportunidad de regresar. Estos son los paisajes que la artista Rebecca Howard pasó el año pasado pintando para A Year in the Wild, una exposición que documenta nueve proyectos de reconstrucción del Reino Unido.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLas pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que recuperan la naturaleza del abismo\n\nLa marisma salada se está extendiendo por el estuario de Ribble, en la costa noroeste de Inglaterra. En Cornualles, robles centenarios se encuentran dentro de un fragmento de uno de los antiguos bosques tropicales templados de Gran Bretaña. En otros lugares, se están dejando, gestionando o remodelando tierras para dar a la vida silvestre la oportunidad de regresar. Estos son los paisajes que la artista Rebecca Howard pasó el año pasado pintando para A Year in the Wild, una exposición que documenta nueve proyectos de reconstrucción salvaje en el Reino Unido.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
@@ -537,7 +556,7 @@
       "id": "rss-mundo-three-surprising-reasons-to-sl",
       "title": "Tres razones sorprendentes para reducir el ritmo y disfrutar de un desayuno nutritivo y bien pensado",
       "summary": "Desde la función cognitiva hasta el refuerzo de los vínculos familiares, los beneficios de dedicar tiempo a comer alimentos integrales por la mañana son abundantes",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nSocios de Positive News Este artículo ha sido creado por Positive News y apoyado por St Ewe Compartir: . a2a_s_facebook, . a2a_s_linkedin, . a2a_s_email{ color de fondo:#00bcdb! importante; } Pantalla solo @media y (ancho máximo: 768 px) { div#social_btns { display: none; }} La primera comida del día suele ser la que más se salta, pero desde el punto de vista cognitivo Para reforzar los vínculos familiares, los beneficios de dedicar tiempo a los alimentos integrales y saludables por la mañana son abundantes.\n\nProbablemente estés familiarizado con el viejo proverbio \"debes desayunar como un rey, almorzar como un príncipe y cenar como un pobre\". Pero la verdad es que, en el caos de la vida moderna, muy pocos de nosotros logramos comer de esta manera.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nSocios de Positive News Este artículo ha sido creado por Positive News y apoyado por St Ewe Compartir: . a2a_s_facebook, . a2a_s_linkedin, . a2a_s_email{ color de fondo:#00bcdb! importante; } Pantalla solo @media y (ancho máximo: 768 px) { div#social_btns { display: none; }} La primera comida del día suele ser la que más se salta, pero desde el punto de vista cognitivo Para reforzar los vínculos familiares, los beneficios de dedicar tiempo a los alimentos integrales por la mañana son abundantes.\n\nProbablemente estés familiarizado con el viejo proverbio \"debes desayunar como un rey, almorzar como un príncipe y cenar como un pobre\". Pero la verdad es que, en el caos de la vida moderna, muy pocos de nosotros logramos comer de esta manera.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
@@ -633,25 +652,6 @@
       ]
     },
     {
-      "id": "rss-mundo-prince-william-launches-kit-to",
-      "title": "El Príncipe William lanza un kit para ayudar a las comunidades a prepararse para emergencias",
-      "summary": "La guía práctica respaldada por evidencia que muestra a las personas cómo desarrollar resiliencia y preparación en sus comunidades.",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLa guía gratuita tiene como objetivo ayudar a las comunidades del Reino Unido a prepararse para inundaciones, incendios forestales y otras emergencias, con consejos prácticos sobre todo, desde cortes de energía hasta apoyo a vecinos vulnerables.\n\nTina Groves acababa de sintonizar el buceo en la televisión de su casa en Ilminster cuando escuchó el ruido del agua. El hombre de 74 años, que tiene discapacidad visual, al principio pensó que era parte de la cobertura televisiva. Pero venía de su cocina.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/prince-william-launches-kit-to-help-communities-prepare-for-emergencies/",
-      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/55573230610_ccd534dc38_k-e1791457252615.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-08T11:27:24.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
       "id": "psicologia-escucha-activa-liderazgo",
       "title": "La ciencia de saber escuchar: Por qué la escucha activa genera seguridad psicológica y cohesión en los equipos",
       "summary": "Investigaciones en psicología organizacional revelan que los líderes que escuchan sin interrupción fomentan la liberación de oxitocina y reducen la reactividad de la amígdala.",
@@ -729,44 +729,6 @@
       "tags": [
         "BIODIVERSIDAD",
         "ENERGÍA LIMPIA"
-      ]
-    },
-    {
-      "id": "liderazgo-gestion-energia-productividad",
-      "title": "Liderazgo sostenible: Por qué gestionar la energía mental y emocional es más efectivo que gestionar las horas",
-      "summary": "La neurociencia de la productividad demuestra que la capacidad directiva se multiplica al respetar ciclos ultradianos de foco profundo y pausas estratégicas de recuperación.",
-      "fullStory": "Durante décadas, la cultura corporativa promovió la falacia de que más horas frente a la pantalla equivalían a mejores resultados. Sin embargo, estudios contemporáneos en neurofisiología directiva del Energy Project y MIT Sloan Management Review revelan que el tiempo es un recurso finito, pero la energía humana es renovable y multiplicable.\n\nLos líderes de mayor impacto estructuran sus jornadas en torno a las cuatro fuentes de energía personal: física (sueño y movimiento), emocional (calidad de las relaciones y optimismo), mental (capacidad de atención focalizada) y espiritual (conexión con un propósito trascendente).\n\nAl aplicar bloques de 90 minutos de trabajo profundo seguidos de breves desconexiones conscientes de 10 minutos (caminar, respiración o hidratación), los directivos reportan un aumento del 60% en la agilidad para tomar decisiones complejas y una drástica reducción en la fatiga decisional al final del día.",
-      "whyGoodNews": "Promueve un paradigma de rendimiento saludable que destierra el agotamiento crónico y demuestra que el cuidado personal es el fundamento indispensable del liderazgo de excelencia.",
-      "category": "liderazgo",
-      "sourceName": "MIT Sloan Management Review",
-      "sourceUrl": "https://www.positive.news/lifestyle/energy-management-over-time-management-leadership/",
-      "imageUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=1200&q=80",
-      "imageSourceType": "curated",
-      "publishedAt": "2026-10-06T15:00:00.000Z",
-      "positivityScore": 97,
-      "readingTimeMinutes": 3,
-      "tags": [
-        "LIDERAZGO",
-        "ALTO RENDIMIENTO"
-      ]
-    },
-    {
-      "id": "ia-nokia-nasa-red-lunar",
-      "title": "Nokia y la NASA se asocian para desplegar la primera red 4G celular de alta velocidad en la Luna",
-      "summary": "La tecnología de telecomunicaciones ultra compacta permitirá a astronautas y rovers transmitir video en alta definición, telemetría y navegación autónoma en el polo sur lunar.",
-      "fullStory": "La exploración espacial tripulada está a punto de dar un salto tecnológico sin precedentes. La NASA, en colaboración con los legendarios laboratorios Nokia Bell Labs e Intuitive Machines, ha completado los preparativos para instalar la primera red celular 4G LTE en la superficie de la Luna como parte del programa Artemis.\n\nEl sistema, diseñado especialmente para soportar la radiación cósmica, el vacío extremo y las fluctuaciones térmicas lunares (que oscilan entre -130°C y +120°C), consta de una estación base ultra liviana integrada en el módulo de alunizaje y terminales transceptores montados en los rovers de exploración. \n\nEsta infraestructura permitirá a los astronautas comunicarse por voz y video de alta definición en tiempo real, controlar vehículos robóticos a kilómetros de distancia y transferir datos científicos de manera instantánea mientras buscan depósitos de hielo de agua en los cráteres eternamente sombreados del polo sur lunar.",
-      "whyGoodNews": "La tecnología de telecomunicaciones de uso diario se adapta al espacio profundo, facilitando la colaboración científica internacional y sentando las bases para misiones humanas sostenibles más allá de la Tierra.",
-      "category": "ia",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/nokia-and-nasa-team-up-to-bring-4g-to-the-moon-and-our-astronauts/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/An-artistic-rendering-of-the-Lunar-lander-and-rover-with-4G-antennae-extended-credit-Intuitive-Machines-Nokia-Bell-Labs.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-06T11:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 3,
-      "tags": [
-        "ESPACIO",
-        "NASA & NOKIA"
       ]
     }
   ]
