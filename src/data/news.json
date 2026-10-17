@@ -1,20 +1,81 @@
 {
-  "lastUpdated": "2026-10-17T01:12:07.012Z",
-  "totalCount": 37,
+  "lastUpdated": "2026-10-17T14:08:54.856Z",
+  "totalCount": 35,
   "categories": {
-    "musica": 5,
+    "musica": 4,
     "ia": 4,
     "psicologia": 5,
     "liderazgo": 4,
     "chile": 3,
-    "mundo": 20
+    "mundo": 19
   },
   "news": [
     {
+      "id": "rss-mundo-massive-70lb-dog-the-size-of-b",
+      "title": "Un perro enorme de 70 libras, del tamaño de un hipopótamo bebé, pierde kilos y consigue un nuevo hogar",
+      "summary": "Una enorme perra de refugio de 70 libras llamada Peggy Sue pesaba lo mismo que un hipopótamo bebé, pero ahora perdió esos kilos y encontró un nuevo hogar.",
+      "fullStory": "Un enorme perro de refugio que pesaba lo mismo que un hipopótamo bebé perdió peso y encontró un nuevo hogar.\n\nLa enorme bulldog llamada Peggy Sue aumentó a 70 libras (32,5 kg) antes de ser llevada al Centro de Animales West Hatch de la RSPCA en Inglaterra.\n\nEra tan grande que tenía problemas para caminar, infecciones y sobrecalentamiento, y no podía dar unos cuantos pasos sin colapsar.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/massive-70lb-dog-the-size-of-baby-hippo-sheds-lbs/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Before-and-After-weight-loss-RSPCA-bulldog-via-SWNS.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-17T13:51:35.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo-your-positive-weekly-horoscope",
+      "title": "Su horóscopo semanal positivo: 'Astrología del libre albedrío' de Rob Brezsny",
+      "summary": "Rob Brezsny defiende un enfoque positivo de la vida a través de horóscopos con sabiduría semanal en esta columna semanal de Astrología del libre albedrío.",
+      "fullStory": "Nuestro socio Rob Brezsny, cuyo último libro es Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, brinda su sabiduría semanal para iluminar nuestro pensamiento y motivar nuestro estado de ánimo. Rob's Free Will Astrology es una columna semanal sindicada que aparece en más de cien publicaciones. También es autor de Pronoia es el antídoto para la paranoia: cómo toda la creación conspira para colmarte de bendiciones. (Una vista previa gratuita del libro está disponible aquí).\n\nLIBRA (del 23 de septiembre al 22 de octubre): Pronto, una mañana, predigo que abrirá sus ojos internos y externos y descubrirá que se siente más libre de lo que se ha sentido en mucho tiempo. Los viejos espectros que alguna vez te molestaron te parecerán extrañamente impotentes. Las costumbres desgastadas se habrán aflojado y una antigua obligación finalmente quedará resuelta. Por alguna gracia que ni tú ni yo podemos explicar del todo, al menos algunas de las cadenas que creaste en tu propia mente se habrán caído. ¿Entonces qué? ¡Celebrar! Organice una fiesta personal \"Fuera del cautiverio\" y tómese uno o dos días para deleitarse con su recién descubierta libertad. Una vez que esté listo para hacer un uso determinado de esa deliciosa independencia, pregúntese: “¿En qué parte de mi vida necesito más un comienzo limpio?”\n\nESCORPIO (del 23 de octubre al 21 de noviembre): No hace mucho, recibió indicios y pistas de que estaba a punto de probar delicias tentadoras y prohibidas. ¿No estabas dispuesto a aceptar cuando la invitación se disolvió de repente? Y a estas alturas, ¿no has dejado de esperar disfrutar de otra oportunidad? Entonces imagina tu sorpresa si esa tentación regresa pronto a ti. Cuando finalmente le das un mordisco, es posible que no sepa ni sienta nada como esperabas. La decisión más inteligente será dejar de lado sus viejas suposiciones y acoger la experiencia tal como es. Mi predicción: te sorprenderá gratamente lo profunda y dulce que altera tu forma de entender la realidad, incluso si al principio te parece desorientador.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-10-17-2026/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Freewill-Astrology-horoscope-logo.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-17T10:00:17.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-good-news-in-history-october-1",
+      "title": "Buenas noticias en la historia, 17 de octubre",
+      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 17 de octubre.",
+      "fullStory": "Hoy hace 166 años que el Open Championship, también conocido como Open Británico, se jugó por primera vez en Escocia, en el Prestwick Golf Club de Ayrshire. El torneo de golf más antiguo del mundo y uno de los cuatro majors más prestigiosos, rota entre un selecto grupo de campos de golf costeros del Reino Unido. LEER más sobre su historia… (1860)\n\nJunto con el Torneo Masters, el Campeonato de la PGA y el US Open, originalmente se llamaba Open porque, en teoría, está \"abierto\" a todos, incluidos los golfistas aficionados clasificados. Durante sus primeros 30 años, los 36 hoyos del torneo se jugaron en un solo día y los ganaron exclusivamente jugadores escoceses.\n\nEl trofeo es una jarra de clarete, que se ha entregado a todos los campeones desde 1872 y está en exhibición permanente en la casa club del club de golf de St Andrews. El ganador debe devolver el trofeo antes del Abierto del próximo año y luego recibe una réplica para conservarla permanentemente.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061017/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2019/10/Royal_Portrush_Golf_Club-cc-Average-Golfer-and-Greg-Norman-cc-Great-White-Shark-Enterprises.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-17T07:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "categories": [
+        "mundo"
+      ]
+    },
+    {
       "id": "rss-mundo-north-america-s-largest-wildli",
       "title": "El paso elevado para la vida silvestre más grande de América del Norte está funcionando: las colisiones de animales en la I-25 disminuyeron un 91%",
-      "summary": "El éxito parece estar estimulando un auge en la construcción de pasos elevados para la vida silvestre, y ahora se están explorando seis ubicaciones adicionales para dichos puentes.",
-      "fullStory": "En marzo, GNN informó que en diciembre se había abierto el paso elevado para la vida silvestre más grande de América del Norte sobre la Interestatal 25 cerca de Larkspur, en Colorado.\n\nAhora, 10 meses después de su apertura, los datos han demostrado que la línea salvavidas de seis carriles para osos, alces, alces y otros animales está funcionando, con un 91 % menos de colisiones entre animales salvajes y vehículos.\n\nEl paso elevado, que mide 200 pies de ancho y 209 pies de largo, cubre 41,800 pies cuadrados (3900 metros cuadrados), lo que lo convierte en la estructura de puente más grande para la vida silvestre en América del Norte y una de las más grandes del mundo.",
+      "summary": "El éxito parece estar estimulando un auge en la construcción de pasos elevados para la vida silvestre, y ahora se están explorando seis ubicaciones adicionales para este tipo de puentes.",
+      "fullStory": "En marzo, GNN informó que en diciembre se había abierto el paso elevado para la vida silvestre más grande de América del Norte sobre la Interestatal 25 cerca de Larkspur, en Colorado.\n\nAhora, 10 meses después de su apertura, los datos han demostrado que la línea salvavidas de seis carriles para osos, alces, alces y otros animales está funcionando, con un 91 % menos de colisiones entre animales salvajes y vehículos.\n\nCon 200 pies de ancho y 209 pies de largo, el paso elevado cubre 41,800 pies cuadrados (3,900 metros cuadrados), lo que lo convierte en la estructura de puente más grande para la vida silvestre en América del Norte y una de las más grandes del mundo.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Good News Network",
@@ -27,8 +88,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-ia-drape-some-of-this-plant-armor",
@@ -88,25 +148,6 @@
       ]
     },
     {
-      "id": "rss-mundo-good-news-in-history-october-1",
-      "title": "Buenas noticias en la historia, 16 de octubre",
-      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 16 de octubre.",
-      "fullStory": "Hoy hace 57 años, el equipo de béisbol desvalido de Nueva York, 'The Miracle Mets', ganó la Serie Mundial en solo 5 juegos, un triunfo romántico sobre un equipo muy favorito de los Orioles. En las siete temporadas anteriores, los Mets nunca terminaron por encima del noveno lugar y perdieron consistentemente cien juegos. Sin embargo, a partir de mayo, los Mets lograron un récord sorprendente de 82-39. Ganaron 38 de sus últimos 49 juegos, terminando ocho juegos por delante de los Cachorros, uno de los mayores cambios en la historia de la MLB. MIRA un homenaje… (1969)\n\nLo que levantó a los “Amazin‘ Mets” fue su cuerpo de lanzadores, que lideró la MLB con 28 blanqueadas. Para poner eso en contexto, en los últimos 100 años sólo un equipo anotó más blanqueadas que los Mets de 1969. Liderados por los lanzadores Tom Seaver (quien ganó 25 juegos camino al premio Cy Young) y un joven Nolan Ryan, lanzaron 10 sorprendentes blanqueadas en 25 juegos en septiembre. Debido a que los Mets de 1969 también fueron uno de los dos equipos con peores golpes en medio siglo en ganar la Serie Mundial, llamarlo un milagro no es descabellado.\n\nHoy hace 103 años, Roy y Walt Disney fundaron Disney Brothers Cartoon Studio. Su nombre pronto se cambió a The Walt Disney Studio, en honor al animador de Missouri a quien cinco años más tarde se le ocurrió la idea de un personaje de ratón que se convertiría en la caricatura de Mickey Mouse, la mascota distintiva de la compañía y uno de los personajes más reconocibles del mundo. El estudio 'Disney' creció hasta establecerse como líder en la industria de la animación estadounidense con éxitos como Bambi y Blancanieves antes de diversificarse hacia la producción de películas de acción real, televisión y parques temáticos.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061016/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2018/10/Miracle-Mets-1969-fairuse-youtube.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-16T07:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
       "id": "rss-mundo-what-went-right-this-week-the-",
       "title": "Lo que salió bien esta semana: las buenas noticias que importan",
       "summary": "La caída en picado de la tasa de pobreza en Indonesia, el puente para la vida silvestre más grande de Estados Unidos y “una nueva era” para el río Támesis, y más buenas noticias",
@@ -118,63 +159,6 @@
       "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/iStock-475084328.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-10-16T05:00:50.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-musica-an-extinct-crocodilian-s-skull",
-      "title": "Se encontró el cráneo de un cocodrilo extinto en las rocas que construyeron la esfinge, y también le falta la nariz",
-      "summary": "Los investigadores ahora redescriben a la criatura como Herugavialis cairensis, traducido como algo así como \"el gavial de El Cairo de Heru\".",
-      "fullStory": "Se ha identificado una nueva especie de cocodrilo a partir de fósiles recuperados de una capa de roca extraída por los antiguos egipcios para construir la Esfinge.\n\nY, curiosamente, al igual que el emblemático monumento egipcio, a este reptil fosilizado le falta la punta de su hocico.\n\nEn la década de 1920, se recuperaron varios fósiles de la Formación Mokattam de 45 millones de años en Egipto. Esos fósiles, incluido un cráneo casi completo, fueron descritos como pertenecientes a Tomistoma, un género de cocodrilo gavial, primo de los caimanes y los cocodrilos con hocicos largos y delgados.",
-      "whyGoodNews": "Celebra el poder unificador de la música y el arte para conectar personas, sanar heridas y despertar emociones profundas.",
-      "category": "musica",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/an-extinct-crocodilians-skull-was-found-in-the-rocks-that-built-the-sphinx-and-its-also-missing-its-nose/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/low-res_herugavialis_cairensis-e1792061695449.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-15T17:30:16.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "MÚSICA",
-        "CULTURA"
-      ]
-    },
-    {
-      "id": "rss-mundo-tribe-just-a-signature-away-fr",
-      "title": "Tribu a solo una firma de recuperar 1,100 acres ancestrales a lo largo del río Elwha sin represas",
-      "summary": "114 años después de la inundación, la tribu Lower Elwha Klallam está a sólo una firma de recuperar 1.100 acres de tierra.",
-      "fullStory": "20 años después de que se programara la demolición de una presa del estado de Washington, 1.100 acres de ecosistema a lo largo del río Lower Elwha se están recuperando, después de haber permanecido fangosos e inactivos bajo el repleto embalse de la presa durante más de un siglo.\n\nY ahora, 171 años después de que la tierra abandonó sus manos y 114 años después de que se inundara, la tribu del Bajo Elwha Klallam está a solo una firma de que se les devuelva todo.\n\nUbicada a lo largo del Elwha entre sus puentes sobre la carretera estatal 101 y la ruta 112, la gran parcela de tierra fue redactada en un proyecto de ley federal que pasó por ambas cámaras del Congreso y ahora espera la firma del ejecutivo. El personal del Servicio de Parques Nacionales ya ha realizado trabajo de campo en el área en colaboración con la tribu Lower Klallam, ya que la parcela tocaría el cercano Parque Nacional Olympia.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/tribe-just-a-signature-away-from-recovering-1100-ancestral-acres-along-undammed-elwha-river/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Left-the-Elwha-Dam-in-2005-right-and-the-dam-in-2013-several-years-after-its-removal-credit-left-Ben-Cody-CC-3.0.-BY-SA-right-Zandcee-CC-3.0.-BY-SA.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-15T15:30:41.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-esa-s-new-sentinel-3c-satellit",
-      "title": "El nuevo satélite Sentinel 3C de la ESA hace su debut con suntuosas imágenes de Italia y el Ártico",
-      "summary": "La primera imagen, capturada por el instrumento de color del océano y la tierra, es una sorprendente vista en color natural que revela Italia con hermoso detalle.",
-      "fullStory": "Dos semanas después de su lanzamiento, el satélite Copernicus Sentinel 3C de la Agencia Espacial Europea ha devuelto sus primeras imágenes de nuestro mundo en suntuosos colores.\n\nEste primer conjunto de imágenes incluye impresionantes vistas de Italia, el Ártico canadiense y el Caribe desde el instrumento de color de la tierra y el océano del satélite, así como mediciones de la altura de la capa de hielo de Groenlandia y la superficie del mar desde su altímetro de radar de apertura sintética.\n\nSentinel-3C es el tercer satélite de la serie Sentinel-3 y continuará la tarea a largo plazo de la misión de entregar datos ambientales que son esenciales para una amplia gama de aplicaciones.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/esas-new-sentinel-3c-satellite-makes-its-debut-with-sumptuous-images-of-italy-and-the-arctic/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Italy-satellite-image-credit-Copernicus-Sentinel-3C-ESA-copyright-.jpeg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-15T13:00:06.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
@@ -224,7 +208,7 @@
       "id": "rss-mundo-the-in-awe-artist-painting-a-w",
       "title": "El artista 'asombrado' que pinta una Gran Bretaña más salvaje",
       "summary": "Las pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que rescatan a la naturaleza del abismo",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLas pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que recuperan la naturaleza del abismo\n\nLa marisma salada se está extendiendo por el estuario de Ribble, en la costa noroeste de Inglaterra. En Cornualles, robles centenarios se encuentran dentro de un fragmento de uno de los antiguos bosques tropicales templados de Gran Bretaña. En otros lugares, se están dejando, gestionando o remodelando tierras para dar a la vida silvestre la oportunidad de regresar. Estos son los paisajes que la artista Rebecca Howard pasó el año pasado pintando para A Year in the Wild, una exposición que documenta nueve proyectos de reconstrucción salvaje en el Reino Unido.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLas pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que recuperan la naturaleza del abismo\n\nLa marisma salada se está extendiendo por el estuario de Ribble, en la costa noroeste de Inglaterra. En Cornualles, robles centenarios se encuentran dentro de un fragmento de uno de los antiguos bosques tropicales templados de Gran Bretaña. En otros lugares, se están dejando, gestionando o remodelando tierras para dar a la vida silvestre la oportunidad de regresar. Estos son los paisajes que la artista Rebecca Howard pasó el año pasado pintando para A Year in the Wild, una exposición que documenta nueve proyectos de reconstrucción del Reino Unido.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
@@ -710,25 +694,6 @@
       "tags": [
         "PATRIMONIO",
         "GRECIA"
-      ]
-    },
-    {
-      "id": "mundo-gacelas-parque-solar-arabia",
-      "title": "Un parque solar en Arabia se convierte en un exitoso refugio para gacelas de arena amenazadas",
-      "summary": "Conservacionistas transformaron una mega granja fotovoltaica cerca del Mar Rojo en un santuario protegido donde la fauna nativa se reproduce en libertad y total seguridad.",
-      "fullStory": "En lo que representa una extraordinaria demostración de que la transición energética y la conservación de la biodiversidad pueden potenciarse de forma virtuosa, biólogos y conservacionistas en Arabia Saudita lograron transformar un gigantesco parque de energía solar en un refugio protegido para la amenazada gacela de arena árabe (Gazella marica).\n\nEl complejo fotovoltaico, ubicado en una zona desértica cercana al Mar Rojo dentro de la Reserva Natural Príncipe Mohammad bin Salman, requirió de amplios perímetros cercados y vigilancia constante para resguardar la infraestructura eléctrica. Los especialistas notaron que la sombra proyectada por los miles de paneles solares reducía la temperatura del suelo entre 6 y 10 grados Celsius y condensaba rocío matutino, propiciando el crecimiento de hierbas y pastos autóctonos.\n\nAl eliminar la caza furtiva y el tránsito vehicular descontrolado, los guardaparques introdujeron un grupo inicial de gacelas que no solo se adaptaron de inmediato al entorno sombreado, sino que registraron una de las tasas de natalidad más altas de la región en el último lustro. Lo que comenzó como un proyecto de energía renovable es hoy un ecosistema regenerado donde conviven la energía limpia del futuro y la vida salvaje nativa.",
-      "whyGoodNews": "Comprueba con datos empíricos que la infraestructura solar bien planificada puede actuar como escudo de protección y restauración de hábitats amenazados en zonas áridas.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/saudi-solar-park-proves-brilliant-breeding-ground-for-threatened-sand-gazelles/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/supplied-by-the-Prince-bin-Salman-Nature-Reserve.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-07T13:00:15.000Z",
-      "positivityScore": 98,
-      "readingTimeMinutes": 3,
-      "tags": [
-        "BIODIVERSIDAD",
-        "ENERGÍA LIMPIA"
       ]
     }
   ]
