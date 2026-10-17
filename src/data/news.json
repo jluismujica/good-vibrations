@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T15:19:55.967Z",
+  "lastUpdated": "2026-10-17T01:12:07.012Z",
   "totalCount": 37,
   "categories": {
     "musica": 5,
@@ -10,6 +10,45 @@
     "mundo": 20
   },
   "news": [
+    {
+      "id": "rss-mundo-north-america-s-largest-wildli",
+      "title": "El paso elevado para la vida silvestre más grande de América del Norte está funcionando: las colisiones de animales en la I-25 disminuyeron un 91%",
+      "summary": "El éxito parece estar estimulando un auge en la construcción de pasos elevados para la vida silvestre, y ahora se están explorando seis ubicaciones adicionales para dichos puentes.",
+      "fullStory": "En marzo, GNN informó que en diciembre se había abierto el paso elevado para la vida silvestre más grande de América del Norte sobre la Interestatal 25 cerca de Larkspur, en Colorado.\n\nAhora, 10 meses después de su apertura, los datos han demostrado que la línea salvavidas de seis carriles para osos, alces, alces y otros animales está funcionando, con un 91 % menos de colisiones entre animales salvajes y vehículos.\n\nEl paso elevado, que mide 200 pies de ancho y 209 pies de largo, cubre 41,800 pies cuadrados (3900 metros cuadrados), lo que lo convierte en la estructura de puente más grande para la vida silvestre en América del Norte y una de las más grandes del mundo.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/north-americas-largest-wildlife-overpass-is-working-animal-collisions-on-i-25-down-91/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Colorado-Department-of-Transportation.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-16T18:30:38.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-ia-drape-some-of-this-plant-armor",
+      "title": "Coloque un poco de esta tela de \"armadura vegetal\" sobre un huerto de fresas para triplicar el rendimiento con menos pesticidas",
+      "summary": "Las pruebas encontraron que Plant Armor aumentó el rendimiento de las fresas hasta 3,56 veces, sin afectar la humedad relativa ni el acceso a la luz.",
+      "fullStory": "Un nuevo tejido utilizado para cubrir las plantas de fresa triplicó con creces el rendimiento de la fruta en pruebas de campo, sin afectar negativamente la salud de las plantas.\n\nEs importante destacar que la tecnología también podría reducir significativamente el uso de agua y pesticidas en la producción de fresas.\n\nConocida como Plant Armor, la tela cuidadosamente diseñada simplemente se coloca sobre un parche de fresas y la estructura tridimensional del material evita que los insectos alcancen las plantas que se encuentran debajo. Sin embargo, sus múltiples capas permiten la penetración de la luz solar, la lluvia y el flujo de aire.",
+      "whyGoodNews": "Muestra cómo la innovación científica y el ingenio humano colaboran para resolver desafíos ambientales y sociales concretos.",
+      "category": "ia",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/drape-some-of-this-plant-armor-fabric-over-a-strawberry-patch-to-triple-yields-with-less-pesticides/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Left-uncovered-strawberry-yield-right-yield-from-strawberries-grown-with-Plant-Armor-credit-Gabriel-Olawuyi-released-by-NCSU.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-16T15:30:40.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "INNOVACIÓN",
+        "CIENCIA"
+      ]
+    },
     {
       "id": "rss-mundo-teen-s-disaster-messaging-app-",
       "title": "La aplicación de mensajería de desastres para adolescentes puede \"saltar\" a través de Bluetooth cuando las redes celulares colapsan",
@@ -27,8 +66,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-largest-private-conservation-p",
@@ -145,25 +183,6 @@
       ]
     },
     {
-      "id": "rss-mundo-woman-who-lost-her-sister-inve",
-      "title": "Mujer que perdió a su hermana inventa una pegatina para el asiento del automóvil de un niño que también funciona como pulsera de hospital",
-      "summary": "Una hermana convirtió su tragedia personal en un brillante producto de seguridad de emergencia. Simple pero vital, la etiqueta de identificación Roth es un adhesivo diseñado para adherirse para siempre a la tela del asiento de seguridad de un niño. Si es necesario llevar rápidamente a ese niño al hospital, la pestaña desprendible convierte la pegatina en una pulsera del hospital, con […]",
-      "fullStory": "Una hermana convirtió su tragedia personal en un brillante producto de seguridad de emergencia.\n\nSimple pero vital, la etiqueta de identificación Roth es un adhesivo diseñado para adherirse para siempre a la tela del asiento de seguridad de un niño.\n\nSi es necesario llevar a ese niño de urgencia al hospital, la pestaña desprendible hace que la pegatina se convierta en una pulsera del hospital, con información médica y de contacto vital.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/woman-who-lost-her-sister-invents-a-childs-car-seat-sticker-that-doubles-as-hospital-bracelet/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Roth-ID-Tag-e1792051060617.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-15T11:00:37.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
       "id": "rss-mundo-in-ukraine-the-repair-movement",
       "title": "En Ucrania, el movimiento reparador pasa a la clandestinidad",
       "summary": "Una ciudad ucraniana se prepara para celebrar un festival de reparación en un refugio subterráneo, dando un nuevo significado al acto de arreglar cosas rotas",
@@ -180,25 +199,6 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-ia-good-news-in-history-october-1",
-      "title": "Buenas noticias en la historia, 15 de octubre",
-      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 15 de octubre.",
-      "fullStory": "Hoy hace 29 años, la misión Cassini de la NASA y la ESA, destinada a recopilar datos sobre Saturno y sus lunas, fue lanzada desde Cabo Cañaveral. La nave espacial robótica de clase Flagship estaba compuesta por la sonda espacial Cassini de la NASA y el módulo de aterrizaje Huygens de la ESA, que aterrizó en Titán, la luna más grande de Saturno. Cassini estuvo activa en el espacio durante casi 20 años, y pasó 13 años orbitando Saturno y estudiando el planeta y su sistema después de entrar en órbita el 1 de julio de 2004. LEA sobre lo que encontró... (1997)\n\nEn total, la misión Cassini descubrió siete nuevas lunas orbitando Saturno, incluida Metone, un extraño satélite con forma de huevo e increíblemente liso de 3,8 por 2,5 km de tamaño. También sobrevoló el satélite gigante irregular Phoebe y tomó las mejores fotografías hasta la fecha de esta luna.\n\nEn un anuncio del 28 de junio de 2004, los científicos del programa Cassini describieron la medición del período de rotación de Saturno. Debido a que no existen características fijas en la superficie que puedan usarse para obtener este período, se utilizó la repetición de emisiones de radio. Un día saturino se calculó en 10 horas y 33 minutos.",
-      "whyGoodNews": "Muestra cómo la innovación científica y el ingenio humano colaboran para resolver desafíos ambientales y sociales concretos.",
-      "category": "ia",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061015/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/Official-project-image-NASA.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-15T07:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "INNOVACIÓN",
-        "CIENCIA"
       ]
     },
     {
