@@ -1,20 +1,59 @@
 {
-  "lastUpdated": "2026-10-18T00:45:42.400Z",
-  "totalCount": 35,
+  "lastUpdated": "2026-10-18T14:23:48.220Z",
+  "totalCount": 31,
   "categories": {
-    "musica": 4,
-    "ia": 4,
-    "psicologia": 5,
-    "liderazgo": 4,
+    "musica": 5,
+    "ia": 2,
+    "psicologia": 4,
+    "liderazgo": 2,
     "chile": 3,
-    "mundo": 19
+    "mundo": 18
   },
   "news": [
     {
+      "id": "rss-mundo-village-installs-knitted-traff",
+      "title": "Village instala policías de tránsito tejidos para frenar a los conductores que exceden la velocidad",
+      "summary": "Los aldeanos ingleses han tejido cámaras de velocidad y policías de tránsito de tamaño natural para engañar a los conductores, en un intento por frenar a los conductores de Warwickshire.",
+      "fullStory": "Los aldeanos han tejido cámaras de velocidad y policías de tránsito de tamaño natural para engañar a los conductores imprudentes, en un intento por frenar a los conductores.\n\nLos lugareños de Fillongley, Warwickshire, vistieron a los maniquíes con chalecos de alta visibilidad para que parecieran policías de tránsito en un astuto intento por reducir los accidentes.\n\nLos miembros del grupo Knit and Natter de la ciudad crearon cámaras y maniquíes realistas después de una serie de accidentes a lo largo de la calle principal de la aldea.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/village-installs-knitted-traffic-cops-to-slow-speeding-drivers/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Knitted-traffic-officer-by-Emma-Trimble-via-SWNS.jpeg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-18T13:42:17.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-musica-good-news-in-history-october-1",
+      "title": "Buenas noticias en la historia, 18 de octubre",
+      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 18 de octubre.",
+      "fullStory": "Hoy hace 896 años nació Zhu Xi, un erudito confuciano revolucionario de la dinastía Song. Su cambio de énfasis del I Ching a los Cuatro Libros reformó la visión china del mundo, lo cual no es algo fácil de hacer. Sus comentarios y perspectivas formaron la base para el examen de la función pública china desde su época hasta 1905. LEER más sobre el gran pensador… (1130)\n\nZhu Xi sostuvo que todas las cosas surgen mediante la unión de dos aspectos universales de la realidad: qi, a veces traducido como fuerza vital (o física, material); y li, a veces traducido como principio racional (o ley). La fuente y suma de li es el Taiji, que significa el Supremo Supremo.\n\nQi y li operan juntos en dependencia mutua. Son mutuamente aspectos en todas las criaturas del universo. Estos dos aspectos se manifiestan en la creación de entidades sustanciales. Cuando su actividad aumenta (rápida o expansiva), ese es el modo de energía yang. Cuando su actividad disminuye (lenta o contractiva), ese es el modo de energía yin.",
+      "whyGoodNews": "Celebra el poder unificador de la música y el arte para conectar personas, sanar heridas y despertar emociones profundas.",
+      "category": "musica",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061018/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/Zhu-Xi-pub-domain.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-18T07:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "MÚSICA",
+        "CULTURA"
+      ]
+    },
+    {
       "id": "rss-mundo-99-yo-woman-snags-world-s-olde",
-      "title": "Una mujer de 99 años obtiene el título de 'caminadora de alas más vieja del mundo', 3 meses después de que otra abuela lo hiciera (MIRAR)",
-      "summary": "Una mujer de 99 años se convirtió en la caminante de alas más vieja del mundo, apenas tres meses después de que su sobrina viera a otra anciana hacerlo.",
-      "fullStory": "Una mujer de 99 años se ha convertido en la caminadora de alas más vieja del mundo, apenas tres meses después de que su sobrina vio a otra anciana hacerlo, y el personal de su centro de vida asistida la instó a intentarlo.\n\nEsta semana, Guinness World Records otorgó oficialmente el título a Helga Duffy, quien estaba atada a la parte superior de un pequeño avión en Rendcomb Airfield en Gloucestershire, Inglaterra.\n\nRompió su récord mundial de caminata con alas solo tres meses después de que el título fuera conquistado por una mujer de 97 años llamada Betty Bromage.",
+      "title": "Mujer de 99 años obtiene el título de 'caminadora de alas más antigua del mundo', 3 meses después de que otra abuela lo hiciera (MIRAR)",
+      "summary": "Una mujer de 99 años se convirtió en la caminante de alas más vieja del mundo, apenas tres meses después de que su sobrina vio a otra anciana hacerlo.",
+      "fullStory": "Una mujer de 99 años se ha convertido en la caminadora de alas más vieja del mundo, apenas tres meses después de que su sobrina vio a otra anciana hacerlo, y el personal de su centro de vida asistida la instó a intentarlo.\n\nEsta semana, Guinness World Records otorgó oficialmente el título a Helga Duffy, quien estaba atada a la parte superior de un pequeño avión en Rendcomb Airfield en Gloucestershire, Inglaterra.\n\nRompió su récord mundial de caminata con alas solo tres meses después de que el título fuera conseguido por una mujer de 97 años llamada Betty Bromage.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Good News Network",
@@ -27,8 +66,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-coral-bleaching-reversed-at-re",
@@ -91,7 +129,7 @@
       "id": "rss-mundo-good-news-in-history-october-1",
       "title": "Buenas noticias en la historia, 17 de octubre",
       "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 17 de octubre.",
-      "fullStory": "Hoy hace 166 años que el Open Championship, también conocido como Open Británico, se jugó por primera vez en Escocia, en el Prestwick Golf Club de Ayrshire. El torneo de golf más antiguo del mundo y uno de los cuatro majors más prestigiosos, rota entre un selecto grupo de campos de golf costeros del Reino Unido. LEER más sobre su historia… (1860)\n\nJunto con el Torneo Masters, el Campeonato de la PGA y el US Open, originalmente se llamó Open porque, en teoría, está \"abierto\" a todos, incluidos los golfistas aficionados clasificados. Durante sus primeros 30 años, los 36 hoyos del torneo se jugaron en un solo día y los ganaron exclusivamente jugadores escoceses.\n\nEl trofeo es una jarra de clarete, que se ha entregado a todos los campeones desde 1872 y está en exhibición permanente en la casa club del club de golf de St Andrews. El ganador debe devolver el trofeo antes del Abierto del próximo año y luego recibe una réplica para conservarla permanentemente.",
+      "fullStory": "Hoy hace 166 años que el Open Championship, también conocido como Open Británico, se jugó por primera vez en Escocia, en el Prestwick Golf Club de Ayrshire. El torneo de golf más antiguo del mundo y uno de los cuatro majors más prestigiosos, rota entre un selecto grupo de campos de golf costeros del Reino Unido. LEER más sobre su historia… (1860)\n\nJunto con el Torneo Masters, el Campeonato de la PGA y el US Open, originalmente se llamaba Open porque, en teoría, está \"abierto\" a todos, incluidos los golfistas aficionados clasificados. Durante sus primeros 30 años, los 36 hoyos del torneo se jugaron en un solo día y los ganaron exclusivamente jugadores escoceses.\n\nEl trofeo es una jarra de clarete, que se ha entregado a todos los campeones desde 1872 y está en exhibición permanente en la casa club del club de golf de St Andrews. El ganador debe devolver el trofeo antes del Abierto del próximo año y luego recibe una réplica para conservarla permanentemente.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Good News Network",
@@ -109,8 +147,8 @@
     {
       "id": "rss-mundo-north-america-s-largest-wildli",
       "title": "El paso elevado para la vida silvestre más grande de América del Norte está funcionando: las colisiones de animales en la I-25 disminuyeron un 91%",
-      "summary": "El éxito parece estar estimulando un auge en la construcción de pasos elevados para la vida silvestre, y ahora se están explorando seis ubicaciones adicionales para dichos puentes.",
-      "fullStory": "En marzo, GNN informó que en diciembre se había abierto el paso elevado para la vida silvestre más grande de América del Norte sobre la Interestatal 25 cerca de Larkspur, en Colorado.\n\nAhora, 10 meses después de su apertura, los datos han demostrado que la línea salvavidas de seis carriles para osos, alces, alces y otros animales está funcionando, con un 91 % menos de colisiones entre animales salvajes y vehículos.\n\nEl paso elevado, que mide 200 pies de ancho y 209 pies de largo, cubre 41,800 pies cuadrados (3900 metros cuadrados), lo que lo convierte en la estructura de puente más grande para la vida silvestre en América del Norte y una de las más grandes del mundo.",
+      "summary": "El éxito parece estar estimulando un auge en la construcción de pasos elevados para la vida silvestre, y ahora se están explorando seis ubicaciones adicionales para este tipo de puentes.",
+      "fullStory": "En marzo, GNN informó que en diciembre se había abierto el paso elevado para la vida silvestre más grande de América del Norte sobre la Interestatal 25 cerca de Larkspur, en Colorado.\n\nAhora, 10 meses después de su apertura, los datos han demostrado que la línea salvavidas de seis carriles para osos, alces, alces y otros animales está funcionando, con un 91 % menos de colisiones entre animales salvajes y vehículos.\n\nCon 200 pies de ancho y 209 pies de largo, el paso elevado cubre 41,800 pies cuadrados (3,900 metros cuadrados), lo que lo convierte en la estructura de puente más grande para la vida silvestre en América del Norte y una de las más grandes del mundo.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Good News Network",
@@ -118,44 +156,6 @@
       "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Colorado-Department-of-Transportation.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-10-16T18:30:38.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-ia-drape-some-plant-armor-fabric-",
-      "title": "Coloque un poco de tela de \"armadura vegetal\" sobre un huerto de fresas para triplicar el rendimiento con menos pesticidas",
-      "summary": "Las pruebas encontraron que Plant Armor aumentó el rendimiento de las fresas hasta 3,56 veces, sin afectar la humedad relativa ni el acceso a la luz.",
-      "fullStory": "Un nuevo tejido utilizado para cubrir las plantas de fresa triplicó con creces el rendimiento de la fruta en pruebas de campo, sin afectar negativamente la salud de las plantas.\n\nEs importante destacar que la tecnología también podría reducir significativamente el uso de agua y pesticidas en la producción de fresas.\n\nConocida como Plant Armor, la tela cuidadosamente diseñada simplemente se coloca sobre un parche de fresas y la estructura tridimensional del material evita que los insectos alcancen las plantas que se encuentran debajo. Sin embargo, sus múltiples capas permiten la penetración de la luz solar, la lluvia y el flujo de aire.",
-      "whyGoodNews": "Muestra cómo la innovación científica y el ingenio humano colaboran para resolver desafíos ambientales y sociales concretos.",
-      "category": "ia",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/drape-some-of-this-plant-armor-fabric-over-a-strawberry-patch-to-triple-yields-with-less-pesticides/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Left-uncovered-strawberry-yield-right-yield-from-strawberries-grown-with-Plant-Armor-credit-Gabriel-Olawuyi-released-by-NCSU.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-16T15:30:40.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "INNOVACIÓN",
-        "CIENCIA"
-      ]
-    },
-    {
-      "id": "rss-mundo-teen-s-disaster-messaging-app-",
-      "title": "La aplicación de mensajería de desastres para adolescentes puede \"saltar\" a través de Bluetooth cuando las redes celulares colapsan",
-      "summary": "Crisis Connect permite a los usuarios enviar mensajes y llamadas a través de Bluetooth cuando se interrumpen las comunicaciones móviles y 4G.",
-      "fullStory": "No son sólo las casas las que colapsan durante un terremoto, sino también las torres de telefonía móvil y las redes que mantienen.\n\nEl 6 de febrero de 2023, unos terremotos devastaron el sur de Türkiye y el norte de Siria. Cuando más se necesitaban, los milagros de las comunicaciones instantáneas modernas estuvieron ausentes cuando la infraestructura celular y de Internet resultó dañada o destruida.\n\nAl ver eso, un estudiante de secundaria a cientos de kilómetros de distancia, en Estambul, comenzó a trabajar en una aplicación de mensajería específica para crisis, una que funcionaría cuando otras no.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/teens-disaster-messaging-app-can-hop-across-bluetooth-when-cellular-networks-collapse/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Crisis-Connect-Press-1400x700-1.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-16T13:00:35.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
@@ -224,7 +224,7 @@
       "id": "rss-mundo-the-in-awe-artist-painting-a-w",
       "title": "El artista 'asombrado' que pinta una Gran Bretaña más salvaje",
       "summary": "Las pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que rescatan a la naturaleza del abismo",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLas pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que recuperan la naturaleza del abismo\n\nLa marisma salada se está extendiendo por el estuario de Ribble, en la costa noroeste de Inglaterra. En Cornualles, robles centenarios se encuentran dentro de un fragmento de uno de los antiguos bosques tropicales templados de Gran Bretaña. En otros lugares, se están dejando, gestionando o remodelando tierras para dar a la vida silvestre la oportunidad de regresar. Estos son los paisajes que la artista Rebecca Howard pasó el año pasado pintando para A Year in the Wild, una exposición que documenta nueve proyectos de reconstrucción salvaje en el Reino Unido.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLas pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que recuperan la naturaleza del abismo\n\nLa marisma salada se está extendiendo por el estuario de Ribble, en la costa noroeste de Inglaterra. En Cornualles, robles centenarios se encuentran dentro de un fragmento de uno de los antiguos bosques tropicales templados de Gran Bretaña. En otros lugares, se están dejando, gestionando o remodelando tierras para dar a la vida silvestre la oportunidad de regresar. Estos son los paisajes que la artista Rebecca Howard pasó el año pasado pintando para A Year in the Wild, una exposición que documenta nueve proyectos de reconstrucción del Reino Unido.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
@@ -611,86 +611,6 @@
       "tags": [
         "SALUD MENTAL",
         "NEUROCIENCIA DEL SUEÑO"
-      ]
-    },
-    {
-      "id": "ia-fusion-nuclear-hidrogeno-boro",
-      "title": "Reactor comercial alcanza hito en fusión nuclear limpia con combustible de hidrógeno y boro",
-      "summary": "El dispositivo esférico EXL-50U logra reacciones estables sin generar neutrones dañinos ni residuos radiactivos, acelerando la llegada de energía inagotable y segura.",
-      "fullStory": "En lo que científicos internacionales califican como un punto de inflexión para la física energética global, el reactor comercial de confinamiento magnético EXL-50U completó con éxito una serie de pruebas de fusión nuclear aneutrónica utilizando como combustible protones de hidrógeno y núcleos de boro.\n\nA diferencia de los reactores nucleares tradicionales o las reacciones de deuterio-tritio que generan flujos de neutrones de alta energía que desgastan los materiales del reactor, la reacción protón-boro produce exclusivamente núcleos de helio cargados positivamente (partículas alfa). Esto significa que la energía liberada puede convertirse directamente en electricidad sin necesidad de turbinas de vapor y con cero generación de residuos radiactivos de larga vida.\n\nEl logro confirma la viabilidad de diseñar plantas de energía limpia ultra compactas, seguras para su emplazamiento cercano a centros urbanos y con una disponibilidad prácticamente ilimitada de combustible derivado de sales de boro y agua común.",
-      "whyGoodNews": "Representa la forma más limpia y segura de fusión nuclear concebida por la ciencia: energía inagotable, sin emisiones de carbono ni riesgo de contaminación radiactiva para el planeta.",
-      "category": "ia",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/chinese-commercial-reactor-achieves-nuclear-fusion-with-clean-hydrogen-boron-fuel/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/ENN-Groups-EXL-50U-spherical-device-which-successfully-achieved-hydrogen-boron-fusion-reactions-credit-handout.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-08T14:00:00.000Z",
-      "positivityScore": 99,
-      "readingTimeMinutes": 3,
-      "tags": [
-        "FUSIÓN NUCLEAR",
-        "ENERGÍA LIMPIA"
-      ]
-    },
-    {
-      "id": "mundo-parque-eolico-antartica",
-      "title": "El parque eólico de la Antártica ahorra más de 120.000 galones de diésel impulsando la ciencia polar limpia",
-      "summary": "Quince años de operación ininterrumpida de aerogeneradores polares en la Isla Ross demuestran que las energías renovables prosperan incluso en las condiciones climáticas más extremas del planeta.",
-      "fullStory": "En medio de uno de los entornos más desafiantes de la Tierra, con vientos huracanados que superan los 120 km/h y temperaturas que descienden a 40 grados bajo cero, el parque eólico de Ross Island en la Antártica cumplió quince años de funcionamiento continuo con un balance ambiental extraordinario.\n\nInstalado mediante una alianza de ingeniería entre Nueva Zelanda y Estados Unidos para abastecer a la Base Scott y la Estación McMurdo, el parque de turbinas especialmente acondicionadas para resistir el hielo ha evitado la quema y transporte de más de 450.000 litros de combustible fósil en el continente blanco.\n\nEl éxito prolongado de esta instalación sirve hoy como modelo para electrificar bases científicas en el Ártico y comunidades remotas de altas latitudes, demostrando que la transición ecológica no conoce fronteras geográficas ni climáticas.",
-      "whyGoodNews": "Comprueba la robustez de las energías renovables en el rincón más inhóspito del planeta, protegiendo el ecosistema polar virgen de la contaminación por combustibles fósiles.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/antarcticas-wind-farm-saves-122000-gallons-of-diesel-over-15-years-powering-mcmurdo-station/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Ross-Island-Wind-Farm-credit-retrived-from-Meridian-Energy-e1790930850358.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-08T14:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 3,
-      "tags": [
-        "ANTÁRTICA",
-        "ENERGÍA LIMPIA"
-      ]
-    },
-    {
-      "id": "psicologia-escucha-activa-liderazgo",
-      "title": "La ciencia de saber escuchar: Por qué la escucha activa genera seguridad psicológica y cohesión en los equipos",
-      "summary": "Investigaciones en psicología organizacional revelan que los líderes que escuchan sin interrupción fomentan la liberación de oxitocina y reducen la reactividad de la amígdala.",
-      "fullStory": "¿Por qué los mejores líderes dedican más del 80% de su tiempo a escuchar en lugar de dar instrucciones? Una exhaustiva serie de experimentos conducida por facultades de psicología organizacional y liderazgo conductual examinó la respuesta neuroquímica de colaboradores sometidos a distintos estilos de supervisión.\n\nLos datos demostraron que cuando una persona se siente genuinamente escuchada —con contacto visual cálido, pausas reflexivas y ausencia de interrupciones defensivas— su cerebro registra una disminución inmediata en la reactividad de la amígdala cerebral (centro del miedo y la alerta) y un incremento en la síntesis de oxitocina, el neuropéptido de la confianza y el apego seguro.\n\nEste estado de \"seguridad psicológica\" no solo elevó en un 50% las propuestas de innovación y la asunción de responsabilidades en los equipos de trabajo, sino que redujo a mínimos históricos los casos de agotamiento profesional (burnout). Los autores concluyen que la escucha atenta es la intervención de liderazgo más rentable y profundamente humanizadora que existe.",
-      "whyGoodNews": "Una demostración científica de que la empatía, el silencio respetuoso y la generosidad en la atención son la base del éxito colectivo y la armonía en las organizaciones humanas.",
-      "category": "psicologia",
-      "categories": [
-        "psicologia",
-        "liderazgo"
-      ],
-      "sourceName": "Organizational Psychology Review",
-      "sourceUrl": "https://www.positive.news/lifestyle/why-good-leaders-listen/",
-      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/09/iStock-2226795526-copy.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-08T11:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 3,
-      "tags": [
-        "PSICOLOGÍA ORGANIZACIONAL",
-        "LIDERAZGO"
-      ]
-    },
-    {
-      "id": "liderazgo-seguridad-psicologica-harvard",
-      "title": "La técnica de la «seguridad psicológica» en equipos de alto rendimiento: Por qué la confianza supera al control",
-      "summary": "Investigaciones en gestión organizacional de Harvard confirman que los equipos más innovadores no son los de mayor coeficiente intelectual, sino donde existe la certeza de hablar y proponer sin temor.",
-      "fullStory": "¿Qué diferencia a los equipos verdaderamente excepcionales del resto? Las investigaciones pioneras de la profesora Amy Edmondson de la Escuela de Negocios de Harvard, validadas a gran escala por el famoso \"Project Aristotle\" de Google, han demostrado que el factor predictivo número uno del éxito colectivo no es la experiencia acumulada ni el presupuesto, sino la seguridad psicológica.\n\nLa seguridad psicológica se define como la creencia compartida de que el equipo es un entorno seguro para asumir riesgos interpersonales. En estos equipos, los colaboradores admiten fallos con rapidez sin temor a represalias, plantean preguntas difíciles sobre decisiones en curso y proponen ideas disruptivas que en otros entornos serían silenciadas por el miedo al ridículo.\n\nLos líderes que fomentan esta cultura aplican tres técnicas clave: modelar la vulnerabilidad admitiendo sus propias dudas (\"no tengo la respuesta exacta, busquémosla juntos\"), enmarcar el trabajo como un reto de aprendizaje continuo y no solo de ejecución estricta, y practicar una curiosidad activa y no punitiva ante los contratiempos.",
-      "whyGoodNews": "Desmonta el mito del liderazgo autoritario y demuestra que la empatía, la humildad y la confianza son los motores más potentes de la productividad y la excelencia humana en el trabajo.",
-      "category": "liderazgo",
-      "sourceName": "Harvard Business Review",
-      "sourceUrl": "https://www.positive.news/lifestyle/psychological-safety-high-performing-teams/",
-      "imageUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80",
-      "imageSourceType": "curated",
-      "publishedAt": "2026-10-08T10:00:00.000Z",
-      "positivityScore": 98,
-      "readingTimeMinutes": 3,
-      "tags": [
-        "LIDERAZGO",
-        "SEGURIDAD PSICOLÓGICA"
       ]
     }
   ]
