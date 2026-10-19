@@ -1,15 +1,111 @@
 {
-  "lastUpdated": "2026-10-19T00:58:53.425Z",
-  "totalCount": 30,
+  "lastUpdated": "2026-10-19T17:24:06.541Z",
+  "totalCount": 25,
   "categories": {
     "musica": 6,
     "ia": 2,
-    "psicologia": 3,
-    "liderazgo": 2,
+    "psicologia": 1,
+    "liderazgo": 0,
     "chile": 3,
-    "mundo": 17
+    "mundo": 14
   },
   "news": [
+    {
+      "id": "rss-mundo-unprecedented-collab-between-c",
+      "title": "Una colaboración sin precedentes entre China y el Met descubre los secretos de un enorme mural chino en Nueva York",
+      "summary": "Un importante proyecto de conservación del arte y el patrimonio en China ha dado frutos inesperados a miles de kilómetros de distancia, en la ciudad de Nueva York.",
+      "fullStory": "Un importante proyecto de conservación del arte y el patrimonio en China ha dado frutos inesperados a miles de kilómetros de distancia, en la ciudad de Nueva York.\n\nEn la galería de arte y antigüedades chinas del Museo Metropolitano de Arte, un mural de 50 pies de largo devora la atención de toda una sala con su disposición de Buda y sus asistentes.\n\nEl mural del Buda de la Medicina había atraído durante mucho tiempo la admiración de Zhang Jian, director del \"Instituto de Pintura Meticulosa\" de la Academia Nacional de las Artes de China, que desde 2013 ha invertido miles de millones de RMB chinos en la restauración, conservación y repatriación de artefactos chinos en todo el país y el mundo.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/unprecedented-collab-between-china-and-the-met-uncovers-secrets-of-chinese-mural-during-exhaustive-reproduction/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/From-the-Met-public-domain.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-19T15:30:49.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo-brazil-ends-long-tradition-of-",
+      "title": "Brasil pone fin a la larga tradición de la semana laboral de seis días mediante una enmienda constitucional",
+      "summary": "La nación era una de las más ricas del mundo y todavía tenía una semana laboral habitual de seis días, y el empleo a tiempo completo se consideraba de 44 horas.",
+      "fullStory": "Con el Senado de Brasil votando 75 a 1 a favor, uno se pregunta ¿por qué tardaron tanto?\n\nLa nación era una de las más ricas del mundo y todavía tenía una semana laboral habitual de seis días, y el empleo a tiempo completo se consideraba de 44 horas, en lugar de las 40 que conocemos en Estados Unidos.\n\nEso cambió con la introducción de una Propuesta de Enmienda a la Constitución 221 (PEC. 221) que coloca a la economía más grande de América del Sur en paridad en horas de trabajo con los EE.UU. y muchos otros.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/brazil-ends-long-tradition-of-6-day-workweek-via-constitutional-amendment/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Brazils-Senate-chamber-credit-Wilson-DiasABr-Agencia-Brasil-CC-3.0-Br.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-19T13:00:17.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-simple-soil-steaming-found-as-",
+      "title": "Se descubre que el simple \"cocción al vapor del suelo\" es un reemplazo eficaz de los productos químicos en el cultivo orgánico de fresas",
+      "summary": "La Universidad de California Santa Cruz ha estado desarrollando vapor de agua hirviendo como una alternativa a los fumigantes químicos para esterilizar el suelo.",
+      "fullStory": "Una simple bocanada de vapor podría ser el billete para obtener cosechas de fresas mucho mayores y fiables en California, informó el LA Times.\n\nInvestigadores de la Universidad de California Santa Cruz (UCSC) han estado desarrollando vapor de agua hirviendo como una alternativa a los fumigantes químicos para la esterilización del suelo en el que se cultivan las fresas, que se cree que dañan el medio ambiente, otros animales e incluso a los propios productores.\n\nRecientemente, el equipo de la UCSC inscribió a 4 productores de fresas orgánicas para una prueba en la que máquinas sofisticadas inyectaban gotas de vapor en los lechos de cultivo antes de plantar las fresas.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/simple-soil-steaming-found-as-effective-replacement-for-chemicals-in-organic-strawberry-farming/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/strawberr-unsplash.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-19T11:00:50.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-volunteers-became-salmon-deer-",
+      "title": "Los voluntarios se convirtieron en salmones, ciervos y lombrices de tierra. Luego se propusieron salvar su río.",
+      "summary": "Un experimento está ayudando a una comunidad de Somerset a ver su paisaje a través de los ojos de la vida silvestre y a trazar una ruta de 30 años para cambiarlo.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\n¿Qué siente un salmón ante un río contaminado? Un experimento inusual está ayudando a una comunidad de Somerset a ver su paisaje a través de los ojos de la vida silvestre y trazar una ruta de 30 años para cambiarlo.\n\nEl estrés de estar cerca del acceso al agua potable. El hambre dolorosa que conlleva la destrucción del hábitat. El asalto sensorial de la maquinaria y el tráfico.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/volunteers-became-salmon-deer-and-earthworms-then-they-set-out-to-save-their-river/",
+      "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/Atlantic-Salmon-001-©-Darren-Honeywill-2026.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-19T07:00:44.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-musica-good-news-in-history-october-1",
+      "title": "Buenas noticias en la historia, 19 de octubre",
+      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 19 de octubre.",
+      "fullStory": "Hoy hace seis años, la venta de alto perfil de una obra de arte de la dinastía Ming puso al mundo no solo en contacto con la pintura de piedra más notable jamás realizada, sino también con la profundidad de la relación china con el mundo natural. Llamada Diez vistas de Lingbi Rock, la pintura se vendió por 77 millones de dólares en una subasta, la más alta jamás alcanzada por una pintura clásica china. LEA todo sobre la pintura… (2020)\n\nEn 1610, el pintor profesional Wu Bin (c. 1543 – c. 1626) completó una pintura de una piedra después de pasar un mes examinándola. El encargo de la pintura fue del destacado funcionario, calígrafo y coleccionista Mi Wanzhong (1570-1628). El pergamino contiene diez representaciones de tamaño casi natural de una piedra en particular que Mi adquirió en algún momento entre 1608 y 1610.\n\nMi Wanzhong en realidad escribió sobre ver pintar a su amigo Wu Bin y parecía tan fascinado por Wu como por la pintura de Wu, al ver por él que Wu había fusionado su conciencia con la piedra, y pintarla desde diez ángulos \"agotó su habilidad\".",
+      "whyGoodNews": "Celebra el poder unificador de la música y el arte para conectar personas, sanar heridas y despertar emociones profundas.",
+      "category": "musica",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061019/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/One-of-the-ten-views-of-Lingbi-Rock-fair-use.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-19T07:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "MÚSICA",
+        "CULTURA"
+      ]
+    },
     {
       "id": "rss-mundo-contact-with-nature-is-linked-",
       "title": "El contacto con la naturaleza está relacionado con una alimentación saludable, según muestra un nuevo estudio alentador",
@@ -27,8 +123,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-musica-tiny-black-cat-stuck-in-car-en",
@@ -80,82 +175,6 @@
       "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Knitted-traffic-officer-by-Emma-Trimble-via-SWNS.jpeg",
       "imageSourceType": "official",
       "publishedAt": "2026-10-18T13:42:17.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-musica-good-news-in-history-october-1",
-      "title": "Buenas noticias en la historia, 18 de octubre",
-      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 18 de octubre.",
-      "fullStory": "Hoy hace 896 años nació Zhu Xi, un erudito confuciano revolucionario de la dinastía Song. Su cambio de énfasis del I Ching a los Cuatro Libros reformó la visión china del mundo, lo cual no es fácil de hacer. Sus comentarios y perspectivas formaron la base para el examen de la función pública china desde su época hasta 1905. LEER más sobre el gran pensador… (1130)\n\nZhu Xi sostuvo que todas las cosas surgen mediante la unión de dos aspectos universales de la realidad: qi, a veces traducido como fuerza vital (o física, material); y li, a veces traducido como principio racional (o ley). La fuente y suma de li es el Taiji, que significa el Supremo Supremo.\n\nQi y li operan juntos en dependencia mutua. Son mutuamente aspectos en todas las criaturas del universo. Estos dos aspectos se manifiestan en la creación de entidades sustanciales. Cuando su actividad aumenta (rápida o expansiva), ese es el modo de energía yang. Cuando su actividad disminuye (lenta o contractiva), ese es el modo de energía yin.",
-      "whyGoodNews": "Celebra el poder unificador de la música y el arte para conectar personas, sanar heridas y despertar emociones profundas.",
-      "category": "musica",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061018/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/Zhu-Xi-pub-domain.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-18T07:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "MÚSICA",
-        "CULTURA"
-      ]
-    },
-    {
-      "id": "rss-mundo-99-yo-woman-snags-world-s-olde",
-      "title": "Una mujer de 99 años obtiene el título de 'caminadora de alas más vieja del mundo', 3 meses después de que otra abuela lo hiciera (MIRAR)",
-      "summary": "Una mujer de 99 años se convirtió en la caminante de alas más vieja del mundo, apenas tres meses después de que su sobrina viera a otra anciana hacerlo.",
-      "fullStory": "Una mujer de 99 años se ha convertido en la caminadora de alas más vieja del mundo, apenas tres meses después de que su sobrina vio a otra anciana hacerlo, y el personal de su centro de vida asistida la instó a intentarlo.\n\nEsta semana, Guinness World Records otorgó oficialmente el título a Helga Duffy, quien estaba atada a la parte superior de un pequeño avión en Rendcomb Airfield en Gloucestershire, Inglaterra.\n\nRompió su récord mundial de caminata con alas solo tres meses después de que el título fuera conquistado por una mujer de 97 años llamada Betty Bromage.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/99-yo-woman-snags-worlds-oldest-wing-walker-title/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Helga-Duffy-breaks-world-record-for-wingwalking-AeroSuperBatics-Wingwalkers-via-SWNS.jpeg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-17T19:56:32.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-coral-bleaching-reversed-at-re",
-      "title": "El blanqueo de corales se revierte a una velocidad récord utilizando el nuevo método de Stanford: \"No es una causa perdida, en absoluto\"",
-      "summary": "El blanqueamiento de los corales se ha revertido a una velocidad récord utilizando un nuevo método desarrollado en la Universidad de Stanford, que sólo requiere contacto.",
-      "fullStory": "El blanqueamiento de los corales se ha revertido a una velocidad récord utilizando un nuevo método desarrollado en la Universidad de Stanford.\n\nLos corales que eran de un blanco fantasmal recuperaron su plena salud en su laboratorio en apenas siete semanas, la recuperación más rápida documentada hasta la fecha.\n\nEs la primera vez que los científicos observan que los corales blanqueados al borde de la muerte se recuperan completamente mediante un breve contacto con clones sanos.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/coral-bleaching-reversed-at-record-speed-using-new-stanford-method/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Coral-bleaching-restoration-at-Stanford-by-Dan-Griffin-GG-Films-via-SWNS.jpeg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-17T17:20:40.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-massive-70lb-dog-the-size-of-b",
-      "title": "Un perro enorme de 70 libras, del tamaño de un hipopótamo bebé, pierde kilos y consigue un nuevo hogar",
-      "summary": "Una enorme perra de refugio de 70 libras llamada Peggy Sue pesaba lo mismo que un hipopótamo bebé, pero ahora perdió esos kilos y encontró un nuevo hogar.",
-      "fullStory": "Un enorme perro de refugio que pesaba lo mismo que un hipopótamo bebé perdió peso y encontró un nuevo hogar.\n\nLa enorme bulldog llamada Peggy Sue aumentó a 70 libras (32,5 kg) antes de ser llevada al Centro de Animales West Hatch de la RSPCA en Inglaterra.\n\nEra tan grande que tenía problemas para caminar, infecciones y sobrecalentamiento, y no podía dar unos cuantos pasos sin colapsar.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/massive-70lb-dog-the-size-of-baby-hippo-sheds-lbs/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Before-and-After-weight-loss-RSPCA-bulldog-via-SWNS.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-17T13:51:35.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
@@ -224,7 +243,7 @@
       "id": "rss-mundo-the-in-awe-artist-painting-a-w",
       "title": "El artista 'asombrado' que pinta una Gran Bretaña más salvaje",
       "summary": "Las pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que rescatan a la naturaleza del abismo",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLas pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que recuperan la naturaleza del abismo\n\nLa marisma salada se está extendiendo por el estuario de Ribble, en la costa noroeste de Inglaterra. En Cornualles, robles centenarios se encuentran dentro de un fragmento de uno de los antiguos bosques tropicales templados de Gran Bretaña. En otros lugares, se están dejando, gestionando o remodelando tierras para dar a la vida silvestre la oportunidad de regresar. Estos son los paisajes que la artista Rebecca Howard pasó el año pasado pintando para A Year in the Wild, una exposición que documenta nueve proyectos de reconstrucción salvaje en el Reino Unido.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLas pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que rescatan a la naturaleza del abismo\n\nLa marisma salada se está extendiendo por el estuario de Ribble, en la costa noroeste de Inglaterra. En Cornualles, robles centenarios se encuentran dentro de un fragmento de uno de los antiguos bosques tropicales templados de Gran Bretaña. En otros lugares, se están dejando, gestionando o remodelando tierras para dar a la vida silvestre la oportunidad de regresar. Estos son los paisajes que la artista Rebecca Howard pasó el año pasado pintando para A Year in the Wild, una exposición que documenta nueve proyectos de reconstrucción salvaje en el Reino Unido.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
@@ -471,128 +490,6 @@
         "ROCK CHILENO"
       ],
       "featured": true
-    },
-    {
-      "id": "liderazgo-tecnica-pre-mortem-decision",
-      "title": "La técnica del «Pre-Mortem»: Cómo los líderes anticipan riesgos antes de iniciar proyectos clave",
-      "summary": "Desarrollada por el psicólogo Gary Klein y avalada por Harvard Business Review, la técnica invita al equipo a imaginar el fracaso futuro para blindar el éxito desde el primer día con optimismo lúcido.",
-      "fullStory": "La mayoría de las iniciativas estratégicas enfrentan dificultades no por falta de capacidad técnica, sino por el sesgo de confirmación y el optimismo ingenuo que impide a los equipos advertir puntos ciegos antes del lanzamiento. Para erradicar este problema, el célebre psicólogo conductual Gary Klein diseñó la técnica del \"Pre-Mortem\", un ejercicio colaborativo que invierte la tradicional autopsia de proyectos.\n\nEn una sesión de Pre-Mortem, el líder reúne a su equipo y declara: \"Imaginemos que han pasado seis meses desde el lanzamiento de este proyecto y ha sido una catástrofe total. Durante los próximos diez minutos, cada uno escribirá una breve historia explicando exactamente qué salió mal\".\n\nAl legitimar la expresión de preocupaciones sin que parezca deslealtad o pesimismo, los colaboradores revelan riesgos ocultos, dependencias frágiles y supuestos no verificados que de otro modo habrían permanecido en silencio. Con esa información, el equipo ajusta el plan de acción preventivamente, transformando la ansiedad en preparación rigurosa y fortaleciendo la corresponsabilidad colectiva.",
-      "whyGoodNews": "Empodera a todas las voces de un equipo sin importar jerarquías, convirtiendo la prevención constructiva en un acto compartido de valentía, lucidez y cuidado mutuo.",
-      "category": "liderazgo",
-      "sourceName": "Harvard Business Review",
-      "sourceUrl": "https://www.positive.news/lifestyle/pre-mortem-technique-project-success-leadership/",
-      "imageUrl": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1200&q=80",
-      "imageSourceType": "curated",
-      "publishedAt": "2026-10-09T14:00:00.000Z",
-      "positivityScore": 97,
-      "readingTimeMinutes": 3,
-      "tags": [
-        "LIDERAZGO",
-        "TOMA DE DECISIONES"
-      ]
-    },
-    {
-      "id": "rss-mundo--i-can-breathe-again-readers-s",
-      "title": "“Puedo volver a respirar”. Los lectores comparten sus experiencias sobre una dieta mediática más equilibrada.",
-      "summary": "A menudo hablamos del impacto que tiene el periodismo en la democracia y en cómo entendemos el mundo. Pero ¿qué pasa con su impacto en cómo nos sentimos?",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nA menudo hablamos del impacto que tiene el periodismo en la democracia, el debate público y lo que entendemos sobre el mundo. Pero ¿qué pasa con su impacto en cómo nos sentimos?\n\nPara conmemorar el Día Mundial de la Salud Mental el 10 de octubre, hemos reunido reflexiones de lectores de Positive News sobre cómo cambiar las historias que consumen ha cambiado su forma de experimentar el mundo.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/media/readers-share-their-experiences-of-a-more-balanced-media-diet/",
-      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/shutterstock_1458127130-scaled.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-09T12:45:19.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ],
-      "categories": [
-        "mundo",
-        "psicologia"
-      ]
-    },
-    {
-      "id": "liderazgo-franqueza-radical-feedback",
-      "title": "El arte del feedback sin fricción: La técnica de la «franqueza radical» para liderar con honestidad y afecto",
-      "summary": "Cómo superar la trampa del silencio cómodo o la agresividad. La metodología enseña a brindar retroalimentación oportuna y directa centrada en el crecimiento mutuo.",
-      "fullStory": "Brindar retroalimentación constructiva suele ser uno de los momentos más temidos tanto por líderes como por colaboradores. Para resolver este desafío, la experta en liderazgo Kim Scott desarrolló el modelo de la \"Franqueza Radical\" (Radical Candor), una matriz que revolucionó la gestión de personas en empresas de tecnología y organizaciones globales.\n\nEl método enseña que la retroalimentación verdaderamente eficaz se apoya en dos ejes simultáneos: \"Preocuparse personalmente\" (Care Personally) y \"Desafiar directamente\" (Challenge Directly). Cuando un líder desafía sin demostrar afecto cae en la \"agresividad ofensiva\"; pero cuando calla las áreas de mejora por no incomodar cae en la \"empatía ruinosa\", el error más común y destructivo de los directivos bienintencionados.\n\nLa técnica de la franqueza radical propone conversaciones breves, inmediatas y en privado, formuladas desde la observación objetiva de comportamientos (no de la identidad de la persona) y ofreciendo de inmediato recursos y acompañamiento para superar el obstáculo, convirtiendo el feedback en un regalo de confianza.",
-      "whyGoodNews": "Transforma las conversaciones difíciles en puentes de desarrollo personal y profesional, erradicando el resentimiento y construyendo relaciones de trabajo transparentes y cordiales.",
-      "category": "liderazgo",
-      "sourceName": "Leadership & Talent Review",
-      "sourceUrl": "https://www.positive.news/lifestyle/radical-candor-constructive-feedback-technique/",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=1200&q=80",
-      "imageSourceType": "curated",
-      "publishedAt": "2026-10-09T11:30:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 3,
-      "tags": [
-        "LIDERAZGO",
-        "FEEDBACK CONSTRUCTIVO"
-      ]
-    },
-    {
-      "id": "mundo-sycamore-gap-renace",
-      "title": "El legendario árbol de Sycamore Gap renace: nuevos brotes superan el metro de altura en Inglaterra",
-      "summary": "Un año después de haber sido talado vandálicamente, el tocón del árbol más fotografiado del Muro de Adriano florece con vigor gracias a los cuidados de los guardaparques del National Trust.",
-      "fullStory": "La conmoción que causó en 2023 la tala ilegal del milenario sicomoro de Sycamore Gap, inmortalizado en innumerables películas y postales junto al histórico Muro de Adriano en el norte de Inglaterra, ha dado paso a una emocionante historia de regeneración natural.\n\nLos guardaparques del National Trust que protegieron el tocón con vallas especiales y monitorearon sus raíces confirmaron que una corona de más de ocho brotes vigorosos ya supera el metro de altura, cubiertos de hojas verdes y brotes sanos. Los botánicos señalan que el poderoso sistema radicular del árbol original continúa activo bombeando nutrientes con vitalidad.\n\nMiles de visitantes que han acudido al valle contemplan con asombro el espectáculo de resiliencia biológica, transformando un sitio que fue símbolo de dolor en un emblema mundial de esperanza y renacimiento de la naturaleza.",
-      "whyGoodNews": "La naturaleza siempre encuentra el camino para florecer de nuevo, recordándonos que la vida y la esperanza tienen raíces más profundas que cualquier adversidad.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/flourishing-sycamore-gap-tree-has-ring-of-new-shoots-already-3-feet-tall/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/overlooking-the-sycamore-gap-stump-on-hadrians-wall.-credit-nt-images-annapurna-mellor.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-09T10:00:00.000Z",
-      "positivityScore": 97,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "NATURALEZA",
-        "ESPERANZA"
-      ]
-    },
-    {
-      "id": "rss-mundo-three-surprising-reasons-to-sl",
-      "title": "Tres razones sorprendentes para reducir el ritmo y disfrutar de un desayuno nutritivo y bien pensado",
-      "summary": "Desde la función cognitiva hasta el refuerzo de los vínculos familiares, los beneficios de dedicar tiempo a comer alimentos integrales por la mañana son abundantes",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nSocios de Positive News Este artículo ha sido creado por Positive News y apoyado por St Ewe Compartir: . a2a_s_facebook, . a2a_s_linkedin, . a2a_s_email{ color de fondo:#00bcdb! importante; } Pantalla solo @media y (ancho máximo: 768 px) { div#social_btns { display: none; }} La primera comida del día suele ser la que más se salta, pero desde el punto de vista cognitivo Para reforzar los vínculos familiares, los beneficios de dedicar tiempo a los alimentos integrales por la mañana son abundantes.\n\nProbablemente estés familiarizado con el viejo proverbio \"debes desayunar como un rey, almorzar como un príncipe y cenar como un pobre\". Pero la verdad es que, en el caos de la vida moderna, muy pocos de nosotros logramos comer de esta manera.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Positive News",
-      "sourceUrl": "https://www.positive.news/environment/food/three-surprising-reasons-to-slow-down-for-a-thoughtful-nutritious-breakfast/",
-      "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/iStock-1355162946.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-09T07:00:26.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ],
-      "categories": [
-        "mundo",
-        "psicologia"
-      ]
-    },
-    {
-      "id": "rss-mundo-what-went-right-this-week-peop",
-      "title": "Lo que salió bien esta semana: justicia climática impulsada por las personas y más",
-      "summary": "Un momento histórico para la justicia climática en Australia, revelaron los premios Nobel, y un fármaco prometedor para el Parkinson, además de más buenas noticias",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nUn momento crucial para la justicia climática en Australia, los ganadores del Premio Nobel y un fármaco prometedor para el Parkinson, además de más buenas noticias\n\nEn un momento crucial para la justicia climática en Australia, el tribunal más alto del país falló en contra de las propuestas para expandir una enorme mina de carbón en Nueva Gales del Sur.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-41-of-2026/",
-      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/shutterstock_1156815706.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-09T05:09:55.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
     }
   ]
 }
