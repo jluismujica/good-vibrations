@@ -1,15 +1,73 @@
 {
-  "lastUpdated": "2026-10-18T14:23:48.220Z",
-  "totalCount": 31,
+  "lastUpdated": "2026-10-19T00:58:53.425Z",
+  "totalCount": 30,
   "categories": {
-    "musica": 5,
+    "musica": 6,
     "ia": 2,
-    "psicologia": 4,
+    "psicologia": 3,
     "liderazgo": 2,
     "chile": 3,
-    "mundo": 18
+    "mundo": 17
   },
   "news": [
+    {
+      "id": "rss-mundo-contact-with-nature-is-linked-",
+      "title": "El contacto con la naturaleza está relacionado con una alimentación saludable, según muestra un nuevo estudio alentador",
+      "summary": "Un nuevo estudio del Reino Unido ha descubierto que el contacto con la naturaleza puede ayudar a las personas a desarrollar hábitos alimentarios más saludables e incluso a perder peso.",
+      "fullStory": "Un nuevo estudio ha descubierto que el contacto con la naturaleza puede ayudar a las personas a desarrollar hábitos alimentarios más saludables.\n\nSe dice que la investigación de la Universidad Anglia Ruskin en el Reino Unido es la primera en proporcionar evidencia de que la exposición a entornos naturales puede influir en la relación de las personas con los alimentos.\n\nEl estudio, publicado en la revista Body Image, involucró a 500 adultos del Reino Unido a quienes se evaluó sus niveles individuales de contacto con el mundo natural, como cuánto notaban la naturaleza en su vida cotidiana, así como la frecuencia y duración del tiempo que pasaban cerca de la naturaleza.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/contact-with-nature-is-linked-to-healthy-eating-study/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Woman-sitting-in-nature-meditate-by-Sara-Kurfess-QyjwUq5Amp8-unsplash.jpeg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-18T22:41:09.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-musica-tiny-black-cat-stuck-in-car-en",
+      "title": "Un pequeño gato negro atrapado en el motor de un automóvil brinda una alegría inesperada a una pareja con su aniversario de bodas en Halloween",
+      "summary": "Una pareja de Georgia recibió una sorpresa inesperada para celebrar su aniversario de bodas en Halloween: un gatito negro en la suspensión de su automóvil.",
+      "fullStory": "Una maestra de secundaria en Sandy Springs, Georgia, recibió una sorpresa inesperada camino al trabajo a principios de este mes.\n\n\"Fue una historia bastante loca\", le dijo a GNN, y sucedió justo a tiempo para celebrar su aniversario de bodas en Halloween.\n\n\"Mi marido y yo íbamos conduciendo para recoger pastelitos de cumpleaños para mis estudiantes de periodismo cuando otro conductor empezó a tocarnos la bocina. \" Aparentemente, había algo colgando debajo de nuestro auto. \"",
+      "whyGoodNews": "Celebra el poder unificador de la música y el arte para conectar personas, sanar heridas y despertar emociones profundas.",
+      "category": "musica",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/mystery-black-kitten-stuck-in-engine-brings-unexpected-joy-to-couple/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Fire-and-Rescue-service-rescues-kitten-in-suspension-SUBMITTED.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-18T20:32:45.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "MÚSICA",
+        "CULTURA"
+      ]
+    },
+    {
+      "id": "rss-mundo-retired-couple-surprised-with-",
+      "title": "Pareja de jubilados sorprendida con un nuevo sistema HVAC valorado en 16.000 dólares en un programa \"Feel the Love\" que ha ayudado a 3100 personas",
+      "summary": "Una pareja de Oregón que está pasando apuros ahora puede soportar el invierno cómodamente gracias a que Lennox y Aviator HVAC instalaron un nuevo sistema HVAC sin costo alguno.",
+      "fullStory": "Una pareja de Oregón que enfrenta dificultades financieras ahora puede soportar el invierno cómodamente y con “tranquilidad” ya que se instaló un nuevo sistema HVAC en su hogar sin costo alguno.\n\nDiane y Brian Johnsen de Beaverton recibieron la instalación de un sistema completo de calefacción y refrigeración, valorado en aproximadamente $16,000, con la mano de obra realizada por el contratista local Aviator Heating & Cooling.\n\nLos propietarios habían estado atravesando circunstancias difíciles, incluidas presiones financieras que llevaron a la esposa a tener tres trabajos para ayudar a mantenerse al día con la hipoteca.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/retired-couple-surprised-with-new-hvac-system-worth-16k/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Aviator-Heating-and-Cooling-gives-Diane-and-Brian-Johnsen-free-HVAC-Submitted.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-18T17:19:59.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
     {
       "id": "rss-mundo-village-installs-knitted-traff",
       "title": "Village instala policías de tránsito tejidos para frenar a los conductores que exceden la velocidad",
@@ -27,14 +85,13 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-musica-good-news-in-history-october-1",
       "title": "Buenas noticias en la historia, 18 de octubre",
       "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 18 de octubre.",
-      "fullStory": "Hoy hace 896 años nació Zhu Xi, un erudito confuciano revolucionario de la dinastía Song. Su cambio de énfasis del I Ching a los Cuatro Libros reformó la visión china del mundo, lo cual no es algo fácil de hacer. Sus comentarios y perspectivas formaron la base para el examen de la función pública china desde su época hasta 1905. LEER más sobre el gran pensador… (1130)\n\nZhu Xi sostuvo que todas las cosas surgen mediante la unión de dos aspectos universales de la realidad: qi, a veces traducido como fuerza vital (o física, material); y li, a veces traducido como principio racional (o ley). La fuente y suma de li es el Taiji, que significa el Supremo Supremo.\n\nQi y li operan juntos en dependencia mutua. Son mutuamente aspectos en todas las criaturas del universo. Estos dos aspectos se manifiestan en la creación de entidades sustanciales. Cuando su actividad aumenta (rápida o expansiva), ese es el modo de energía yang. Cuando su actividad disminuye (lenta o contractiva), ese es el modo de energía yin.",
+      "fullStory": "Hoy hace 896 años nació Zhu Xi, un erudito confuciano revolucionario de la dinastía Song. Su cambio de énfasis del I Ching a los Cuatro Libros reformó la visión china del mundo, lo cual no es fácil de hacer. Sus comentarios y perspectivas formaron la base para el examen de la función pública china desde su época hasta 1905. LEER más sobre el gran pensador… (1130)\n\nZhu Xi sostuvo que todas las cosas surgen mediante la unión de dos aspectos universales de la realidad: qi, a veces traducido como fuerza vital (o física, material); y li, a veces traducido como principio racional (o ley). La fuente y suma de li es el Taiji, que significa el Supremo Supremo.\n\nQi y li operan juntos en dependencia mutua. Son mutuamente aspectos en todas las criaturas del universo. Estos dos aspectos se manifiestan en la creación de entidades sustanciales. Cuando su actividad aumenta (rápida o expansiva), ese es el modo de energía yang. Cuando su actividad disminuye (lenta o contractiva), ese es el modo de energía yin.",
       "whyGoodNews": "Celebra el poder unificador de la música y el arte para conectar personas, sanar heridas y despertar emociones profundas.",
       "category": "musica",
       "sourceName": "Good News Network",
@@ -51,9 +108,9 @@
     },
     {
       "id": "rss-mundo-99-yo-woman-snags-world-s-olde",
-      "title": "Mujer de 99 años obtiene el título de 'caminadora de alas más antigua del mundo', 3 meses después de que otra abuela lo hiciera (MIRAR)",
-      "summary": "Una mujer de 99 años se convirtió en la caminante de alas más vieja del mundo, apenas tres meses después de que su sobrina vio a otra anciana hacerlo.",
-      "fullStory": "Una mujer de 99 años se ha convertido en la caminadora de alas más vieja del mundo, apenas tres meses después de que su sobrina vio a otra anciana hacerlo, y el personal de su centro de vida asistida la instó a intentarlo.\n\nEsta semana, Guinness World Records otorgó oficialmente el título a Helga Duffy, quien estaba atada a la parte superior de un pequeño avión en Rendcomb Airfield en Gloucestershire, Inglaterra.\n\nRompió su récord mundial de caminata con alas solo tres meses después de que el título fuera conseguido por una mujer de 97 años llamada Betty Bromage.",
+      "title": "Una mujer de 99 años obtiene el título de 'caminadora de alas más vieja del mundo', 3 meses después de que otra abuela lo hiciera (MIRAR)",
+      "summary": "Una mujer de 99 años se convirtió en la caminante de alas más vieja del mundo, apenas tres meses después de que su sobrina viera a otra anciana hacerlo.",
+      "fullStory": "Una mujer de 99 años se ha convertido en la caminadora de alas más vieja del mundo, apenas tres meses después de que su sobrina vio a otra anciana hacerlo, y el personal de su centro de vida asistida la instó a intentarlo.\n\nEsta semana, Guinness World Records otorgó oficialmente el título a Helga Duffy, quien estaba atada a la parte superior de un pequeño avión en Rendcomb Airfield en Gloucestershire, Inglaterra.\n\nRompió su récord mundial de caminata con alas solo tres meses después de que el título fuera conquistado por una mujer de 97 años llamada Betty Bromage.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Good News Network",
@@ -99,63 +156,6 @@
       "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Before-and-After-weight-loss-RSPCA-bulldog-via-SWNS.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-10-17T13:51:35.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-your-positive-weekly-horoscope",
-      "title": "Su horóscopo semanal positivo: 'Astrología del libre albedrío' de Rob Brezsny",
-      "summary": "Rob Brezsny defiende un enfoque positivo de la vida a través de horóscopos con sabiduría semanal en esta columna semanal de Astrología del libre albedrío.",
-      "fullStory": "Nuestro socio Rob Brezsny, cuyo último libro es Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, brinda su sabiduría semanal para iluminar nuestro pensamiento y motivar nuestro estado de ánimo. Rob's Free Will Astrology es una columna semanal sindicada que aparece en más de cien publicaciones. También es autor de Pronoia es el antídoto para la paranoia: cómo toda la creación conspira para colmarte de bendiciones. (Una vista previa gratuita del libro está disponible aquí).\n\nLIBRA (del 23 de septiembre al 22 de octubre): Pronto, una mañana, predigo que abrirá sus ojos internos y externos y descubrirá que se siente más libre de lo que se ha sentido en mucho tiempo. Los viejos espectros que alguna vez te molestaron te parecerán extrañamente impotentes. Las costumbres desgastadas se habrán aflojado y una antigua obligación finalmente quedará resuelta. Por alguna gracia que ni tú ni yo podemos explicar del todo, al menos algunas de las cadenas que creaste en tu propia mente se habrán caído. ¿Entonces qué? ¡Celebrar! Organice una fiesta personal \"Fuera del cautiverio\" y tómese uno o dos días para deleitarse con su recién descubierta libertad. Una vez que esté listo para hacer un uso determinado de esa deliciosa independencia, pregúntese: “¿En qué parte de mi vida necesito más un comienzo limpio?”\n\nESCORPIO (del 23 de octubre al 21 de noviembre): No hace mucho, recibió indicios y pistas de que estaba a punto de probar delicias tentadoras y prohibidas. ¿No estabas dispuesto a aceptar cuando la invitación se disolvió de repente? Y a estas alturas, ¿no has dejado de esperar disfrutar de otra oportunidad? Entonces imagina tu sorpresa si esa tentación regresa pronto a ti. Cuando finalmente le das un mordisco, es posible que no sepa ni sienta nada como esperabas. La decisión más inteligente será dejar de lado sus viejas suposiciones y acoger la experiencia tal como es. Mi predicción: te sorprenderá gratamente lo profunda y dulce que altera tu forma de entender la realidad, incluso si al principio te parece desorientador.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-10-17-2026/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Freewill-Astrology-horoscope-logo.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-17T10:00:17.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-good-news-in-history-october-1",
-      "title": "Buenas noticias en la historia, 17 de octubre",
-      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 17 de octubre.",
-      "fullStory": "Hoy hace 166 años que el Open Championship, también conocido como Open Británico, se jugó por primera vez en Escocia, en el Prestwick Golf Club de Ayrshire. El torneo de golf más antiguo del mundo y uno de los cuatro majors más prestigiosos, rota entre un selecto grupo de campos de golf costeros del Reino Unido. LEER más sobre su historia… (1860)\n\nJunto con el Torneo Masters, el Campeonato de la PGA y el US Open, originalmente se llamaba Open porque, en teoría, está \"abierto\" a todos, incluidos los golfistas aficionados clasificados. Durante sus primeros 30 años, los 36 hoyos del torneo se jugaron en un solo día y los ganaron exclusivamente jugadores escoceses.\n\nEl trofeo es una jarra de clarete, que se ha entregado a todos los campeones desde 1872 y está en exhibición permanente en la casa club del club de golf de St Andrews. El ganador debe devolver el trofeo antes del Abierto del próximo año y luego recibe una réplica para conservarla permanentemente.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061017/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2019/10/Royal_Portrush_Golf_Club-cc-Average-Golfer-and-Greg-Norman-cc-Great-White-Shark-Enterprises.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-17T07:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-north-america-s-largest-wildli",
-      "title": "El paso elevado para la vida silvestre más grande de América del Norte está funcionando: las colisiones de animales en la I-25 disminuyeron un 91%",
-      "summary": "El éxito parece estar estimulando un auge en la construcción de pasos elevados para la vida silvestre, y ahora se están explorando seis ubicaciones adicionales para este tipo de puentes.",
-      "fullStory": "En marzo, GNN informó que en diciembre se había abierto el paso elevado para la vida silvestre más grande de América del Norte sobre la Interestatal 25 cerca de Larkspur, en Colorado.\n\nAhora, 10 meses después de su apertura, los datos han demostrado que la línea salvavidas de seis carriles para osos, alces, alces y otros animales está funcionando, con un 91 % menos de colisiones entre animales salvajes y vehículos.\n\nCon 200 pies de ancho y 209 pies de largo, el paso elevado cubre 41,800 pies cuadrados (3,900 metros cuadrados), lo que lo convierte en la estructura de puente más grande para la vida silvestre en América del Norte y una de las más grandes del mundo.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/north-americas-largest-wildlife-overpass-is-working-animal-collisions-on-i-25-down-91/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Colorado-Department-of-Transportation.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-16T18:30:38.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
@@ -224,7 +224,7 @@
       "id": "rss-mundo-the-in-awe-artist-painting-a-w",
       "title": "El artista 'asombrado' que pinta una Gran Bretaña más salvaje",
       "summary": "Las pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que rescatan a la naturaleza del abismo",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLas pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que recuperan la naturaleza del abismo\n\nLa marisma salada se está extendiendo por el estuario de Ribble, en la costa noroeste de Inglaterra. En Cornualles, robles centenarios se encuentran dentro de un fragmento de uno de los antiguos bosques tropicales templados de Gran Bretaña. En otros lugares, se están dejando, gestionando o remodelando tierras para dar a la vida silvestre la oportunidad de regresar. Estos son los paisajes que la artista Rebecca Howard pasó el año pasado pintando para A Year in the Wild, una exposición que documenta nueve proyectos de reconstrucción del Reino Unido.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLas pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que recuperan la naturaleza del abismo\n\nLa marisma salada se está extendiendo por el estuario de Ribble, en la costa noroeste de Inglaterra. En Cornualles, robles centenarios se encuentran dentro de un fragmento de uno de los antiguos bosques tropicales templados de Gran Bretaña. En otros lugares, se están dejando, gestionando o remodelando tierras para dar a la vida silvestre la oportunidad de regresar. Estos son los paisajes que la artista Rebecca Howard pasó el año pasado pintando para A Year in the Wild, una exposición que documenta nueve proyectos de reconstrucción salvaje en el Reino Unido.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
@@ -592,25 +592,6 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "psicologia-sueno-ritmos-circadianos",
-      "title": "Estudio revela por qué las comunidades tradicionales no sufren de insomnio y qué enseña a la psicología moderna",
-      "summary": "Investigadores de USC y UCLA demuestran que la ausencia de ansiedad por \"dormir ocho horas fijas\" y la sincronización con la luz natural eliminan los trastornos del sueño.",
-      "fullStory": "Un riguroso estudio multidisciplinario conducido por antropólogos evolutivos y psicólogos cognitivos de la Universidad del Sur de California (USC) y la Universidad de California en Los Ángeles (UCLA) arrojó luz sobre uno de los enigmas más acuciantes de la salud mental contemporánea: la epidemia de insomnio en las sociedades industrializadas.\n\nMonitoreando durante más de dos años los patrones fisiológicos y la actividad cerebral de comunidades tradicionales no industrializadas como los Hadza de Tanzania y los Tsimané de Bolivia, los investigadores descubrieron que estas poblaciones casi no presentan registros clínicos de insomnio crónico ni ansiedad nocturna. Sorprendentemente, no duermen diez ni doce horas como se creía, sino entre 6,5 y 7 horas promedio.\n\nLa clave psicológica radica en su relación con el descanso: no conciben el despertar nocturno como un fallo fisiológico ni sufren de \"ansiedad anticipatoria por dormir\". Si se desvelan a mitad de la noche, simplemente conversan con tranquilidad o contemplan el cielo estrellado hasta que el sueño regresa de forma natural, sin pantallas emisoras de luz azul ni autoexigencia mental. Los autores del estudio recomiendan adoptar esta mirada flexible y desculpabilizadora en las terapias cognitivo-conductuales del sueño en Occidente.",
-      "whyGoodNews": "Aporta evidencia científica formal para desmontar mitos rígidos sobre el descanso, aliviando la angustia de millones de personas y promoviendo una relación más amable con nuestro reloj biológico.",
-      "category": "psicologia",
-      "sourceName": "USC & UCLA Research",
-      "sourceUrl": "https://www.goodnewsnetwork.org/hunter-gatherers-dont-have-trouble-sleeping-why-and-what-can-we-learn-from-them/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/03/Man-From-Hadza-in-Tanzania-David-Raichlen-of-USC-and-Brian-Wood-of-UCLA-e1790938298146.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-08T16:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 3,
-      "tags": [
-        "SALUD MENTAL",
-        "NEUROCIENCIA DEL SUEÑO"
       ]
     }
   ]
