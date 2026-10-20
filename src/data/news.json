@@ -1,15 +1,111 @@
 {
-  "lastUpdated": "2026-10-20T01:40:17.930Z",
-  "totalCount": 25,
+  "lastUpdated": "2026-10-20T15:36:32.287Z",
+  "totalCount": 21,
   "categories": {
-    "musica": 6,
+    "musica": 3,
     "ia": 2,
     "psicologia": 1,
     "liderazgo": 0,
-    "chile": 3,
+    "chile": 2,
     "mundo": 14
   },
   "news": [
+    {
+      "id": "rss-mundo-isle-of-jersey-expands-marine-",
+      "title": "La isla de Jersey amplía las protecciones marinas para cubrir el 21% de las aguas territoriales",
+      "summary": "Las nuevas regulaciones, que entrarán en vigor el 1 de septiembre, se centran en algunos de los hábitats más valiosos y vulnerables que rodean Jersey.",
+      "fullStory": "La isla británica autónoma de Jersey anunció a finales de agosto que aumentaría su porcentaje de aguas protegidas en un 15%.\n\nAhora, el 21,7% de los mares de Jersey estarán protegidos de la pesca de arrastre y otras prácticas pesqueras dañinas. Las nuevas regulaciones, que entrarán en vigor el 1 de septiembre, se centran en algunos de los hábitats más valiosos y vulnerables que rodean la Isla del Canal.\n\nPara aquellos que no lo saben, Jersey es una micronación semiautónoma cuasi de herencia normanda-británica; uno de los tres considerados \"protectorados de la corona\" bajo la Commonwealth británica.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/isle-of-jersey-expands-marine-protections-to-cover-21-of-territorial-waters/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Jersey-as-seen-from-Copernicus-Sentinel-2-credit-ESA-CC-3.0.-SA-IGO.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-20T15:30:53.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo-texas-man-finds-more-than-128-",
+      "title": "Hombre de Texas encuentra más de $128,000 encima de un cajero automático de un banco y devuelve cada dólar",
+      "summary": "Parece como si el técnico de Brinks simplemente hubiera dejado la bolsa encima del cajero automático, como tantas tazas de café en el techo de un automóvil.",
+      "fullStory": "Un hombre y una mujer que se detenían en un cajero automático de Texas notaron una bolsa encima de la máquina.\n\nCada centímetro de la bolsa estaba lleno de dinero, pero el samaritano anónimo llamó inmediatamente al Departamento de Policía de Lewisville.\n\nLa información sobre una de las bolsas indicaba que podría provenir del Chick-fil-A de al lado. Lo tomó para preguntarle al supervisor al respecto, pero le dijeron que el efectivo y una bolsa más pequeña que contenía 19 cheques no eran de ellos.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/texas-man-finds-more-than-128000-on-top-of-a-banks-atm-and-returns-every-dollar/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/maxresdefault-4.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-20T13:00:43.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-man-proposes-to-his-girlfriend",
+      "title": "Un hombre le propone matrimonio a su novia después de que fueron alcanzados por un rayo: ella reinició su corazón dos veces",
+      "summary": "Al darse cuenta de que tanto su corazón como su vida pertenecían metafóricamente a Eva, le propuso matrimonio al alta del hospital.",
+      "fullStory": "Nick Broderick describe el momento en que decidió casarse con su novia Eva como eléctrico: fue como si le hubiera caído un rayo.\n\nMientras disfrutaban de una caminata en el bosque estatal Kettle Moraine en Wisconsin en agosto de 2025, Nick y su novia Eva se habían acercado a 2 millas de su automóvil cuando el clima cambió.\n\nLa lluvia comenzó a caer, pero al no tener dónde refugiarse decidieron emprender una marcha hacia el aparcamiento de meta. En cierto momento, de manera bastante profética, Eva se giró y miró al hombre que se convertiría en su marido y le preguntó…",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/man-proposes-to-his-girlfriend-after-they-were-struck-by-lightning-she-restarted-his-heart-twice/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Nick-and-Eva-Broderick-on-their-hike-which-nearly-killed-them-credit-Nick-Broderick.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-20T11:00:16.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-the-new-certification-scheme-h",
+      "title": "El nuevo esquema de certificación ayuda a las granjas solares a convertirse en refugios para la vida silvestre",
+      "summary": "Un nuevo esquema de certificación solar alienta a los desarrolladores a crear mejores hábitats para la vida silvestre junto con la generación de electricidad limpia",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nSocios de Positive News Este artículo ha sido creado por Positive News y respaldado por Thrive Renewables Compartir: . a2a_s_facebook, . a2a_s_linkedin, . a2a_s_email{ color de fondo:#00bcdb! importante; } Pantalla solo @media y (ancho máximo: 768 px) { div#social_btns { display: none; }} Dado que el Reino Unido casi duplicará su capacidad solar para 2030, un nuevo El esquema de certificación alienta a los desarrolladores a crear mejores hábitats para la vida silvestre junto con la generación de electricidad limpia.\n\nLiebres corriendo entre los setos. Hierbas y flores silvestres emergen entre hileras de paneles solares. Pájaros revoloteando sobre nuestras cabezas. Está a un mundo de distancia de las antiguas centrales eléctricas que escupían humo y, cada vez más, los sitios que generan nuestra energía están haciendo algo más: están dando a la naturaleza espacio para recuperarse. De hecho, un creciente conjunto de investigaciones sugiere que las granjas solares bien diseñadas y administradas cuidadosamente pueden servir como refugios para la vida silvestre.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Positive News",
+      "sourceUrl": "https://www.positive.news/environment/the-new-certification-scheme-helping-solar-farms-become-havens-for-wildlife/",
+      "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/20220713_122129.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-20T07:00:20.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-musica-good-news-in-history-october-2",
+      "title": "Buenas noticias en la historia, 20 de octubre",
+      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 20 de octubre.",
+      "fullStory": "Hoy hace 76 años, Tom Petty, nació en Gainesville, Florida. Cuando tenía 11 años conoció a Elvis Presley, lo que despertó su amor por el rock and roll. Como cantautor guitarrista, fue uno de los artistas musicales más vendidos de todos los tiempos, con más de 80 millones de discos vendidos en todo el mundo impulsados ​​por mega éxitos como \"American Girl\", \"Won't Back Down\" y \"The Waiting (Song)\". LEER más… (1950)\n\nEl 'Salón de la Fama del Rock and Roll' fue el líder de Tom Petty and the Heartbreakers, pero también es conocido como cofundador de un supergrupo de los años 80 con George Harrison, los Travelling Wilburys.\n\nUna biografía escrita por su amigo, Petty: The Biography, detalla su lucha con la heroína en la década de 1990. Más recientemente, hasta su muerte en 2017, Petty promocionó los beneficios de practicar la Meditación Trascendental.",
+      "whyGoodNews": "Celebra el poder unificador de la música y el arte para conectar personas, sanar heridas y despertar emociones profundas.",
+      "category": "musica",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061020/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2017/10/Tom-Petty-Album-Cover-Released.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-20T07:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "MÚSICA",
+        "CULTURA"
+      ]
+    },
     {
       "id": "rss-mundo-mozambique-protects-the-butter",
       "title": "Mozambique protege el “bosque de mariposas” del monte Mabu, hogar de 200 especies",
@@ -27,8 +123,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-unprecedented-collab-between-c",
@@ -99,82 +194,6 @@
       "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/Atlantic-Salmon-001-©-Darren-Honeywill-2026.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-10-19T07:00:44.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-musica-good-news-in-history-october-1",
-      "title": "Buenas noticias en la historia, 19 de octubre",
-      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 19 de octubre.",
-      "fullStory": "Hoy hace seis años, la venta de alto perfil de una obra de arte de la dinastía Ming puso al mundo no solo en contacto con la pintura de piedra más notable jamás realizada, sino también con la profundidad de la relación china con el mundo natural. Llamada Diez vistas de Lingbi Rock, la pintura se vendió por 77 millones de dólares en una subasta, la más alta jamás alcanzada por una pintura clásica china. LEA todo sobre la pintura… (2020)\n\nEn 1610, el pintor profesional Wu Bin (c. 1543 – c. 1626) completó una pintura de una piedra después de pasar un mes examinándola. El encargo de la pintura fue del destacado funcionario, calígrafo y coleccionista Mi Wanzhong (1570-1628). El pergamino contiene diez representaciones de tamaño casi natural de una piedra en particular que Mi adquirió en algún momento entre 1608 y 1610.\n\nMi Wanzhong en realidad escribió sobre ver pintar a su amigo Wu Bin y parecía tan fascinado por Wu como por la pintura de Wu, al ver por él que Wu había fusionado su conciencia con la piedra, y pintarla desde diez ángulos \"agotó su habilidad\".",
-      "whyGoodNews": "Celebra el poder unificador de la música y el arte para conectar personas, sanar heridas y despertar emociones profundas.",
-      "category": "musica",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061019/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/One-of-the-ten-views-of-Lingbi-Rock-fair-use.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-19T07:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "MÚSICA",
-        "CULTURA"
-      ]
-    },
-    {
-      "id": "rss-mundo-contact-with-nature-is-linked-",
-      "title": "El contacto con la naturaleza está relacionado con una alimentación saludable, según muestra un nuevo estudio alentador",
-      "summary": "Un nuevo estudio del Reino Unido ha descubierto que el contacto con la naturaleza puede ayudar a las personas a desarrollar hábitos alimentarios más saludables e incluso a perder peso.",
-      "fullStory": "Un nuevo estudio ha descubierto que el contacto con la naturaleza puede ayudar a las personas a desarrollar hábitos alimentarios más saludables.\n\nSe dice que la investigación de la Universidad Anglia Ruskin en el Reino Unido es la primera en proporcionar evidencia de que la exposición a entornos naturales puede influir en la relación de las personas con los alimentos.\n\nEl estudio, publicado en la revista Body Image, involucró a 500 adultos del Reino Unido a quienes se evaluó sus niveles individuales de contacto con el mundo natural, como cuánto notaban la naturaleza en su vida cotidiana, así como la frecuencia y duración del tiempo que pasaban cerca de la naturaleza.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/contact-with-nature-is-linked-to-healthy-eating-study/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Woman-sitting-in-nature-meditate-by-Sara-Kurfess-QyjwUq5Amp8-unsplash.jpeg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-18T22:41:09.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-musica-tiny-black-cat-stuck-in-car-en",
-      "title": "Un pequeño gato negro atrapado en el motor de un automóvil brinda una alegría inesperada a una pareja con su aniversario de bodas en Halloween",
-      "summary": "Una pareja de Georgia recibió una sorpresa inesperada para celebrar su aniversario de bodas en Halloween: un gatito negro en la suspensión de su automóvil.",
-      "fullStory": "Una maestra de secundaria en Sandy Springs, Georgia, recibió una sorpresa inesperada camino al trabajo a principios de este mes.\n\n\"Fue una historia bastante loca\", le dijo a GNN, y sucedió justo a tiempo para celebrar su aniversario de bodas en Halloween.\n\n\"Mi marido y yo íbamos conduciendo para recoger pastelitos de cumpleaños para mis estudiantes de periodismo cuando otro conductor empezó a tocarnos la bocina. \" Aparentemente, había algo colgando debajo de nuestro auto. \"",
-      "whyGoodNews": "Celebra el poder unificador de la música y el arte para conectar personas, sanar heridas y despertar emociones profundas.",
-      "category": "musica",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/mystery-black-kitten-stuck-in-engine-brings-unexpected-joy-to-couple/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Fire-and-Rescue-service-rescues-kitten-in-suspension-SUBMITTED.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-18T20:32:45.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "MÚSICA",
-        "CULTURA"
-      ]
-    },
-    {
-      "id": "rss-mundo-retired-couple-surprised-with-",
-      "title": "Pareja de jubilados sorprendida con un nuevo sistema HVAC valorado en 16.000 dólares en un programa \"Feel the Love\" que ha ayudado a 3100 personas",
-      "summary": "Una pareja de Oregón que está pasando apuros ahora puede soportar el invierno cómodamente gracias a que Lennox y Aviator HVAC instalaron un nuevo sistema HVAC sin costo alguno.",
-      "fullStory": "Una pareja de Oregón que enfrenta dificultades financieras ahora puede soportar el invierno cómodamente y con “tranquilidad” ya que se instaló un nuevo sistema HVAC en su hogar sin costo alguno.\n\nDiane y Brian Johnsen de Beaverton recibieron la instalación de un sistema completo de calefacción y refrigeración, valorado en aproximadamente $16,000, con la mano de obra realizada por el contratista local Aviator Heating & Cooling.\n\nLos propietarios habían estado atravesando circunstancias difíciles, incluidas presiones financieras que llevaron a la esposa a tener tres trabajos para ayudar a mantenerse al día con la hipoteca.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/retired-couple-surprised-with-new-hvac-system-worth-16k/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Aviator-Heating-and-Cooling-gives-Diane-and-Brian-Johnsen-free-HVAC-Submitted.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-18T17:19:59.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
@@ -394,102 +413,6 @@
         "PEARL JAM",
         "DOCUMENTAL"
       ]
-    },
-    {
-      "id": "mundo-familia-tripulacion-aerea",
-      "title": "Familia completa en la cabina: Joven piloto vuela por primera vez como copiloto de su padre y tripulación de su madre",
-      "summary": "Una emotiva historia familiar de vocación y trabajo en equipo emociona a los pasajeros de un vuelo comercial donde madre, padre e hija compartieron el servicio aéreo.",
-      "fullStory": "Los pasajeros de un vuelo comercial vivieron un momento inolvidable al despegar hacia su destino. En la cabina de mando, el experimentado comandante de vuelo volaba acompañado por su hija de 24 años en su primer turno oficial como copiloto comercial, mientras que en la cabina de pasajeros la jefa de tripulación era nada menos que su propia madre.\n\nLa joven piloto relató que desde niña acompañaba a sus padres a los hangares y soñaba con seguir sus pasos en la aviación civil. Tras años de riguroso estudio en la academia de vuelo y cientos de horas en simuladores, logró obtener sus licencias con calificaciones sobresalientes.\n\nCuando el capitán tomó el micrófono antes del despegue para anunciar la singular coincidencia a bordo, toda la cabina rompió en un espontáneo y caluroso aplauso, celebrando la unión familiar, el esfuerzo compartido y la inspiración para nuevas generaciones de mujeres aviadoras.",
-      "whyGoodNews": "Una cálida historia de afecto familiar, esfuerzo y vocación compartida que recuerda el valor de apoyar los sueños de las nuevas generaciones.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/daughter-gets-to-join-dad-as-co-pilot-with-mom-serving-on-cabin-crew/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Family-is-airline-crew-released-by-Zoe-de-Bruijn-via-SWNS.jpeg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-10T15:25:15.000Z",
-      "positivityScore": 95,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "HISTORIAS DE VIDA",
-        "FAMILIA"
-      ]
-    },
-    {
-      "id": "musica-kiss-alive-hito-rock",
-      "title": "El histórico álbum en vivo «Alive!» de Kiss: el hito que transformó la energía de los conciertos",
-      "summary": "Un repaso a la obra maestra que salvó a la banda y a su sello discográfico, consolidando la experiencia del rock de estadios y el magnetismo del espectáculo en directo.",
-      "fullStory": "En 1975, Kiss se encontraba al borde de la quiebra financiera y su discográfica Casablanca Records enfrentaba el colapso. Pese a contar con tres discos de estudio, ninguno lograba transmitir la arrolladora energía que Paul Stanley, Gene Simmons, Ace Frehley y Peter Criss desplegaban sobre el escenario ante multitudes electrizadas.\n\nLa decisión de registrar cuatro conciertos consecutivos en Detroit, Cleveland y Nueva Jersey dio origen a «Alive!», un álbum doble que no solo se transformó en disco de oro en cuestión de semanas, sino que redefinió para siempre cómo debía sonar y sentirse un registro en directo. La producción pulió los coros y potenció la vibración del público, haciendo que el oyente en su casa se sintiera inmerso en la primera fila del estadio.\n\nA casi cinco décadas de su publicación, el álbum sigue siendo considerado una cátedra viva de cómo la perseverancia, la fe en la propia propuesta escénica y el compromiso con los seguidores pueden convertir una crisis inminente en el punto de partida de una leyenda inmortal del rock and roll.",
-      "whyGoodNews": "Una lección de resiliencia y creatividad en momentos límite: la autenticidad y el contacto directo con el público transformaron un momento crítico en un triunfo histórico.",
-      "category": "musica",
-      "sourceName": "Futuro Chile",
-      "sourceUrl": "https://www.futuro.cl/2026/10/el-presunto-primer-disco-de-kiss-que-los-salvo-de-la-bancarrota-con-la-magia-de-la-edicion/",
-      "imageUrl": "https://www.futuro.cl/wp-content/uploads/2026/10/Kiss-Alive.webp",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-10T14:39:44.000Z",
-      "positivityScore": 92,
-      "readingTimeMinutes": 3,
-      "tags": [
-        "KISS",
-        "HISTORIA DEL ROCK"
-      ]
-    },
-    {
-      "id": "chile-salud-fertilizacion-asistida",
-      "title": "Fonasa reduce sustancialmente el costo de tratamientos de fertilización asistida en Chile",
-      "summary": "Una nueva cobertura de salud pública amplía el acceso a miles de familias y parejas chilenas que sueñan con tener hijos, democratizando la medicina reproductiva.",
-      "fullStory": "En una medida de profundo impacto social y emocional para miles de parejas y mujeres en Chile, el Fondo Nacional de Salud (Fonasa) ha oficializado una histórica ampliación de cobertura para los tratamientos de fertilización asistida de baja y alta complejidad, reduciendo el copago de los pacientes en más de un 70%.\n\nHasta ahora, los costos asociados a procedimientos como la inseminación intrauterina o la fecundación in vitro representaban una barrera económica insalvable para la gran mayoría de las familias de clase media y trabajadora, obligándolas al endeudamiento o a postergar su anhelo de maternidad y paternidad.\n\nCon la entrada en vigencia del nuevo arancel bonificado en prestadores públicos y privados en convenio, el acceso se universaliza, garantizando atención médica integral, exámenes especializados y acompañamiento psicológico en todas las etapas del proceso reproductivo.",
-      "whyGoodNews": "Una política pública con rostro humano que democratiza el acceso a la salud reproductiva y acompaña con ternura y dignidad a miles de familias en su sueño de concebir.",
-      "category": "chile",
-      "sourceName": "Rock & Pop",
-      "sourceUrl": "https://www.rockandpop.cl/2026/10/de-mas-de-300-mil-a-94-mil-asi-puedes-pagar-mucho-menos-por-un-tratamiento-de-fertilizacion-asistida-en-chile/",
-      "imageUrl": "https://www.rockandpop.cl/wp-content/uploads/2026/10/fertilizacion-asistida.webp",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-10T13:58:58.000Z",
-      "positivityScore": 97,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "SALUD",
-        "CHILE"
-      ]
-    },
-    {
-      "id": "mundo-escultura-pietro-bracci-hallazgo",
-      "title": "Descubren en un patio de jardín una escultura barroca perdida del creador de la Fuente de Trevi",
-      "summary": "Una obra maestra de mármol del siglo XVIII atribuida al escultor Pietro Bracci fue identificada entre ornamentos olvidados y será restaurada para el patrimonio público en Roma.",
-      "fullStory": "Un hallazgo fortuito digno de una novela de misterio histórico ha sacudido al mundo del arte europeo. Una escultura de mármol que permaneció durante décadas en el patio de una casa de campo inglesa, cubierta de musgo y utilizada como un simple adorno de jardín, fue identificada por expertos en bellas artes como una obra auténtica de Pietro Bracci, el célebre maestro barroco italiano creador de las esculturas de la famosa Fuente de Trevi en Roma.\n\nLa pieza, que representa con exquisito detalle el busto del Papa Clemente XII, había desaparecido del inventario vaticano a mediados del siglo XIX tras una serie de traslados diplomáticos. Un historiador del arte que visitaba una subasta local de jardinería reconoció las características del cincelado en los ropajes y las facciones del rostro, solicitando de inmediato una pericia con reflectografía infrarroja y análisis de canteras de Carrara.\n\nLos resultados confirmaron la autenticidad absoluta de la obra, que no sufrió daños estructurales de consideración gracias a la calidad superior del mármol utilizado por Bracci en 1736. La escultura fue adquirida mediante un fondo fiduciario para ser completamente limpiada y devuelta a una sala de exhibición pública en Roma, donde volverá a ser apreciada por visitantes de todo el mundo.",
-      "whyGoodNews": "Un tesoro cultural creído perdido para siempre regresa a la luz pública intacto, recordando que la belleza y el genio artístico del pasado tienen la capacidad de resistir al tiempo y reencontrarse con la humanidad.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/lost-italian-statue-by-trevi-fountain-artist-discovered-in-salvage-yard/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Model-detail-by-Baroque-master-Pietro-Bracci-of-Pope-Clement-XII-circa-1736-Woolley-and-Wallis-SWNS.jpeg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-10T13:46:41.000Z",
-      "positivityScore": 93,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "ARTE",
-        "PATRIMONIO"
-      ]
-    },
-    {
-      "id": "musica-la-ley-reencuentro",
-      "title": "«Sería lindo cerrar círculos en vida»: La Ley reactiva su formación clásica con miras a grandes escenarios",
-      "summary": "Beto Cuevas, Mauricio Clavería y Pedro Frugone confirman acercamientos para revivir la era dorada de La Ley en un emotivo reencuentro que celebra su discografía clásica.",
-      "fullStory": "El rock chileno vive días de intensa emoción ante las declaraciones de los integrantes históricos de La Ley. Tras años de distanciamiento y exitosas carreras individuales, Beto Cuevas, Mauricio Clavería y Pedro Frugone han reactivado conversaciones directas para volver a compartir escenario y brindar un cierre de ciclo a la altura de su trascendencia internacional.\n\nLa Ley, una de las agrupaciones más galardonadas del continente con múltiples premios Grammy y millones de discos vendidos, marcó a toda una generación en los años 90 y 2000 con himnos como \"El Duelo\", \"Día Cero\", \"Tejedores de Ilusión\" y su célebre MTV Unplugged. \"Hay un cariño y un respeto musical que trasciende cualquier diferencia del pasado; la música que creamos juntos le pertenece a la gente y sería hermoso celebrar esa historia en vida\", manifestaron fuentes cercanas a los músicos.\n\nEl anuncio ha despertado una ola de entusiasmo entre fanáticos de toda América Latina y la prensa musical, que ya vislumbra una gira conmemorativa que repasaría los discos fundamentales de su trayectoria con el sonido y la elegancia que siempre caracterizó a la banda.",
-      "whyGoodNews": "Celebra la reconciliación y el valor de reencontrarse en vida, honrando el legado de una de las bandas más influyentes de la música latinoamericana contemporánea.",
-      "category": "musica",
-      "sourceName": "Futuro Chile",
-      "sourceUrl": "https://www.futuro.cl/2026/10/seria-lindo-cerrar-circulos-en-vida-la-gigante-banda-nacional-que-reactiva-su-formacion-clasica-y-se-asoma-como-el-gran-golpe-de-vina-2027/",
-      "imageUrl": "https://www.futuro.cl/wp-content/uploads/2026/10/la-ley.webp",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-10T12:00:21.000Z",
-      "positivityScore": 98,
-      "readingTimeMinutes": 3,
-      "tags": [
-        "LA LEY",
-        "ROCK CHILENO"
-      ],
-      "featured": true
     }
   ]
 }
