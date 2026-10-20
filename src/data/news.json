@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T17:24:06.541Z",
+  "lastUpdated": "2026-10-20T01:40:17.930Z",
   "totalCount": 25,
   "categories": {
     "musica": 6,
@@ -10,6 +10,26 @@
     "mundo": 14
   },
   "news": [
+    {
+      "id": "rss-mundo-mozambique-protects-the-butter",
+      "title": "Mozambique protege el “bosque de mariposas” del monte Mabu, hogar de 200 especies",
+      "summary": "Un decreto gubernamental publicado el 24 de agosto reservó 23.000 acres como Área de Conservación Comunitaria del Monte Mabu en Mozambique.",
+      "fullStory": "Un decreto gubernamental publicado el 24 de agosto reservó 23.000 acres como Área de Conservación Comunitaria del Monte Mabu en Mozambique.\n\nEsto significa que una de las zonas más húmedas del sur de África, conocida como el \"bosque de mariposas\", será protegida, al igual que las más de 200 especies de mariposas que viven allí.\n\nMabu, y las laderas de sus cadenas montañosas algo aisladas, contienen tasas muy altas de endemismo: se describen como especies que se encuentran allí y sólo allí, con pocas excepciones.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/mozambique-protects-the-butterfly-forest-of-mount-mabu-home-to-200-species/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Mount-Mabu-in-Mozambique-credit-httpsdoi.org10.3897zse.92.9948-CC-4.0.-Int.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-19T18:30:41.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
     {
       "id": "rss-mundo-unprecedented-collab-between-c",
       "title": "Una colaboración sin precedentes entre China y el Met descubre los secretos de un enorme mural chino en Nueva York",
@@ -27,8 +47,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-brazil-ends-long-tradition-of-",
@@ -164,25 +183,6 @@
       ]
     },
     {
-      "id": "rss-mundo-village-installs-knitted-traff",
-      "title": "Village instala policías de tránsito tejidos para frenar a los conductores que exceden la velocidad",
-      "summary": "Los aldeanos ingleses han tejido cámaras de velocidad y policías de tránsito de tamaño natural para engañar a los conductores, en un intento por frenar a los conductores de Warwickshire.",
-      "fullStory": "Los aldeanos han tejido cámaras de velocidad y policías de tránsito de tamaño natural para engañar a los conductores imprudentes, en un intento por frenar a los conductores.\n\nLos lugareños de Fillongley, Warwickshire, vistieron a los maniquíes con chalecos de alta visibilidad para que parecieran policías de tránsito en un astuto intento por reducir los accidentes.\n\nLos miembros del grupo Knit and Natter de la ciudad crearon cámaras y maniquíes realistas después de una serie de accidentes a lo largo de la calle principal de la aldea.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/village-installs-knitted-traffic-cops-to-slow-speeding-drivers/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Knitted-traffic-officer-by-Emma-Trimble-via-SWNS.jpeg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-18T13:42:17.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
       "id": "rss-mundo-what-went-right-this-week-the-",
       "title": "Lo que salió bien esta semana: las buenas noticias que importan",
       "summary": "La caída en picado de la tasa de pobreza en Indonesia, el puente para la vida silvestre más grande de Estados Unidos y “una nueva era” para el río Támesis, y más buenas noticias",
@@ -243,7 +243,7 @@
       "id": "rss-mundo-the-in-awe-artist-painting-a-w",
       "title": "El artista 'asombrado' que pinta una Gran Bretaña más salvaje",
       "summary": "Las pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que rescatan a la naturaleza del abismo",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLas pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que rescatan a la naturaleza del abismo\n\nLa marisma salada se está extendiendo por el estuario de Ribble, en la costa noroeste de Inglaterra. En Cornualles, robles centenarios se encuentran dentro de un fragmento de uno de los antiguos bosques tropicales templados de Gran Bretaña. En otros lugares, se están dejando, gestionando o remodelando tierras para dar a la vida silvestre la oportunidad de regresar. Estos son los paisajes que la artista Rebecca Howard pasó el año pasado pintando para A Year in the Wild, una exposición que documenta nueve proyectos de reconstrucción salvaje en el Reino Unido.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLas pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que rescatan a la naturaleza del abismo\n\nLa marisma salada se está extendiendo por el estuario de Ribble, en la costa noroeste de Inglaterra. En Cornualles, robles centenarios se encuentran dentro de un fragmento de uno de los antiguos bosques tropicales templados de Gran Bretaña. En otros lugares, se están dejando, gestionando o remodelando tierras para dar a la vida silvestre la oportunidad de regresar. Estos son los paisajes que la artista Rebecca Howard pasó el año pasado pintando para A Year in the Wild, una exposición que documenta nueve proyectos de reconstrucción del Reino Unido.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
