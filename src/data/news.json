@@ -1,15 +1,92 @@
 {
-  "lastUpdated": "2026-10-21T01:24:52.652Z",
-  "totalCount": 16,
+  "lastUpdated": "2026-10-21T15:54:11.947Z",
+  "totalCount": 17,
   "categories": {
     "musica": 1,
     "ia": 1,
     "psicologia": 1,
     "liderazgo": 0,
     "chile": 0,
-    "mundo": 14
+    "mundo": 15
   },
   "news": [
+    {
+      "id": "rss-mundo-scientists-discover-a-simple-l",
+      "title": "Los científicos descubren una forma sencilla y de bajo consumo energético de reciclar vidrio acrílico en un material completamente nuevo",
+      "summary": "Los científicos de ETH Zurich desarrollaron un método de bajo consumo energético para reciclar vidrio acrílico (plexiglás) en bloques de construcción puros con un rendimiento de hasta el 98 %.",
+      "fullStory": "Investigadores de ETH Zurich han encontrado un nuevo método práctico que descompone el vidrio acrílico, conocido por la marca Plexiglas, casi por completo en sus componentes originales, haciendo que el reciclaje de alta calidad sea realista y asequible por primera vez.\n\nEl vidrio acrílico aparece en productos cotidianos como ventanas, luces traseras de automóviles, muebles y barreras protectoras. La mayor parte terminó como residuo porque los métodos de reciclaje más antiguos eran demasiado costosos, consumían demasiada energía o eran demasiado complicados para que las empresas los adoptaran.\n\nEl nuevo proceso cambia eso. Utilizando un único producto químico económico que ya está disponible, el equipo recuperó hasta el 98% del material en forma de monómeros puros. La reacción comienza a poco más de 200°C (aproximadamente la mitad del calor requerido por los métodos anteriores) y no necesita disolventes.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/scientists-discover-way-to-recycle-acrylic-glass-into-brand-new-material/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/acrylic-glass-plexiglass-credit-Unsplash-e1792497349349.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-21T13:00:45.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo-10-year-old-dog-found-after-a-",
+      "title": "Perro de 10 años encontrado después de un mes perdido en Yellowstone",
+      "summary": "Un perro de 10 años sobrevivió solo más de un mes en el Parque Nacional de Yellowstone antes de ser rescatado por incansables voluntarios.",
+      "fullStory": "Una Jack Russell terrier de 10 años llamada Luna se reunió felizmente con sus dueños después de sobrevivir más de un mes sola en el Parque Nacional de Yellowstone. ⁠\n\nLuna escapó el 10 de septiembre de una cabaña cerrada en el área de Canyon Village. Sus dueños, que estaban de visita desde California, la habían dejado adentro con un cartel de \"No molestar\" mientras exploraban el parque, pero creen que el perro salió corriendo cuando el personal de limpieza abrió accidentalmente la puerta. El personal intentó atraparla durante horas, pero ya había desaparecido en el desierto, informó el New York Times. ⁠\n\nDurante más de un mes, se vio a Luna cruzando calles, deambulando por viviendas de empleados y deslizándose hacia cabañas a través de puertas automáticas, todo mientras navegaba por un paisaje lleno de osos pardos, lobos, coyotes y temperaturas en descenso. Según el Servicio de Parques Nacionales, las temperaturas de principios de otoño en Yellowstone pueden variar desde una máxima de 52 °F hasta una mínima de 31 °F.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/10-year-old-dog-found-month-lost-in-yellowstone/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/849575391_1127940682909652_807340687886918863_n-e1792414065589.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-21T11:00:41.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo--writing-is-a-way-of-dealing-w",
+      "title": "“Escribir es una forma de afrontar las cosas”",
+      "summary": "El autor escocés Ian Rankin habla sobre cómo dar sentido a experiencias difíciles a través de la ficción y regalar una parte de su éxito.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nMientras Ian Rankin publica su primer thriller independiente en dos décadas, el autor escocés habla sobre cómo dar sentido a experiencias difíciles a través de la ficción, revelando una parte de su éxito y por qué sigue buscando nuevos desafíos.\n\nTener un \"Señor\" delante de su nombre significa que Ian Rankin a menudo es objeto de burlas por parte de sus amigos. \"Cuando entro en el bar de mi barrio, alguien mira por la puerta y me pregunta: '¿Dónde has aparcado tu caballo hoy?'\", me cuenta. \"El título de caballero no me aporta mucho en términos de obsequios o estatus. Vivir en Edimburgo te mantiene con los pies en la tierra\".",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Positive News",
+      "sourceUrl": "https://www.positive.news/lifestyle/arts/writing-is-a-way-of-dealing-with-things-ian-rankin/",
+      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/IAN-RANKIN-Portrait-Louise-Mather-2024.jpg-1.jpeg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-21T09:20:24.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-good-news-in-history-october-2",
+      "title": "Buenas noticias en la historia, 21 de octubre",
+      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 21 de octubre.",
+      "fullStory": "Hoy hace 86 años que se publicó por primera vez la novela de Ernest Hemingway Por quién doblan las campanas. Una historia sobre un joven voluntario estadounidense que se unió al gobierno de España como guerrillero durante la Guerra Civil Española, un conflicto que fue ampliamente visto como un ensayo general para la Segunda Guerra Mundial porque los fascistas italianos y los nazis alemanes apoyaban un derrocamiento. LEA más sobre esta obra fundamental… (1940)\n\nBasado en las propias experiencias de Hemingway durante esa guerra, en la que había sido periodista, fue considerado como uno de los mejores trabajos de Hemingway. El libro vendió medio millón de copias y fue nominado al Premio Pulitzer.\n\nComo suele ser el caso con las grandes novelas, y además con las obras de arte, Por quién doblan las campanas recibió críticas constantes por varias razones, entre las que se encontraban el lenguaje \"medievalista\" de Hemingway, particularmente en las secuencias de diálogo, y en sus traducciones del español, que los lingüistas comentaron que era demasiado litoral, como la traducción de raro de \"raro\" en lugar de \"extraño\", o sindicato de \"sindaco\" en lugar de la mucho más apropiada \"sindicato\". \"",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061021/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2019/10/For-Whom-the-Bell-Tolls-cover-fairuse.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-21T07:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
     {
       "id": "rss-mundo-student-plays-truly-epic-birth",
       "title": "Un estudiante le hace una broma de cumpleaños verdaderamente épica al director de una escuela secundaria que cambió su vida (VER)",
@@ -27,8 +104,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-isle-of-jersey-expands-marine-",
@@ -72,7 +148,7 @@
       "id": "rss-mundo-man-proposes-to-his-girlfriend",
       "title": "Un hombre le propone matrimonio a su novia después de que fueron alcanzados por un rayo: ella reinició su corazón dos veces",
       "summary": "Al darse cuenta de que tanto su corazón como su vida pertenecían metafóricamente a Eva, le propuso matrimonio al alta del hospital.",
-      "fullStory": "Nick Broderick describe el momento en que decidió casarse con su novia Eva como eléctrico: fue como si le hubiera caído un rayo.\n\nMientras disfrutaban de una caminata en el bosque estatal Kettle Moraine en Wisconsin en agosto de 2025, Nick y su novia Eva se habían acercado a 2 millas de su automóvil cuando el clima cambió.\n\nLa lluvia comenzó a caer, pero al no tener dónde refugiarse decidieron emprender una marcha hacia el aparcamiento de meta. En cierto momento, de manera bastante profética, Eva se giró y miró al hombre que se convertiría en su marido y le preguntó…",
+      "fullStory": "Nick Broderick describe el momento en que decidió casarse con su novia Eva como eléctrico: fue como si le hubiera caído un rayo.\n\nMientras disfrutaban de una caminata en el bosque estatal Kettle Moraine en Wisconsin en agosto de 2025, Nick y su novia Eva se habían acercado a 2 millas de su automóvil cuando el clima cambió.\n\nLa lluvia empezó a caer, pero al no tener dónde refugiarse decidieron emprender una marcha hacia el aparcamiento de meta. En cierto momento, de manera bastante profética, Eva se giró y miró al hombre que se convertiría en su marido y le preguntó…",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Good News Network",
@@ -110,7 +186,7 @@
       "id": "rss-musica-good-news-in-history-october-2",
       "title": "Buenas noticias en la historia, 20 de octubre",
       "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 20 de octubre.",
-      "fullStory": "Hoy hace 76 años, Tom Petty, nació en Gainesville, Florida. Cuando tenía 11 años conoció a Elvis Presley, lo que despertó su amor por el rock and roll. Como cantautor guitarrista, fue uno de los artistas musicales más vendidos de todos los tiempos, con más de 80 millones de discos vendidos en todo el mundo impulsados ​​por mega éxitos como \"American Girl\", \"Won't Back Down\" y \"The Waiting (Song)\". LEER más… (1950)\n\nEl 'Salón de la Fama del Rock and Roll' fue el líder de Tom Petty and the Heartbreakers, pero también es conocido como cofundador de un supergrupo de los años 80 con George Harrison, los Travelling Wilburys.\n\nUna biografía escrita por su amigo, Petty: The Biography, detalla su lucha con la heroína en la década de 1990. Más recientemente, hasta su muerte en 2017, Petty promocionó los beneficios de practicar la Meditación Trascendental.",
+      "fullStory": "Hoy hace 76 años, Tom Petty, nació en Gainesville, Florida. Cuando tenía 11 años conoció a Elvis Presley, lo que despertó su amor por el rock and roll. Como cantautor guitarrista, fue uno de los artistas musicales más vendidos de todos los tiempos, con más de 80 millones de discos vendidos en todo el mundo impulsados ​​por mega éxitos como \"American Girl\", \"Won't Back Down\" y \"The Waiting (Song)\". LEER más… (1950)\n\nEl 'Salón de la Fama del Rock and Roll' fue el líder de Tom Petty and the Heartbreakers, pero también es conocido como el cofundador de un supergrupo de los años 80 con George Harrison, los Travelling Wilburys.\n\nUna biografía escrita por su amigo, Petty: The Biography, detalla su lucha con la heroína en la década de 1990. Más recientemente, hasta su muerte en 2017, Petty promocionó los beneficios de practicar la Meditación Trascendental.",
       "whyGoodNews": "Celebra el poder unificador de la música y el arte para conectar personas, sanar heridas y despertar emociones profundas.",
       "category": "musica",
       "sourceName": "Good News Network",
@@ -123,63 +199,6 @@
       "tags": [
         "MÚSICA",
         "CULTURA"
-      ]
-    },
-    {
-      "id": "rss-mundo-mozambique-protects-the-butter",
-      "title": "Mozambique protege el “bosque de mariposas” del monte Mabu, hogar de 200 especies",
-      "summary": "Un decreto gubernamental publicado el 24 de agosto reservó 23.000 acres como Área de Conservación Comunitaria del Monte Mabu en Mozambique.",
-      "fullStory": "Un decreto gubernamental publicado el 24 de agosto reservó 23.000 acres como Área de Conservación Comunitaria del Monte Mabu en Mozambique.\n\nEsto significa que una de las zonas más húmedas del sur de África, conocida como el \"bosque de mariposas\", será protegida, al igual que las más de 200 especies de mariposas que viven allí.\n\nMabu, y las laderas de sus cadenas montañosas algo aisladas, contienen tasas muy altas de endemismo: se describen como especies que se encuentran allí y sólo allí, con pocas excepciones.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/mozambique-protects-the-butterfly-forest-of-mount-mabu-home-to-200-species/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Mount-Mabu-in-Mozambique-credit-httpsdoi.org10.3897zse.92.9948-CC-4.0.-Int.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-19T18:30:41.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-unprecedented-collab-between-c",
-      "title": "Una colaboración sin precedentes entre China y el Met descubre los secretos de un enorme mural chino en Nueva York",
-      "summary": "Un importante proyecto de conservación del arte y el patrimonio en China ha dado frutos inesperados a miles de kilómetros de distancia, en la ciudad de Nueva York.",
-      "fullStory": "Un importante proyecto de conservación del arte y el patrimonio en China ha dado frutos inesperados a miles de kilómetros de distancia, en la ciudad de Nueva York.\n\nEn la galería de arte y antigüedades chinas del Museo Metropolitano de Arte, un mural de 50 pies de largo devora la atención de toda una sala con su disposición de Buda y sus asistentes.\n\nEl mural del Buda de la Medicina había atraído durante mucho tiempo la admiración de Zhang Jian, director del \"Instituto de Pintura Meticulosa\" de la Academia Nacional de las Artes de China, que desde 2013 ha invertido miles de millones de RMB chinos en la restauración, conservación y repatriación de artefactos chinos en todo el país y el mundo.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/unprecedented-collab-between-china-and-the-met-uncovers-secrets-of-chinese-mural-during-exhaustive-reproduction/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/From-the-Met-public-domain.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-19T15:30:49.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-brazil-ends-long-tradition-of-",
-      "title": "Brasil pone fin a la larga tradición de la semana laboral de seis días mediante una enmienda constitucional",
-      "summary": "La nación era una de las más ricas del mundo y todavía tenía una semana laboral habitual de seis días, y el empleo a tiempo completo se consideraba de 44 horas.",
-      "fullStory": "Con el Senado de Brasil votando 75 a 1 a favor, uno se pregunta ¿por qué tardaron tanto?\n\nLa nación era una de las más ricas del mundo y todavía tenía una semana laboral habitual de seis días, y el empleo a tiempo completo se consideraba de 44 horas, en lugar de las 40 que conocemos en Estados Unidos.\n\nEso cambió con la introducción de una Propuesta de Enmienda a la Constitución 221 (PEC. 221) que coloca a la economía más grande de América del Sur en paridad en horas de trabajo con los EE.UU. y muchos otros.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/brazil-ends-long-tradition-of-6-day-workweek-via-constitutional-amendment/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Brazils-Senate-chamber-credit-Wilson-DiasABr-Agencia-Brasil-CC-3.0-Br.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-19T13:00:17.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
       ]
     },
     {
@@ -262,7 +281,7 @@
       "id": "rss-mundo-the-in-awe-artist-painting-a-w",
       "title": "El artista 'asombrado' que pinta una Gran Bretaña más salvaje",
       "summary": "Las pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que rescatan a la naturaleza del abismo",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLas pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que rescatan a la naturaleza del abismo\n\nLa marisma salada se está extendiendo por el estuario de Ribble, en la costa noroeste de Inglaterra. En Cornualles, robles centenarios se encuentran dentro de un fragmento de uno de los antiguos bosques tropicales templados de Gran Bretaña. En otros lugares, se están dejando, gestionando o remodelando tierras para dar a la vida silvestre la oportunidad de regresar. Estos son los paisajes que la artista Rebecca Howard pasó el año pasado pintando para A Year in the Wild, una exposición que documenta nueve proyectos de reconstrucción del Reino Unido.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLas pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que rescatan a la naturaleza del abismo\n\nLa marisma salada se está extendiendo por el estuario de Ribble, en la costa noroeste de Inglaterra. En Cornualles, robles centenarios se encuentran dentro de un fragmento de uno de los antiguos bosques tropicales templados de Gran Bretaña. En otros lugares, se están dejando, gestionando o remodelando tierras para dar a la vida silvestre la oportunidad de regresar. Estos son los paisajes que la artista Rebecca Howard pasó el año pasado pintando para A Year in the Wild, una exposición que documenta nueve proyectos de reconstrucción salvaje en el Reino Unido.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
