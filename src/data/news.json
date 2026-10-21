@@ -1,15 +1,35 @@
 {
-  "lastUpdated": "2026-10-20T15:36:32.287Z",
-  "totalCount": 21,
+  "lastUpdated": "2026-10-21T01:24:52.652Z",
+  "totalCount": 16,
   "categories": {
-    "musica": 3,
-    "ia": 2,
+    "musica": 1,
+    "ia": 1,
     "psicologia": 1,
     "liderazgo": 0,
-    "chile": 2,
+    "chile": 0,
     "mundo": 14
   },
   "news": [
+    {
+      "id": "rss-mundo-student-plays-truly-epic-birth",
+      "title": "Un estudiante le hace una broma de cumpleaños verdaderamente épica al director de una escuela secundaria que cambió su vida (VER)",
+      "summary": "El director se abrió paso entre la multitud y agarró a un estudiante que tenía un historial de peleas, pero se llevó una sorpresa.",
+      "fullStory": "Es viral, y luego está el video que apareció recientemente en las plataformas de redes sociales de estudiantes de secundaria de Georgia haciéndole la broma de su vida a su director.\n\nBobby Davis, de 51 años, de la escuela secundaria Lakeview-Fort Oglethorpe, estaba sentado en su oficina cuando alguien entró corriendo diciendo que había estallado una pelea en la cafetería.\n\nNo bajo la supervisión de Davis: el director se fue corriendo por el pasillo. Al llegar al lugar sus peores temores se confirmaron. Había un círculo de estudiantes, con los teléfonos en alto y dos niños entre ellos.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/student-plays-truly-epic-birthday-prank-on-high-school-principal-who-changed-his-life-watch/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Screengrabs-Lauren-Cantrell-via-Facebook.png",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-20T18:30:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
     {
       "id": "rss-mundo-isle-of-jersey-expands-marine-",
       "title": "La isla de Jersey amplía las protecciones marinas para cubrir el 21% de las aguas territoriales",
@@ -27,8 +47,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-texas-man-finds-more-than-128-",
@@ -156,25 +175,6 @@
       "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Brazils-Senate-chamber-credit-Wilson-DiasABr-Agencia-Brasil-CC-3.0-Br.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-10-19T13:00:17.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-simple-soil-steaming-found-as-",
-      "title": "Se descubre que el simple \"cocción al vapor del suelo\" es un reemplazo eficaz de los productos químicos en el cultivo orgánico de fresas",
-      "summary": "La Universidad de California Santa Cruz ha estado desarrollando vapor de agua hirviendo como una alternativa a los fumigantes químicos para esterilizar el suelo.",
-      "fullStory": "Una simple bocanada de vapor podría ser el billete para obtener cosechas de fresas mucho mayores y fiables en California, informó el LA Times.\n\nInvestigadores de la Universidad de California Santa Cruz (UCSC) han estado desarrollando vapor de agua hirviendo como una alternativa a los fumigantes químicos para la esterilización del suelo en el que se cultivan las fresas, que se cree que dañan el medio ambiente, otros animales e incluso a los propios productores.\n\nRecientemente, el equipo de la UCSC inscribió a 4 productores de fresas orgánicas para una prueba en la que máquinas sofisticadas inyectaban gotas de vapor en los lechos de cultivo antes de plantar las fresas.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/simple-soil-steaming-found-as-effective-replacement-for-chemicals-in-organic-strawberry-farming/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/strawberr-unsplash.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-19T11:00:50.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
@@ -317,101 +317,6 @@
       "categories": [
         "mundo",
         "psicologia"
-      ]
-    },
-    {
-      "id": "chile-conciertos-transporte-seguro",
-      "title": "Metro implementa operativos especiales y extensión de horarios para grandes conciertos en Santiago",
-      "summary": "Coordinación ejemplar de seguridad y movilidad urbana garantiza traslados seguros y sustentables para los miles de asistentes a los eventos musicales de la temporada.",
-      "fullStory": "El retorno masivo de los grandes espectáculos musicales a los principales recintos de la capital cuenta con un respaldo operacional clave: Metro de Santiago ha coordinado un plan especial de extensión horaria nocturna y reforzamiento de frecuencias para asegurar el regreso tranquilo de miles de fanáticos a sus hogares.\n\nLa medida, articulada en conjunto con productores y autoridades de transporte, permite que los trenes continúen operando en estaciones estratégicas hasta la medianoche, facilitando combinaciones fluidas hacia distintas zonas de la ciudad y desincentivando el uso de automóviles particulares.\n\nTanto asistentes como familias han celebrado la iniciativa, destacando el ambiente festivo, el orden en los accesos y la tranquilidad de contar con transporte público confiable y seguro tras disfrutar de sus artistas favoritos.",
-      "whyGoodNews": "Cultura y ciudad en sintonía: la gestión pública facilita el disfrute de la música en vivo con seguridad, eficiencia y convivencia ciudadana.",
-      "category": "chile",
-      "sourceName": "Rock & Pop",
-      "sourceUrl": "https://www.rockandpop.cl/2026/10/vas-a-ver-a-bts-en-chile-metro-dio-importante-anuncio-para-el-regreso-de-los-conciertos/",
-      "imageUrl": "https://www.rockandpop.cl/wp-content/uploads/2026/10/BTS-metro.webp",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-10T19:04:19.000Z",
-      "positivityScore": 92,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "CONCIERTOS",
-        "MOVILIDAD"
-      ]
-    },
-    {
-      "id": "musica-fother-muckers-nuevo-disco",
-      "title": "Fother Muckers estrena «Así se hace», su primer álbum de estudio en más de una década",
-      "summary": "La banda chilena liderada por Cristóbal Briceño y Héctor Muñoz vuelve al estudio con un trabajo aclamado por la crítica como el más maduro, honesto y visceral de su trayectoria.",
-      "fullStory": "Los seguidores del indie y rock chileno celebran el esperado retorno discográfico de Fother Muckers. Con el lanzamiento oficial de «Así se hace», el cuarteto fundado en los años 2000 regresa formalmente a la producción musical con un álbum de canciones inéditas que captura la madurez compositiva de sus fundadores.\n\nEl álbum, compuesto y registrado durante los últimos meses, conjuga guitarras acústicas, líricas introspectivas y la inconfundible narrativa urbana de Cristóbal Briceño. La crítica musical ha destacado piezas como \"Ríos de tinta\" y \"Vuelvo a casa\", subrayando cómo el grupo mantiene intacta su identidad independiente sin someterse a fórmulas comerciales preconcebidas.\n\nEl reencuentro en el estudio ha venido acompañado del anuncio de una serie de presentaciones íntimas en teatros de Santiago, Valparaíso y Concepción, reuniendo a una comunidad fiel que creció con sus primeros discos y que hoy celebra su vigencia creativa.",
-      "whyGoodNews": "Reafirma la vitalidad de la escena musical independiente chilena y demuestra que la madurez artística puede potenciar la frescura y sinceridad de una banda histórica.",
-      "category": "musica",
-      "sourceName": "Futuro Chile",
-      "sourceUrl": "https://www.futuro.cl/2026/10/resena-asi-se-hace-fother-muckers-regresa-desde-la-madurez-con-el-album-mas-humano-y-visceral-de-su-historia/",
-      "imageUrl": "https://www.futuro.cl/wp-content/uploads/2026/10/Fother-Muckers.webp",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-10T18:55:17.000Z",
-      "positivityScore": 94,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "INDIE CHILE",
-        "FOTHER MUCKERS"
-      ]
-    },
-    {
-      "id": "chile-metro-expansion-santiago",
-      "title": "Plan Maestro de Metro de Santiago proyecta llevar la red subterránea a nuevos sectores de la capital",
-      "summary": "El transporte público eléctrico y sostenible continúa su expansión en Chile, proyectando nuevas conexiones de alta frecuencia que reducirán los tiempos de viaje de cientos de miles de vecinos.",
-      "fullStory": "Metro de Santiago ha presentado los avances de su Plan Maestro de Expansión, que contempla extender la red ferroviaria subterránea hacia sectores históricamente postergados del Gran Santiago, conectando a comunas residenciales con los polos laborales, educativos y de salud en menos de la mitad del tiempo actual.\n\nLa red de Metro de Santiago, reconocida internacionalmente como una de las más modernas, limpias y eficientes de América Latina, opera íntegramente con energía solar y eólica proveniente de plantas renovables en el norte y centro del país. Los nuevos trazados incorporarán trenes con climatización inteligente, pilotaje automático de máxima seguridad y accesibilidad universal completa en todas sus estaciones.\n\nVecinos y dirigentes comunitarios han valorado el anuncio como una transformación estructural de su calidad de vida: ganar hasta dos horas diarias de tiempo libre para compartir con sus familias, estudiar o descansar, al tiempo que se descongestiona el tráfico vehicular de la superficie y se reduce la huella de carbono de la ciudad.",
-      "whyGoodNews": "Equidad territorial, dignidad urbana y transporte 100% limpio para transformar positivamente la rutina diaria de cientos de miles de familias en Santiago.",
-      "category": "chile",
-      "sourceName": "Rock & Pop",
-      "sourceUrl": "https://www.rockandpop.cl/2026/10/un-nuevo-sector-de-santiago-podra-tener-metro-por-primera-vez-asi-seria-el-futuro-trazado/",
-      "imageUrl": "https://www.rockandpop.cl/wp-content/uploads/2026/10/Metro-de-Santiago-5.webp",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-10T16:15:01.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 3,
-      "tags": [
-        "TRANSPORTE",
-        "SANTIAGO"
-      ]
-    },
-    {
-      "id": "ia-lenguaje-chileno-estudio-ia",
-      "title": "La IA y el lenguaje en Chile: Investigadores analizan cómo los modelos adaptan su comprensión local",
-      "summary": "Lingüistas y científicos de datos analizan la riqueza de modismos y dobles sentidos en Chile para crear modelos de inteligencia artificial más inclusivos, empáticos y culturalmente diversos.",
-      "fullStory": "Un equipo multidisciplinario de universidades chilenas y centros de computación avanzada presentó un fascinante estudio sobre los desafíos de los grandes modelos de lenguaje (LLMs) para procesar el español chileno, caracterizado por su alta velocidad, uso creativo de metáforas cotidianas y ricos matices contextuales.\n\nLa investigación demostró que los modelos entrenados únicamente con español peninsular o neutro suelen interpretar de forma literal expresiones afectivas o de humor local. Sin embargo, al entrenar submodelos con corpus de literatura, radiofonía y prensa comunitaria chilena, los algoritmos lograron alcanzar un 95% de comprensión contextual y empatía conversacional.\n\nEl estudio abre la puerta al diseño de asistentes virtuales de salud mental, educación y atención ciudadana que respeten las identidades culturales locales, demostrando que la tecnología avanza hacia una mayor humanización cuando abraza la diversidad del habla de cada rincón del planeta.",
-      "whyGoodNews": "Impulsa el desarrollo de inteligencia artificial con identidad local y pertinencia cultural, promoviendo la inclusión lingüística y herramientas más cercanas a las personas.",
-      "category": "ia",
-      "sourceName": "Rock & Pop",
-      "sourceUrl": "https://www.rockandpop.cl/2026/10/la-ia-no-logra-entender-a-los-chilenos-el-sorprendente-resultado-que-revelo-un-estudio/",
-      "imageUrl": "https://www.rockandpop.cl/wp-content/uploads/2026/10/IA-Chile.webp",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-10T15:58:57.000Z",
-      "positivityScore": 93,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "IA",
-        "CULTURA CHILENA"
-      ]
-    },
-    {
-      "id": "musica-pearl-jam-pj20-documental",
-      "title": "A 15 años del documental «PJ20»: la celebración de hermandad y vigencia de Pearl Jam",
-      "summary": "El aclamado filme de Cameron Crowe conmemora la trayectoria de la emblemática banda de Seattle, destacando su integridad moral y su devoción por la música en vivo.",
-      "fullStory": "El documental «Pearl Jam Twenty» (PJ20), dirigido por el galardonado cineasta Cameron Crowe, cumplió quince años desde su estreno en cines mundiales. La obra recopiló más de 1.200 horas de metraje inédito para relatar la epopeya de cinco músicos que sobrevivieron a las turbulencias del grunge y la fama desmedida de los años noventa manteniendo una inquebrantable ética comunitaria.\n\nLa película repasa momentos cumbre como los festivales benéficos Bridge School Benefit, las intensas batallas por tarifas justas para los fanáticos y la hermandad forjada entre Eddie Vedder, Stone Gossard, Jeff Ament, Mike McCready y Matt Cameron. A diferencia de otras agrupaciones coetáneas desgarradas por rivalidades o excesos, Pearl Jam consolidó una democracia interna basada en el respeto mutuo y la salud emocional de sus integrantes.\n\nHoy, la banda continúa llenando estadios en todo el mundo con conciertos de tres horas sin pistas pregrabadas, reafirmando que la longevidad en el arte se construye con coherencia, honestidad y amor genuino por los instrumentos.",
-      "whyGoodNews": "Un homenaje a la lealtad, la salud mental y la ética en la industria cultural, demostrando que el éxito duradero se funda en la amistad y el respeto a la audiencia.",
-      "category": "musica",
-      "sourceName": "Futuro Chile",
-      "sourceUrl": "https://www.futuro.cl/2026/10/a-15-anos-de-pj20-el-tragico-documental-que-recorrio-la-historia-de-uno-de-los-grandes-pioneros-del-grunge-en-carne-viva/",
-      "imageUrl": "https://www.futuro.cl/wp-content/uploads/2026/10/Pearl-Jam-PJ20.webp",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-10T15:45:24.000Z",
-      "positivityScore": 95,
-      "readingTimeMinutes": 3,
-      "tags": [
-        "PEARL JAM",
-        "DOCUMENTAL"
       ]
     }
   ]
