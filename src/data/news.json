@@ -1,15 +1,111 @@
 {
-  "lastUpdated": "2026-10-22T01:23:06.949Z",
-  "totalCount": 17,
+  "lastUpdated": "2026-10-22T15:51:08.944Z",
+  "totalCount": 16,
   "categories": {
     "musica": 0,
-    "ia": 1,
-    "psicologia": 1,
+    "ia": 0,
+    "psicologia": 0,
     "liderazgo": 0,
     "chile": 0,
     "mundo": 16
   },
   "news": [
+    {
+      "id": "rss-mundo-major-supermarket-begins-wide-",
+      "title": "Un importante supermercado comienza pruebas a gran escala para llevar al mercado variedades tradicionales de manzanas",
+      "summary": "El comerciante de productos austriaco Frutura está a bordo del proyecto con Spar, y las primeras variedades que están probando se llaman Ilzer Rose y Falchs Gulderling.",
+      "fullStory": "¿Ves estas manzanas aquí? Se encuentran entre los más consumidos en todo el mundo, y a uno de los supermercados más grandes de Europa le gustaría que eso cambiara.\n\nEl Grupo Spar se está embarcando en un proyecto para llevar al mercado cultivares tradicionales y tradicionales a escala mediante pruebas de comercialización de numerosas manzanas alpinas.\n\nPresentan nombres bastante interesantes, que reflejan el arduo trabajo y el humor de la época en que se desarrollaron, en algunos casos hace más de 200 años.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/major-supermarket-begins-wide-scale-tests-to-bring-heritage-apple-varieties-to-market/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Golden-Delicious-SweeTango-Granny-Smith-and-Gala-apples-by-Dllu-CC-BY-SA-4.0.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-22T15:30:32.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo-coconut-oil-could-make-great-s",
+      "title": "El aceite de coco podría ser un gran combustible sostenible para aviones, según lo demuestran experimentos pioneros",
+      "summary": "El combustible de aviación sostenible derivado del coco superó a los biocombustibles existentes en varios parámetros, demostraron científicos japoneses.",
+      "fullStory": "Excelente para freír, perfecto para la piel e irrepetible en una dieta cetogénica, el aceite de coco es un producto maravilloso.\n\nRecientemente, químicos en Japón llevaron a cabo extensos experimentos sobre si sería posible crear un combustible de aviación sustentable a partir del aceite de coco, y no sólo fueron un éxito, sino que superaron a los biocombustibles existentes en varios parámetros.\n\nEn comparación con las altas presiones y el intenso calentamiento necesarios para sintetizar combustible de aviación sostenible a partir de materias primas de biocombustibles existentes, el método cosolvente de los químicos creó un combustible compatible con la aviación a temperatura ambiente, presión y niveles más bajos de calor.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/coconut-oil-could-make-great-sustainable-jet-fuel-pioneering-experiments-demonstrate/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/coconut-oil-unsplash.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-22T13:00:14.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-samoan-island-witnesses-explos",
+      "title": "Isla de Samoa es testigo de una explosión de vida silvestre nativa tras la eliminación de ratas y cerdos invasores",
+      "summary": "La isla Nu'utele se considera un área clave para la biodiversidad de Samoa y alberga uno de los bosques nativos más prístinos del país.",
+      "fullStory": "Apenas un año después de los esfuerzos de restauración ecológica en Samoa, los bosques, la vida silvestre y los recursos alimentarios están mostrando signos notables de recuperación.\n\nLa isla Nu'utele se considera un área clave para la biodiversidad de Samoa y alberga uno de los bosques nativos más prístinos del país, repleto (generalmente) de especies nativas.\n\nSin embargo, como muchas islas del Pacífico, ha sufrido la degradación ecológica causada por especies invasoras: en el caso de Nu'utele, ratas y jabalíes que revuelven el suelo e impiden que crezca la vegetación nativa.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/samoan-island-witnesses-explosion-of-native-wildlife-following-removal-of-invasive-rats-and-pigs/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Credit-Island-Conservation-Cozette-Romero.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-22T11:00:10.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-the-farmer-growing-a-future-un",
+      "title": "El agricultor cultiva un futuro bajo los árboles de Ghana",
+      "summary": "La productora de cacao Susana Afrifa Ankrah está ayudando a mostrar cómo la protección de los bosques puede sostener los medios de vida y generar resiliencia ante un clima cambiante.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLa productora de cacao Susana Afrifa Ankrah está ayudando a mostrar cómo la protección de los bosques puede sostener los medios de vida y generar resiliencia ante un clima cambiante, ofreciendo esperanza tanto a las comunidades como a la naturaleza.\n\nEn las colinas de la Cordillera Atewa, en el sureste de Ghana, se encuentra una joya de bosque tropical. Un fragmento sobreviviente de las franjas de árboles que una vez cubrieron la región, alberga una gran variedad de criaturas preciosas, desde búhos reales y papamoscas hasta especies raras de cucos y ranas. También es el hogar de monos colobos y de una gran variedad de mariposas, incluida la cola de golondrina gigante, portadora de la envergadura de alas más amplia del mundo. Y es el hogar de Susana Afrifa Ankrah, madre, abuela y productora de cacao, quien no tiene dudas de las bendiciones que esto trae para ella y su familia.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/the-farmer-growing-a-future-under-ghanas-trees/",
+      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/SharedLand_Story03b_WebHeader_1800x1080.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-22T08:44:40.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-good-news-in-history-october-2",
+      "title": "Buenas noticias en la historia, 22 de octubre",
+      "summary": "Esta columna diaria presenta todas las buenas noticias, aniversarios y cumpleaños de este día de la historia: el 22 de octubre.",
+      "fullStory": "Hoy hace 51 años, Venera 9, la nave espacial orbitador-aterrizador de la Unión Soviética, se convirtió en la primera misión en entrar en órbita alrededor de Venus y devolver imágenes de la superficie de otro planeta. La característica clave del diseño del módulo de aterrizaje era que debía permanecer operativo en condiciones de calor extremo. Esto significó que no sólo todos los instrumentos delicados, sino también el paracaídas y otros accesorios tuvieron que construirse para soportar 900°F. LEA lo que nos dijo de nuestro vecino más cercano… (1975)\n\nMuchos de los instrumentos comenzaron a funcionar inmediatamente después del aterrizaje y las cámaras estaban operativas 2 minutos después. Estos instrumentos revelaron una superficie lisa con numerosas piedras. El módulo de aterrizaje midió un nivel de luz de 14.000 lux, similar al de la Tierra a plena luz del día pero sin luz solar directa.\n\nVenera 9 midió nubes de 30 a 40 km (19 a 25 millas) de espesor con bases a 30 a 35 km (19 a 22 millas) de altitud. También midió sustancias químicas atmosféricas, incluidos ácido clorhídrico, ácido fluorhídrico, bromo y yodo. También midió las temperaturas abrasadoras mencionadas anteriormente.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061022/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/replica-of-Venera-9-credit-Stolbovsky-CC-4.0.-SA-Copy.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-22T07:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
     {
       "id": "rss-mundo-strangers-help-86-year-old-who",
       "title": "Extraños ayudan a un hombre de 86 años que ha estado construyendo un barco de 62 pies en su patio desde 1987 (MIRAR)",
@@ -27,8 +123,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-japan-successfully-launches-mi",
@@ -72,7 +167,7 @@
       "id": "rss-mundo-10-year-old-dog-found-after-a-",
       "title": "Perro de 10 años encontrado después de un mes perdido en Yellowstone",
       "summary": "Un perro de 10 años sobrevivió solo más de un mes en el Parque Nacional de Yellowstone antes de ser rescatado por incansables voluntarios.",
-      "fullStory": "Una Jack Russell terrier de 10 años llamada Luna se reunió felizmente con sus dueños después de sobrevivir más de un mes sola en el Parque Nacional de Yellowstone. ⁠\n\nLuna escapó el 10 de septiembre de una cabaña cerrada en el área de Canyon Village. Sus dueños, que estaban de visita desde California, la habían dejado adentro con un cartel de \"No molestar\" mientras exploraban el parque, pero creen que el perro salió corriendo cuando el personal de limpieza abrió accidentalmente la puerta. El personal intentó atraparla durante horas, pero ya había desaparecido en el desierto, informó el New York Times. ⁠\n\nDurante más de un mes, se vio a Luna cruzando calles, deambulando por viviendas de empleados y deslizándose hacia cabañas a través de puertas automáticas, todo mientras navegaba por un paisaje lleno de osos pardos, lobos, coyotes y temperaturas en descenso. Según el Servicio de Parques Nacionales, las temperaturas de principios de otoño en Yellowstone pueden variar desde una máxima de 52 °F hasta una mínima de 31 °F.",
+      "fullStory": "Una Jack Russell terrier de 10 años llamada Luna se reunió felizmente con sus dueños después de sobrevivir más de un mes sola en el Parque Nacional de Yellowstone. ⁠\n\nLuna escapó el 10 de septiembre de una cabaña cerrada en el área de Canyon Village. Sus dueños, que estaban de visita desde California, la habían dejado adentro con un cartel de \"No molestar\" mientras exploraban el parque, pero creen que el perro salió corriendo cuando el personal de limpieza abrió accidentalmente la puerta. El personal intentó atraparla durante horas, pero ya había desaparecido en el desierto, informó el New York Times. ⁠\n\nDurante más de un mes, se vio a Luna cruzando calles, deambulando por viviendas de empleados y entrando a cabañas a través de puertas automáticas, todo mientras navegaba por un paisaje lleno de osos pardos, lobos, coyotes y temperaturas en descenso. Según el Servicio de Parques Nacionales, las temperaturas de principios de otoño en Yellowstone pueden variar desde una máxima de 52 °F hasta una mínima de 31 °F.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Good News Network",
@@ -107,82 +202,6 @@
       ]
     },
     {
-      "id": "rss-mundo-good-news-in-history-october-2",
-      "title": "Buenas noticias en la historia, 21 de octubre",
-      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 21 de octubre.",
-      "fullStory": "Hoy hace 86 años que se publicó por primera vez la novela de Ernest Hemingway Por quién doblan las campanas. Una historia sobre un joven voluntario estadounidense que se unió al gobierno de España como guerrillero durante la Guerra Civil Española, un conflicto que fue ampliamente visto como un ensayo general para la Segunda Guerra Mundial porque los fascistas italianos y los nazis alemanes apoyaban un derrocamiento. LEA más sobre esta obra fundamental… (1940)\n\nBasado en las propias experiencias de Hemingway durante esa guerra, en la que había sido periodista, fue considerado como uno de los mejores trabajos de Hemingway. El libro vendió medio millón de copias y fue nominado al Premio Pulitzer.\n\nComo suele ser el caso con las grandes novelas, y además con las obras de arte, Por quién doblan las campanas recibió críticas constantes por varias razones, entre las que se encontraban el lenguaje \"medievalista\" de Hemingway, particularmente en las secuencias de diálogo, y en sus traducciones del español, que los lingüistas comentaron que era demasiado litoral, como la traducción de raro de \"raro\" en lugar de \"extraño\", o sindicato de \"sindaco\" en lugar de la mucho más apropiada \"sindicato\". \"",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061021/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2019/10/For-Whom-the-Bell-Tolls-cover-fairuse.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-21T07:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-student-plays-truly-epic-birth",
-      "title": "Un estudiante le hace una broma de cumpleaños verdaderamente épica al director de una escuela secundaria que cambió su vida (VER)",
-      "summary": "El director se abrió paso entre la multitud y agarró a un estudiante que tenía un historial de peleas, pero se llevó una sorpresa.",
-      "fullStory": "Es viral, y luego está el video que apareció recientemente en las plataformas de redes sociales de estudiantes de secundaria de Georgia haciéndole la broma de su vida a su director.\n\nBobby Davis, de 51 años, de la escuela secundaria Lakeview-Fort Oglethorpe, estaba sentado en su oficina cuando alguien entró corriendo diciendo que había estallado una pelea en la cafetería.\n\nNo bajo la supervisión de Davis: el director se fue corriendo por el pasillo. Al llegar al lugar sus peores temores se confirmaron. Había un círculo de estudiantes, con los teléfonos en alto y dos niños entre ellos.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/student-plays-truly-epic-birthday-prank-on-high-school-principal-who-changed-his-life-watch/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Screengrabs-Lauren-Cantrell-via-Facebook.png",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-20T18:30:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-isle-of-jersey-expands-marine-",
-      "title": "La isla de Jersey amplía las protecciones marinas para cubrir el 21% de las aguas territoriales",
-      "summary": "Las nuevas regulaciones, que entrarán en vigor el 1 de septiembre, se centran en algunos de los hábitats más valiosos y vulnerables que rodean Jersey.",
-      "fullStory": "La isla británica autónoma de Jersey anunció a finales de agosto que aumentaría su porcentaje de aguas protegidas en un 15%.\n\nAhora, el 21,7% de los mares de Jersey estarán protegidos de la pesca de arrastre y otras prácticas pesqueras dañinas. Las nuevas regulaciones, que entrarán en vigor el 1 de septiembre, se centran en algunos de los hábitats más valiosos y vulnerables que rodean la Isla del Canal.\n\nPara aquellos que no lo saben, Jersey es una micronación semiautónoma cuasi de herencia normanda-británica; uno de los tres considerados \"protectorados de la corona\" bajo la Commonwealth británica.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/isle-of-jersey-expands-marine-protections-to-cover-21-of-territorial-waters/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Jersey-as-seen-from-Copernicus-Sentinel-2-credit-ESA-CC-3.0.-SA-IGO.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-20T15:30:53.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-texas-man-finds-more-than-128-",
-      "title": "Hombre de Texas encuentra más de $128,000 encima de un cajero automático de un banco y devuelve cada dólar",
-      "summary": "Parece como si el técnico de Brinks simplemente hubiera dejado la bolsa encima del cajero automático, como tantas tazas de café en el techo de un automóvil.",
-      "fullStory": "Un hombre y una mujer que se detenían en un cajero automático de Texas notaron una bolsa encima de la máquina.\n\nCada centímetro de la bolsa estaba lleno de dinero, pero el samaritano anónimo llamó inmediatamente al Departamento de Policía de Lewisville.\n\nLa información sobre una de las bolsas indicaba que podría provenir del Chick-fil-A de al lado. Lo tomó para preguntarle al supervisor al respecto, pero le dijeron que el efectivo y una bolsa más pequeña que contenía 19 cheques no eran de ellos.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/texas-man-finds-more-than-128000-on-top-of-a-banks-atm-and-returns-every-dollar/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/maxresdefault-4.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-20T13:00:43.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
       "id": "rss-mundo-the-new-certification-scheme-h",
       "title": "El nuevo esquema de certificación ayuda a las granjas solares a convertirse en refugios para la vida silvestre",
       "summary": "Un nuevo esquema de certificación solar alienta a los desarrolladores a crear mejores hábitats para la vida silvestre junto con la generación de electricidad limpia",
@@ -205,7 +224,7 @@
       "id": "rss-mundo-volunteers-became-salmon-deer-",
       "title": "Los voluntarios se convirtieron en salmones, ciervos y lombrices de tierra. Luego se propusieron salvar su río.",
       "summary": "Un experimento está ayudando a una comunidad de Somerset a ver su paisaje a través de los ojos de la vida silvestre y a trazar una ruta de 30 años para cambiarlo.",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\n¿Qué siente un salmón ante un río contaminado? Un experimento inusual está ayudando a una comunidad de Somerset a ver su paisaje a través de los ojos de la vida silvestre y trazar una ruta de 30 años para cambiarlo.\n\nEl estrés de estar cerca del acceso al agua potable. El hambre dolorosa que conlleva la destrucción del hábitat. El asalto sensorial de la maquinaria y el tráfico.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\n¿Qué siente un salmón ante un río contaminado? Un experimento inusual está ayudando a una comunidad de Somerset a ver su paisaje a través de los ojos de la vida silvestre y a trazar una ruta de 30 años para cambiarlo.\n\nEl estrés de estar cerca del acceso al agua potable. El hambre dolorosa que conlleva la destrucción del hábitat. El asalto sensorial de la maquinaria y el tráfico.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
@@ -221,8 +240,8 @@
       ]
     },
     {
-      "id": "rss-mundo-what-went-right-this-week-the-",
-      "title": "Lo que salió bien esta semana: las buenas noticias que importan",
+      "id": "rss-mundo-what-went-right-this-week-indo",
+      "title": "Lo que salió bien esta semana: la caída en picado de la tasa de pobreza en Indonesia y más",
       "summary": "La caída en picado de la tasa de pobreza en Indonesia, el puente para la vida silvestre más grande de Estados Unidos y “una nueva era” para el río Támesis, y más buenas noticias",
       "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLa caída en picado de la tasa de pobreza en Indonesia, el puente para la vida silvestre más grande de Estados Unidos y “una nueva era” para el río Támesis, y más buenas noticias\n\nEl número de indonesios que viven en la pobreza extrema se ha desplomado casi un 83% en sólo cuatro décadas, revelan nuevas cifras \"impresionantes\".",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
@@ -294,48 +313,6 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "ia-sensores-comunitarios-riego-arboles",
-      "title": "Sensores comunitarios e IA protegen los bosques urbanos optimizando el riego en tiempo real",
-      "summary": "Una innovadora plataforma digital moviliza a miles de vecinos y utiliza algoritmos predictivos para cuidar el arbolado de las ciudades ante sequías y olas de calor.",
-      "fullStory": "En respuesta a los veranos cada vez más secos en Europa, una iniciativa ciudadana apoyada por laboratorios de innovación abierta y algoritmos de inteligencia artificial ha transformado el cuidado de más de 800.000 árboles urbanos. A través de sensores de humedad en el suelo y una aplicación colaborativa, los vecinos reciben alertas en tiempo real sobre qué árbol de su calle necesita agua de manera prioritaria.\n\nEl sistema cruza datos satelitales, pronósticos meteorológicos hiperlocales y modelos de transpiración vegetal para calcular con precisión milimétrica el déficit hídrico de cada ejemplar. Los ciudadanos pueden \"adoptar\" árboles, registrar sus riegos comunitarios y coordinar cuadrillas de hidratación con aguas reutilizadas.\n\nLos resultados del primer año de implementación a gran escala son elocuentes: la tasa de supervivencia de árboles jóvenes aumentó en más de un 40%, revitalizando la sombra urbana y reforzando el tejido social y la corresponsabilidad ecológica en los barrios participantes.",
-      "whyGoodNews": "La tecnología cívica y la inteligencia artificial se ponen al servicio de la empatía comunitaria y la ecología, empoderando a las personas para regenerar sus propios vecindarios.",
-      "category": "ia",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/like-caring-for-a-pet-the-app-that-lets-you-know-if-your-neighborhood-tree-is-thirsty/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Thanh-Thu-Nguyen-CityLAB-Berlin.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-12T15:30:39.000Z",
-      "positivityScore": 97,
-      "readingTimeMinutes": 3,
-      "tags": [
-        "INTELIGENCIA ARTIFICIAL",
-        "SUSTENTABILIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-putting-a-ring-on-it-the-plan-",
-      "title": "Ponerle fin: el plan para reverdecer los queridos bordes de Londres",
-      "summary": "Diez millones de personas se beneficiarán de una capital más fresca y con mayor biodiversidad, dicen los organizadores de un ambicioso proyecto para reconectar sus espacios más salvajes",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nDiez millones de personas se beneficiarán de una capital más fresca y con mayor biodiversidad, dicen los organizadores de un ambicioso proyecto para reconectar sus espacios más salvajes\n\n“Una M25 para la naturaleza”: así es como los cerebros detrás del Anillo de Árboles de Londres describen su plan para rodear la capital con un corredor verde de 200 kilómetros (124 millas) que serpentea a lo largo de los límites de sus distritos exteriores.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/putting-a-ring-on-it-the-plan-to-green-londons-beloved-edges/",
-      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/iStock-471932407.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-12T09:55:22.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ],
-      "categories": [
-        "mundo",
-        "psicologia"
       ]
     }
   ]
