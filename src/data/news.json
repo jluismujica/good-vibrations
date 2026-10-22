@@ -1,15 +1,54 @@
 {
-  "lastUpdated": "2026-10-21T15:54:11.947Z",
+  "lastUpdated": "2026-10-22T01:23:06.949Z",
   "totalCount": 17,
   "categories": {
-    "musica": 1,
+    "musica": 0,
     "ia": 1,
     "psicologia": 1,
     "liderazgo": 0,
     "chile": 0,
-    "mundo": 15
+    "mundo": 16
   },
   "news": [
+    {
+      "id": "rss-mundo-strangers-help-86-year-old-who",
+      "title": "Extraños ayudan a un hombre de 86 años que ha estado construyendo un barco de 62 pies en su patio desde 1987 (MIRAR)",
+      "summary": "Un hombre de Texas de 86 años ha pasado casi 40 años soldando un barco de acero de 62 pies en su patio delantero, soñando con navegarlo hasta Alaska.",
+      "fullStory": "Un hombre de 86 años llamado Dale ha pasado casi cuatro décadas soldando un barco de acero de 62 pies en su patio delantero.\n\nAhora, una ola de bondad está poniendo a su alcance su sueño largamente anhelado, justo cuando parecía estar fuera de su alcance.\n\nDale, de Mineral Wells, Texas, inició el proyecto en 1987 con un objetivo claro: terminar el barco y navegarlo hasta Alaska. El barco tiene 4 camarotes y está completo aproximadamente en un 75%.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/total-strangers-help-86-year-old-man-make-40-year-dream-reality/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/benfhhh.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-21T18:30:34.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo-japan-successfully-launches-mi",
+      "title": "Japón lanza con éxito una misión para traer a casa las primeras muestras de la luna marciana",
+      "summary": "Japón lanzó una búsqueda histórica para aterrizar en la luna de Marte, Fobos, y devolver las primeras muestras de suelo del sistema marciano a la Tierra en 2031.",
+      "fullStory": "En un paso estelar para la ciencia planetaria, Japón lanzó con éxito una nave espacial el 19 de octubre con destino a las misteriosas lunas de Marte. La misión tiene como objetivo recolectar muestras de suelo y traerlas de regreso a la Tierra por primera vez en la historia. ⁠\n\nLa misión de exploración de las lunas marcianas, conocida como MMX, despegó del Centro Espacial Tanegashima a bordo del cohete H3 de Japón a las 3:41 p.m. metro. EDT (4:41 a. m. hora local del día siguiente).\n\nLiderado por la Agencia de Exploración Aeroespacial de Japón (JAXA), este esfuerzo internacional de cinco años y 578 millones de dólares reúne a socios de la NASA, el CNES de Francia, el DLR de Alemania y la Agencia Espacial Europea en una búsqueda compartida para descubrir los secretos de nuestro sistema solar. ⁠",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/japan-launches-first-mission-mars-moon-samples/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/04/solar-eclipse-on-Mars-by-JPL-NASA.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-21T16:00:45.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
     {
       "id": "rss-mundo-scientists-discover-a-simple-l",
       "title": "Los científicos descubren una forma sencilla y de bajo consumo energético de reciclar vidrio acrílico en un material completamente nuevo",
@@ -27,8 +66,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-10-year-old-dog-found-after-a-",
@@ -145,25 +183,6 @@
       ]
     },
     {
-      "id": "rss-mundo-man-proposes-to-his-girlfriend",
-      "title": "Un hombre le propone matrimonio a su novia después de que fueron alcanzados por un rayo: ella reinició su corazón dos veces",
-      "summary": "Al darse cuenta de que tanto su corazón como su vida pertenecían metafóricamente a Eva, le propuso matrimonio al alta del hospital.",
-      "fullStory": "Nick Broderick describe el momento en que decidió casarse con su novia Eva como eléctrico: fue como si le hubiera caído un rayo.\n\nMientras disfrutaban de una caminata en el bosque estatal Kettle Moraine en Wisconsin en agosto de 2025, Nick y su novia Eva se habían acercado a 2 millas de su automóvil cuando el clima cambió.\n\nLa lluvia empezó a caer, pero al no tener dónde refugiarse decidieron emprender una marcha hacia el aparcamiento de meta. En cierto momento, de manera bastante profética, Eva se giró y miró al hombre que se convertiría en su marido y le preguntó…",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/man-proposes-to-his-girlfriend-after-they-were-struck-by-lightning-she-restarted-his-heart-twice/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Nick-and-Eva-Broderick-on-their-hike-which-nearly-killed-them-credit-Nick-Broderick.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-20T11:00:16.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
       "id": "rss-mundo-the-new-certification-scheme-h",
       "title": "El nuevo esquema de certificación ayuda a las granjas solares a convertirse en refugios para la vida silvestre",
       "summary": "Un nuevo esquema de certificación solar alienta a los desarrolladores a crear mejores hábitats para la vida silvestre junto con la generación de electricidad limpia",
@@ -180,25 +199,6 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-musica-good-news-in-history-october-2",
-      "title": "Buenas noticias en la historia, 20 de octubre",
-      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 20 de octubre.",
-      "fullStory": "Hoy hace 76 años, Tom Petty, nació en Gainesville, Florida. Cuando tenía 11 años conoció a Elvis Presley, lo que despertó su amor por el rock and roll. Como cantautor guitarrista, fue uno de los artistas musicales más vendidos de todos los tiempos, con más de 80 millones de discos vendidos en todo el mundo impulsados ​​por mega éxitos como \"American Girl\", \"Won't Back Down\" y \"The Waiting (Song)\". LEER más… (1950)\n\nEl 'Salón de la Fama del Rock and Roll' fue el líder de Tom Petty and the Heartbreakers, pero también es conocido como el cofundador de un supergrupo de los años 80 con George Harrison, los Travelling Wilburys.\n\nUna biografía escrita por su amigo, Petty: The Biography, detalla su lucha con la heroína en la década de 1990. Más recientemente, hasta su muerte en 2017, Petty promocionó los beneficios de practicar la Meditación Trascendental.",
-      "whyGoodNews": "Celebra el poder unificador de la música y el arte para conectar personas, sanar heridas y despertar emociones profundas.",
-      "category": "musica",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061020/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2017/10/Tom-Petty-Album-Cover-Released.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-20T07:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "MÚSICA",
-        "CULTURA"
       ]
     },
     {
@@ -281,7 +281,7 @@
       "id": "rss-mundo-the-in-awe-artist-painting-a-w",
       "title": "El artista 'asombrado' que pinta una Gran Bretaña más salvaje",
       "summary": "Las pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que rescatan a la naturaleza del abismo",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLas pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que rescatan a la naturaleza del abismo\n\nLa marisma salada se está extendiendo por el estuario de Ribble, en la costa noroeste de Inglaterra. En Cornualles, robles centenarios se encuentran dentro de un fragmento de uno de los antiguos bosques tropicales templados de Gran Bretaña. En otros lugares, se están dejando, gestionando o remodelando tierras para dar a la vida silvestre la oportunidad de regresar. Estos son los paisajes que la artista Rebecca Howard pasó el año pasado pintando para A Year in the Wild, una exposición que documenta nueve proyectos de reconstrucción salvaje en el Reino Unido.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLas pinturas de Rebecca Howard capturan una Gran Bretaña más salvaje en ciernes. Todavía hay tiempo para ver su exposición en Knepp, que celebra nueve proyectos que recuperan la naturaleza del abismo\n\nLa marisma salada se está extendiendo por el estuario de Ribble, en la costa noroeste de Inglaterra. En Cornualles, robles centenarios se encuentran dentro de un fragmento de uno de los antiguos bosques tropicales templados de Gran Bretaña. En otros lugares, se están dejando, gestionando o remodelando tierras para dar a la vida silvestre la oportunidad de regresar. Estos son los paisajes que la artista Rebecca Howard pasó el año pasado pintando para A Year in the Wild, una exposición que documenta nueve proyectos de reconstrucción del Reino Unido.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
