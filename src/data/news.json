@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T15:51:08.944Z",
+  "lastUpdated": "2026-10-23T01:22:06.534Z",
   "totalCount": 16,
   "categories": {
     "musica": 0,
@@ -10,6 +10,45 @@
     "mundo": 16
   },
   "news": [
+    {
+      "id": "rss-mundo-a-towering-figure-of-tolerance",
+      "title": "Una imponente figura de tolerancia de hace 2.500 años ha encontrado un nuevo hogar en Atlanta",
+      "summary": "Atlanta instala una estatua de Ciro el Grande de 29 pies en Pardis Park, en honor al legado de tolerancia religiosa del antiguo rey.",
+      "fullStory": "Una estatua de un antiguo rey persa podría parecer una adición improbable a la ciudad de Atlanta. Para las personas que pasaron años trayendolo aquí, no hay lugar más apropiado en Estados Unidos.\n\nEsta semana, los equipos instalaron una estatua de bronce de Ciro el Grande de 29 pies en Pardis Park. Ahora es uno de los monumentos iraníes más grandes fuera de Irán. La figura de bronce por sí sola pesa alrededor de 8.000 libras, y eso sin incluir su base de piedra caliza, que tiene la forma de su tumba.\n\nEste sábado se dedicará formalmente durante Iran Unveiled, un festival gratuito y familiar que celebra la cultura persa.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/a-towering-figure-of-tolerance-from-2500-years-ago-has-found-a-new-home-in-atlanta/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/1ed67e1b-5689-495c-8a2b-35b2e83bba17.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-22T23:28:14.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo--world-s-largest-deforestation",
+      "title": "El 'proyecto de deforestación más grande del mundo' se detuvo anticipadamente, ahorrando potencialmente 4 millones de acres",
+      "summary": "El gobierno y el Ministerio de Agricultura \"no ven ninguna necesidad de ampliar el cultivo de arroz en las llamadas zonas forestales\".",
+      "fullStory": "Las autoridades indonesias han detenido, y tal vez puesto fin, el \"proyecto de deforestación más grande del mundo\".\n\nHabiendo logrado la autosuficiencia en el cultivo de arroz unos tres años antes de lo previsto por el gobierno, alrededor de 4 millones de acres de selva tropical, pantanos y turberas en las grandes islas de Indonesia se salvarán de la deforestación.\n\nAunque el destino final de estas vastas áreas aún no está claro, los ministerios de agricultura y silvicultura y el Consejo Económico Nacional de Indonesia tomaron la decisión de que cualquier proyecto agrícola futuro se llevará a cabo en tierras que ya se han convertido en uso productivo.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/indonesia-calls-an-early-halt-to-worlds-largest-deforestation-project-saving-potentially-4-million-acres/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Land-clearned-in-South-Papua-for-rice-and-sugar-cultivation-credit-Yusuf-Wahil-Mighty-Earth.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-22T18:30:59.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
     {
       "id": "rss-mundo-major-supermarket-begins-wide-",
       "title": "Un importante supermercado comienza pruebas a gran escala para llevar al mercado variedades tradicionales de manzanas",
@@ -27,8 +66,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-coconut-oil-could-make-great-s",
@@ -137,44 +175,6 @@
       "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/04/solar-eclipse-on-Mars-by-JPL-NASA.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-10-21T16:00:45.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-scientists-discover-a-simple-l",
-      "title": "Los científicos descubren una forma sencilla y de bajo consumo energético de reciclar vidrio acrílico en un material completamente nuevo",
-      "summary": "Los científicos de ETH Zurich desarrollaron un método de bajo consumo energético para reciclar vidrio acrílico (plexiglás) en bloques de construcción puros con un rendimiento de hasta el 98 %.",
-      "fullStory": "Investigadores de ETH Zurich han encontrado un nuevo método práctico que descompone el vidrio acrílico, conocido por la marca Plexiglas, casi por completo en sus componentes originales, haciendo que el reciclaje de alta calidad sea realista y asequible por primera vez.\n\nEl vidrio acrílico aparece en productos cotidianos como ventanas, luces traseras de automóviles, muebles y barreras protectoras. La mayor parte terminó como residuo porque los métodos de reciclaje más antiguos eran demasiado costosos, consumían demasiada energía o eran demasiado complicados para que las empresas los adoptaran.\n\nEl nuevo proceso cambia eso. Utilizando un único producto químico económico que ya está disponible, el equipo recuperó hasta el 98% del material en forma de monómeros puros. La reacción comienza a poco más de 200°C (aproximadamente la mitad del calor requerido por los métodos anteriores) y no necesita disolventes.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/scientists-discover-way-to-recycle-acrylic-glass-into-brand-new-material/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/acrylic-glass-plexiglass-credit-Unsplash-e1792497349349.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-21T13:00:45.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-10-year-old-dog-found-after-a-",
-      "title": "Perro de 10 años encontrado después de un mes perdido en Yellowstone",
-      "summary": "Un perro de 10 años sobrevivió solo más de un mes en el Parque Nacional de Yellowstone antes de ser rescatado por incansables voluntarios.",
-      "fullStory": "Una Jack Russell terrier de 10 años llamada Luna se reunió felizmente con sus dueños después de sobrevivir más de un mes sola en el Parque Nacional de Yellowstone. ⁠\n\nLuna escapó el 10 de septiembre de una cabaña cerrada en el área de Canyon Village. Sus dueños, que estaban de visita desde California, la habían dejado adentro con un cartel de \"No molestar\" mientras exploraban el parque, pero creen que el perro salió corriendo cuando el personal de limpieza abrió accidentalmente la puerta. El personal intentó atraparla durante horas, pero ya había desaparecido en el desierto, informó el New York Times. ⁠\n\nDurante más de un mes, se vio a Luna cruzando calles, deambulando por viviendas de empleados y entrando a cabañas a través de puertas automáticas, todo mientras navegaba por un paisaje lleno de osos pardos, lobos, coyotes y temperaturas en descenso. Según el Servicio de Parques Nacionales, las temperaturas de principios de otoño en Yellowstone pueden variar desde una máxima de 52 °F hasta una mínima de 31 °F.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/10-year-old-dog-found-month-lost-in-yellowstone/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/849575391_1127940682909652_807340687886918863_n-e1792414065589.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-21T11:00:41.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
