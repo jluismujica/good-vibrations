@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T15:41:35.546Z",
+  "lastUpdated": "2026-10-24T01:26:25.999Z",
   "totalCount": 16,
   "categories": {
     "musica": 0,
@@ -10,6 +10,26 @@
     "mundo": 16
   },
   "news": [
+    {
+      "id": "rss-mundo-rescuers-ensure-orphaned-baby-",
+      "title": "Los rescatistas garantizan que la morsa bebé huérfana tenga una segunda oportunidad (MIRAR)",
+      "summary": "Encontraron a la cría huérfana escondida entre los restos más antiguos de dos morsas adultas, que ya eran el objetivo de las aves carroñeras.",
+      "fullStory": "Encontrada sola y oprimida por carroñeros en una remota playa del norte de Alaska, una cría de morsa del Pacífico huérfana ahora tiene un nuevo hogar en SeaWorld Orlando.\n\nCon un peso aproximado de 220 libras, el ternero macho de 5 meses, llamado Annautaq, recibe atención las 24 horas del día por parte del dedicado equipo veterinario y de cuidado de animales de SeaWorld, una de las cuatro instituciones estadounidenses actualmente capaces de albergar morsas.\n\nEl rescate de Annautaq es bastante notable. Violet Anniskett, pasante de investigación de vida silvestre y miembro de la comunidad local, y el científico del Servicio Geológico de EE. UU. Tony Fischbach descubrieron a la cría en una playa remota en el norte de Alaska después de que una manada de morsas partiera durante un fuerte oleaje.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/rescuers-ensure-orphaned-baby-walrus-gets-a-second-chance-look/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/A-USFWS-Intern-and-Annautaq-credit-supplied-to-GNN-by-SeaWorld-Orlando-Stephanie-Bechara-cropped.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-23T18:30:31.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
     {
       "id": "rss-mundo-one-teacher-s-idea-for-daily-p",
       "title": "La idea de un maestro para la práctica diaria de positividad recorre su escuela primaria",
@@ -27,8 +47,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-3-italian-hobbits-searched-for",
@@ -53,7 +72,7 @@
       "id": "rss-mundo-vines-produce-bigger-healthier",
       "title": "Las vides producen uvas de vino más grandes y saludables cuando se cultivan bajo paneles solares",
       "summary": "La técnica, conocida como agrivoltaica, ha sido bien estudiada en otros entornos, pero no se sabe cómo afectaría a la delicada ciencia de la viticultura.",
-      "fullStory": "Los paneles solares cultivados sobre las vides aumentaron sustancialmente el desarrollo y la producción de frutos del cultivo, al mismo tiempo que generaban energía limpia.\n\nLa técnica, conocida como agrivoltaica, ha sido bien estudiada en otros entornos, pero no se sabe cómo afectaría a la delicada ciencia de la viticultura.\n\nInvestigadores de la Universidad de Bari llevaron a cabo un estudio en un viñedo en la región de Puglia, en el sur de Italia (piense en el tacón de la bota), donde la intensa luz del sol y el cálido clima mediterráneo producen condiciones de crecimiento excepcionales para todo tipo de favoritos italianos, como aceitunas, tomates y uvas.",
+      "fullStory": "Los paneles solares cultivados sobre las vides aumentaron sustancialmente el desarrollo y la producción de frutos del cultivo, al mismo tiempo que generaban energía limpia.\n\nLa técnica, conocida como agrivoltaica, ha sido bien estudiada en otros entornos, pero no se sabe cómo afectaría la delicada ciencia de la viticultura.\n\nInvestigadores de la Universidad de Bari llevaron a cabo un estudio en un viñedo en la región de Puglia, en el sur de Italia (piense en el tacón de la bota), donde la intensa luz del sol y el cálido clima mediterráneo producen condiciones de crecimiento excepcionales para todo tipo de favoritos italianos, como aceitunas, tomates y uvas.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Good News Network",
@@ -90,7 +109,7 @@
     {
       "id": "rss-mundo-what-went-right-this-week-the-",
       "title": "Lo que salió bien esta semana: las buenas noticias que importan",
-      "summary": "La reconstrucción de la naturaleza dio esperanza a las islas bajas, una prueba de ingreso básico resultó prometedora y una fábrica de Bangladesh ganó un premio mundial, además de más buenas noticias.",
+      "summary": "La recuperación de la naturaleza dio esperanza a las islas bajas, una prueba de ingreso básico resultó prometedora y una fábrica de Bangladesh ganó un premio mundial, además de más buenas noticias.",
       "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLa reconstrucción de la naturaleza dio esperanza a las islas bajas, una prueba de ingreso básico se mostró prometedora y una fábrica de Bangladesh ganó un premio mundial de arquitectura, además de más buenas noticias.\n\nRestaurar las poblaciones de aves marinas y la vegetación nativa en islas tropicales bajas les daría una “oportunidad de luchar” contra el aumento del nivel del mar, según un estudio.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
@@ -164,25 +183,6 @@
       ]
     },
     {
-      "id": "rss-mundo-coconut-oil-could-make-great-s",
-      "title": "El aceite de coco podría ser un gran combustible sostenible para aviones, según lo demuestran experimentos pioneros",
-      "summary": "El combustible de aviación sostenible derivado del coco superó a los biocombustibles existentes en varios parámetros, demostraron científicos japoneses.",
-      "fullStory": "Excelente para freír, perfecto para la piel e irrepetible en una dieta cetogénica, el aceite de coco es un producto maravilloso.\n\nRecientemente, químicos en Japón llevaron a cabo extensos experimentos sobre si sería posible crear un combustible de aviación sustentable a partir del aceite de coco, y no sólo fueron un éxito, sino que superaron a los biocombustibles existentes en varios parámetros.\n\nEn comparación con las altas presiones y el intenso calentamiento necesarios para sintetizar combustible de aviación sostenible a partir de materias primas de biocombustibles existentes, el método cosolvente de los químicos creó un combustible compatible con la aviación a temperatura ambiente, presión y niveles más bajos de calor.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/coconut-oil-could-make-great-sustainable-jet-fuel-pioneering-experiments-demonstrate/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/coconut-oil-unsplash.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-22T13:00:14.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
       "id": "rss-mundo-the-farmer-growing-a-future-un",
       "title": "El agricultor cultiva un futuro bajo los árboles de Ghana",
       "summary": "La productora de cacao Susana Afrifa Ankrah está ayudando a mostrar cómo la protección de los bosques puede sostener los medios de vida y generar resiliencia ante un clima cambiante.",
@@ -243,7 +243,7 @@
       "id": "rss-mundo-volunteers-became-salmon-deer-",
       "title": "Los voluntarios se convirtieron en salmones, ciervos y lombrices de tierra. Luego se propusieron salvar su río.",
       "summary": "Un experimento está ayudando a una comunidad de Somerset a ver su paisaje a través de los ojos de la vida silvestre y a trazar una ruta de 30 años para cambiarlo.",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\n¿Qué siente un salmón ante un río contaminado? Un experimento inusual está ayudando a una comunidad de Somerset a ver su paisaje a través de los ojos de la vida silvestre y a trazar una ruta de 30 años para cambiarlo.\n\nEl estrés de estar cerca del acceso al agua potable. El hambre dolorosa que conlleva la destrucción del hábitat. El asalto sensorial de la maquinaria y el tráfico.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\n¿Qué siente un salmón ante un río contaminado? Un experimento inusual está ayudando a una comunidad de Somerset a ver su paisaje a través de los ojos de la vida silvestre y trazar una ruta de 30 años para cambiarlo.\n\nEl estrés de estar cerca del acceso al agua potable. El hambre dolorosa que conlleva la destrucción del hábitat. El asalto sensorial de la maquinaria y el tráfico.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
