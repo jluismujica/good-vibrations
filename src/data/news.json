@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T14:23:07.499Z",
+  "lastUpdated": "2026-10-25T00:56:05.592Z",
   "totalCount": 15,
   "categories": {
     "musica": 1,
@@ -10,6 +10,26 @@
     "mundo": 14
   },
   "news": [
+    {
+      "id": "rss-mundo-star-clusters-in-van-gogh-s-st",
+      "title": "Los cúmulos de estrellas en La noche estrellada de Van Gogh coinciden con el cielo de Tauro de julio de 1889, según muestra un estudio",
+      "summary": "El cielo pintado por Vincent Van Gogh en La noche estrellada coincide con el cielo de julio de 1889, año en que inmortalizó el horizonte francés: Estudio",
+      "fullStory": "El cielo pintado por Vincent Van Gogh en La noche estrellada coincide con el cielo de julio de 1889, año en que inmortalizó el horizonte francés.\n\nLa pintura icónica ha sido fechada convencionalmente a partir de una carta que el artista le escribió a su hermano, Theo, alrededor del 18 de junio de ese año, pero los expertos dicen que la luna gibosa menguante de ese período no puede explicar la delgada media luna de la pintura.\n\nLa nueva investigación que une el arte y la astronomía encontró que el cielo en la pintura coincide, tanto en observación como en forma, con el cielo antes del amanecer sobre la casa de Van Gogh en Saint-Rémy, Francia, alrededor del 22 de julio de 1889.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/stars-in-van-gogh-starry-night-matches-sky-in-july-1889/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Stars-in-Van-Goghs-The-Starry-Night-1889-match-with-the-Hyades-cluster-in-July-of-1889.jpeg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-24T17:19:53.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
     {
       "id": "rss-mundo-minnesota-youth-jumps-onto-run",
       "title": "Joven de Minnesota se sube a un autobús escolar fugitivo y salva a 18 niños después de que el conductor sufriera una convulsión",
@@ -27,14 +47,13 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-musica-new-u-s-national-park-preserve",
       "title": "El nuevo parque nacional de EE. UU. preserva la “tierra de las rocas erguidas” y su cultura apache en Arizona",
       "summary": "Estados Unidos designó un nuevo Parque Nacional en Arizona, preservando un paisaje distintivo conocido como Chiricahua, la tierra de las \"Rocas Standing-Up\".",
-      "fullStory": "Estados Unidos ha designado un nuevo Parque Nacional en Arizona, preservando el paisaje distintivo conocido como Chiricahua, la tierra de las \"Rocas Standing-Up\".\n\nAnteriormente un monumento nacional, el nuevo Parque Nacional Chiricahua reconoce la rica herencia apache de la zona con sus notables agujas rocosas y su biodiversidad natural.\n\nUna joya escondida en la esquina sureste del estado del Gran Cañón, el parque protege un paisaje de imponentes agujas de roca de riolita y rocas equilibradas formadas por una antigua erupción volcánica hace aproximadamente 27 millones de años.",
+      "fullStory": "Estados Unidos ha designado un nuevo Parque Nacional en Arizona, preservando el paisaje distintivo conocido como Chiricahua, la tierra de las \"Rocas Standing-Up\".\n\nAnteriormente un monumento nacional, el nuevo Parque Nacional Chiricahua reconoce la rica herencia apache de la zona con sus notables agujas rocosas y su biodiversidad natural.\n\nUna joya escondida en la esquina sureste del estado del Gran Cañón, el parque nacional número 64 de Estados Unidos protegerá un paisaje de imponentes agujas de roca de riolita y rocas equilibradas formadas por una antigua erupción volcánica hace aproximadamente 27 millones de años.",
       "whyGoodNews": "Celebra el poder unificador de la música y el arte para conectar personas, sanar heridas y despertar emociones profundas.",
       "category": "musica",
       "sourceName": "Good News Network",
@@ -137,25 +156,6 @@
       "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Irishman-Patrick-Mohr-second-from-left-holds-up-his-wedding-ring-alongside-the-three-Italian-friends-who-found-it-provided-to-CBC-by-Patrick-Mohr.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-10-23T13:00:12.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-vines-produce-bigger-healthier",
-      "title": "Las vides producen uvas de vino más grandes y saludables cuando se cultivan bajo paneles solares",
-      "summary": "La técnica, conocida como agrivoltaica, ha sido bien estudiada en otros entornos, pero no se sabe cómo afectaría a la delicada ciencia de la viticultura.",
-      "fullStory": "Los paneles solares cultivados sobre las vides aumentaron sustancialmente el desarrollo y la producción de frutos del cultivo, al mismo tiempo que generaban energía limpia.\n\nLa técnica, conocida como agrivoltaica, ha sido bien estudiada en otros entornos, pero no se sabe cómo afectaría la delicada ciencia de la viticultura.\n\nInvestigadores de la Universidad de Bari llevaron a cabo un estudio en un viñedo en la región de Puglia, en el sur de Italia (piense en el tacón de la bota), donde la intensa luz del sol y el cálido clima mediterráneo producen condiciones de crecimiento excepcionales para todo tipo de favoritos italianos, como aceitunas, tomates y uvas.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/vines-produce-bigger-healthier-wine-grapes-when-grown-under-solar-panels/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-supplied-to-PV-Magazine-by-Giuseppe-Ferrara.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-23T11:00:15.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
