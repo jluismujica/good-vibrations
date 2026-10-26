@@ -1,15 +1,111 @@
 {
-  "lastUpdated": "2026-10-26T01:04:30.285Z",
+  "lastUpdated": "2026-10-26T17:12:56.132Z",
   "totalCount": 14,
   "categories": {
-    "musica": 1,
+    "musica": 0,
     "ia": 0,
     "psicologia": 0,
     "liderazgo": 0,
     "chile": 0,
-    "mundo": 13
+    "mundo": 14
   },
   "news": [
+    {
+      "id": "rss-mundo-tiny-scottish-island-s-little-",
+      "title": "La pequeña sociedad histórica de la pequeña isla escocesa hace un descubrimiento masivo",
+      "summary": "El patrimonio arqueológico descubierto allí indica que el monasterio medieval temprano era un centro tanto de artesanía como de fe.",
+      "fullStory": "Ahora se confirma que una isla escocesa fue uno de los primeros centros de evangelización cristiana en las Islas Británicas gracias a una sociedad histórica de un pequeño pueblo.\n\nEl enorme descubrimiento sitúa a la pequeña isla en el mapa histórico a lo grande, ya que el patrimonio arqueológico descubierto allí apunta a que el monasterio medieval temprano era un centro tanto de artesanía como de fe.\n\nCon 9 millas de ancho, la isla Lismore en las Hébridas Interiores recibe su nombre de un centro histórico de monaquismo relacionado con la cristianización temprana de Gran Bretaña llamado Lios Mòr.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/tiny-scottish-islands-little-historical-society-makes-massive-discovery/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/An-aerial-view-of-the-archaeological-trenches-dug-around-Lismores-parish-church-credit-Clare-Ellis-et-al.-Antiquity-2026-e1793014269132.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-26T15:30:56.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo-numbers-of-endangered-and-sacr",
+      "title": "El número de delfines de río sagrados y en peligro de extinción aumenta a 6 después de una exitosa temporada de reproducción",
+      "summary": "Los conservacionistas locales dicen que los nacimientos son una señal clara de que este cetáceo especial puede recuperarse si se frenan las amenazas ambientales.",
+      "fullStory": "Los delfines de río se encuentran entre las especies más amenazadas del mundo, ya sea que se encuentren en el Nuevo Mundo o en el Viejo.\n\nSin embargo, al menos por ahora, las cosas están mejorando para estos animales considerados sagrados por la gente que vive a lo largo de un tramo del río Mekong en Camboya, ya que la temporada de parto más reciente produjo 6 crías de delfines.\n\nLos delfines del Irrawaddy (Orcaella brevirostris) están divididos por la civilización moderna en múltiples poblaciones aisladas en varios países. Algunos todavía son cazados, otros mueren en la pesca incidental, pero estos delfines de nariz chata son cada vez más valorados como atracciones ecoturísticas.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/numbers-of-endangered-and-sacred-river-dolphin-grow-by-6-after-successful-breeding-season/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Irrawaddy-dolphin-CC-4.0.-Int-Stefan-Brending.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-26T13:00:58.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-free-tool-helps-young-men-to-t",
+      "title": "Una herramienta gratuita ayuda a los hombres jóvenes a asumir la responsabilidad por el daño sexual",
+      "summary": "Los hombres jóvenes están utilizando una herramienta gratuita diseñada para ayudarles a reflexionar sobre su comportamiento sexual, ofreciendo una alternativa a la manosfera.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nSeis meses después del lanzamiento, miles de hombres jóvenes han utilizado una herramienta diseñada para ayudarles a reflexionar sobre su comportamiento sexual, ofreciendo una alternativa a la manosfera.\n\nMientras navegaba por Reddit, Drew Davis quedó horrorizado por lo que leyó. Publicación tras publicación de jóvenes confundidos: “Creo que hice algo mal”, “Creo que le causé daño a alguien”, “Podría haber agredido sexualmente a alguien; no sé qué hacer a continuación”.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/free-tool-helps-young-men-to-take-responsibility-for-sexual-harm/",
+      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/SafeBAE-Students-2.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-26T12:41:17.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-man-named-service-cleans-up-ny",
+      "title": "Un hombre denominado \"servicio\" limpia un vertedero en Nueva York por iniciativa propia",
+      "summary": "\"La gente me decía: 'Oh, ¿qué tal si dejas de hacer videos sobre esto y te vas a limpiarlo tú mismo? ' Así que lo hice\", dijo Service a CBS News.",
+      "fullStory": "No es raro pasar junto a la basura en una ciudad importante: lo que es raro es detenerse para hacer algo al respecto.\n\nSin embargo, no fue sólo basura por la que pasó Joshua Service, residente de Queens, en un reciente viaje en tren, sino un vertedero espontáneo.\n\nService sacó su teléfono y grabó un video de los montones de basura debajo de un puente del metro en Crown Heights, cerca de Atlantic Avenue, llamando al número 311 de la ciudad, que maneja los servicios civiles que no son de emergencia, por no hacer su trabajo.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/man-named-service-cleans-up-nyc-dumping-site-on-his-own-initiative/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-@thegeneraljo_-via-Instagram.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-26T11:30:53.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-good-news-in-history-october-2",
+      "title": "Buenas noticias en la historia, 26 de octubre",
+      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 26 de octubre.",
+      "fullStory": "Hoy hace 201 años, el Canal Erie abrió un pasaje desde Nueva York a los Grandes Lagos. El canal fue construido para crear una ruta de agua navegable desde el Océano Atlántico hasta el Medio Oeste de los EE. UU. y tomó 8 años construir las 36 esclusas que superaron un diferencial de elevación total de aproximadamente 565 pies (172 m). En una época en la que sólo había animales de carga y no había barcos de vapor ni ferrocarriles, el agua se convirtió en un método de transporte rentable que cambió la región de los Grandes Lagos. LEER más… (1825)\n\nCuando se construyó, el canal de 584 kilómetros (363 millas) era el segundo más largo del mundo después del Gran Canal de China. El año pico del Erie fue 1855, cuando se realizaron 33.000 envíos comerciales. Continuó siendo competitivo con los ferrocarriles hasta aproximadamente 1902, cuando se abolieron los peajes.\n\nEl tráfico comercial disminuyó considerablemente en la segunda mitad del siglo XX debido a la competencia del transporte por carretera a través del recientemente desarrollado sistema de autopistas interestatales y la apertura en 1959 de la vía marítima más grande de St. Lawrence. El último transporte regular del canal, el Day Peckinpaugh, finalizó su servicio en 1994.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061026/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2014/10/Erie-Canal-Drawing-1836-pubdomain.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-26T07:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
     {
       "id": "rss-mundo-live-webcam-brings-you-inside-",
       "title": "La cámara web EN VIVO te lleva al interior de Cheetah Den con 5 pequeños cachorros atendidos por mamá (MIRA y ESCUCHA)",
@@ -27,8 +123,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-53-orangutans-rescued-from-fir",
@@ -53,7 +148,7 @@
       "id": "rss-mundo-flood-worries-tape-can-block-9",
       "title": "¿Preocupaciones por inundaciones? La cinta puede bloquear el 99% del agua en comparación con los costosos sacos de arena que te rompen la espalda",
       "summary": "Las casas en riesgo de inundación podrían protegerse mejor utilizando cinta adhesiva asequible en lugar de sacos de arena, según muestra una nueva investigación. Mira como...",
-      "fullStory": "Las casas en riesgo de inundación podrían estar mejor protegidas en caso de emergencia utilizando cinta adhesiva ampliamente disponible y asequible en lugar de los tradicionales sacos de arena, según muestra una nueva investigación de la Universidad de Hull en el Reino Unido.\n\nLas pruebas realizadas en el laboratorio de última generación de Resiliencia de Inundaciones de Propiedades (PFRlab) de la Universidad compararon medidas temporales de bajo costo para evitar que el agua de las inundaciones ingrese a los hogares.\n\nLa investigación encargada por Flood Re, una iniciativa conjunta entre el Gobierno y las aseguradoras, encontró que la cinta de caucho sintético flexible redujo las fugas de agua en un 99% en comparación con una puerta desprotegida y es muy eficaz. La cinta adhesiva redujo las fugas entre un 97% y un 98%, combinando un sólido rendimiento y asequibilidad con facilidad de uso.",
+      "fullStory": "Las casas en riesgo de inundación podrían protegerse mejor en caso de emergencia utilizando cinta adhesiva asequible y ampliamente disponible en lugar de los tradicionales sacos de arena, según muestra una nueva investigación de la Universidad de Hull en el Reino Unido.\n\nLas pruebas realizadas en el laboratorio de última generación de Resiliencia de Inundaciones de Propiedades (PFRlab) de la Universidad compararon medidas temporales de bajo costo para evitar que el agua de las inundaciones ingrese a los hogares.\n\nLa investigación encargada por Flood Re, una iniciativa conjunta entre el Gobierno y las aseguradoras, encontró que la cinta de caucho sintético flexible redujo las fugas de agua en un 99% en comparación con una puerta desprotegida y es muy eficaz. La cinta adhesiva redujo las fugas entre un 97% y un 98%, combinando un sólido rendimiento y asequibilidad con facilidad de uso.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Good News Network",
@@ -88,85 +183,9 @@
       ]
     },
     {
-      "id": "rss-mundo-good-news-in-history-october-2",
-      "title": "Buenas noticias en la historia, 25 de octubre",
-      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 25 de octubre.",
-      "fullStory": "Hace 145 años nació el artista visionario Pablo Picasso. Pintor y escultor español, tenía problemas para levantarse de la cama por la mañana y normalmente pasaba la tarde conversando y bebiendo con amigos. Pero por la noche trabajó prolíficamente en su obra de arte cubista surrealista en Francia. MIRA un breve vídeo biográfico para ver sus pinturas. y aprende más… (1881)\n\nDespués de su juventud trabajando en el estilo tradicional de pintura, el trabajo innovador de su compañero artista Henri Matisse lo motivó a explorar estilos más radicales, comenzando una fructífera rivalidad entre los dos líderes del arte moderno.\n\nPicasso alcanzó renombre mundial y una inmensa fortuna por sus revolucionarios logros artísticos y se convirtió en una de las figuras más conocidas del arte del siglo XX.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061025/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/pablo-picasso-with-painting.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-25T07:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-star-clusters-in-van-gogh-s-st",
-      "title": "Los cúmulos de estrellas en La noche estrellada de Van Gogh coinciden con el cielo de Tauro de julio de 1889, según muestra un estudio",
-      "summary": "El cielo pintado por Vincent Van Gogh en La noche estrellada coincide con el cielo de julio de 1889, año en que inmortalizó el horizonte francés: Estudio",
-      "fullStory": "El cielo pintado por Vincent Van Gogh en La noche estrellada coincide con el cielo de julio de 1889, año en que inmortalizó el horizonte francés.\n\nLa pintura icónica ha sido fechada convencionalmente a partir de una carta que el artista le escribió a su hermano, Theo, alrededor del 18 de junio de ese año, pero los expertos dicen que la luna gibosa menguante de ese período no puede explicar la delgada media luna de la pintura.\n\nLa nueva investigación que une el arte y la astronomía encontró que el cielo en la pintura coincide, tanto en observación como en forma, con el cielo antes del amanecer sobre la casa de Van Gogh en Saint-Rémy, Francia, alrededor del 22 de julio de 1889.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/stars-in-van-gogh-starry-night-matches-sky-in-july-1889/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Stars-in-Van-Goghs-The-Starry-Night-1889-match-with-the-Hyades-cluster-in-July-of-1889.jpeg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-24T17:19:53.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-minnesota-worker-jumps-onto-ru",
-      "title": "Trabajador de Minnesota se sube a un autobús escolar fugitivo para salvar a 18 niños después de que el conductor sufriera una convulsión",
-      "summary": "Un joven de 27 años que se tomó un descanso en el trabajo se convirtió en un héroe, se subió a un autobús escolar en movimiento y salvó a 18 estudiantes y a su conductor.",
-      "fullStory": "Afortunadamente, este joven de 27 años estaba tomando un descanso en el trabajo un lunes tranquilo en Minnesota, porque sus acciones, saltar a un autobús escolar en movimiento, salvaron a 18 estudiantes y a su conductor.\n\nEbro Ahmed, un eritreo-estadounidense, había salido de Ya Bricks Snacks and Tobacco en el vecindario de St. Paul's Dayton's Bluff cuando un autobús de escuelas públicas de la escuela secundaria Battle Creek pasó con las puertas abiertas.\n\nVio al conductor sufrir lo que parecía ser un ataque mientras el autobús aún estaba en movimiento. Ebro corrió hacia el autobús, saltó por las puertas abiertas y logró poner el freno de mano.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/st-paul-man-jumps-onto-runaway-school-bus-saves-18-children/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/surveillance-video-of-school-bus-Ya-Bricks-Snacks-and-Tobacco.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-24T14:14:30.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-musica-new-u-s-national-park-preserve",
-      "title": "El nuevo parque nacional de EE. UU. preserva la “tierra de las rocas erguidas” y su cultura apache en Arizona",
-      "summary": "Estados Unidos designó un nuevo Parque Nacional en Arizona, preservando un paisaje distintivo conocido como Chiricahua, la tierra de las \"Rocas Standing-Up\".",
-      "fullStory": "Estados Unidos ha designado un nuevo Parque Nacional en Arizona, preservando el paisaje distintivo conocido como Chiricahua, la tierra de las \"Rocas Standing-Up\".\n\nAnteriormente un monumento nacional, el nuevo Parque Nacional Chiricahua reconoce la rica herencia apache de la zona con sus notables agujas rocosas y su biodiversidad natural.\n\nUna joya escondida en la esquina sureste del estado del Gran Cañón, el parque nacional número 64 de Estados Unidos protegerá un paisaje de imponentes agujas de roca de riolita y rocas equilibradas formadas por una antigua erupción volcánica hace aproximadamente 27 millones de años.",
-      "whyGoodNews": "Celebra el poder unificador de la música y el arte para conectar personas, sanar heridas y despertar emociones profundas.",
-      "category": "musica",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/new-us-national-park-preserves-land-of-standing-up-rocks/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Balancing-rocks-in-Chiricahua-National-Park-by-NPS-released.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-24T13:00:11.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "MÚSICA",
-        "CULTURA"
-      ]
-    },
-    {
       "id": "rss-mundo-what-went-right-this-week-the-",
       "title": "Lo que salió bien esta semana: las buenas noticias que importan",
-      "summary": "La recuperación de la naturaleza dio esperanza a las islas bajas, una prueba de ingreso básico resultó prometedora y una fábrica de Bangladesh ganó un premio mundial, además de más buenas noticias.",
+      "summary": "La reconstrucción de la naturaleza dio esperanza a las islas bajas, una prueba de ingreso básico resultó prometedora y una fábrica de Bangladesh ganó un premio mundial, además de más buenas noticias.",
       "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLa reconstrucción de la naturaleza dio esperanza a las islas bajas, una prueba de ingreso básico se mostró prometedora y una fábrica de Bangladesh ganó un premio mundial de arquitectura, además de más buenas noticias.\n\nRestaurar las poblaciones de aves marinas y la vegetación nativa en islas tropicales bajas les daría una “oportunidad de luchar” contra el aumento del nivel del mar, según un estudio.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
@@ -186,7 +205,7 @@
       "id": "rss-mundo-the-farmer-growing-a-future-un",
       "title": "El agricultor cultiva un futuro bajo los árboles de Ghana",
       "summary": "La productora de cacao Susana Afrifa Ankrah está ayudando a mostrar cómo la protección de los bosques puede sostener los medios de vida y generar resiliencia ante un clima cambiante.",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLa productora de cacao Susana Afrifa Ankrah está ayudando a mostrar cómo la protección de los bosques puede sostener los medios de vida y generar resiliencia ante un clima cambiante, ofreciendo esperanza tanto a las comunidades como a la naturaleza.\n\nEn las colinas de la Cordillera Atewa, en el sureste de Ghana, se encuentra una joya de bosque tropical. Un fragmento sobreviviente de las franjas de árboles que una vez cubrieron la región, alberga una gran variedad de criaturas preciosas, desde búhos reales y papamoscas hasta especies raras de cucos y ranas. También es el hogar de monos colobos y de una gran variedad de mariposas, incluida la cola de golondrina gigante, portadora de la envergadura de alas más amplia del mundo. Y es el hogar de Susana Afrifa Ankrah, madre, abuela y productora de cacao, quien no tiene dudas de las bendiciones que esto trae para ella y su familia.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLa productora de cacao Susana Afrifa Ankrah está ayudando a mostrar cómo la protección de los bosques puede sostener los medios de vida y generar resiliencia ante un clima cambiante, ofreciendo esperanza tanto a las comunidades como a la naturaleza.\n\nEn las colinas de la Cordillera Atewa, en el sureste de Ghana, se encuentra una joya de bosque tropical. Un fragmento sobreviviente de las franjas de árboles que una vez cubrieron la región, alberga una gran variedad de criaturas preciosas, desde búhos reales y papamoscas hasta especies raras de cucos y ranas. Es el hogar de monos antílopes, ciervos y colobos, junto con una gran variedad de mariposas, incluida la cola de golondrina gigante, portadora de la envergadura de alas más amplia del mundo. Y es el hogar de Susana Afrifa Ankrah, madre, abuela y productora de cacao, quien no tiene dudas de las bendiciones que esto trae para ella y su familia.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
@@ -251,25 +270,6 @@
       "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/Atlantic-Salmon-001-©-Darren-Honeywill-2026.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-10-19T07:00:44.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-what-went-right-this-week-indo",
-      "title": "Lo que salió bien esta semana: la caída en picado de la tasa de pobreza en Indonesia y más",
-      "summary": "La caída en picado de la tasa de pobreza en Indonesia, el puente para la vida silvestre más grande de Estados Unidos y “una nueva era” para el río Támesis, y más buenas noticias",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLa caída en picado de la tasa de pobreza en Indonesia, el puente para la vida silvestre más grande de Estados Unidos y “una nueva era” para el río Támesis, y más buenas noticias\n\nEl número de indonesios que viven en la pobreza extrema se ha desplomado casi un 83% en sólo cuatro décadas, revelan nuevas cifras \"impresionantes\".",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-42-of-2026/",
-      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/iStock-475084328.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-16T05:00:50.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
