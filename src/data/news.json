@@ -1,15 +1,73 @@
 {
-  "lastUpdated": "2026-10-25T14:56:02.265Z",
-  "totalCount": 13,
+  "lastUpdated": "2026-10-26T01:04:30.285Z",
+  "totalCount": 14,
   "categories": {
     "musica": 1,
     "ia": 0,
     "psicologia": 0,
     "liderazgo": 0,
     "chile": 0,
-    "mundo": 12
+    "mundo": 13
   },
   "news": [
+    {
+      "id": "rss-mundo-live-webcam-brings-you-inside-",
+      "title": "La cámara web EN VIVO te lleva al interior de Cheetah Den con 5 pequeños cachorros atendidos por mamá (MIRA y ESCUCHA)",
+      "summary": "Un guepardo llamado Zura dio a luz a cinco adorables cachorros en el Instituto Smithsonian de Virginia, y puedes espiarlos día y noche.",
+      "fullStory": "El 5 de octubre, un guepardo llamado Zura dio a luz a cinco adorables cachorros en el Instituto de Conservación del Smithsonian en Virginia, y puedes espiarlos día y noche.\n\nLa cámara ofrece una rara oportunidad de ver a una mamá guepardo cuidando a sus cachorros recién nacidos, mientras escuchas la íntima vocalización de suaves chirridos, pequeños ronroneos y maullidos.\n\nYa sea que los gatos estén amamantando, acicalándose o luchando, la cámara Cheetah proporciona imágenes y sonidos de cada momento.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/live-smithsonian-webcam-for-cheetah-den-and-5-cubs/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Cheetah-Cam-screenshot-via-Smithsonian-Conservation-Biology-Institute-.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-25T21:51:15.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo-53-orangutans-rescued-from-fir",
+      "title": "53 orangutanes rescatados de incendios en Borneo, muchos de ellos reconvertidos en reservas forestales en toda la isla",
+      "summary": "La organización sin fines de lucro YIARI ha rescatado a 53 orangutanes en peligro de extinción de los incendios forestales que arden en la isla de Borneo, y tú puedes ayudar.",
+      "fullStory": "Los incendios forestales y de turberas continúan ardiendo en toda la isla de Borneo, poniendo en peligro la calidad del aire tanto para los seres humanos como para la vida silvestre, y quemando el suministro de alimentos para los orangutanes en peligro crítico de extinción.\n\nAfortunadamente, gracias a una organización sin fines de lucro que lleva 18 años centrada en el rescate y la conservación de primates en Indonesia, un total de 53 orangutanes han sido rescatados de los incendios, y muchos de ellos han sido reintegrados a otras reservas forestales del país.\n\nDesde agosto, el equipo de YIARI se ha apresurado a responder a una serie de casos urgentes, incluidos animales varados, el traslado de otros al Parque Nacional Gunung Palung a cinco horas de distancia y la salvación de varias madres y bebés, todos rescatados en estado crítico.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/53-orangutans-rescued-from-fires-in-borneo/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Dr-Karmele-Llano-Sanchez-rescues-baby-orangutan-Credit-YIARI-BKSDA-and-International-Animal-Rescue-RELEASED.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-25T18:06:02.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-flood-worries-tape-can-block-9",
+      "title": "¿Preocupaciones por inundaciones? La cinta puede bloquear el 99% del agua en comparación con los costosos sacos de arena que te rompen la espalda",
+      "summary": "Las casas en riesgo de inundación podrían protegerse mejor utilizando cinta adhesiva asequible en lugar de sacos de arena, según muestra una nueva investigación. Mira como...",
+      "fullStory": "Las casas en riesgo de inundación podrían estar mejor protegidas en caso de emergencia utilizando cinta adhesiva ampliamente disponible y asequible en lugar de los tradicionales sacos de arena, según muestra una nueva investigación de la Universidad de Hull en el Reino Unido.\n\nLas pruebas realizadas en el laboratorio de última generación de Resiliencia de Inundaciones de Propiedades (PFRlab) de la Universidad compararon medidas temporales de bajo costo para evitar que el agua de las inundaciones ingrese a los hogares.\n\nLa investigación encargada por Flood Re, una iniciativa conjunta entre el Gobierno y las aseguradoras, encontró que la cinta de caucho sintético flexible redujo las fugas de agua en un 99% en comparación con una puerta desprotegida y es muy eficaz. La cinta adhesiva redujo las fugas entre un 97% y un 98%, combinando un sólido rendimiento y asequibilidad con facilidad de uso.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/tape-can-block-99-of-water-compared-to-expensive-sandbags/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/07/Vermont-Montpelier-Flood-submitted-Credit-to-Bob-Fitch.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-25T16:05:34.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
     {
       "id": "rss-mundo-a-chance-meeting-in-a-chinese-",
       "title": "Un encuentro casual en un restaurante chino salvó la vida de un hombre, ya que todo sucede por una razón",
@@ -27,8 +85,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-good-news-in-history-october-2",
@@ -47,9 +104,6 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "categories": [
-        "mundo"
       ]
     },
     {
@@ -72,8 +126,8 @@
       ]
     },
     {
-      "id": "rss-mundo-minnesota-youth-jumps-onto-run",
-      "title": "Joven de Minnesota se sube a un autobús escolar fugitivo y salva a 18 niños después de que el conductor sufriera una convulsión",
+      "id": "rss-mundo-minnesota-worker-jumps-onto-ru",
+      "title": "Trabajador de Minnesota se sube a un autobús escolar fugitivo para salvar a 18 niños después de que el conductor sufriera una convulsión",
       "summary": "Un joven de 27 años que se tomó un descanso en el trabajo se convirtió en un héroe, se subió a un autobús escolar en movimiento y salvó a 18 estudiantes y a su conductor.",
       "fullStory": "Afortunadamente, este joven de 27 años estaba tomando un descanso en el trabajo un lunes tranquilo en Minnesota, porque sus acciones, saltar a un autobús escolar en movimiento, salvaron a 18 estudiantes y a su conductor.\n\nEbro Ahmed, un eritreo-estadounidense, había salido de Ya Bricks Snacks and Tobacco en el vecindario de St. Paul's Dayton's Bluff cuando un autobús de escuelas públicas de la escuela secundaria Battle Creek pasó con las puertas abiertas.\n\nVio al conductor sufrir lo que parecía ser un ataque mientras el autobús aún estaba en movimiento. Ebro corrió hacia el autobús, saltó por las puertas abiertas y logró poner el freno de mano.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
@@ -110,47 +164,9 @@
       ]
     },
     {
-      "id": "rss-mundo-your-positive-weekly-horoscope",
-      "title": "Su horóscopo semanal positivo: 'Astrología del libre albedrío' de Rob Brezsny",
-      "summary": "Rob Brezsny defiende un enfoque positivo de la vida a través de horóscopos con sabiduría semanal en esta columna semanal de Astrología del libre albedrío.",
-      "fullStory": "Nuestro socio Rob Brezsny, cuyo último libro es Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, brinda su sabiduría semanal para iluminar nuestro pensamiento y motivar nuestro estado de ánimo. Rob's Free Will Astrology es una columna semanal sindicada que aparece en más de cien publicaciones. También es autor de Pronoia es el antídoto para la paranoia: cómo toda la creación conspira para colmarte de bendiciones. (Una vista previa gratuita del libro está disponible aquí).\n\nESCORPIO (del 23 de octubre al 21 de noviembre): ¿Hay partes del pasado a las que está esclavizado? Tal vez incluso aprecies algunos grilletes, como una vieja y cómoda creencia, un hábito protector o una historia sobre quién eres que alguna vez te ayudó pero que ahora te limita. Si eres como la mayoría de nosotros (¡incluido yo! ), tienes buenos recuerdos que lamentablemente imponen límites a tu futuro. Sean lo que sean, querido Escorpio, ahora es un excelente momento para liberarte de su control sobre ti. Para empezar, haga un pequeño pero potente gesto de liberación. Mientras lo hace, diga esto en voz alta: “Ya no estoy encadenado a versiones obsoletas de mí mismo. ” Versión alternativa, si te sientes muy apasionado: “Ya no estoy &^%$@# encadenado a ninguna *%#@&+ versión obsoleta de mí mismo. \"\n\nSAGITARIO (del 22 de noviembre al 21 de diciembre): El Ministerio Supremo de Mitos Astrológicos aceptó mi solicitud de darle temporalmente una nueva designación. Durante las próximas cuatro semanas, estás autorizado a referirte a ti mismo como el Aventurero contemplativo, el Caminante meditativo o el Buscador pensativo, o los tres, si lo deseas. Al otorgar estos títulos, los animo a liberar energía heroica para utilizarla en sus reinos internos. Una buena forma de aprovechar esta bendición será relajarte en un sillón cómodo y negociar treguas con tus demonios. Otra actividad recomendada: pedir a los espíritus de la naturaleza y al canto de los pájaros que aumenten tu intuición sobre tu futuro mientras realizas largas caminatas.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-10-24-2026/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Freewill-Astrology-horoscope-logo.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-24T10:00:24.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-rescuers-ensure-orphaned-baby-",
-      "title": "Los rescatistas garantizan que la morsa bebé huérfana tenga una segunda oportunidad (MIRAR)",
-      "summary": "Encontraron a la cría huérfana escondida entre los restos más antiguos de dos morsas adultas, que ya eran el objetivo de las aves carroñeras.",
-      "fullStory": "Encontrada sola y oprimida por carroñeros en una remota playa del norte de Alaska, una cría de morsa del Pacífico huérfana ahora tiene un nuevo hogar en SeaWorld Orlando.\n\nCon un peso aproximado de 220 libras, el ternero macho de 5 meses, llamado Annautaq, recibe atención las 24 horas del día por parte del dedicado equipo veterinario y de cuidado de animales de SeaWorld, una de las cuatro instituciones estadounidenses actualmente capaces de albergar morsas.\n\nEl rescate de Annautaq es bastante notable. Violet Anniskett, pasante de investigación de vida silvestre y miembro de la comunidad local, y el científico del Servicio Geológico de EE. UU. Tony Fischbach descubrieron a la cría en una playa remota en el norte de Alaska después de que una manada de morsas partiera durante un fuerte oleaje.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/rescuers-ensure-orphaned-baby-walrus-gets-a-second-chance-look/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/A-USFWS-Intern-and-Annautaq-credit-supplied-to-GNN-by-SeaWorld-Orlando-Stephanie-Bechara-cropped.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-23T18:30:31.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
       "id": "rss-mundo-what-went-right-this-week-the-",
       "title": "Lo que salió bien esta semana: las buenas noticias que importan",
-      "summary": "La reconstrucción de la naturaleza dio esperanza a las islas bajas, una prueba de ingreso básico resultó prometedora y una fábrica de Bangladesh ganó un premio mundial, además de más buenas noticias.",
+      "summary": "La recuperación de la naturaleza dio esperanza a las islas bajas, una prueba de ingreso básico resultó prometedora y una fábrica de Bangladesh ganó un premio mundial, además de más buenas noticias.",
       "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLa reconstrucción de la naturaleza dio esperanza a las islas bajas, una prueba de ingreso básico se mostró prometedora y una fábrica de Bangladesh ganó un premio mundial de arquitectura, además de más buenas noticias.\n\nRestaurar las poblaciones de aves marinas y la vegetación nativa en islas tropicales bajas les daría una “oportunidad de luchar” contra el aumento del nivel del mar, según un estudio.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
