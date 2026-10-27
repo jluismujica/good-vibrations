@@ -1,15 +1,111 @@
 {
-  "lastUpdated": "2026-10-27T01:55:26.577Z",
-  "totalCount": 14,
+  "lastUpdated": "2026-10-27T16:19:01.876Z",
+  "totalCount": 15,
   "categories": {
     "musica": 0,
     "ia": 0,
     "psicologia": 0,
     "liderazgo": 0,
     "chile": 0,
-    "mundo": 14
+    "mundo": 15
   },
   "news": [
+    {
+      "id": "rss-mundo-high-school-baseball-team-has-",
+      "title": "El equipo de béisbol de la escuela secundaria tiene todas las vibraciones del éxito pero nunca ganó un juego: a los niños no les importa",
+      "summary": "Se podría decir que es una historia muy canadiense: que los Dartmouth Spartans no han ganado un partido de béisbol en 6 años, y aún así se sienten ganadores.",
+      "fullStory": "Se podría decir que es una historia muy canadiense: que los Spartans de Dartmouth High School no han ganado un partido de béisbol en 6 años, y aún así se sienten ganadores.\n\nAl observarlos durante el entrenamiento, fildeando rodados y elevados, no parecen un equipo que tienda a perder la mayoría de sus juegos mediante la 'regla de la misericordia' y el resto a la antigua usanza al final de la novena.\n\nSin embargo, para la multitud de muchachos de Nueva Escocia locos por el béisbol, es la oportunidad de atarse los zapatos, ponerse la camiseta y pintarse las mejillas de negro lo que mantiene su ánimo tan alto como su porcentaje de derrotas.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/high-school-baseball-team-has-all-the-vibes-of-success-but-never-won-a-game-kids-dont-mind/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/baseball-unsplash.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-27T15:30:59.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo-ngo-celebrates-70-million-amaz",
+      "title": "Una ONG celebra la conservación de 70 millones de acres amazónicos después de protegerlos y llamarlos “eslabón de vida”",
+      "summary": "Esta arteria acuosa de 780 millas de largo, que forma la frontera noreste entre Bolivia y Brasil, alberga miles de especies diferentes.",
+      "fullStory": "La ONG estadounidense Rainforest Trust ayudó recientemente a la creación de una reserva de vida silvestre de 715.000 acres en Bolivia a lo largo del río Iténez, considerado por los científicos como un \"eslabón de vida\".\n\nEsta arteria acuosa de 780 millas de largo, la mayor parte de la cual forma la frontera noreste entre Bolivia y Brasil, es el hogar de todos los éxitos: jaguar, delfines del río Amazonas, nutrias gigantes, tapires de tierras bajas, caimanes negros y mucho más, incluidas 260 especies de peces, 25 de las cuales no se encuentran en ningún otro lugar.\n\nLas protecciones para el área alrededor de Iténez (o Guaporé, en portugués brasileño) están consagradas dentro de la Reserva Municipal de Vida Silvestre Agua Dulce, creada por una ley local. Protege este corredor ecológico clave entre las tierras silvestres de Brasil y Bolivia del que dependen los animales para su migración.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/ngo-celebrates-70-million-amazon-acres-conserved-after-protecting-are-called-a-link-of-life/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Sunrise-on-the-Itenez-River-credit-Gabriela-Villaneuva-CC-4.0.-BY-SA-e1793094098653.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-27T13:00:06.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-family-that-s-fostered-500-chi",
+      "title": "Familia que acogió a 500 niños se salvó de un incendio doméstico gracias al giro equivocado de un extraño",
+      "summary": "La historia es un recordatorio de que al volante, como en la vida en general, el camino equivocado no siempre es el camino equivocado.",
+      "fullStory": "Un completo desconocido llamado Casey supo que estaba en el lugar equivocado, pero en el momento adecuado: cuando vio el humo de una casa en llamas a lo lejos.\n\nDespués de que su GPS lo desvió de la ruta correcta y tomó la autopista estatal 114 al sur de Lyerly en el condado de Chattooga en Georgia, el hombre se encontró como el único socorrista en un incendio en una casa.\n\nLa casa pertenecía a James y Larita Burke, un par de santos padres adoptivos bajo cuyo techo en llamas vivían 11 hijos y 1 nieto, algunos adoptados, otros en hogares de acogida.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/family-thats-fostered-500-children-saved-from-housefire-thanks-to-strangers-wrong-turn/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/The-Burke-Family-credit-Flourish-Foster-Care-Closet-Support.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-27T11:30:43.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-cream-of-the-crop-one-brand-s-",
+      "title": "Lo mejor de la cosecha: la búsqueda silenciosa de una marca para reinventar la industria láctea",
+      "summary": "Se está explorando la agricultura regenerativa como una forma de hacer que la producción lechera sea más resiliente. ¿Pero qué significa todo esto? Aquí, nuestra guía desmitificadora.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLa agricultura regenerativa se explora cada vez más como una forma de hacer que la producción lechera sea más resiliente. ¿Pero qué significa todo esto? Desde el pastoreo en masa hasta las leyes herbarias, aquí está nuestra guía desmitificadora\n\nCuando pensamos en estrategias para un futuro verde, normalmente no nos viene a la mente una vaca lechera. Vehículos eléctricos y energías renovables, sí. ¿Pero los bovinos?",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Positive News",
+      "sourceUrl": "https://www.positive.news/environment/cream-of-the-crop-one-brands-quiet-quest-to-reinvent-the-dairy-industry/",
+      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/iStock-636373182.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-27T07:00:17.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-good-news-in-history-october-2",
+      "title": "Buenas noticias en la historia, 27 de octubre",
+      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 27 de octubre.",
+      "fullStory": "Hoy hace 64 años, un hombre en el lugar correcto, en el momento correcto, hizo lo correcto, salvando al mundo de una probable guerra nuclear. Vasily Arkhipov es conocido como el \"hombre que salvó al mundo\" durante la crisis de los misiles cubanos de 1962, cuando detuvo a los otros dos oficiales a bordo del submarino soviético B-59 por la decisión de lanzar una salva de torpedos nucleares contra la Armada de los Estados Unidos. LEE cómo pasó… (1962)\n\nEl 27 de octubre de 1962, durante la Crisis de los Misiles en Cuba, un grupo de 11 destructores de la Armada de los Estados Unidos y el portaaviones USS Randolph localizaron el submarino nuclear B-59, propulsado por diésel, cerca de Cuba. A pesar de estar en aguas internacionales, la Armada de los Estados Unidos comenzó a lanzar cargas de profundidad de señalización, con las que pretendía obligar al submarino a salir a la superficie para su identificación.\n\nPara entonces, no había habido ningún contacto desde Moscú ni transmisiones de radio civiles durante varios días. Los que estaban a bordo no sabían si había estallado la guerra o no, pero allí estaban los barcos estadounidenses lanzando cargas de profundidad cerca de ellos. El capitán del submarino, Valentin Grigorievich Savitsky, decidió que tal vez ya había comenzado la guerra y quiso lanzar un torpedo nuclear.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061027/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/10/Vasili_Arkhipov-CC-SA-4.0.-Olga-Arkhipov.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-27T07:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
     {
       "id": "rss-mundo-stunning-new-opera-house-opens",
       "title": "Impresionante nueva ópera abre sus puertas con una gran escalera que desafía la gravedad (MIRAR)",
@@ -27,8 +123,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-tiny-scottish-island-s-little-",
@@ -91,7 +186,7 @@
       "id": "rss-mundo-man-named-service-cleans-up-ny",
       "title": "Un hombre denominado \"servicio\" limpia un vertedero en Nueva York por iniciativa propia",
       "summary": "\"La gente me decía: 'Oh, ¿qué tal si dejas de hacer videos sobre eso y te vas a limpiarlo tú mismo? ' Así que lo hice\", dijo Service a CBS News.",
-      "fullStory": "No es raro pasar junto a la basura en una ciudad importante: lo que es raro es detenerse para hacer algo al respecto.\n\nSin embargo, no fue sólo basura lo que Joshua Service, residente de Queens, pasó en un viaje reciente en tren, sino un vertedero espontáneo.\n\nService sacó su teléfono y grabó un video de las pilas de basura debajo de un puente del metro en Crown Heights, cerca de Atlantic Avenue, llamando al número 311 de la ciudad, que maneja los servicios civiles que no son de emergencia, por no hacer su trabajo.",
+      "fullStory": "No es raro pasar junto a la basura en una ciudad importante: lo que es raro es detenerse para hacer algo al respecto.\n\nSin embargo, no fue sólo basura por la que pasó Joshua Service, residente de Queens, en un reciente viaje en tren, sino un vertedero espontáneo.\n\nService sacó su teléfono y grabó un video de las pilas de basura debajo de un puente del metro en Crown Heights, cerca de Atlantic Avenue, llamando al número 311 de la ciudad, que maneja los servicios civiles que no son de emergencia, por no hacer su trabajo.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Good News Network",
@@ -107,85 +202,9 @@
       ]
     },
     {
-      "id": "rss-mundo-good-news-in-history-october-2",
-      "title": "Buenas noticias en la historia, 26 de octubre",
-      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 26 de octubre.",
-      "fullStory": "Hoy hace 201 años, el Canal Erie abrió un pasaje desde Nueva York a los Grandes Lagos. El canal fue construido para crear una ruta de agua navegable desde el Océano Atlántico hasta el Medio Oeste de los EE. UU. y tomó 8 años construir las 36 esclusas que superaron un diferencial de elevación total de aproximadamente 565 pies (172 m). En una época en la que sólo había animales de carga y no había barcos de vapor ni ferrocarriles, el agua se convirtió en un método de transporte rentable que cambió la región de los Grandes Lagos. LEER más… (1825)\n\nCuando se construyó, el canal de 584 kilómetros (363 millas) era el segundo más largo del mundo después del Gran Canal de China. El año pico del Erie fue 1855, cuando se realizaron 33.000 envíos comerciales. Continuó siendo competitivo con los ferrocarriles hasta aproximadamente 1902, cuando se abolieron los peajes.\n\nEl tráfico comercial disminuyó considerablemente en la segunda mitad del siglo XX debido a la competencia del transporte por carretera a través del recientemente desarrollado sistema de autopistas interestatales y la apertura en 1959 de la vía marítima más grande de St. Lawrence. El último transporte regular del canal, el Day Peckinpaugh, finalizó su servicio en 1994.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061026/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2014/10/Erie-Canal-Drawing-1836-pubdomain.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-26T07:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-live-webcam-brings-you-inside-",
-      "title": "La cámara web EN VIVO te lleva al interior de Cheetah Den con 5 pequeños cachorros atendidos por mamá (los maullidos son fascinantes)",
-      "summary": "Un guepardo llamado Zura dio a luz a cinco adorables cachorros en el Instituto Smithsonian de Virginia, y puedes espiarlos día y noche.",
-      "fullStory": "El 5 de octubre, un guepardo llamado Zura dio a luz a cinco adorables cachorros en el Instituto de Conservación del Smithsonian en Virginia, y puedes espiarlos día y noche.\n\nLa cámara ofrece una rara oportunidad de ver a una mamá guepardo cuidando a sus cachorros recién nacidos, mientras escuchas la íntima vocalización de suaves chirridos, pequeños ronroneos y maullidos.\n\nYa sea que los gatos estén amamantando, acicalándose o luchando, la cámara Cheetah proporciona imágenes y sonidos de cada momento.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/live-smithsonian-webcam-for-cheetah-den-and-5-cubs/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Cheetah-Cam-screenshot-via-Smithsonian-Conservation-Biology-Institute-.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-25T21:51:15.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-53-orangutans-rescued-from-fir",
-      "title": "53 orangutanes rescatados de incendios en Borneo, muchos de ellos reconvertidos en reservas forestales en toda la isla",
-      "summary": "La organización sin fines de lucro YIARI ha rescatado a 53 orangutanes en peligro de extinción de los incendios forestales que arden en la isla de Borneo, y tú puedes ayudar.",
-      "fullStory": "Los incendios forestales y de turberas continúan ardiendo en toda la isla de Borneo, poniendo en peligro la calidad del aire tanto para los seres humanos como para la vida silvestre, y quemando el suministro de alimentos para los orangutanes en peligro crítico de extinción.\n\nAfortunadamente, gracias a una organización sin fines de lucro que lleva 18 años centrada en el rescate y la conservación de primates en Indonesia, un total de 53 orangutanes han sido rescatados de los incendios, y muchos de ellos han sido reintegrados a otras reservas forestales del país.\n\nDesde agosto, el equipo de YIARI se ha apresurado a responder a una serie de casos urgentes, incluidos animales varados, el traslado de otros al Parque Nacional Gunung Palung a cinco horas de distancia y la salvación de varias madres y bebés, todos rescatados en estado crítico.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/53-orangutans-rescued-from-fires-in-borneo/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Dr-Karmele-Llano-Sanchez-rescues-baby-orangutan-Credit-YIARI-BKSDA-and-International-Animal-Rescue-RELEASED.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-25T18:06:02.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-flood-worries-tape-can-block-9",
-      "title": "¿Preocupaciones por inundaciones? La cinta puede bloquear el 99% del agua en comparación con los costosos sacos de arena que te rompen la espalda",
-      "summary": "Las casas en riesgo de inundación podrían protegerse mejor utilizando cinta adhesiva asequible en lugar de sacos de arena, según muestra una nueva investigación. Mira como...",
-      "fullStory": "Las casas en riesgo de inundación podrían estar mejor protegidas en caso de emergencia utilizando cinta adhesiva ampliamente disponible y asequible en lugar de los tradicionales sacos de arena, según muestra una nueva investigación de la Universidad de Hull en el Reino Unido.\n\nLas pruebas realizadas en el laboratorio de última generación de Resiliencia de Inundaciones de Propiedades (PFRlab) de la Universidad compararon medidas temporales de bajo costo para evitar que el agua de las inundaciones ingrese a los hogares.\n\nLa investigación encargada por Flood Re, una iniciativa conjunta entre el Gobierno y las aseguradoras, encontró que la cinta de caucho sintético flexible redujo las fugas de agua en un 99% en comparación con una puerta desprotegida y es muy eficaz. La cinta adhesiva redujo las fugas entre un 97% y un 98%, combinando un sólido rendimiento y asequibilidad con facilidad de uso.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/tape-can-block-99-of-water-compared-to-expensive-sandbags/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/07/Vermont-Montpelier-Flood-submitted-Credit-to-Bob-Fitch.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-25T16:05:34.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
       "id": "rss-mundo-what-went-right-this-week-the-",
       "title": "Lo que salió bien esta semana: las buenas noticias que importan",
-      "summary": "La reconstrucción de la naturaleza dio esperanza a las islas bajas, una prueba de ingreso básico resultó prometedora y una fábrica de Bangladesh ganó un premio mundial, además de más buenas noticias.",
+      "summary": "La recuperación de la naturaleza dio esperanza a las islas bajas, una prueba de ingreso básico resultó prometedora y una fábrica de Bangladesh ganó un premio mundial, además de más buenas noticias.",
       "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLa reconstrucción de la naturaleza dio esperanza a las islas bajas, una prueba de ingreso básico se mostró prometedora y una fábrica de Bangladesh ganó un premio mundial de arquitectura, además de más buenas noticias.\n\nRestaurar las poblaciones de aves marinas y la vegetación nativa en islas tropicales bajas les daría una “oportunidad de luchar” contra el aumento del nivel del mar, según un estudio.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
