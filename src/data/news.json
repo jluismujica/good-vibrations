@@ -1,15 +1,111 @@
 {
-  "lastUpdated": "2026-10-28T02:05:12.489Z",
-  "totalCount": 15,
+  "lastUpdated": "2026-10-28T17:04:38.852Z",
+  "totalCount": 16,
   "categories": {
     "musica": 0,
-    "ia": 0,
+    "ia": 1,
     "psicologia": 0,
     "liderazgo": 0,
     "chile": 0,
     "mundo": 15
   },
   "news": [
+    {
+      "id": "rss-mundo-bizarre-rescue-sees-divers-sav",
+      "title": "En un extraño rescate, los buzos salvan a un canguro que se encontró a más de una milla de tierra firme",
+      "summary": "\"¡Debe haber tenido una gran noche y uno de los chicos se atrevió a darse un chapuzón y hacer travesuras! \"",
+      "fullStory": "En una historia demasiado \"australiana\" para creer, un buzo y su tripulación rescataron a un canguro a más de una milla y media mar adentro.\n\nVisto por primera vez por el capitán en las aguas de la Bahía de Boston, en el estado de Australia del Sur, estaba claro que el canguro juvenil reconoció que su única esperanza era subir a bordo del barco.\n\nEn el mar en calma, la puerta de agua del barco permitió a la tripulación llegar hasta el nivel de las suaves olas. Estaba agotado hasta el punto que el conductor Jake Murray pudo levantarlo fácilmente.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/bizarre-rescue-sees-divers-save-kangaroo-that-found-itself-over-a-mile-from-dry-land/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Jake-Murray-and-the-rescued-roo-supplied-to-ABC-by-Jake-Murray.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-28T15:30:15.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-ia-etsy-cracks-down-on-ai-generat",
+      "title": "Etsy toma medidas enérgicas contra el contenido generado por IA para proteger a los compradores del aluvión de basura",
+      "summary": "Los infractores pueden ser considerados legalmente responsables de emitir reembolsos si los clientes sienten que han sido engañados a través de imágenes del producto.",
+      "fullStory": "Para el mercado de comercio electrónico de artesanías en línea más grande del mundo, el impacto de los medios generados por IA siempre iba a ser grande.\n\nEs por eso que Etsy ha tomado medidas definitivas para proteger a los casi 6 millones de empresarios artesanos que alberga con nuevas regulaciones contra el contenido generado por IA.\n\n\"Nuestro mercado sólo funciona cuando los compradores y vendedores confían entre sí\", escribió el vicepresidente de operaciones de clientes de Etsy, James Ossman, en una publicación de blog.",
+      "whyGoodNews": "Muestra cómo la innovación científica y el ingenio humano colaboran para resolver desafíos ambientales y sociales concretos.",
+      "category": "ia",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/etsy-cracks-down-on-ai-generated-content-to-protect-buyers-from-barrage-of-slop/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Etsys-offices-in-Ireland-CC-3.0.-BY-SA-Cograng-replicated-with-AI-for-humors-sake.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-28T13:00:04.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "INNOVACIÓN",
+        "CIENCIA"
+      ]
+    },
+    {
+      "id": "rss-mundo-stranger-anonymously-pays-420-",
+      "title": "Un extraño paga de forma anónima $420 por el almuerzo de 27 residentes y cuidadores discapacitados",
+      "summary": "Los miembros de un grupo comunitario de discapacitados de Corea del Sur se sorprendieron al escuchar que un completo extraño había pagado su almuerzo de barbacoa por valor de 420 dólares. La historia comienza cuando el grupo de 27 empleados del centro comunitario y residentes discapacitados de la ciudad de Incheon, justo al oeste de la capital, Seúl, se detuvieron para almorzar en una barbacoa […]",
+      "fullStory": "Los miembros de un grupo comunitario de discapacitados de Corea del Sur se sorprendieron al escuchar que un completo extraño había pagado su almuerzo de barbacoa por valor de 420 dólares.\n\nLa historia comienza cuando el grupo de 27 empleados del centro comunitario y residentes discapacitados de la ciudad de Incheon, justo al oeste de la capital, Seúl, se detuvieron para almorzar en una barbacoa residente en el distrito Seohae de Incheon.\n\nOrganizada por el personal y los voluntarios del Centro de Bienestar Comunitario Jemulpo-gu Hanmaum, la mañana se pasó viendo algunos de los lugares de interés de Incheon, como el Parque del Lago Cheongna, según la Agencia de Noticias Yonhap del país.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/anonymously-pays-dinner-tab-for-27-disability-staff-in-south-korea/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Getty-Images-for-Unsplash-.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-28T11:30:33.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-positive-news-launches-new-vid",
+      "title": "Positive News lanza un nuevo video podcast que explora lo que está sucediendo en el mundo",
+      "summary": "La serie What Went Right se está expandiendo a YouTube y otras plataformas de podcasts, llevando su resumen semanal de progreso a nuevas audiencias.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLa serie insignia What Went Right se está expandiendo a YouTube, Spotify y otras plataformas de podcasts, llevando su popular resumen semanal de avances y soluciones a nuevas audiencias.\n\nPublicado todos los sábados, el nuevo programa explora tres de las historias de progreso más importantes de la semana, desde avances científicos y soluciones climáticas hasta iniciativas comunitarias y cambios sociales. Cada episodio va más allá de los titulares para examinar lo que está sucediendo, quién lo impulsa y si las soluciones que se están desarrollando podrían funcionar en otros lugares.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/positive-news-launches-new-video-podcast-exploring-whats-going-right-in-the-world/",
+      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/WWR_hosts_3x2.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-28T09:43:33.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-good-news-in-history-october-2",
+      "title": "Buenas noticias en la historia, 28 de octubre",
+      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 28 de octubre.",
+      "fullStory": "Hoy hace 61 años, se completó el Arco Gateway en St. Louis, Missouri. Revestido de acero inoxidable y con una altura de 630 pies, es el monumento más alto del hemisferio occidental. El arco se encuentra en la orilla occidental del río Mississippi como un tributo a los grandes exploradores del oeste, Lewis y Clark, y otros pioneros que comenzaron sus viajes en St. Luis. LEER más sobre el arco… (1965)\n\nEl arquitecto Eero Saarinen diseñó el arco para que se balanceara 18 pulgadas, con un interior hueco que cuatro millones de turistas podían visitar cada año y contemplar a través de altas ventanas sobre la ciudad. Esas ventanas miran hacia abajo en un ángulo de 30 grados y pueden causar bastante miedo a quienes tienen miedo a las alturas.\n\nSe ha escrito que el arco representaba el \"espíritu ilimitado del optimismo americano\" y que fue construido según una \"sencillez que garantiza la atemporalidad\".",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061028/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/05/Gateway-Arch-National-Park-St-Louis-skyline-pubdomain-Kenny-Nguyen.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-28T07:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
     {
       "id": "rss-mundo-fda-approval-for-drill-free-ca",
       "title": "La aprobación de la FDA para el cuidado de la cavidad sin perforación puede ser inminente después del gran ensayo de tratamiento de fase 3",
@@ -27,14 +123,13 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-high-school-baseball-team-has-",
       "title": "El equipo de béisbol de la escuela secundaria tiene todas las vibraciones del éxito pero nunca ganó un juego: a los niños no les importa",
       "summary": "Se podría decir que es una historia muy canadiense: que los Dartmouth Spartans no han ganado un partido de béisbol en 6 años, y aún así se sienten ganadores.",
-      "fullStory": "Se podría decir que es una historia muy canadiense: que los Spartans de Dartmouth High School no han ganado un partido de béisbol en 6 años, y aún así se sienten ganadores.\n\nAl observarlos durante el entrenamiento, fildeando rodados y elevados, no parecen un equipo que tienda a perder la mayoría de sus juegos a través de la 'regla de la misericordia' y el resto a la antigua usanza al final de la novena.\n\nSin embargo, para la multitud de muchachos de Nueva Escocia locos por el béisbol, es la oportunidad de atarse los zapatos, ponerse la camiseta y pintarse las mejillas de negro lo que mantiene su ánimo tan alto como su porcentaje de derrotas.",
+      "fullStory": "Se podría decir que es una historia muy canadiense: que los Spartans de Dartmouth High School no han ganado un partido de béisbol en 6 años, y aún así se sienten ganadores.\n\nAl observarlos durante el entrenamiento, fildeando rodados y elevados, no parecen un equipo que tienda a perder la mayoría de sus juegos mediante la 'regla de la misericordia' y el resto a la antigua usanza al final de la novena.\n\nSin embargo, para la multitud de muchachos de Nueva Escocia locos por el béisbol, es la oportunidad de atarse los zapatos, ponerse la camiseta y pintarse las mejillas de negro lo que mantiene su ánimo tan alto como su porcentaje de derrotas.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Good News Network",
@@ -91,7 +186,7 @@
       "id": "rss-mundo-cream-of-the-crop-one-brand-s-",
       "title": "Lo mejor de la cosecha: la búsqueda silenciosa de una marca para reinventar la industria láctea",
       "summary": "Se está explorando la agricultura regenerativa como una forma de hacer que la producción lechera sea más resiliente. ¿Pero qué significa todo esto? Aquí, nuestra guía desmitificadora.",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLa agricultura regenerativa se explora cada vez más como una forma de hacer que la producción lechera sea más resiliente. ¿Pero qué significa todo esto? Desde el pastoreo en masa hasta las leyes herbarias, aquí está nuestra guía desmitificadora\n\nCuando pensamos en estrategias para un futuro verde, normalmente no nos viene a la mente una vaca lechera. Vehículos eléctricos y energías renovables, sí. ¿Pero los bovinos?",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nSocios de Positive News Este artículo ha sido creado por Positive News y respaldado por Yeo Valley Compartir: . a2a_s_facebook, . a2a_s_linkedin, . a2a_s_email{ color de fondo:#00bcdb! importante; } Pantalla solo @media y (ancho máximo: 768 px) { div#social_btns { display: none; }} La agricultura regenerativa se explora cada vez más como una forma de hacer que la producción lechera sea más resiliente. ¿Pero qué significa todo esto? Desde el pastoreo en masa hasta las leyes herbarias, aquí está nuestra guía desmitificadora\n\nCuando pensamos en estrategias para un futuro verde, normalmente no nos viene a la mente una vaca lechera. Vehículos eléctricos y energías renovables, sí. ¿Pero los bovinos?",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
@@ -99,82 +194,6 @@
       "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/iStock-636373182.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-10-27T07:00:17.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-good-news-in-history-october-2",
-      "title": "Buenas noticias en la historia, 27 de octubre",
-      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 27 de octubre.",
-      "fullStory": "Hoy hace 64 años, un hombre en el lugar correcto, en el momento correcto, hizo lo correcto, salvando al mundo de una probable guerra nuclear. Vasily Arkhipov es conocido como el \"hombre que salvó al mundo\" durante la crisis de los misiles cubanos de 1962, cuando destituyó a los otros dos oficiales a bordo del submarino soviético B-59 por la decisión de lanzar una salva de torpedos nucleares contra la Armada de los Estados Unidos. LEE cómo pasó… (1962)\n\nEl 27 de octubre de 1962, durante la Crisis de los Misiles en Cuba, un grupo de 11 destructores de la Armada de los Estados Unidos y el portaaviones USS Randolph localizaron el submarino B-59 con armas nucleares y propulsión diésel cerca de Cuba. A pesar de estar en aguas internacionales, la Armada de los Estados Unidos comenzó a lanzar cargas de profundidad de señalización, con las que pretendía obligar al submarino a salir a la superficie para su identificación.\n\nPara entonces, no había habido ningún contacto desde Moscú ni transmisiones de radio civiles durante varios días. Los que estaban a bordo no sabían si había estallado la guerra o no, pero allí estaban los barcos estadounidenses lanzando cargas de profundidad cerca de ellos. El capitán del submarino, Valentin Grigorievich Savitsky, decidió que tal vez ya había comenzado la guerra y quiso lanzar un torpedo nuclear.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061027/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/10/Vasili_Arkhipov-CC-SA-4.0.-Olga-Arkhipov.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-27T07:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-stunning-new-opera-house-opens",
-      "title": "Impresionante nueva ópera abre sus puertas con una gran escalera que desafía la gravedad (MIRAR)",
-      "summary": "A pesar de que se levantó el telón a finales de año, la nueva ópera de Shanghai se ha abierto paso hasta la primera fila de los estrenos arquitectónicos.",
-      "fullStory": "A pesar de que se levantó el telón a finales de año, la nueva ópera de Shanghai se ha abierto paso hasta la primera fila de los estrenos arquitectónicos internacionales, gracias a una gran escalera que desafía la gravedad.\n\nElevándose sobre las orillas del río Huangpu, el encargo de la Gran Ópera se concedió hace 10 años al estudio de arquitectura noruego Snøhetta.\n\nEl equipo de Snøhetta razonó que, a pesar de ser en muchos casos maravillas arquitectónicas y de diseño, los teatros de ópera naturalmente contienen muchos \"umbrales\" que limitan la capacidad de las personas para apreciar e interactuar con un edificio. Su esperanza era eliminar estos umbrales cuando fuera posible y crear una mayor armonía con el entorno cívico en el que se encuentra la sala.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/stunning-new-opera-house-welcomes-you-with-gravity-defying-grand-staircase-look/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/2016299_OS_N814.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-26T18:30:24.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-tiny-scottish-island-s-little-",
-      "title": "La pequeña sociedad histórica de la pequeña isla escocesa hace un descubrimiento masivo",
-      "summary": "El patrimonio arqueológico descubierto allí indica que el monasterio medieval temprano era un centro tanto de artesanía como de fe.",
-      "fullStory": "Ahora se confirma que una isla escocesa fue uno de los primeros centros de evangelización cristiana en las Islas Británicas gracias a una sociedad histórica de un pequeño pueblo.\n\nEl enorme descubrimiento sitúa a la pequeña isla en el mapa histórico a lo grande, ya que el patrimonio arqueológico descubierto allí apunta a que el monasterio medieval temprano era un centro tanto de artesanía como de fe.\n\nCon 9 millas de ancho, la isla Lismore en las Hébridas Interiores recibe su nombre de un centro histórico de monaquismo relacionado con la cristianización temprana de Gran Bretaña llamado Lios Mòr.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/tiny-scottish-islands-little-historical-society-makes-massive-discovery/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/An-aerial-view-of-the-archaeological-trenches-dug-around-Lismores-parish-church-credit-Clare-Ellis-et-al.-Antiquity-2026-e1793014269132.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-26T15:30:56.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-numbers-of-endangered-and-sacr",
-      "title": "El número de delfines de río sagrados y en peligro de extinción aumenta a 6 después de una exitosa temporada de reproducción",
-      "summary": "Los conservacionistas locales dicen que los nacimientos son una señal clara de que este cetáceo especial puede recuperarse si se frenan las amenazas ambientales.",
-      "fullStory": "Los delfines de río se encuentran entre las especies más amenazadas del mundo, ya sea que se encuentren en el Nuevo Mundo o en el Viejo.\n\nSin embargo, al menos por ahora, las cosas están mejorando para estos animales considerados sagrados por la gente que vive a lo largo de un tramo del río Mekong en Camboya, ya que la temporada de parto más reciente produjo 6 crías de delfines.\n\nLos delfines del Irrawaddy (Orcaella brevirostris) están divididos por la civilización moderna en múltiples poblaciones aisladas en varios países. Algunos todavía son cazados, otros mueren en la pesca incidental, pero estos delfines de nariz chata son cada vez más valorados como atracciones ecoturísticas.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/numbers-of-endangered-and-sacred-river-dolphin-grow-by-6-after-successful-breeding-season/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Irrawaddy-dolphin-CC-4.0.-Int-Stefan-Brending.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-26T13:00:58.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
@@ -202,15 +221,15 @@
       ]
     },
     {
-      "id": "rss-mundo-what-went-right-this-week-the-",
-      "title": "Lo que salió bien esta semana: las buenas noticias que importan",
+      "id": "rss-mundo-what-went-right-this-week-how-",
+      "title": "Lo que salió bien esta semana: cómo la reconstrucción puede \"salvar\" las islas bajas, y más",
       "summary": "La reconstrucción de la naturaleza dio esperanza a las islas bajas, una prueba de ingreso básico resultó prometedora y una fábrica de Bangladesh ganó un premio mundial, además de más buenas noticias.",
       "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLa reconstrucción de la naturaleza dio esperanza a las islas bajas, una prueba de ingreso básico se mostró prometedora y una fábrica de Bangladesh ganó un premio mundial de arquitectura, además de más buenas noticias.\n\nRestaurar las poblaciones de aves marinas y la vegetación nativa en islas tropicales bajas les daría una “oportunidad de luchar” contra el aumento del nivel del mar, según un estudio.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
       "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-43-of-2026/",
-      "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/iStock-900706714.jpg",
+      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/iStock-900706714.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-10-23T05:00:52.000Z",
       "positivityScore": 96,
