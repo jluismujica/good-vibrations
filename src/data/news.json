@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T17:04:38.852Z",
+  "lastUpdated": "2026-10-29T02:15:20.535Z",
   "totalCount": 16,
   "categories": {
     "musica": 0,
@@ -11,10 +11,30 @@
   },
   "news": [
     {
+      "id": "rss-mundo-nature-inspired-tech-prevents-",
+      "title": "La tecnología inspirada en la naturaleza evita que los microplásticos ingresen al Océano Atlántico a través de las aguas residuales",
+      "summary": "El gran implante imita las plantas hidrofóbicas que se encuentran en la naturaleza, que arrojan completamente agua al contacto pero también atraen partículas de microplástico.",
+      "fullStory": "Los alumnos de Princeton han diseñado lo que se llama el primer dispositivo del mundo para filtrar microplásticos de las aguas residuales a escala, y ya se ha implementado en Atlantic City.\n\nEl gran implante imita las plantas hidrofóbicas que se encuentran en la naturaleza, que arrojan completamente agua al contacto pero también atraen partículas de microplástico.\n\nUna vez que el agua avanza y las partículas se eliminan, se pueden recolectar fácilmente y enviar a una instalación de reciclaje para su procesamiento.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/nature-inspired-tech-prevents-microplastics-entering-atlantic-ocean-through-wastewater/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-supplied-to-WHYY-as-a-courtesy-PolyGone-Systems.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-28T18:30:55.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
       "id": "rss-mundo-bizarre-rescue-sees-divers-sav",
       "title": "En un extraño rescate, los buzos salvan a un canguro que se encontró a más de una milla de tierra firme",
       "summary": "\"¡Debe haber tenido una gran noche y uno de los chicos se atrevió a darse un chapuzón y hacer travesuras! \"",
-      "fullStory": "En una historia demasiado \"australiana\" para creer, un buzo y su tripulación rescataron a un canguro a más de una milla y media mar adentro.\n\nVisto por primera vez por el capitán en las aguas de la Bahía de Boston, en el estado de Australia del Sur, estaba claro que el canguro juvenil reconoció que su única esperanza era subir a bordo del barco.\n\nEn el mar en calma, la puerta de agua del barco permitió a la tripulación llegar hasta el nivel de las suaves olas. Estaba agotado hasta el punto que el conductor Jake Murray pudo levantarlo fácilmente.",
+      "fullStory": "En una historia demasiado \"australiana\" para creer, un buzo y su tripulación rescataron a un canguro a más de una milla y media mar adentro.\n\nVisto por primera vez por el capitán en las aguas de la bahía de Boston, en el estado de Australia del Sur, estaba claro que el canguro juvenil reconoció que su única esperanza era subir a bordo del barco.\n\nEn el mar en calma, la puerta de agua del barco permitió a la tripulación llegar hasta el nivel de las suaves olas. Estaba agotado hasta el punto que el conductor Jake Murray pudo levantarlo fácilmente.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Good News Network",
@@ -27,8 +47,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-ia-etsy-cracks-down-on-ai-generat",
@@ -53,7 +72,7 @@
       "id": "rss-mundo-stranger-anonymously-pays-420-",
       "title": "Un extraño paga de forma anónima $420 por el almuerzo de 27 residentes y cuidadores discapacitados",
       "summary": "Los miembros de un grupo comunitario de discapacitados de Corea del Sur se sorprendieron al escuchar que un completo extraño había pagado su almuerzo de barbacoa por valor de 420 dólares. La historia comienza cuando el grupo de 27 empleados del centro comunitario y residentes discapacitados de la ciudad de Incheon, justo al oeste de la capital, Seúl, se detuvieron para almorzar en una barbacoa […]",
-      "fullStory": "Los miembros de un grupo comunitario de discapacitados de Corea del Sur se sorprendieron al escuchar que un completo extraño había pagado su almuerzo de barbacoa por valor de 420 dólares.\n\nLa historia comienza cuando el grupo de 27 empleados del centro comunitario y residentes discapacitados de la ciudad de Incheon, justo al oeste de la capital, Seúl, se detuvieron para almorzar en una barbacoa residente en el distrito Seohae de Incheon.\n\nOrganizada por el personal y los voluntarios del Centro de Bienestar Comunitario Jemulpo-gu Hanmaum, la mañana se pasó viendo algunos de los lugares de interés de Incheon, como el Parque del Lago Cheongna, según la Agencia de Noticias Yonhap del país.",
+      "fullStory": "Los miembros de un grupo comunitario de discapacitados de Corea del Sur se sorprendieron al escuchar que un completo extraño había pagado su almuerzo de barbacoa por valor de 420 dólares.\n\nLa historia comienza cuando el grupo de 27 empleados del centro comunitario y residentes discapacitados de la ciudad de Incheon, justo al oeste de la capital, Seúl, se detuvieron para almorzar en un restaurante de barbacoa en el distrito Seohae de Incheon.\n\nOrganizada por el personal y los voluntarios del Centro de Bienestar Comunitario Jemulpo-gu Hanmaum, la mañana se pasó viendo algunos de los lugares de interés de Incheon, como el Parque del Lago Cheongna, según la Agencia de Noticias Yonhap del país.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Good News Network",
@@ -70,7 +89,7 @@
     },
     {
       "id": "rss-mundo-positive-news-launches-new-vid",
-      "title": "Positive News lanza un nuevo video podcast que explora lo que está sucediendo en el mundo",
+      "title": "Positive News lanza un nuevo podcast de vídeo que explora lo que está sucediendo en el mundo",
       "summary": "La serie What Went Right se está expandiendo a YouTube y otras plataformas de podcasts, llevando su resumen semanal de progreso a nuevas audiencias.",
       "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLa serie insignia What Went Right se está expandiendo a YouTube, Spotify y otras plataformas de podcasts, llevando su popular resumen semanal de avances y soluciones a nuevas audiencias.\n\nPublicado todos los sábados, el nuevo programa explora tres de las historias de progreso más importantes de la semana, desde avances científicos y soluciones climáticas hasta iniciativas comunitarias y cambios sociales. Cada episodio va más allá de los titulares para examinar lo que está sucediendo, quién lo impulsa y si las soluciones que se están desarrollando podrían funcionar en otros lugares.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
@@ -129,7 +148,7 @@
       "id": "rss-mundo-high-school-baseball-team-has-",
       "title": "El equipo de béisbol de la escuela secundaria tiene todas las vibraciones del éxito pero nunca ganó un juego: a los niños no les importa",
       "summary": "Se podría decir que es una historia muy canadiense: que los Dartmouth Spartans no han ganado un partido de béisbol en 6 años, y aún así se sienten ganadores.",
-      "fullStory": "Se podría decir que es una historia muy canadiense: que los Spartans de Dartmouth High School no han ganado un partido de béisbol en 6 años, y aún así se sienten ganadores.\n\nAl observarlos durante el entrenamiento, fildeando rodados y elevados, no parecen un equipo que tienda a perder la mayoría de sus juegos mediante la 'regla de la misericordia' y el resto a la antigua usanza al final de la novena.\n\nSin embargo, para la multitud de muchachos de Nueva Escocia locos por el béisbol, es la oportunidad de atarse los zapatos, ponerse la camiseta y pintarse las mejillas de negro lo que mantiene su ánimo tan alto como su porcentaje de derrotas.",
+      "fullStory": "Se podría decir que es una historia muy canadiense: que los Spartans de Dartmouth High School no han ganado un partido de béisbol en 6 años, y aún así se sienten ganadores.\n\nAl observarlos durante el entrenamiento, fildeando rodados y elevados, no parecen un equipo que tienda a perder la mayoría de sus juegos a través de la 'regla de la misericordia' y el resto a la antigua usanza al final de la novena.\n\nSin embargo, para la multitud de muchachos de Nueva Escocia locos por el béisbol, es la oportunidad de atarse los zapatos, ponerse la camiseta y pintarse las mejillas de negro lo que mantiene su ánimo tan alto como su porcentaje de derrotas.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Good News Network",
@@ -156,25 +175,6 @@
       "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Sunrise-on-the-Itenez-River-credit-Gabriela-Villaneuva-CC-4.0.-BY-SA-e1793094098653.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-10-27T13:00:06.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-family-that-s-fostered-500-chi",
-      "title": "Familia que acogió a 500 niños se salvó de un incendio doméstico gracias al giro equivocado de un extraño",
-      "summary": "La historia es un recordatorio de que al volante, como en la vida en general, el camino equivocado no siempre es el camino equivocado.",
-      "fullStory": "Un completo desconocido llamado Casey supo que estaba en el lugar equivocado, pero en el momento adecuado: cuando vio el humo de una casa en llamas a lo lejos.\n\nDespués de que su GPS lo desvió de la ruta correcta y tomó la autopista estatal 114 al sur de Lyerly en el condado de Chattooga en Georgia, el hombre se encontró como el único socorrista en un incendio en una casa.\n\nLa casa pertenecía a James y Larita Burke, un par de santos padres adoptivos bajo cuyo techo en llamas vivían 11 hijos y 1 nieto, algunos adoptados, otros en hogares de acogida.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/family-thats-fostered-500-children-saved-from-housefire-thanks-to-strangers-wrong-turn/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/The-Burke-Family-credit-Flourish-Foster-Care-Closet-Support.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-27T11:30:43.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
@@ -223,7 +223,7 @@
     {
       "id": "rss-mundo-what-went-right-this-week-how-",
       "title": "Lo que salió bien esta semana: cómo la reconstrucción puede \"salvar\" las islas bajas, y más",
-      "summary": "La reconstrucción de la naturaleza dio esperanza a las islas bajas, una prueba de ingreso básico resultó prometedora y una fábrica de Bangladesh ganó un premio mundial, además de más buenas noticias.",
+      "summary": "La recuperación de la naturaleza dio esperanza a las islas bajas, una prueba de ingreso básico resultó prometedora y una fábrica de Bangladesh ganó un premio mundial, además de más buenas noticias.",
       "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLa reconstrucción de la naturaleza dio esperanza a las islas bajas, una prueba de ingreso básico se mostró prometedora y una fábrica de Bangladesh ganó un premio mundial de arquitectura, además de más buenas noticias.\n\nRestaurar las poblaciones de aves marinas y la vegetación nativa en islas tropicales bajas les daría una “oportunidad de luchar” contra el aumento del nivel del mar, según un estudio.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
