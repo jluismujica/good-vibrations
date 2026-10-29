@@ -1,15 +1,111 @@
 {
-  "lastUpdated": "2026-10-29T02:15:20.535Z",
+  "lastUpdated": "2026-10-29T17:22:12.180Z",
   "totalCount": 16,
   "categories": {
-    "musica": 0,
+    "musica": 1,
     "ia": 1,
-    "psicologia": 0,
+    "psicologia": 1,
     "liderazgo": 0,
     "chile": 0,
-    "mundo": 15
+    "mundo": 13
   },
   "news": [
+    {
+      "id": "rss-psicologia-birdwatching-rewires-the-brain",
+      "title": "La observación de aves reconfigura el cerebro y ralentiza el deterioro cognitivo",
+      "summary": "Un poeta famoso escribió una vez que la esperanza es algo que tiene plumas. Bueno, una nueva investigación puede sugerir que el envejecimiento saludable también lo es.",
+      "fullStory": "Un poeta famoso escribió una vez que la esperanza es algo que tiene plumas. Bueno, una nueva investigación puede sugerir que el envejecimiento saludable también lo es.\n\nEspecíficamente, la investigación examinó cómo la experiencia necesaria para identificar aves ayudó a mantener la neuroplasticidad, un componente clave de la función cognitiva que se sabe que disminuye con la edad.\n\nSin embargo, incluso cuando el \"experto en identificación de aves\" (lo que la mayoría de la gente llama un \"observador de aves\") era demasiado gris entre las plumas, se evaluó que poseía un aumento en la complejidad estructural en varias regiones del cerebro que podría ayudar a atenuar el deterioro cognitivo relacionado con la edad.",
+      "whyGoodNews": "Aporta evidencia valiosa para cuidar el bienestar emocional, reducir el estrés cotidiano y construir hábitos de vida más saludables.",
+      "category": "psicologia",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/birdwatching-rewires-the-brain-and-slows-cognitive-decline/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/birdwatching-birding-birder-credit-Curated-Lifestyle.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-29T15:30:03.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PSICOLOGÍA",
+        "SALUD MENTAL"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo-romans-made-color-changing-gla",
+      "title": "Los romanos fabricaban vidrio que cambiaba de color y lo hemos replicado después de 1.600 años",
+      "summary": "Puede que sea el primer caso de uso de nanotecnología en el mundo, ya que los metales preciosos que contiene son más pequeños incluso que las longitudes de onda de la luz.",
+      "fullStory": "Los romanos eran científicos de materiales increíbles e inventaron el hormigón autorreparable que permitió que sus estructuras se mantuvieran en pie durante milenios.\n\nSin embargo, para algunos, es el vaso que forma esta (sí, una) copa que marca el pináculo indiscutible de la ciencia romana.\n\nEstá hecho de lo que se llama vidrio dicroico, y su truco de fiesta es cambiar de color dependiendo del ángulo en que se ilumina. La copa en cuestión se conoce como Copa Licurgo, llamada así por el rey de los tracios en la Ilíada de Homero que insultó al dios Dioniso.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/romans-made-color-changing-glass-and-weve-just-replicated-after-1600-years/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/The-Lycurgus-Cup-located-in-the-British-Museum-credits-left-Johnbod-CC-3.0.-SA-right-Chappsnet-4.0.-BY.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-29T12:46:36.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-bereaved-parents-ask-court-to-",
+      "title": "Padres afligidos piden al tribunal que considere la “sentencia más leve posible” para el conductor que mató a su hijo",
+      "summary": "\"Si el tribunal puede considerarlo, solicitamos respetuosamente que reciba la sentencia más leve posible\".",
+      "fullStory": "\"Si el tribunal puede considerarlo, solicitamos respetuosamente que reciba la sentencia más leve posible\".\n\nEstas palabras indescriptiblemente valientes provienen de una declaración judicial escrita por los desconsolados padres de un niño de 4 años que murió después de que un automóvil golpeara su carrito de compras en un estacionamiento.\n\nLa conductora, una mujer de 80 años, se declaró culpable de conducción culposa y negligencia que ocasionó la muerte de un peatón. Esto suele conllevar una sentencia de 3 a 12 años de prisión según la ley australiana, que casi con certeza habría abarcado el resto de la vida de la mujer.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/bereaved-parents-ask-court-to-consider-lightest-possible-sentence-for-driver-who-killed-their-son/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/The-late-4-year-old-Osal-Pokhrel-credit-supplied-to-ABC-Au.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-29T11:00:58.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-smartphones-ancient-tracking-s",
+      "title": "Smartphones, antiguas habilidades de rastreo y un futuro para los leones del desierto",
+      "summary": "En Namibia, los guardabosques están utilizando datos en tiempo real y conocimientos tradicionales para apoyar a los agricultores y salvaguardar una población de leones en recuperación.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nEn todo el noroeste de Namibia, los guardas comunitarios están utilizando datos en tiempo real y conocimientos tradicionales para ayudar a proteger el ganado, apoyar a los agricultores y salvaguardar una población de leones en recuperación.\n\nLos perros fueron los primeros en sentirlos. Tres leones flacos acechan en el borde de la granja, observando hambrientos el festín errante de cabras, aves de corral y niños pequeños. Cuando los perros comenzaron a ladrar furiosamente, los niños corrieron, gritando, hacia la seguridad de la granja.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/smartphones-ancient-tracking-skills-and-a-future-for-desert-lions/",
+      "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/PN_SharedLand_Story04_WebHeader_1800x1080.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-29T07:00:10.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-musica-good-news-in-history-october-2",
+      "title": "Buenas noticias en la historia, 29 de octubre",
+      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 29 de octubre.",
+      "fullStory": "Hace 61 años, The Who lanzó su icónico sencillo \"My Generation\". El éxito ocupó el puesto número 11 en la lista de las 500 mejores canciones de todos los tiempos de la revista Rolling Stone. Pete Townshend supuestamente escribió la canción en un tren, pero atribuye su inspiración al jazz y bluesman estadounidense Mose Allison, Young Man Blues, diciendo: \"Sin Mose no habría escrito My Generation\". La interpretación del cantante Roger Daltrey, un tartamudeo enojado y frustrado (\"Why don't you all fff... fade away\"), se inspiró, entre otras cosas, en Stuttering Blues de John Lee Hooker. MIRA a los Smothers Brothers presentar a los jóvenes mods al mundo, antes de que reproduzcan la canción... (1965)\n\nIncluido en el álbum debut de The Who y que captura la angustia y la rebelión de la adolescencia, fue incluido en el Salón de la Fama de los Grammy por su valor “histórico, artístico y significativo”.\n\nLa BBC inicialmente se negó a reproducir la canción porque no quería ofender a las personas que tartamudeaban, pero revocó su decisión después de que la canción se hizo más popular.",
+      "whyGoodNews": "Celebra el poder unificador de la música y el arte para conectar personas, sanar heridas y despertar emociones profundas.",
+      "category": "musica",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061029/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/The-Who-My-Generation-fairuse.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-29T07:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "MÚSICA",
+        "CULTURA"
+      ]
+    },
     {
       "id": "rss-mundo-nature-inspired-tech-prevents-",
       "title": "La tecnología inspirada en la naturaleza evita que los microplásticos ingresen al Océano Atlántico a través de las aguas residuales",
@@ -27,8 +123,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-bizarre-rescue-sees-divers-sav",
@@ -99,82 +194,6 @@
       "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/WWR_hosts_3x2.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-10-28T09:43:33.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-good-news-in-history-october-2",
-      "title": "Buenas noticias en la historia, 28 de octubre",
-      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 28 de octubre.",
-      "fullStory": "Hoy hace 61 años, se completó el Arco Gateway en St. Louis, Missouri. Revestido de acero inoxidable y con una altura de 630 pies, es el monumento más alto del hemisferio occidental. El arco se encuentra en la orilla occidental del río Mississippi como un tributo a los grandes exploradores del oeste, Lewis y Clark, y otros pioneros que comenzaron sus viajes en St. Luis. LEER más sobre el arco… (1965)\n\nEl arquitecto Eero Saarinen diseñó el arco para que se balanceara 18 pulgadas, con un interior hueco que cuatro millones de turistas podían visitar cada año y contemplar a través de altas ventanas sobre la ciudad. Esas ventanas miran hacia abajo en un ángulo de 30 grados y pueden causar bastante miedo a quienes tienen miedo a las alturas.\n\nSe ha escrito que el arco representaba el \"espíritu ilimitado del optimismo americano\" y que fue construido según una \"sencillez que garantiza la atemporalidad\".",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061028/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/05/Gateway-Arch-National-Park-St-Louis-skyline-pubdomain-Kenny-Nguyen.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-28T07:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-fda-approval-for-drill-free-ca",
-      "title": "La aprobación de la FDA para el cuidado de la cavidad sin perforación puede ser inminente después del gran ensayo de tratamiento de fase 3",
-      "summary": "La aprobación de la FDA puede ser inminente para una innovación clave en odontología que podría evitar que miles de niños sufran dolorosos tirones, perforaciones e infecciones con una simple capa líquida. Cada año, las caries no tratadas envían a miles de niños estadounidenses a los departamentos de emergencia por problemas dentales que los médicos no pueden tratar. Muchos eventualmente se someten a cirugía bajo anestesia general, […]",
-      "fullStory": "La aprobación de la FDA puede ser inminente para una innovación clave en odontología que podría evitar que miles de niños sufran dolorosos tirones, perforaciones e infecciones con una simple capa líquida.\n\nCada año, las caries no tratadas envían a miles de niños estadounidenses a los departamentos de emergencia por problemas dentales que los médicos no pueden tratar.\n\nMuchos eventualmente se someten a una cirugía bajo anestesia general, mientras que otros soportan dolor e infección.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/fda-approval-for-drill-free-cavity-care-may-be-imminent-after-great-phase-3-treatment-trial/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2018/01/Teeth-dentist-caveties-by-Ozkan-Guner-lQNl2Vdn0fs-unsplash.jpeg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-27T16:30:24.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-high-school-baseball-team-has-",
-      "title": "El equipo de béisbol de la escuela secundaria tiene todas las vibraciones del éxito pero nunca ganó un juego: a los niños no les importa",
-      "summary": "Se podría decir que es una historia muy canadiense: que los Dartmouth Spartans no han ganado un partido de béisbol en 6 años, y aún así se sienten ganadores.",
-      "fullStory": "Se podría decir que es una historia muy canadiense: que los Spartans de Dartmouth High School no han ganado un partido de béisbol en 6 años, y aún así se sienten ganadores.\n\nAl observarlos durante el entrenamiento, fildeando rodados y elevados, no parecen un equipo que tienda a perder la mayoría de sus juegos a través de la 'regla de la misericordia' y el resto a la antigua usanza al final de la novena.\n\nSin embargo, para la multitud de muchachos de Nueva Escocia locos por el béisbol, es la oportunidad de atarse los zapatos, ponerse la camiseta y pintarse las mejillas de negro lo que mantiene su ánimo tan alto como su porcentaje de derrotas.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/high-school-baseball-team-has-all-the-vibes-of-success-but-never-won-a-game-kids-dont-mind/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/baseball-unsplash.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-27T15:30:59.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-ngo-celebrates-70-million-amaz",
-      "title": "Una ONG celebra la conservación de 70 millones de acres amazónicos después de protegerlos y llamarlos “eslabón de vida”",
-      "summary": "Esta arteria acuosa de 780 millas de largo, que forma la frontera noreste entre Bolivia y Brasil, alberga miles de especies diferentes.",
-      "fullStory": "La ONG estadounidense Rainforest Trust ayudó recientemente a la creación de una reserva de vida silvestre de 715.000 acres en Bolivia a lo largo del río Iténez, considerado por los científicos como un \"eslabón de vida\".\n\nEsta arteria acuosa de 780 millas de largo, la mayor parte de la cual forma la frontera noreste entre Bolivia y Brasil, es el hogar de todos los éxitos: jaguar, delfines del río Amazonas, nutrias gigantes, tapires de tierras bajas, caimanes negros y mucho más, incluidas 260 especies de peces, 25 de las cuales no se encuentran en ningún otro lugar.\n\nLas protecciones para el área alrededor de Iténez (o Guaporé, en portugués brasileño) están consagradas dentro de la Reserva Municipal de Vida Silvestre Agua Dulce, creada por una ley local. Protege este corredor ecológico clave entre las tierras silvestres de Brasil y Bolivia del que dependen los animales para su migración.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/ngo-celebrates-70-million-amazon-acres-conserved-after-protecting-are-called-a-link-of-life/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Sunrise-on-the-Itenez-River-credit-Gabriela-Villaneuva-CC-4.0.-BY-SA-e1793094098653.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-27T13:00:06.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
@@ -289,25 +308,6 @@
       "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/20220713_122129.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-10-20T07:00:20.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-volunteers-became-salmon-deer-",
-      "title": "Los voluntarios se convirtieron en salmones, ciervos y lombrices de tierra. Luego se propusieron salvar su río.",
-      "summary": "Un experimento está ayudando a una comunidad de Somerset a ver su paisaje a través de los ojos de la vida silvestre y a trazar una ruta de 30 años para cambiarlo.",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\n¿Qué siente un salmón ante un río contaminado? Un experimento inusual está ayudando a una comunidad de Somerset a ver su paisaje a través de los ojos de la vida silvestre y trazar una ruta de 30 años para cambiarlo.\n\nEl estrés de estar cerca del acceso al agua potable. El hambre dolorosa que conlleva la destrucción del hábitat. El asalto sensorial de la maquinaria y el tráfico.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/volunteers-became-salmon-deer-and-earthworms-then-they-set-out-to-save-their-river/",
-      "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/Atlantic-Salmon-001-©-Darren-Honeywill-2026.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-19T07:00:44.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
