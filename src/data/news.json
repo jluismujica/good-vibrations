@@ -1,15 +1,111 @@
 {
-  "lastUpdated": "2026-10-30T02:28:34.411Z",
+  "lastUpdated": "2026-10-30T16:58:33.315Z",
   "totalCount": 16,
   "categories": {
     "musica": 1,
-    "ia": 0,
+    "ia": 1,
     "psicologia": 1,
     "liderazgo": 0,
     "chile": 0,
-    "mundo": 14
+    "mundo": 13
   },
   "news": [
+    {
+      "id": "rss-mundo-new-texas-school-is-named-for-",
+      "title": "Nueva escuela de Texas lleva el nombre de la conserje de toda la vida 'Miss Marilyn' (observe su reacción)",
+      "summary": "Dejó un legado increíble como educadora a pesar de nunca haber obtenido un título en enseñanza.",
+      "fullStory": "Y aunque no es un anillo de Super Bowl ni un Premio de la Academia, para una conserje de carrera en un distrito escolar de Texas, el honor que recibió últimamente es mayor que cualquier cosa que jamás hubiera imaginado.\n\nMarilyn Hampton trabajó como conserje para el Distrito Escolar Independiente de Aubrey (ISD) después de la secundaria cuando se convirtió en la primera de sus 7 hermanos en graduarse. Sin embargo, al no haber dado nunca el siguiente salto a la universidad, \"Miss Marilyn\" a menudo luchaba con sentimientos de inferioridad; que ella era \"un fracaso\".\n\nEso no le impidió tener una carrera de 39 años, no solo como conserje de ISD, sino como 'el' conserje de ISD.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/new-texas-school-is-named-for-longtime-janitor-miss-marilyn-watch-her-reaction/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Marilyn-Hampton-when-she-graduated-high-school-credit-family-photo.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-30T15:30:55.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-ia-a-farmer-didn-t-know-his-cell-",
+      "title": "Un granjero no sabía que su número de celular estaba en una pregunta de un examen, ahora usa las llamadas que recibe como oportunidades para inspirarse",
+      "summary": "He Ziqi estaba en la escuela secundaria cuando estaba presentando un examen de inglés y vio una pregunta que le pareció bastante extraña.",
+      "fullStory": "Un joven estudiante ha sido aceptado en una prestigiosa universidad gracias en parte a una inusual fuente de inspiración: un productor de fresas al que conoció debido a una pregunta en un examen de inglés.\n\nHe Ziqi, ahora estudiante de posgrado en inteligencia artificial, estaba en la escuela secundaria cuando estaba tomando un examen de idioma inglés y vio una pregunta que le pareció bastante extraña.\n\nCurioso, guardó el número de teléfono para poder comprobar si él y la dirección comercial emparejada eran simplemente adornos ficticios para la prueba o información de contacto real.",
+      "whyGoodNews": "Muestra cómo la innovación científica y el ingenio humano colaboran para resolver desafíos ambientales y sociales concretos.",
+      "category": "ia",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/a-farmer-didnt-know-his-cell-number-was-on-an-exam-question-now-uses-the-calls-he-gets-as-opportunities-to-inspire/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Left-Mr.-He-and-Mr.-Wang-shake-hands-6-years-after-meeting-through-an-English-exam-question-credit-retrieved-from-social-media-Douyin.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-30T13:00:13.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "INNOVACIÓN",
+        "CIENCIA"
+      ]
+    },
+    {
+      "id": "rss-musica-in-lieu-of-flowers-or-tributes",
+      "title": "En lugar de flores o homenajes, la familia de Patrick Stewart sugiere una donación para la investigación del Alzheimer",
+      "summary": "Stewart, un titán de la pantalla grande, el teatro y la televisión, falleció en su casa rodeado de \"música en vivo, oración y risas\".",
+      "fullStory": "El legendario actor Sir Patrick Stewart falleció ayer a la edad de 86 años tras una breve lucha contra la enfermedad de Alzheimer y la demencia con cuerpos de Lewy.\n\nStewart, un titán de la pantalla grande, el teatro y la televisión, falleció en su casa rodeado de \"música en vivo, oraciones y risas\" al cuidado de su devota esposa Sunny.\n\nNacido en West Riding de Yorkshire, la carrera como actor de Stewart abarcó seis décadas, durante las cuales obtuvo dos premios Laurence Olivier por sus interpretaciones de papeles secundarios en Antonio, Cleopatra y Hamlet.",
+      "whyGoodNews": "Celebra el poder unificador de la música y el arte para conectar personas, sanar heridas y despertar emociones profundas.",
+      "category": "musica",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/in-lieu-of-flowers-or-tributes-patrick-stewarts-family-suggests-a-donation-to-alzheimers-research/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Patrick-Stewart-in-1999-credit-John-Mathew-Smith-CC-2.0.-via-Flickr.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-30T11:30:01.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "MÚSICA",
+        "CULTURA"
+      ]
+    },
+    {
+      "id": "rss-mundo-good-news-in-history-october-3",
+      "title": "Buenas noticias en la historia, 30 de octubre",
+      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 30 de octubre.",
+      "fullStory": "Hoy hace 53 años que se completó el Puente del Bósforo, que une por primera vez la Europa continental con Anatolia a través del Estrecho del Bósforo. Es un puente colgante anclado por gravedad con torres de acero y soportes inclinados, y una vez finalizado fue el cuarto puente colgante más largo del mundo. LEER más personajes históricos famosos que habían propuesto tal puente… (1973)\n\nLa idea de un puente sobre el Bósforo se remonta a la antigüedad. El escritor griego Heródoto dice en sus Historias que, por orden del emperador Darío el Grande del Imperio aqueménida (522 a. C.-485 a. C.), Mandrocles de Samos diseñó un puente de pontones a través del Bósforo, uniendo Asia con Europa; este puente permitió a Darío perseguir a los escitas que huían y posicionar su ejército en los Balcanes para abrumar a Macedonia.\n\nCuando una tormenta destruyó el puente, Darío ordenó a sus soldados que dieran 100 latigazos al Bósforo, llamándolo \"agua malvada\". Leonardo da Vinci también propuso un puente colgante sobre el Bósforo al sultán Bayezid II en 1502 o 1503.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061030/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/10/Bosphorus-Bridge-Istanbul-1973-e1667028468403.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-30T07:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-what-went-right-this-week-the-",
+      "title": "Lo que salió bien esta semana: las buenas noticias que importan",
+      "summary": "Hubo esperanzas renovadas para la selva amazónica, una vacuna contra el cáncer de piel se mostró prometedora y se cerró una laguna jurídica en la nicotina en el Reino Unido, y más",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nHubo esperanzas renovadas para la selva amazónica, una vacuna innovadora se mostró prometedora para los sobrevivientes de cáncer de piel y el gobierno del Reino Unido cerró un vacío legal en la nicotina, además de más buenas noticias.\n\nLos ambientalistas y activistas climáticos han saludado la reelección del presidente brasileño Luiz Inácio Lula da Silva como un momento esperanzador para la selva amazónica y las comunidades indígenas.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-44-of-2026/",
+      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/iStock-495829576.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-30T05:00:13.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
     {
       "id": "rss-mundo--panther-pat-shines-a-light-on",
       "title": "'Panther Pat' arroja luz sobre la primera mujer casi olvidada en jugar fútbol profesional",
@@ -27,8 +123,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-joydrops-short-films-big-on-in",
@@ -88,44 +183,6 @@
       ]
     },
     {
-      "id": "rss-mundo-romans-made-color-changing-gla",
-      "title": "Los romanos fabricaban vidrio que cambiaba de color y lo hemos replicado después de 1.600 años",
-      "summary": "Puede que sea el primer caso de uso de nanotecnología en el mundo, ya que los metales preciosos que contiene son más pequeños incluso que las longitudes de onda de la luz.",
-      "fullStory": "Los romanos eran científicos de materiales increíbles e inventaron el hormigón autorreparable que permitió que sus estructuras se mantuvieran en pie durante milenios.\n\nSin embargo, para algunos, es el vaso que forma esta (sí, una) copa que marca el pináculo indiscutible de la ciencia romana.\n\nEstá hecho de lo que se llama vidrio dicroico, y su truco de fiesta es cambiar de color dependiendo del ángulo en que se ilumina. La copa en cuestión se conoce como Copa Licurgo, llamada así por el rey de los tracios en la Ilíada de Homero que insultó al dios Dioniso.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/romans-made-color-changing-glass-and-weve-just-replicated-after-1600-years/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/The-Lycurgus-Cup-located-in-the-British-Museum-credits-left-Johnbod-CC-3.0.-SA-right-Chappsnet-4.0.-BY.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-29T12:46:36.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-bereaved-parents-ask-court-to-",
-      "title": "Padres afligidos piden al tribunal que considere la “sentencia más leve posible” para el conductor que mató a su hijo",
-      "summary": "\"Si el tribunal puede considerarlo, solicitamos respetuosamente que reciba la sentencia más leve posible\".",
-      "fullStory": "\"Si el tribunal puede considerarlo, solicitamos respetuosamente que reciba la sentencia más leve posible\".\n\nEstas palabras indescriptiblemente valientes provienen de una declaración judicial escrita por los desconsolados padres de un niño de 4 años que murió después de que un automóvil golpeara su carrito de compras en un estacionamiento.\n\nLa conductora, una mujer de 80 años, se declaró culpable de conducción culposa y negligencia que ocasionó la muerte de un peatón. Esto suele conllevar una sentencia de 3 a 12 años de prisión según la ley australiana, que casi con certeza habría abarcado el resto de la vida de la mujer.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/bereaved-parents-ask-court-to-consider-lightest-possible-sentence-for-driver-who-killed-their-son/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/The-late-4-year-old-Osal-Pokhrel-credit-supplied-to-ABC-Au.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-29T11:00:58.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
       "id": "rss-mundo-smartphones-ancient-tracking-s",
       "title": "Smartphones, antiguas habilidades de rastreo y un futuro para los leones del desierto",
       "summary": "En Namibia, los guardabosques están utilizando datos en tiempo real y conocimientos tradicionales para apoyar a los agricultores y salvaguardar una población de leones en recuperación.",
@@ -137,44 +194,6 @@
       "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/PN_SharedLand_Story04_WebHeader_1800x1080.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-10-29T07:00:10.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-musica-good-news-in-history-october-2",
-      "title": "Buenas noticias en la historia, 29 de octubre",
-      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 29 de octubre.",
-      "fullStory": "Hace 61 años, The Who lanzó su icónico sencillo \"My Generation\". El éxito ocupó el puesto número 11 en la lista de las 500 mejores canciones de todos los tiempos de la revista Rolling Stone. Pete Townshend supuestamente escribió la canción en un tren, pero atribuye su inspiración al jazz y bluesman estadounidense Mose Allison, Young Man Blues, diciendo: \"Sin Mose no habría escrito My Generation\". La interpretación del cantante Roger Daltrey, un tartamudeo enojado y frustrado (\"Why don't you all fff... fade away\"), se inspiró, entre otras cosas, en Stuttering Blues de John Lee Hooker. MIRA a los Smothers Brothers presentar a los jóvenes mods al mundo, antes de que reproduzcan la canción... (1965)\n\nIncluido en el álbum debut de The Who y que captura la angustia y la rebelión de la adolescencia, fue incluido en el Salón de la Fama de los Grammy por su valor “histórico, artístico y significativo”.\n\nLa BBC inicialmente se negó a reproducir la canción porque no quería ofender a las personas que tartamudeaban, pero revocó su decisión después de que la canción se hizo más popular.",
-      "whyGoodNews": "Celebra el poder unificador de la música y el arte para conectar personas, sanar heridas y despertar emociones profundas.",
-      "category": "musica",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061029/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/The-Who-My-Generation-fairuse.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-29T07:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "MÚSICA",
-        "CULTURA"
-      ]
-    },
-    {
-      "id": "rss-mundo-nature-inspired-tech-prevents-",
-      "title": "La tecnología inspirada en la naturaleza evita que los microplásticos ingresen al Océano Atlántico a través de las aguas residuales",
-      "summary": "El gran implante imita las plantas hidrofóbicas que se encuentran en la naturaleza, que arrojan completamente agua al contacto pero también atraen partículas de microplástico.",
-      "fullStory": "Los alumnos de Princeton han diseñado lo que se llama el primer dispositivo del mundo para filtrar microplásticos de las aguas residuales a escala, y ya se ha implementado en Atlantic City.\n\nEl gran implante imita las plantas hidrofóbicas que se encuentran en la naturaleza, que arrojan completamente agua al contacto pero también atraen partículas de microplástico.\n\nUna vez que el agua avanza y las partículas se eliminan, se pueden recolectar fácilmente y enviar a una instalación de reciclaje para su procesamiento.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/nature-inspired-tech-prevents-microplastics-entering-atlantic-ocean-through-wastewater/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-supplied-to-WHYY-as-a-courtesy-PolyGone-Systems.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-28T18:30:55.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
@@ -289,25 +308,6 @@
       "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/IAN-RANKIN-Portrait-Louise-Mather-2024.jpg-1.jpeg",
       "imageSourceType": "official",
       "publishedAt": "2026-10-21T09:20:24.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-the-new-certification-scheme-h",
-      "title": "El nuevo esquema de certificación ayuda a las granjas solares a convertirse en refugios para la vida silvestre",
-      "summary": "Un nuevo esquema de certificación solar alienta a los desarrolladores a crear mejores hábitats para la vida silvestre junto con la generación de electricidad limpia",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nSocios de Positive News Este artículo ha sido creado por Positive News y respaldado por Thrive Renewables Compartir: . a2a_s_facebook, . a2a_s_linkedin, . a2a_s_email{ color de fondo:#00bcdb! importante; } Pantalla solo @media y (ancho máximo: 768 px) { div#social_btns { display: none; }} Dado que el Reino Unido casi duplicará su capacidad solar para 2030, un nuevo El esquema de certificación alienta a los desarrolladores a crear mejores hábitats para la vida silvestre junto con la generación de electricidad limpia.\n\nLiebres corriendo entre los setos. Hierbas y flores silvestres emergen entre hileras de paneles solares. Pájaros revoloteando sobre nuestras cabezas. Está a un mundo de distancia de las antiguas centrales eléctricas que escupían humo y, cada vez más, los sitios que generan nuestra energía están haciendo algo más: están dando a la naturaleza espacio para recuperarse. De hecho, un creciente conjunto de investigaciones sugiere que las granjas solares bien diseñadas y administradas cuidadosamente pueden servir como refugios para la vida silvestre.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Positive News",
-      "sourceUrl": "https://www.positive.news/environment/the-new-certification-scheme-helping-solar-farms-become-havens-for-wildlife/",
-      "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/20220713_122129.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-20T07:00:20.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
