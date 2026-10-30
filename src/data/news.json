@@ -1,15 +1,73 @@
 {
-  "lastUpdated": "2026-10-29T17:22:12.180Z",
+  "lastUpdated": "2026-10-30T02:28:34.411Z",
   "totalCount": 16,
   "categories": {
     "musica": 1,
-    "ia": 1,
+    "ia": 0,
     "psicologia": 1,
     "liderazgo": 0,
     "chile": 0,
-    "mundo": 13
+    "mundo": 14
   },
   "news": [
+    {
+      "id": "rss-mundo--panther-pat-shines-a-light-on",
+      "title": "'Panther Pat' arroja luz sobre la primera mujer casi olvidada en jugar fútbol profesional",
+      "summary": "JoyDrops defiende los cortometrajes documentales elegibles para premios sobre la alegría, un contrapeso a una categoría a menudo dominada por la tragedia. Good News Network se ha asociado con JoyDrops para destacar estas películas y hablar con los realizadores detrás de ellas. En 1970, un maestro de escuela primaria llamado Pat Palinkas entró al campo de los Orlando Panthers y se convirtió en el primero […]",
+      "fullStory": "JoyDrops defiende los cortometrajes documentales elegibles para premios sobre la alegría, un contrapeso a una categoría a menudo dominada por la tragedia. Good News Network se ha asociado con JoyDrops para destacar estas películas y hablar con los realizadores detrás de ellas.\n\nEn 1970, una maestra de escuela primaria llamada Pat Palinkas entró al campo de los Orlando Panthers y se convirtió en la primera mujer en jugar fútbol profesional. Ella apareció en los titulares nacionales. Luego, casi con la misma rapidez, el mundo lo olvidó.\n\nMás de cinco décadas después, la cineasta Ashley Brandon se asegura de que se cuente su historia, con un poco de ayuda de Barbie.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/panther-pat-shines-a-light-on-the-nearly-forgotten-first-woman-to-play-pro-football/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/CELEB-POST-PP-27-x-40-OFFICIAL-POSTER-e1793294882546.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-29T19:07:07.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo-joydrops-short-films-big-on-in",
+      "title": "JoyDrops: cortometrajes llenos de inspiración y mayores aspiraciones a premios",
+      "summary": "JoyDrops: cortometrajes con grandes corazones y ambiciones aún mayores Good News Network y Switchboard Magazine han unido fuerzas en JoyDrops, una lista seleccionada de cortometrajes documentales de la temporada de premios que ofrecen perspectivas positivas, realizados por cineastas artesanales que ya han acumulado numerosos elogios y premios en el circuito de festivales de cine. El idea iniciada, de […]",
+      "fullStory": "Good News Network y Switchboard Magazine han unido fuerzas en JoyDrops, una lista seleccionada de cortometrajes documentales de la temporada de premios que ofrecen perspectivas positivas, realizados por cineastas artesanales que ya han acumulado numerosos reconocimientos y premios en el circuito de festivales de cine.\n\nLa idea surgió, precisamente, en el escenario de los Oscar. Al presentar la categoría de Cortometraje Documental en la ceremonia de este año, el presentador Conan O'Brien hizo una pausa para cambiarle el nombre a \"pequeños tristes\", antes de preguntar a la sala si las películas, de hecho, los habían puesto tristes. (Un poco, estuvieron de acuerdo. ) La categoría de Cortometraje Documental se ha inclinado durante mucho tiempo hacia el dolor, las dificultades y lo elegíaco. JoyDrops espera ofrecer a los espectadores una variedad más amplia de películas para considerar este año.\n\nJoyDrops celebra los cortometrajes documentales que encuentran asombro, humor y esperanza en la vida real. Cada semana, Good News Network presentará una película de la lista. Cada entrega combina la película con una entrevista del director que la realizó.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/joydrops-short-films-big-on-inspiration-and-bigger-awards-aspirations/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Screenshot-2026-10-29-at-2.59.16-PM.png",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-29T19:06:13.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-disabled-veteran-receives-dona",
+      "title": "Un veterano discapacitado recibe un automóvil donado y bellamente restaurado por estudiantes de colisiones automovilísticas",
+      "summary": "Después de pasar años sin ruedas pero sin escasez de recados, un veterano de Minneapolis recibió recientemente un regalo transformador. Estudiantes de una escuela de ingeniería de Minnesota renovaron maravillosamente un Hyundai Elantra 2020 para el programa Recycled Rides for Schools del National Auto Body Council, una organización sin fines de lucro. El veterano de la Marina de los EE. UU., Robert Hanson, no lo ha hecho. tenía su propio coche […]",
+      "fullStory": "Después de pasar años sin ruedas pero sin escasez de recados, un veterano de Minneapolis recibió recientemente un regalo transformador.\n\nEstudiantes de una escuela de ingeniería de Minnesota renovaron maravillosamente un Hyundai Elantra 2020 para el programa Recycled Rides for Schools del National Auto Body Council, una organización sin fines de lucro.\n\nEl veterano de la Marina estadounidense, Robert Hanson, no ha tenido coche propio desde hace más de dos años. Ha sufrido graves problemas de salud desde su separación del ejército, donde voló como aviador de la Armada de 1993 a 1997.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/disabled-veteran-receives-donated-car-beautifully-refurbished-by-auto-collision-students/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/4cafc2d5-67da-40f6-a326-76e7548bf9ad.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-29T18:30:19.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
     {
       "id": "rss-psicologia-birdwatching-rewires-the-brain",
       "title": "La observación de aves reconfigura el cerebro y ralentiza el deterioro cognitivo",
@@ -27,8 +85,7 @@
       "tags": [
         "PSICOLOGÍA",
         "SALUD MENTAL"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-romans-made-color-changing-gla",
@@ -118,63 +175,6 @@
       "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-supplied-to-WHYY-as-a-courtesy-PolyGone-Systems.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-10-28T18:30:55.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-bizarre-rescue-sees-divers-sav",
-      "title": "En un extraño rescate, los buzos salvan a un canguro que se encontró a más de una milla de tierra firme",
-      "summary": "\"¡Debe haber tenido una gran noche y uno de los chicos se atrevió a darse un chapuzón y hacer travesuras! \"",
-      "fullStory": "En una historia demasiado \"australiana\" para creer, un buzo y su tripulación rescataron a un canguro a más de una milla y media mar adentro.\n\nVisto por primera vez por el capitán en las aguas de la bahía de Boston, en el estado de Australia del Sur, estaba claro que el canguro juvenil reconoció que su única esperanza era subir a bordo del barco.\n\nEn el mar en calma, la puerta de agua del barco permitió a la tripulación llegar hasta el nivel de las suaves olas. Estaba agotado hasta el punto que el conductor Jake Murray pudo levantarlo fácilmente.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/bizarre-rescue-sees-divers-save-kangaroo-that-found-itself-over-a-mile-from-dry-land/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Jake-Murray-and-the-rescued-roo-supplied-to-ABC-by-Jake-Murray.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-28T15:30:15.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-ia-etsy-cracks-down-on-ai-generat",
-      "title": "Etsy toma medidas enérgicas contra el contenido generado por IA para proteger a los compradores del aluvión de basura",
-      "summary": "Los infractores pueden ser considerados legalmente responsables de emitir reembolsos si los clientes sienten que han sido engañados a través de imágenes del producto.",
-      "fullStory": "Para el mercado de comercio electrónico de artesanías en línea más grande del mundo, el impacto de los medios generados por IA siempre iba a ser grande.\n\nEs por eso que Etsy ha tomado medidas definitivas para proteger a los casi 6 millones de empresarios artesanos que alberga con nuevas regulaciones contra el contenido generado por IA.\n\n\"Nuestro mercado sólo funciona cuando los compradores y vendedores confían entre sí\", escribió el vicepresidente de operaciones de clientes de Etsy, James Ossman, en una publicación de blog.",
-      "whyGoodNews": "Muestra cómo la innovación científica y el ingenio humano colaboran para resolver desafíos ambientales y sociales concretos.",
-      "category": "ia",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/etsy-cracks-down-on-ai-generated-content-to-protect-buyers-from-barrage-of-slop/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Etsys-offices-in-Ireland-CC-3.0.-BY-SA-Cograng-replicated-with-AI-for-humors-sake.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-28T13:00:04.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "INNOVACIÓN",
-        "CIENCIA"
-      ]
-    },
-    {
-      "id": "rss-mundo-stranger-anonymously-pays-420-",
-      "title": "Un extraño paga de forma anónima $420 por el almuerzo de 27 residentes y cuidadores discapacitados",
-      "summary": "Los miembros de un grupo comunitario de discapacitados de Corea del Sur se sorprendieron al escuchar que un completo extraño había pagado su almuerzo de barbacoa por valor de 420 dólares. La historia comienza cuando el grupo de 27 empleados del centro comunitario y residentes discapacitados de la ciudad de Incheon, justo al oeste de la capital, Seúl, se detuvieron para almorzar en una barbacoa […]",
-      "fullStory": "Los miembros de un grupo comunitario de discapacitados de Corea del Sur se sorprendieron al escuchar que un completo extraño había pagado su almuerzo de barbacoa por valor de 420 dólares.\n\nLa historia comienza cuando el grupo de 27 empleados del centro comunitario y residentes discapacitados de la ciudad de Incheon, justo al oeste de la capital, Seúl, se detuvieron para almorzar en un restaurante de barbacoa en el distrito Seohae de Incheon.\n\nOrganizada por el personal y los voluntarios del Centro de Bienestar Comunitario Jemulpo-gu Hanmaum, la mañana se pasó viendo algunos de los lugares de interés de Incheon, como el Parque del Lago Cheongna, según la Agencia de Noticias Yonhap del país.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/anonymously-pays-dinner-tab-for-27-disability-staff-in-south-korea/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Getty-Images-for-Unsplash-.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-28T11:30:33.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
