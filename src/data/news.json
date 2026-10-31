@@ -1,15 +1,35 @@
 {
-  "lastUpdated": "2026-10-30T16:58:33.315Z",
+  "lastUpdated": "2026-10-31T02:11:09.193Z",
   "totalCount": 16,
   "categories": {
     "musica": 1,
     "ia": 1,
-    "psicologia": 1,
+    "psicologia": 0,
     "liderazgo": 0,
     "chile": 0,
-    "mundo": 13
+    "mundo": 14
   },
   "news": [
+    {
+      "id": "rss-mundo-best-spud-harvest-in-a-decade-",
+      "title": "La mejor cosecha de papas en una década aclara el pesimismo de los cultivos que fracasan debido al verano abrasador",
+      "summary": "Una espectacular cosecha de patatas en Japón demostró que aún quedan años excepcionales en el almanaque, incluso cuando la incertidumbre climática sigue haciendo que la agricultura sea más difícil.",
+      "fullStory": "En medio de un verano de malas cosechas, una espectacular cosecha de papa en Japón demostró que aún quedan años excepcionales en el almanaque, incluso cuando la incertidumbre climática continúa haciendo que la agricultura sea más desafiante.\n\nUn medio de la industria de la papa informa que la combinación ideal de temperaturas y precipitaciones significa que la isla de Hokkaido, en el norte de Japón, es prácticamente la única región del hemisferio norte que ha aumentado su producción.\n\nEl importante fabricante de productos de patata Calbee estima que alcanzará sus cuotas habituales de 250.000 toneladas de patatas de Hokkaido, una cifra que puede ayudar a comprender el alcance de este tifón de la patata.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/best-spud-harvest-in-a-decade-clears-the-gloom-of-crops-failing-from-scorching-summer/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/12/potato-unsplash.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-30T18:30:53.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
     {
       "id": "rss-mundo-new-texas-school-is-named-for-",
       "title": "Nueva escuela de Texas lleva el nombre de la conserje de toda la vida 'Miss Marilyn' (observe su reacción)",
@@ -27,8 +47,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-ia-a-farmer-didn-t-know-his-cell-",
@@ -91,7 +110,7 @@
       "id": "rss-mundo-what-went-right-this-week-the-",
       "title": "Lo que salió bien esta semana: las buenas noticias que importan",
       "summary": "Hubo esperanzas renovadas para la selva amazónica, una vacuna contra el cáncer de piel se mostró prometedora y se cerró una laguna jurídica en la nicotina en el Reino Unido, y más",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nHubo esperanzas renovadas para la selva amazónica, una vacuna innovadora se mostró prometedora para los sobrevivientes de cáncer de piel y el gobierno del Reino Unido cerró un vacío legal en la nicotina, además de más buenas noticias.\n\nLos ambientalistas y activistas climáticos han saludado la reelección del presidente brasileño Luiz Inácio Lula da Silva como un momento esperanzador para la selva amazónica y las comunidades indígenas.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nHubo esperanzas renovadas para la selva amazónica, una vacuna innovadora se mostró prometedora para los sobrevivientes de cáncer de piel y el gobierno del Reino Unido cerró una laguna jurídica en la nicotina, además de más buenas noticias.\n\nLos ambientalistas y activistas climáticos han saludado la reelección del presidente brasileño Luiz Inácio Lula da Silva como un momento esperanzador para la selva amazónica y las comunidades indígenas.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
@@ -148,7 +167,7 @@
       "id": "rss-mundo-disabled-veteran-receives-dona",
       "title": "Un veterano discapacitado recibe un automóvil donado y bellamente restaurado por estudiantes de colisiones automovilísticas",
       "summary": "Después de pasar años sin ruedas pero sin escasez de recados, un veterano de Minneapolis recibió recientemente un regalo transformador. Estudiantes de una escuela de ingeniería de Minnesota renovaron maravillosamente un Hyundai Elantra 2020 para el programa Recycled Rides for Schools del National Auto Body Council, una organización sin fines de lucro. El veterano de la Marina de los EE. UU., Robert Hanson, no lo ha hecho. tenía su propio coche […]",
-      "fullStory": "Después de pasar años sin ruedas pero sin escasez de recados, un veterano de Minneapolis recibió recientemente un regalo transformador.\n\nEstudiantes de una escuela de ingeniería de Minnesota renovaron maravillosamente un Hyundai Elantra 2020 para el programa Recycled Rides for Schools del National Auto Body Council, una organización sin fines de lucro.\n\nEl veterano de la Marina estadounidense, Robert Hanson, no ha tenido coche propio desde hace más de dos años. Ha sufrido graves problemas de salud desde su separación del ejército, donde voló como aviador de la Armada de 1993 a 1997.",
+      "fullStory": "Después de pasar años sin ruedas pero sin escasez de recados, un veterano de Minneapolis recibió recientemente un regalo transformador.\n\nEstudiantes de una escuela de ingeniería de Minnesota renovaron maravillosamente un Hyundai Elantra 2020 para el programa Recycled Rides for Schools del National Auto Body Council, una organización sin fines de lucro.\n\nEl veterano de la Marina de los EE. UU., Robert Hanson, no ha tenido coche propio desde hace más de dos años. Ha sufrido graves problemas de salud desde su separación del ejército, donde voló como aviador de la Armada de 1993 a 1997.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Good News Network",
@@ -164,29 +183,10 @@
       ]
     },
     {
-      "id": "rss-psicologia-birdwatching-rewires-the-brain",
-      "title": "La observación de aves reconfigura el cerebro y ralentiza el deterioro cognitivo",
-      "summary": "Un poeta famoso escribió una vez que la esperanza es algo que tiene plumas. Bueno, una nueva investigación puede sugerir que el envejecimiento saludable también lo es.",
-      "fullStory": "Un poeta famoso escribió una vez que la esperanza es algo que tiene plumas. Bueno, una nueva investigación puede sugerir que el envejecimiento saludable también lo es.\n\nEspecíficamente, la investigación examinó cómo la experiencia necesaria para identificar aves ayudó a mantener la neuroplasticidad, un componente clave de la función cognitiva que se sabe que disminuye con la edad.\n\nSin embargo, incluso cuando el \"experto en identificación de aves\" (lo que la mayoría de la gente llama un \"observador de aves\") era demasiado gris entre las plumas, se evaluó que poseía un aumento en la complejidad estructural en varias regiones del cerebro que podría ayudar a atenuar el deterioro cognitivo relacionado con la edad.",
-      "whyGoodNews": "Aporta evidencia valiosa para cuidar el bienestar emocional, reducir el estrés cotidiano y construir hábitos de vida más saludables.",
-      "category": "psicologia",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/birdwatching-rewires-the-brain-and-slows-cognitive-decline/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/birdwatching-birding-birder-credit-Curated-Lifestyle.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-29T15:30:03.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PSICOLOGÍA",
-        "SALUD MENTAL"
-      ]
-    },
-    {
       "id": "rss-mundo-smartphones-ancient-tracking-s",
       "title": "Smartphones, antiguas habilidades de rastreo y un futuro para los leones del desierto",
       "summary": "En Namibia, los guardabosques están utilizando datos en tiempo real y conocimientos tradicionales para apoyar a los agricultores y salvaguardar una población de leones en recuperación.",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nEn todo el noroeste de Namibia, los guardas comunitarios están utilizando datos en tiempo real y conocimientos tradicionales para ayudar a proteger el ganado, apoyar a los agricultores y salvaguardar una población de leones en recuperación.\n\nLos perros fueron los primeros en sentirlos. Tres leones flacos acechan en el borde de la granja, observando hambrientos el festín errante de cabras, aves de corral y niños pequeños. Cuando los perros comenzaron a ladrar furiosamente, los niños corrieron, gritando, hacia la seguridad de la granja.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nEn todo el noroeste de Namibia, los guardas comunitarios están utilizando datos en tiempo real y conocimientos tradicionales para ayudar a proteger el ganado, apoyar a los agricultores y salvaguardar una población de leones en recuperación.\n\nLos perros fueron los primeros en sentirlos. Tres leones flacos acechan en el borde de la granja, evaluando hambrientos el festín errante de cabras, aves de corral y niños pequeños. Cuando los perros comenzaron a ladrar furiosamente, los niños corrieron, gritando, hacia la seguridad de la granja.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
@@ -203,7 +203,7 @@
     },
     {
       "id": "rss-mundo-positive-news-launches-new-vid",
-      "title": "Positive News lanza un nuevo podcast de vídeo que explora lo que está sucediendo en el mundo",
+      "title": "Positive News lanza un nuevo video podcast que explora lo que está sucediendo en el mundo",
       "summary": "La serie What Went Right se está expandiendo a YouTube y otras plataformas de podcasts, llevando su resumen semanal de progreso a nuevas audiencias.",
       "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLa serie insignia What Went Right se está expandiendo a YouTube, Spotify y otras plataformas de podcasts, llevando su popular resumen semanal de avances y soluciones a nuevas audiencias.\n\nPublicado todos los sábados, el nuevo programa explora tres de las historias de progreso más importantes de la semana, desde avances científicos y soluciones climáticas hasta iniciativas comunitarias y cambios sociales. Cada episodio va más allá de los titulares para examinar lo que está sucediendo, quién lo impulsa y si las soluciones que se están desarrollando podrían funcionar en otros lugares.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
@@ -261,7 +261,7 @@
     {
       "id": "rss-mundo-what-went-right-this-week-how-",
       "title": "Lo que salió bien esta semana: cómo la reconstrucción puede \"salvar\" las islas bajas, y más",
-      "summary": "La recuperación de la naturaleza dio esperanza a las islas bajas, una prueba de ingreso básico resultó prometedora y una fábrica de Bangladesh ganó un premio mundial, además de más buenas noticias.",
+      "summary": "La reconstrucción de la naturaleza dio esperanza a las islas bajas, una prueba de ingreso básico resultó prometedora y una fábrica de Bangladesh ganó un premio mundial, además de más buenas noticias.",
       "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLa reconstrucción de la naturaleza dio esperanza a las islas bajas, una prueba de ingreso básico se mostró prometedora y una fábrica de Bangladesh ganó un premio mundial de arquitectura, además de más buenas noticias.\n\nRestaurar las poblaciones de aves marinas y la vegetación nativa en islas tropicales bajas les daría una “oportunidad de luchar” contra el aumento del nivel del mar, según un estudio.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
