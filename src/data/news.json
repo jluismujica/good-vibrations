@@ -1,15 +1,92 @@
 {
-  "lastUpdated": "2026-10-31T02:11:09.193Z",
-  "totalCount": 16,
+  "lastUpdated": "2026-10-31T16:00:58.859Z",
+  "totalCount": 15,
   "categories": {
     "musica": 1,
     "ia": 1,
     "psicologia": 0,
     "liderazgo": 0,
     "chile": 0,
-    "mundo": 14
+    "mundo": 13
   },
   "news": [
+    {
+      "id": "rss-mundo-b-vitamin-supplement-can-treat",
+      "title": "El suplemento de vitamina B puede tratar la psoriasis, una afección de la piel que no tiene cura",
+      "summary": "Una nueva investigación sugiere que la psoriasis, una enfermedad cutánea común que no tiene cura, podría tratarse con un suplemento nutricional de vitamina B.",
+      "fullStory": "Una nueva investigación sugiere que una enfermedad cutánea común que no tiene cura podría tratarse con suplementos nutricionales.\n\nEl derivado de la vitamina B mostró resultados \"alentadores\" para reducir los síntomas de la psoriasis en estudios tanto con humanos como con ratones.\n\nLa psoriasis causa una erupción con parches escamosos y que pican, con mayor frecuencia en las rodillas, los codos y alrededor de la cintura, y esta afección autoinmune no tiene cura.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/b-vitamin-supplement-can-treat-psoriasis/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Skin-psoriasis-before-after-by-2026-Cao-at-State-Key-Laboratory-of-Biomedical-Analysis-via-SWNS.jpeg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-31T15:22:53.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo-retirees-who-lost-spouses-fall",
+      "title": "Jubilados que perdieron a sus cónyuges se vuelven a enamorar a los 88 años, después de encontrarse en el gimnasio",
+      "summary": "Un par de jubilados que perdieron a sus parejas se volvieron a enamorar a los 88 años, después de conocerse entre pesas en el gimnasio.",
+      "fullStory": "Un par de jubilados que perdieron a sus parejas se volvieron a enamorar a los 88 años, después de conocerse entre las pesas del gimnasio.\n\nAhora viudos, Barbara Thompson y Fred Jenkins dijeron que nunca esperaban volver a encontrar el amor después de que fallecieron sus parejas de mucho tiempo.\n\nBarbara se mudó a Oscott Retirement Village en Birmingham hace diez años después de perder a su marido a causa del cáncer.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/retirees-who-lost-spouses-fall-in-love-again-at-88-meeting-in-gym/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Seniors-working-out-w-weights-in-gym-by-ExtraCare-Charitable-Trust-via-SWNS.jpeg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-31T13:21:50.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-your-halloween-horoscope-advic",
+      "title": "Su consejo sobre el horóscopo de Halloween: 'Astrología del libre albedrío' de Rob Brezsny",
+      "summary": "Rob Brezsny defiende un enfoque positivo de la vida a través de horóscopos con sabiduría semanal en esta columna semanal de Astrología del libre albedrío.",
+      "fullStory": "Nuestro socio Rob Brezsny, cuyo último libro es Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, brinda su sabiduría semanal para iluminar nuestro pensamiento y motivar nuestro estado de ánimo. Rob's Free Will Astrology es una columna semanal sindicada que aparece en más de cien publicaciones. También es autor de Pronoia es el antídoto para la paranoia: cómo toda la creación conspira para colmarte de bendiciones. (Una vista previa gratuita del libro está disponible aquí).\n\nESCORPIO (del 23 de octubre al 21 de noviembre): Esta es su temporada santa más alta, Escorpio, que también es el momento en que el velo entre este mundo y el otro es más delgado. Otros encuentran esto inquietante, pero usted siempre ha estado aquí como en casa. Sabes cómo explorar las profundidades más profundas, cómo respetar lo que está enterrado y escondido y cómo encontrar tesoros en la oscuridad. En las próximas semanas, tu poder natural para percibir lo que está oculto se amplificará. Para Halloween, sé un guía del alma envuelto en sombras y luz de estrellas que camina cómodamente entre los vivos y los muertos. (PD: ¿Qué secretos te gustaría descubrir? ¿Con qué espíritus de los difuntos te gustaría comunicarte? ¿A qué conocimiento aparentemente imposible podrías acceder?)\n\nSAGITARIO (del 22 de noviembre al 21 de diciembre): Los primeros aeronautas tenían poco control sobre la dirección de sus vuelos. No podían girar horizontalmente. Pero descubrieron que el cambio de altitud les permitía captar diferentes vientos que se movían en diferentes direcciones. La forma más inteligente de cambiar de rumbo era subir o bajar. Mantén esa imagen cerca, Sagitario. Si no puede alterar las circunstancias externas directamente, cambie su perspectiva o su entorno social. Es posible que una nueva corriente esté esperando más arriba o más abajo que donde usted ha estado a la deriva. Para Halloween, conviértete en piloto de globo aerostático, jinete de cometa, pirata del cielo o dios pájaro como el hindú Garuda.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-10-31-2026/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Freewill-Astrology-horoscope-logo-Halloween.jpeg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-31T10:00:12.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-good-news-in-history-october-3",
+      "title": "Buenas noticias en la historia, 31 de octubre",
+      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 31 de octubre.",
+      "fullStory": "Tal día como hoy, hace 76 años, nació la arquitecta británico-iraquí Zaha Hadid. Descrita como la \"Reina de las Curvas\", que \"liberó la geometría arquitectónica, dándole una identidad expresiva completamente nueva\", Hadid fue nombrada caballero por la Reina Isabel II por sus contribuciones a la arquitectura mundial. La firma que fundó en Londres, Zaha Hadid Architects, continúa innovando y construyendo estructuras fabulosamente impresionantes en todo el mundo. LEER más sobre su vida y obra… (1950)\n\nNacida en una familia de clase alta en Bagdad que incluía a un escritor en su hermano y a una artista en su madre, estudió matemáticas en Beirut antes de mudarse a Londres para estudiar arquitectura, donde destacó como un fenómeno. Su antiguo profesor, Rem Koolhaas, la describió en la graduación como \"un planeta en su propia órbita\".\n\nEn 1980 fundó su empresa y se puso a trabajar para concretar su \"visión espectacular\". Entre ellos se encontraban el Centro de Ciencias Phaeno de Wolfsburgo, el Centro de Arte Contemporáneo de Cincinnati, el edificio administrativo de la fábrica de BMW de Leipzig y la estación de tren Napoli Afragola de Nápoles.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061031/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/492px-Zaha_Hadid_in_Heydar_Aliyev_Cultural_center_in_Baku_nov_2013-Copy.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-10-31T07:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
     {
       "id": "rss-mundo-best-spud-harvest-in-a-decade-",
       "title": "La mejor cosecha de papas en una década aclara el pesimismo de los cultivos que fracasan debido al verano abrasador",
@@ -27,8 +104,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-new-texas-school-is-named-for-",
@@ -88,29 +164,10 @@
       ]
     },
     {
-      "id": "rss-mundo-good-news-in-history-october-3",
-      "title": "Buenas noticias en la historia, 30 de octubre",
-      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 30 de octubre.",
-      "fullStory": "Hoy hace 53 años que se completó el Puente del Bósforo, que une por primera vez la Europa continental con Anatolia a través del Estrecho del Bósforo. Es un puente colgante anclado por gravedad con torres de acero y soportes inclinados, y una vez finalizado fue el cuarto puente colgante más largo del mundo. LEER más personajes históricos famosos que habían propuesto tal puente… (1973)\n\nLa idea de un puente sobre el Bósforo se remonta a la antigüedad. El escritor griego Heródoto dice en sus Historias que, por orden del emperador Darío el Grande del Imperio aqueménida (522 a. C.-485 a. C.), Mandrocles de Samos diseñó un puente de pontones a través del Bósforo, uniendo Asia con Europa; este puente permitió a Darío perseguir a los escitas que huían y posicionar su ejército en los Balcanes para abrumar a Macedonia.\n\nCuando una tormenta destruyó el puente, Darío ordenó a sus soldados que dieran 100 latigazos al Bósforo, llamándolo \"agua malvada\". Leonardo da Vinci también propuso un puente colgante sobre el Bósforo al sultán Bayezid II en 1502 o 1503.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061030/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/10/Bosphorus-Bridge-Istanbul-1973-e1667028468403.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-30T07:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
       "id": "rss-mundo-what-went-right-this-week-the-",
       "title": "Lo que salió bien esta semana: las buenas noticias que importan",
       "summary": "Hubo esperanzas renovadas para la selva amazónica, una vacuna contra el cáncer de piel se mostró prometedora y se cerró una laguna jurídica en la nicotina en el Reino Unido, y más",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nHubo esperanzas renovadas para la selva amazónica, una vacuna innovadora se mostró prometedora para los sobrevivientes de cáncer de piel y el gobierno del Reino Unido cerró una laguna jurídica en la nicotina, además de más buenas noticias.\n\nLos ambientalistas y activistas climáticos han saludado la reelección del presidente brasileño Luiz Inácio Lula da Silva como un momento esperanzador para la selva amazónica y las comunidades indígenas.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nHubo esperanzas renovadas para la selva amazónica, una vacuna innovadora se mostró prometedora para los sobrevivientes de cáncer de piel y el gobierno del Reino Unido cerró un vacío legal en la nicotina, además de más buenas noticias.\n\nLos ambientalistas y activistas climáticos han saludado la reelección del presidente brasileño Luiz Inácio Lula da Silva como un momento esperanzador para la selva amazónica y las comunidades indígenas.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
@@ -126,67 +183,10 @@
       ]
     },
     {
-      "id": "rss-mundo--panther-pat-shines-a-light-on",
-      "title": "'Panther Pat' arroja luz sobre la primera mujer casi olvidada en jugar fútbol profesional",
-      "summary": "JoyDrops defiende los cortometrajes documentales elegibles para premios sobre la alegría, un contrapeso a una categoría a menudo dominada por la tragedia. Good News Network se ha asociado con JoyDrops para destacar estas películas y hablar con los realizadores detrás de ellas. En 1970, un maestro de escuela primaria llamado Pat Palinkas entró al campo de los Orlando Panthers y se convirtió en el primero […]",
-      "fullStory": "JoyDrops defiende los cortometrajes documentales elegibles para premios sobre la alegría, un contrapeso a una categoría a menudo dominada por la tragedia. Good News Network se ha asociado con JoyDrops para destacar estas películas y hablar con los realizadores detrás de ellas.\n\nEn 1970, una maestra de escuela primaria llamada Pat Palinkas entró al campo de los Orlando Panthers y se convirtió en la primera mujer en jugar fútbol profesional. Ella apareció en los titulares nacionales. Luego, casi con la misma rapidez, el mundo lo olvidó.\n\nMás de cinco décadas después, la cineasta Ashley Brandon se asegura de que se cuente su historia, con un poco de ayuda de Barbie.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/panther-pat-shines-a-light-on-the-nearly-forgotten-first-woman-to-play-pro-football/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/CELEB-POST-PP-27-x-40-OFFICIAL-POSTER-e1793294882546.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-29T19:07:07.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-joydrops-short-films-big-on-in",
-      "title": "JoyDrops: cortometrajes llenos de inspiración y mayores aspiraciones a premios",
-      "summary": "JoyDrops: cortometrajes con grandes corazones y ambiciones aún mayores Good News Network y Switchboard Magazine han unido fuerzas en JoyDrops, una lista seleccionada de cortometrajes documentales de la temporada de premios que ofrecen perspectivas positivas, realizados por cineastas artesanales que ya han acumulado numerosos elogios y premios en el circuito de festivales de cine. El idea iniciada, de […]",
-      "fullStory": "Good News Network y Switchboard Magazine han unido fuerzas en JoyDrops, una lista seleccionada de cortometrajes documentales de la temporada de premios que ofrecen perspectivas positivas, realizados por cineastas artesanales que ya han acumulado numerosos reconocimientos y premios en el circuito de festivales de cine.\n\nLa idea surgió, precisamente, en el escenario de los Oscar. Al presentar la categoría de Cortometraje Documental en la ceremonia de este año, el presentador Conan O'Brien hizo una pausa para cambiarle el nombre a \"pequeños tristes\", antes de preguntar a la sala si las películas, de hecho, los habían puesto tristes. (Un poco, estuvieron de acuerdo. ) La categoría de Cortometraje Documental se ha inclinado durante mucho tiempo hacia el dolor, las dificultades y lo elegíaco. JoyDrops espera ofrecer a los espectadores una variedad más amplia de películas para considerar este año.\n\nJoyDrops celebra los cortometrajes documentales que encuentran asombro, humor y esperanza en la vida real. Cada semana, Good News Network presentará una película de la lista. Cada entrega combina la película con una entrevista del director que la realizó.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/joydrops-short-films-big-on-inspiration-and-bigger-awards-aspirations/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Screenshot-2026-10-29-at-2.59.16-PM.png",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-29T19:06:13.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-disabled-veteran-receives-dona",
-      "title": "Un veterano discapacitado recibe un automóvil donado y bellamente restaurado por estudiantes de colisiones automovilísticas",
-      "summary": "Después de pasar años sin ruedas pero sin escasez de recados, un veterano de Minneapolis recibió recientemente un regalo transformador. Estudiantes de una escuela de ingeniería de Minnesota renovaron maravillosamente un Hyundai Elantra 2020 para el programa Recycled Rides for Schools del National Auto Body Council, una organización sin fines de lucro. El veterano de la Marina de los EE. UU., Robert Hanson, no lo ha hecho. tenía su propio coche […]",
-      "fullStory": "Después de pasar años sin ruedas pero sin escasez de recados, un veterano de Minneapolis recibió recientemente un regalo transformador.\n\nEstudiantes de una escuela de ingeniería de Minnesota renovaron maravillosamente un Hyundai Elantra 2020 para el programa Recycled Rides for Schools del National Auto Body Council, una organización sin fines de lucro.\n\nEl veterano de la Marina de los EE. UU., Robert Hanson, no ha tenido coche propio desde hace más de dos años. Ha sufrido graves problemas de salud desde su separación del ejército, donde voló como aviador de la Armada de 1993 a 1997.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/disabled-veteran-receives-donated-car-beautifully-refurbished-by-auto-collision-students/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/4cafc2d5-67da-40f6-a326-76e7548bf9ad.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-29T18:30:19.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
       "id": "rss-mundo-smartphones-ancient-tracking-s",
       "title": "Smartphones, antiguas habilidades de rastreo y un futuro para los leones del desierto",
       "summary": "En Namibia, los guardabosques están utilizando datos en tiempo real y conocimientos tradicionales para apoyar a los agricultores y salvaguardar una población de leones en recuperación.",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nEn todo el noroeste de Namibia, los guardas comunitarios están utilizando datos en tiempo real y conocimientos tradicionales para ayudar a proteger el ganado, apoyar a los agricultores y salvaguardar una población de leones en recuperación.\n\nLos perros fueron los primeros en sentirlos. Tres leones flacos acechan en el borde de la granja, evaluando hambrientos el festín errante de cabras, aves de corral y niños pequeños. Cuando los perros comenzaron a ladrar furiosamente, los niños corrieron, gritando, hacia la seguridad de la granja.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nEn todo el noroeste de Namibia, los guardas comunitarios están utilizando datos en tiempo real y conocimientos tradicionales para ayudar a proteger el ganado, apoyar a los agricultores y salvaguardar una población de leones en recuperación.\n\nLos perros fueron los primeros en sentirlos. Tres leones flacos acechan en el borde de la granja, observando hambrientos el festín errante de cabras, aves de corral y niños pequeños. Cuando los perros comenzaron a ladrar furiosamente, los niños corrieron, gritando, hacia la seguridad de la granja.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
@@ -203,7 +203,7 @@
     },
     {
       "id": "rss-mundo-positive-news-launches-new-vid",
-      "title": "Positive News lanza un nuevo video podcast que explora lo que está sucediendo en el mundo",
+      "title": "Positive News lanza un nuevo podcast de vídeo que explora lo que está sucediendo en el mundo",
       "summary": "La serie What Went Right se está expandiendo a YouTube y otras plataformas de podcasts, llevando su resumen semanal de progreso a nuevas audiencias.",
       "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLa serie insignia What Went Right se está expandiendo a YouTube, Spotify y otras plataformas de podcasts, llevando su popular resumen semanal de avances y soluciones a nuevas audiencias.\n\nPublicado todos los sábados, el nuevo programa explora tres de las historias de progreso más importantes de la semana, desde avances científicos y soluciones climáticas hasta iniciativas comunitarias y cambios sociales. Cada episodio va más allá de los titulares para examinar lo que está sucediendo, quién lo impulsa y si las soluciones que se están desarrollando podrían funcionar en otros lugares.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
@@ -261,7 +261,7 @@
     {
       "id": "rss-mundo-what-went-right-this-week-how-",
       "title": "Lo que salió bien esta semana: cómo la reconstrucción puede \"salvar\" las islas bajas, y más",
-      "summary": "La reconstrucción de la naturaleza dio esperanza a las islas bajas, una prueba de ingreso básico resultó prometedora y una fábrica de Bangladesh ganó un premio mundial, además de más buenas noticias.",
+      "summary": "La recuperación de la naturaleza dio esperanza a las islas bajas, una prueba de ingreso básico resultó prometedora y una fábrica de Bangladesh ganó un premio mundial, además de más buenas noticias.",
       "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLa reconstrucción de la naturaleza dio esperanza a las islas bajas, una prueba de ingreso básico se mostró prometedora y una fábrica de Bangladesh ganó un premio mundial de arquitectura, además de más buenas noticias.\n\nRestaurar las poblaciones de aves marinas y la vegetación nativa en islas tropicales bajas les daría una “oportunidad de luchar” contra el aumento del nivel del mar, según un estudio.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
@@ -289,25 +289,6 @@
       "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/SharedLand_Story03b_WebHeader_1800x1080.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-10-22T08:44:40.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo--writing-is-a-way-of-dealing-w",
-      "title": "“Escribir es una forma de afrontar las cosas”",
-      "summary": "El autor escocés Ian Rankin habla sobre cómo dar sentido a experiencias difíciles a través de la ficción y regalar una parte de su éxito.",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nMientras Ian Rankin publica su primer thriller independiente en dos décadas, el autor escocés habla sobre cómo dar sentido a experiencias difíciles a través de la ficción, revelando una parte de su éxito y por qué sigue buscando nuevos desafíos.\n\nTener un \"Señor\" delante de su nombre significa que Ian Rankin a menudo es objeto de burlas por parte de sus amigos. \"Cuando entro en el bar de mi barrio, alguien mira por la puerta y me pregunta: '¿Dónde has aparcado tu caballo hoy?'\", me cuenta. \"El título de caballero no me aporta mucho en términos de obsequios o estatus. Vivir en Edimburgo te mantiene con los pies en la tierra\".",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Positive News",
-      "sourceUrl": "https://www.positive.news/lifestyle/arts/writing-is-a-way-of-dealing-with-things-ian-rankin/",
-      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/IAN-RANKIN-Portrait-Louise-Mather-2024.jpg-1.jpeg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-21T09:20:24.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
