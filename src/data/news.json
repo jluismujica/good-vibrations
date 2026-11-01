@@ -1,15 +1,73 @@
 {
-  "lastUpdated": "2026-11-01T02:01:24.682Z",
-  "totalCount": 15,
+  "lastUpdated": "2026-11-01T17:04:48.762Z",
+  "totalCount": 14,
   "categories": {
-    "musica": 0,
-    "ia": 1,
+    "musica": 1,
+    "ia": 0,
     "psicologia": 0,
     "liderazgo": 0,
     "chile": 0,
-    "mundo": 14
+    "mundo": 13
   },
   "news": [
+    {
+      "id": "rss-mundo-high-school-fills-entire-footb",
+      "title": "Una escuela secundaria llena todo un campo de fútbol con comestibles para reponer los bancos de alimentos de Nueva Jersey",
+      "summary": "Cientos de estudiantes de Howell HS recolectaron más de un cuarto de millón de libras de alimentos, llenando un campo de fútbol para los bancos de alimentos de Nueva Jersey y Dermer Dreams.",
+      "fullStory": "Cientos de estudiantes de Nueva Jersey recolectaron más de un cuarto de millón de libras de alimentos durante el segundo desafío anual de colecta de alimentos de 100 yardas la semana pasada.\n\nMiles de bolsas de donaciones de color amarillo brillante cubrieron el campo de fútbol de Howell High School de zona de anotación a zona de anotación, y el extraordinario esfuerzo marcó la colecta de alimentos más grande en la historia de la organización sin fines de lucro Dermer Dreams.\n\n\"Estos estudiantes hicieron más que recolectar alimentos: unieron comunidades y demostraron el poder de trabajar juntos\", dijo Dan Dermer, cofundador de Dermer Dreams.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/high-school-fills-football-field-with-groceries-for-nj-food-banks/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Football-field-full-of-food-bank-donations-in-NY-Credit-Tommy-Pantaleo-for-Dermer-Dreams-submitted.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-01T15:34:01.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-musica-hero-support-dog-saves-husband",
+      "title": "El perro de apoyo héroe salva la vida de su esposo después de alertar al dueño sordo sobre su mortal caída por las escaleras a medianoche",
+      "summary": "Una mujer sorda dice que su perro de apoyo le salvó la vida a su marido después de que éste tropezara por las escaleras y cayera inconsciente, despertándola de un sueño profundo.",
+      "fullStory": "Una mujer sorda dice que su perro de apoyo le salvó la vida a su marido después de que se cayera por las escaleras, despertándola de un sueño profundo para insistir que algo andaba mal.\n\nSandra Donally fue alertada por su inteligente cachorro después de que su esposo Gary cayera por las escaleras en medio de la noche y quedara sangrando e inconsciente.\n\nEstaba profundamente dormida cuando Storm de repente saltó sobre su cama poco después de medianoche, despertándola sobresaltada.",
+      "whyGoodNews": "Celebra el poder unificador de la música y el arte para conectar personas, sanar heridas y despertar emociones profundas.",
+      "category": "musica",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/hero-support-dog-saves-husbands-life-after-alerting-deaf-owner-to-deadly-fall/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Gary-with-Support-Dog-named-Storm-SWNS.jpeg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-01T12:55:07.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "MÚSICA",
+        "CULTURA"
+      ]
+    },
+    {
+      "id": "rss-mundo-good-news-in-history-november-",
+      "title": "Buenas noticias en la historia, 1 de noviembre",
+      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 1 de noviembre.",
+      "fullStory": "Hoy hace 69 años, se inauguró el puente Mackinac para conectar las penínsulas superior e inferior de Michigan a través del estrecho de Mackinac. Apodado \"Mighty Mac\" cuando se construyó, sigue siendo el puente colgante \"entre anclajes\" más largo del hemisferio occidental. Con una extensión de 8.038 metros (26.372 pies) de costa a costa, fue diseñado por David B. Steinman, que creció a la sombra del Puente de Brooklyn y esperaba rivalizar con su grandeza. LEER más sobre Mighty Mac… (1957)\n\nTras tomar una pausa de más de una década en la construcción de puentes después de completar el Puente de las Mil Islas que conecta Nueva York con Canadá, Steinman incorporó aspectos de diseño que se basaron en fallas de puentes colgantes a lo largo de la década de 1940. La calzada se construyó con forma de perfil aerodinámico para reducir la resistencia del viento cruzado y generar sustentación, y se agregaron vigas de refuerzo debajo de la calzada.\n\nLos dos carriles centrales son de rejilla abierta para permitir el flujo de aire ascendente, lo que cancela la sustentación generada por la forma del perfil aerodinámico, lo que hace que la carretera sea estable en vientos de hasta 150 millas por hora.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061101/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/11/Mackinac-Bridge-credit-WMrapids-CC-0.0.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-01T08:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
     {
       "id": "rss-mundo-girl-sitting-in-dirt-at-bus-st",
       "title": "Una niña sentada en la tierra en una parada de autobús recibe un banco sorpresa del dueño de casa: la cámara capta su plantilla (MIRAR)",
@@ -27,8 +85,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-b-vitamin-supplement-can-treat",
@@ -104,63 +161,6 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-best-spud-harvest-in-a-decade-",
-      "title": "La mejor cosecha de papas en una década aclara el pesimismo de los cultivos que fracasan debido al verano abrasador",
-      "summary": "Una espectacular cosecha de patatas en Japón demostró que aún quedan años excepcionales en el almanaque, incluso cuando la incertidumbre climática sigue haciendo que la agricultura sea más difícil.",
-      "fullStory": "En medio de un verano de malas cosechas, una espectacular cosecha de papa en Japón demostró que aún quedan años excepcionales en el almanaque, incluso cuando la incertidumbre climática continúa haciendo que la agricultura sea más desafiante.\n\nUn medio de la industria de la papa informa que la combinación ideal de temperaturas y precipitaciones significa que la isla de Hokkaido, en el norte de Japón, es prácticamente la única región del hemisferio norte que ha aumentado su producción.\n\nEl importante fabricante de productos de patata Calbee estima que alcanzará sus cuotas habituales de 250.000 toneladas de patatas de Hokkaido, una cifra que puede ayudar a comprender el alcance de este tifón de la patata.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/best-spud-harvest-in-a-decade-clears-the-gloom-of-crops-failing-from-scorching-summer/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/12/potato-unsplash.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-30T18:30:53.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-new-texas-school-is-named-for-",
-      "title": "Nueva escuela de Texas lleva el nombre de la conserje de toda la vida 'Miss Marilyn' (observe su reacción)",
-      "summary": "Dejó un legado increíble como educadora a pesar de nunca haber obtenido un título en enseñanza.",
-      "fullStory": "Y aunque no es un anillo de Super Bowl ni un Premio de la Academia, para una conserje de carrera en un distrito escolar de Texas, el honor que recibió últimamente es mayor que cualquier cosa que jamás hubiera imaginado.\n\nMarilyn Hampton trabajó como conserje para el Distrito Escolar Independiente de Aubrey (ISD) después de la secundaria cuando se convirtió en la primera de sus 7 hermanos en graduarse. Sin embargo, al no haber dado nunca el siguiente salto a la universidad, \"Miss Marilyn\" a menudo luchaba con sentimientos de inferioridad; que ella era \"un fracaso\".\n\nEso no le impidió tener una carrera de 39 años, no solo como conserje de ISD, sino como 'el' conserje de ISD.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/new-texas-school-is-named-for-longtime-janitor-miss-marilyn-watch-her-reaction/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Marilyn-Hampton-when-she-graduated-high-school-credit-family-photo.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-30T15:30:55.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-ia-a-farmer-didn-t-know-his-cell-",
-      "title": "Un granjero no sabía que su número de celular estaba en una pregunta de un examen, ahora usa las llamadas que recibe como oportunidades para inspirarse",
-      "summary": "He Ziqi estaba en la escuela secundaria cuando estaba presentando un examen de inglés y vio una pregunta que le pareció bastante extraña.",
-      "fullStory": "Un joven estudiante ha sido aceptado en una prestigiosa universidad gracias en parte a una inusual fuente de inspiración: un productor de fresas al que conoció debido a una pregunta en un examen de inglés.\n\nHe Ziqi, ahora estudiante de posgrado en inteligencia artificial, estaba en la escuela secundaria cuando estaba tomando un examen de idioma inglés y vio una pregunta que le pareció bastante extraña.\n\nCurioso, guardó el número de teléfono para poder comprobar si él y la dirección comercial emparejada eran simplemente adornos ficticios para la prueba o información de contacto real.",
-      "whyGoodNews": "Muestra cómo la innovación científica y el ingenio humano colaboran para resolver desafíos ambientales y sociales concretos.",
-      "category": "ia",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/a-farmer-didnt-know-his-cell-number-was-on-an-exam-question-now-uses-the-calls-he-gets-as-opportunities-to-inspire/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Left-Mr.-He-and-Mr.-Wang-shake-hands-6-years-after-meeting-through-an-English-exam-question-credit-retrieved-from-social-media-Douyin.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-30T13:00:13.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "INNOVACIÓN",
-        "CIENCIA"
       ]
     },
     {
@@ -270,25 +270,6 @@
       "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/iStock-900706714.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-10-23T05:00:52.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-the-farmer-growing-a-future-un",
-      "title": "El agricultor cultiva un futuro bajo los árboles de Ghana",
-      "summary": "La productora de cacao Susana Afrifa Ankrah está ayudando a mostrar cómo la protección de los bosques puede sostener los medios de vida y generar resiliencia ante un clima cambiante.",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLa productora de cacao Susana Afrifa Ankrah está ayudando a mostrar cómo la protección de los bosques puede sostener los medios de vida y generar resiliencia ante un clima cambiante, ofreciendo esperanza tanto a las comunidades como a la naturaleza.\n\nEn las colinas de la Cordillera Atewa, en el sureste de Ghana, se encuentra una joya de bosque tropical. Un fragmento sobreviviente de las franjas de árboles que una vez cubrieron la región, alberga una gran variedad de criaturas preciosas, desde búhos reales y papamoscas hasta especies raras de cucos y ranas. Es el hogar de monos antílopes, ciervos y colobos, junto con una gran variedad de mariposas, incluida la cola de golondrina gigante, portadora de la envergadura de alas más amplia del mundo. Y es el hogar de Susana Afrifa Ankrah, madre, abuela y productora de cacao, quien no tiene dudas de las bendiciones que esto trae para ella y su familia.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/the-farmer-growing-a-future-under-ghanas-trees/",
-      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/SharedLand_Story03b_WebHeader_1800x1080.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-22T08:44:40.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
