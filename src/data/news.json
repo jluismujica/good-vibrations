@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T17:04:48.762Z",
+  "lastUpdated": "2026-11-02T02:14:18.651Z",
   "totalCount": 14,
   "categories": {
     "musica": 1,
@@ -10,6 +10,26 @@
     "mundo": 13
   },
   "news": [
+    {
+      "id": "rss-mundo-housing-nonprofit-funds-16-5-m",
+      "title": "Fondos para viviendas sin fines de lucro $16. 5 millones en alivio de desalojo para ayudar a los inquilinos",
+      "summary": "La organización sin fines de lucro con sede en Atlanta que lanzó un Fondo de Ayuda para Desalojos durante la pandemia de COVID ahora ha ayudado a más de 5,500 familias para que pudieran quedarse en sus apartamentos. Marjy Stagmeier, propietaria de viviendas asequibles en la capital de Georgia, está ayudando a aliviar la carga de los inquilinos mediante la recaudación de fondos para la organización sin fines de lucro que ella fundó, el Programa Star-C. […]",
+      "fullStory": "La organización sin fines de lucro con sede en Atlanta que lanzó un Fondo de Ayuda para Desalojos durante la pandemia de COVID ahora ha ayudado a más de 5,500 familias para que pudieran quedarse en sus apartamentos.\n\nMarjy Stagmeier, propietaria de viviendas asequibles en la capital de Georgia, está ayudando a aliviar la carga de los inquilinos mediante la recaudación de fondos para la organización sin fines de lucro que ella fundó, el Programa Star-C.\n\nLo que comenzó como una campaña GoFundMe de 50.000 dólares ahora ha superado los 16 dólares. 5 millones para pagos de alquiler para ayudar a cerrar la brecha para los necesitados.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/housing-nonprofit-funds-16-5-million-in-eviction-relief-for-renters/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Kids-in-the-Star-C-Program-submitted-by-nonprofit.jpeg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-01T22:53:28.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
     {
       "id": "rss-mundo-high-school-fills-entire-footb",
       "title": "Una escuela secundaria llena todo un campo de fútbol con comestibles para reponer los bancos de alimentos de Nueva Jersey",
@@ -27,8 +47,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-musica-hero-support-dog-saves-husband",
@@ -145,29 +164,10 @@
       ]
     },
     {
-      "id": "rss-mundo-good-news-in-history-october-3",
-      "title": "Buenas noticias en la historia, 31 de octubre",
-      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 31 de octubre.",
-      "fullStory": "Tal día como hoy, hace 76 años, nació la arquitecta británico-iraquí Zaha Hadid. Descrita como la \"Reina de las Curvas\", que \"liberó la geometría arquitectónica, dándole una identidad expresiva completamente nueva\", Hadid fue nombrada caballero por la Reina Isabel II por sus contribuciones a la arquitectura mundial. La firma que fundó en Londres, Zaha Hadid Architects, continúa innovando y construyendo estructuras fabulosamente impresionantes en todo el mundo. LEER más sobre su vida y obra… (1950)\n\nNacida en una familia de clase alta en Bagdad que incluía a un escritor en su hermano y una artista en su madre, estudió matemáticas en Beirut antes de mudarse a Londres para estudiar arquitectura, donde destacó como un fenómeno. Su antiguo profesor, Rem Koolhaas, la describió en la graduación como \"un planeta en su propia órbita\".\n\nEn 1980 fundó su empresa y se puso a trabajar para concretar su \"visión espectacular\". Entre ellos se encontraban el Centro de Ciencias Phaeno de Wolfsburgo, el Centro de Arte Contemporáneo de Cincinnati, el edificio administrativo de la fábrica de BMW de Leipzig y la estación de tren Napoli Afragola de Nápoles.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061031/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/492px-Zaha_Hadid_in_Heydar_Aliyev_Cultural_center_in_Baku_nov_2013-Copy.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-31T07:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
       "id": "rss-mundo-what-went-right-this-week-the-",
       "title": "Lo que salió bien esta semana: las buenas noticias que importan",
       "summary": "Hubo esperanzas renovadas para la selva amazónica, una vacuna contra el cáncer de piel se mostró prometedora y se cerró una laguna jurídica en la nicotina en el Reino Unido, y más",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nHubo esperanzas renovadas para la selva amazónica, una vacuna innovadora se mostró prometedora para los sobrevivientes de cáncer de piel y el gobierno del Reino Unido cerró una laguna jurídica en la nicotina, además de más buenas noticias.\n\nLos ambientalistas y activistas climáticos han saludado la reelección del presidente brasileño Luiz Inácio Lula da Silva como un momento esperanzador para la selva amazónica y las comunidades indígenas.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nHubo esperanzas renovadas para la selva amazónica, una vacuna innovadora se mostró prometedora para los sobrevivientes de cáncer de piel y el gobierno del Reino Unido cerró un vacío legal en la nicotina, además de más buenas noticias.\n\nLos ambientalistas y activistas climáticos han saludado la reelección del presidente brasileño Luiz Inácio Lula da Silva como un momento esperanzador para la selva amazónica y las comunidades indígenas.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
@@ -186,7 +186,7 @@
       "id": "rss-mundo-smartphones-ancient-tracking-s",
       "title": "Smartphones, antiguas habilidades de rastreo y un futuro para los leones del desierto",
       "summary": "En Namibia, los guardabosques están utilizando datos en tiempo real y conocimientos tradicionales para apoyar a los agricultores y salvaguardar una población de leones en recuperación.",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nEn todo el noroeste de Namibia, los guardas comunitarios están utilizando datos en tiempo real y conocimientos tradicionales para ayudar a proteger el ganado, apoyar a los agricultores y salvaguardar una población de leones en recuperación.\n\nLos perros fueron los primeros en sentirlos. Tres leones flacos acechan en el borde de la granja, evaluando hambrientos el festín errante de cabras, aves de corral y niños pequeños. Cuando los perros comenzaron a ladrar furiosamente, los niños corrieron, gritando, hacia la seguridad de la granja.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nEn todo el noroeste de Namibia, los guardas comunitarios están utilizando datos en tiempo real y conocimientos tradicionales para ayudar a proteger el ganado, apoyar a los agricultores y salvaguardar una población de leones en recuperación.\n\nLos perros fueron los primeros en sentirlos. Tres leones flacos acechan en el borde de la granja, observando hambrientos el festín errante de cabras, aves de corral y niños pequeños. Cuando los perros comenzaron a ladrar furiosamente, los niños corrieron, gritando, hacia la seguridad de la granja.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
@@ -203,7 +203,7 @@
     },
     {
       "id": "rss-mundo-positive-news-launches-new-vid",
-      "title": "Positive News lanza un nuevo video podcast que explora lo que está sucediendo en el mundo",
+      "title": "Positive News lanza un nuevo podcast de vídeo que explora lo que está sucediendo en el mundo",
       "summary": "La serie What Went Right se está expandiendo a YouTube y otras plataformas de podcasts, llevando su resumen semanal de progreso a nuevas audiencias.",
       "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLa serie insignia What Went Right se está expandiendo a YouTube, Spotify y otras plataformas de podcasts, llevando su popular resumen semanal de avances y soluciones a nuevas audiencias.\n\nPublicado todos los sábados, el nuevo programa explora tres de las historias de progreso más importantes de la semana, desde avances científicos y soluciones climáticas hasta iniciativas comunitarias y cambios sociales. Cada episodio va más allá de los titulares para examinar lo que está sucediendo, quién lo impulsa y si las soluciones que se están desarrollando podrían funcionar en otros lugares.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
@@ -261,7 +261,7 @@
     {
       "id": "rss-mundo-what-went-right-this-week-how-",
       "title": "Lo que salió bien esta semana: cómo la reconstrucción puede \"salvar\" las islas bajas, y más",
-      "summary": "La reconstrucción de la naturaleza dio esperanza a las islas bajas, una prueba de ingreso básico resultó prometedora y una fábrica de Bangladesh ganó un premio mundial, además de más buenas noticias.",
+      "summary": "La recuperación de la naturaleza dio esperanza a las islas bajas, una prueba de ingreso básico resultó prometedora y una fábrica de Bangladesh ganó un premio mundial, además de más buenas noticias.",
       "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLa reconstrucción de la naturaleza dio esperanza a las islas bajas, una prueba de ingreso básico se mostró prometedora y una fábrica de Bangladesh ganó un premio mundial de arquitectura, además de más buenas noticias.\n\nRestaurar las poblaciones de aves marinas y la vegetación nativa en islas tropicales bajas les daría una “oportunidad de luchar” contra el aumento del nivel del mar, según un estudio.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
