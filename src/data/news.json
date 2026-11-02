@@ -1,15 +1,149 @@
 {
-  "lastUpdated": "2026-11-02T02:14:18.651Z",
+  "lastUpdated": "2026-11-02T20:42:25.943Z",
   "totalCount": 14,
   "categories": {
-    "musica": 1,
+    "musica": 0,
     "ia": 0,
     "psicologia": 0,
     "liderazgo": 0,
     "chile": 0,
-    "mundo": 13
+    "mundo": 14
   },
   "news": [
+    {
+      "id": "rss-mundo-whale-festival-to-kick-off-ame",
+      "title": "Festival de ballenas dará inicio a la isla Amelia en Florida para celebrar el regreso de la ballena franca",
+      "summary": "Celebrado cada año desde 2009, celebra el momento del calendario en el que una de las especies de ballenas más grandes migra de regreso al sur.",
+      "fullStory": "La isla barrera del noreste de Florida se describe a sí misma como una joya natural, y este fin de semana se celebrará una gran excusa para visitarla en forma del Festival anual de la Ballena Franca.\n\nSe celebra cada año desde 2009 y celebra el momento del calendario en el que una de las especies de ballenas más grandes migra de regreso al sur, a sus zonas de reproducción subtropicales.\n\nEl festival, que comienza el viernes por la mañana en Main Beach Park de Fernandina Beach y finaliza el domingo, combina educación sobre conservación con actividades familiares y entretenimiento en vivo. También ofrece a los visitantes la oportunidad de conectarse directamente con expertos que trabajan para proteger la vida silvestre marina a través de talleres de los organizadores Clearwater Marine Aquarium y la Administración Nacional Oceánica y Atmosférica.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/whale-festival-to-kick-off-amelia-island-in-florida-to-celebrate-the-return-of-the-right-whale/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-Right-Whale-Festival-supplied.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-02T19:30:58.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo-over-750-ukraine-civilians-eva",
+      "title": "Más de 750 civiles ucranianos fueron evacuados de condiciones de hambruna en la tregua más importante de la guerra",
+      "summary": "La primera dama Melania Trump, el Papa y los comisionados de derechos humanos de Rusia y Ucrania llevaron a cabo la operación humanitaria más grande de la guerra.",
+      "fullStory": "Miles de residentes ucranianos varados en una ciudad ocupada por Rusia han sido evacuados a través de un corredor de escolta humanitaria.\n\nEn lo que ha sido la medida de cooperación más significativa entre los beligerantes desde que comenzó la guerra, funcionarios rusos y ucranianos coordinaron la evacuación de ciudadanos ucranianos de la ciudad de Oleshky, en el asediado oblast ucraniano de Kherson, en el sur del país.\n\nEl alto el fuego se produjo después de que la ciudad y su población se enfrentaran a condiciones de hambruna a medida que se acercaba el invierno. El comisario de Derechos Humanos del Parlamento ucraniano, Dmytro Lubinets, agradeció personalmente a la primera dama estadounidense, Melania Trump, por haber planteado la difícil situación de la población de Oleshky en medio del diálogo en curso entre Estados Unidos y Rusia, al igual que el portavoz del Kremlin, Dmitry Peskov.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/over-750-ukraine-civilians-evacuated-from-famine-conditions-in-most-substantial-truce-of-the-war/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/The-evacuation-underway-with-the-buses-seen-on-the-right-which-took-residents-wishing-to-leave-on-their-way-to-Kviv-via-Crimea-credit-Kherson-Regional-State-Administration-CC-BY-4.0.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-02T16:30:13.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-weather-pet-app-generates-fore",
+      "title": "Clima. La aplicación para mascotas genera pronósticos para la cabeza y las patas de los perros en función de la temperatura del suelo y más",
+      "summary": "Pawcast también incluye lecturas de temperatura para asfalto, pasto y concreto, y variaciones según la raza, el tamaño corporal y el largo del pelaje.",
+      "fullStory": "Un emprendedor y amante de los perros ha creado un servicio meteorológico diseñado específicamente para perros.\n\nCada mes transmite a los usuarios decenas de miles de informes con el tiempo a la altura de la cabeza y las patas de un perro.\n\nTambién incluye lecturas de temperatura para asfalto, pasto y concreto, y variaciones según las razas, el tamaño del cuerpo y el largo del pelaje, todo lo cual puede ayudar a los dueños de perros a planificar mejor sus paseos y excursiones.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/weather-pet-app-generates-forecasts-for-dogs-head-and-paws-based-on-ground-temps-and-more/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-retrieved-from-Pawcast.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-02T14:00:25.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-strangers-ran-towards-the-fire",
+      "title": "Extraños corrieron hacia el fuego para salvar a una adolescente: su madre ahora financia becas para héroes como ellos",
+      "summary": "Hace 5 años, Kenli Riney, de 18 años, sufrió una colisión frontal en una carretera de Texas. Su auto giró hacia una zanja y se incendió.",
+      "fullStory": "Hace 5 años, Kenli Riney, de 18 años, sufrió una colisión frontal en una carretera de Texas. Su auto giró hacia una zanja y se incendió.\n\nDetrás de ella, la familia Argote conducía y vio todo el asunto. Mike Argote y otros tres hombres corrieron hacia las llamas y sacaron a Riney del auto.\n\nMike se quemó al hacerlo, pero eso no le impidió comenzar la RCP. Cuando se cansó, su hija Ema, de 14 años, se hizo cargo. Finalmente, se dio cuenta de que Riney se había ido y la familia se reunió en oración alrededor del extraño caído, allí mismo, en el camino.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/strangers-ran-toward-burning-car-to-save-teen-her-mom-now-funds-scholarships-for-heroes-like-them/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/supplied-by-Marjohn-Riney.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-02T12:00:52.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-the-women-s-boxing-nights-help",
+      "title": "Las noches de boxeo femenino ayudan a las sobrevivientes de abusos",
+      "summary": "Una nueva serie de noches de pelea exclusivamente femeninas tiene como objetivo financiar clases de boxeo gratuitas que ayuden a las mujeres a recuperar su confianza después de relaciones abusivas.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nUna nueva serie de noches de pelea exclusivamente femeninas tiene como objetivo financiar clases de boxeo gratuitas que ayuden a las mujeres a recuperar su confianza después de relaciones abusivas.\n\n“El programa Fight Forward literalmente me salvó la vida”, explica Saria, de 40 años, alzando la voz por encima del sonido de los guantes golpeando los sacos de boxeo y de los compañeros boxeadores charlando en el gimnasio de boxeo 12×3 de Aldgate, al este de Londres.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/the-womens-boxing-nights-helping-abuse-survivors/",
+      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/BQ3A3519-scaled.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-02T09:26:16.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-good-news-in-history-november-",
+      "title": "Buenas noticias en la historia, 2 de noviembre",
+      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 2 de noviembre.",
+      "fullStory": "Hoy hace 65 años, Jersey Joe Walcott, el boxeador de peso pesado miembro del Salón de la Fama y tres veces campeón de la organización, se convirtió en el primer afroamericano en ser elegido Sheriff en los Estados Unidos. Elegido el martes 2 de noviembre por un margen de dos a uno, se postuló como demócrata y dijo que quería utilizar el puesto para \"ayudar a la gente y rehabilitarla\". LEER un poco más… (1971)\n\nLos sheriffs no sólo se encuentran entre los altos mandos de la policía del condado, sino que también tienen un papel único en la política estadounidense como árbitro final de la Constitución. Independientemente de lo que haya dictaminado incluso la Corte Suprema, un sheriff puede decidir lo que hará y lo que no hará cumplir en su jurisdicción.\n\nWalcott era sheriff del condado de Camden, Nueva Jersey. Walcott, cuyo nombre real era Arnold Cream, dijo que desarrolló un interés en trabajar con niños delincuentes después de perder el cinturón de peso pesado ante Rocky Marciano y comenzó a trabajar en instalaciones correccionales.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061102/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/11/Jersey-Joe-Walcott-in-1937.-CC-3.0.-The-Ring-Boxing-Copy.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-02T08:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-islands-near-portugal-turn-off",
+      "title": "Las islas cercanas a Portugal apagan las luces para proteger a los polluelos de aves marinas cada octubre: ya se han ahorrado 30.000 personas",
+      "summary": "Las últimas cinco noches de octubre, hay un apagón en la isla Corvo para proteger a miles de crías de aves marinas vulnerables de la pardela cenicienta.",
+      "fullStory": "Cada otoño, durante las últimas cinco noches de octubre, hay un apagón en la isla de Corvo, pero no es por casualidad.\n\nEn la pequeña isla de las Azores portuguesas, más de 400 residentes protegen algunas de las aves más vulnerables del mundo y, al mismo tiempo, dan ejemplo a la región.\n\nLa semana pasada, el alumbrado público de Corvo se apagó por completo desde las 21:00 horas hasta las 04:00 horas, durante cinco noches, en un período crítico para las aves marinas jóvenes.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/islands-near-portugal-turn-off-lights-to-protect-seabird-fledglings-every-oct/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Corys-shearwater-on-Wikipedia-by-Hobbyfotowiki-CC0.jpeg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-02T03:04:49.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
     {
       "id": "rss-mundo-housing-nonprofit-funds-16-5-m",
       "title": "Fondos para viviendas sin fines de lucro $16. 5 millones en alivio de desalojo para ayudar a los inquilinos",
@@ -27,8 +161,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-high-school-fills-entire-footb",
@@ -50,124 +183,10 @@
       ]
     },
     {
-      "id": "rss-musica-hero-support-dog-saves-husband",
-      "title": "El perro de apoyo héroe salva la vida de su esposo después de alertar al dueño sordo sobre su mortal caída por las escaleras a medianoche",
-      "summary": "Una mujer sorda dice que su perro de apoyo le salvó la vida a su marido después de que éste tropezara por las escaleras y cayera inconsciente, despertándola de un sueño profundo.",
-      "fullStory": "Una mujer sorda dice que su perro de apoyo le salvó la vida a su marido después de que se cayera por las escaleras, despertándola de un sueño profundo para insistir que algo andaba mal.\n\nSandra Donally fue alertada por su inteligente cachorro después de que su esposo Gary cayera por las escaleras en medio de la noche y quedara sangrando e inconsciente.\n\nEstaba profundamente dormida cuando Storm de repente saltó sobre su cama poco después de medianoche, despertándola sobresaltada.",
-      "whyGoodNews": "Celebra el poder unificador de la música y el arte para conectar personas, sanar heridas y despertar emociones profundas.",
-      "category": "musica",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/hero-support-dog-saves-husbands-life-after-alerting-deaf-owner-to-deadly-fall/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Gary-with-Support-Dog-named-Storm-SWNS.jpeg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-01T12:55:07.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "MÚSICA",
-        "CULTURA"
-      ]
-    },
-    {
-      "id": "rss-mundo-good-news-in-history-november-",
-      "title": "Buenas noticias en la historia, 1 de noviembre",
-      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 1 de noviembre.",
-      "fullStory": "Hoy hace 69 años, se inauguró el puente Mackinac para conectar las penínsulas superior e inferior de Michigan a través del estrecho de Mackinac. Apodado \"Mighty Mac\" cuando se construyó, sigue siendo el puente colgante \"entre anclajes\" más largo del hemisferio occidental. Con una extensión de 8.038 metros (26.372 pies) de costa a costa, fue diseñado por David B. Steinman, que creció a la sombra del Puente de Brooklyn y esperaba rivalizar con su grandeza. LEER más sobre Mighty Mac… (1957)\n\nTras tomar una pausa de más de una década en la construcción de puentes después de completar el Puente de las Mil Islas que conecta Nueva York con Canadá, Steinman incorporó aspectos de diseño que se basaron en fallas de puentes colgantes a lo largo de la década de 1940. La calzada se construyó con forma de perfil aerodinámico para reducir la resistencia del viento cruzado y generar sustentación, y se agregaron vigas de refuerzo debajo de la calzada.\n\nLos dos carriles centrales son de rejilla abierta para permitir el flujo de aire ascendente, lo que cancela la sustentación generada por la forma del perfil aerodinámico, lo que hace que la carretera sea estable en vientos de hasta 150 millas por hora.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061101/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/11/Mackinac-Bridge-credit-WMrapids-CC-0.0.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-01T08:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-girl-sitting-in-dirt-at-bus-st",
-      "title": "Una niña sentada en la tierra en una parada de autobús recibe un banco sorpresa del dueño de casa: la cámara capta su plantilla (MIRAR)",
-      "summary": "Maren y David Douglass se volvieron virales por los conmovedores actos de bondad que mostraron a una joven colegiala cuya parada de autobús estaba en la entrada de su casa.",
-      "fullStory": "Los maestros de Florida Maren y David Douglass se volvieron virales por algunos conmovedores actos de bondad mostrados hacia una joven colegiala cuya parada de autobús estaba asignada al final de su camino de entrada. (Mírala sentada en la parte superior izquierda de la foto de arriba...)\n\nLa revista People informó que la pareja vio por primera vez a la niña sentada en el suelo a través de su cámara de vigilancia.\n\nSin una acera que la protegiera del tráfico, decidieron instalar un banco para la estudiante de secundaria, quien, literalmente, saltó de alegría la mañana que lo notó por primera vez.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/girl-sitting-in-dirt-at-bus-stop-gets-surprise-bench-from-couple/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Bus-stop-kindness-Courtesy-of-TikTok-Teacher-and-Traveler.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-31T18:10:43.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-b-vitamin-supplement-can-treat",
-      "title": "El suplemento de vitamina B puede tratar la psoriasis, una afección de la piel que no tiene cura",
-      "summary": "Una nueva investigación sugiere que la psoriasis, una enfermedad cutánea común que no tiene cura, podría tratarse con un suplemento nutricional de vitamina B.",
-      "fullStory": "Una nueva investigación sugiere que una enfermedad cutánea común que no tiene cura podría tratarse con suplementos nutricionales.\n\nEl derivado de la vitamina B mostró resultados \"alentadores\" para reducir los síntomas de la psoriasis en estudios tanto con humanos como con ratones.\n\nLa psoriasis causa una erupción con parches escamosos y que pican, con mayor frecuencia en las rodillas, los codos y alrededor de la cintura, y esta afección autoinmune no tiene cura.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/b-vitamin-supplement-can-treat-psoriasis/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Skin-psoriasis-before-after-by-2026-Cao-at-State-Key-Laboratory-of-Biomedical-Analysis-via-SWNS.jpeg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-31T15:22:53.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-retirees-who-lost-spouses-fall",
-      "title": "Jubilados que perdieron a sus cónyuges se vuelven a enamorar a los 88 años, después de encontrarse en el gimnasio",
-      "summary": "Un par de jubilados que perdieron a sus parejas se volvieron a enamorar a los 88 años, después de conocerse entre pesas en el gimnasio.",
-      "fullStory": "Un par de jubilados que perdieron a sus parejas se volvieron a enamorar a los 88 años, después de conocerse entre las pesas del gimnasio.\n\nAhora viudos, Barbara Thompson y Fred Jenkins dijeron que nunca esperaban volver a encontrar el amor después de que fallecieron sus parejas de mucho tiempo.\n\nBarbara se mudó a Oscott Retirement Village en Birmingham hace diez años después de perder a su marido a causa del cáncer.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/retirees-who-lost-spouses-fall-in-love-again-at-88-meeting-in-gym/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Seniors-working-out-w-weights-in-gym-by-ExtraCare-Charitable-Trust-via-SWNS.jpeg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-31T13:21:50.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-your-halloween-horoscope-advic",
-      "title": "Su consejo sobre el horóscopo de Halloween: 'Astrología del libre albedrío' de Rob Brezsny",
-      "summary": "Rob Brezsny defiende un enfoque positivo de la vida a través de horóscopos con sabiduría semanal en esta columna semanal de Astrología del libre albedrío.",
-      "fullStory": "Nuestro socio Rob Brezsny, cuyo último libro es Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, brinda su sabiduría semanal para iluminar nuestro pensamiento y motivar nuestro estado de ánimo. Rob's Free Will Astrology es una columna semanal sindicada que aparece en más de cien publicaciones. También es autor de Pronoia es el antídoto para la paranoia: cómo toda la creación conspira para colmarte de bendiciones. (Una vista previa gratuita del libro está disponible aquí).\n\nESCORPIO (del 23 de octubre al 21 de noviembre): Esta es su temporada santa más alta, Escorpio, que también es el momento en que el velo entre este mundo y el otro es más delgado. Otros encuentran esto inquietante, pero usted siempre ha estado aquí como en casa. Sabes cómo explorar las profundidades más profundas, cómo respetar lo que está enterrado y escondido y cómo encontrar tesoros en la oscuridad. En las próximas semanas, tu poder natural para percibir lo que está oculto se amplificará. Para Halloween, sé un guía del alma envuelto en sombras y luz de estrellas que camina cómodamente entre los vivos y los muertos. (PD: ¿Qué secretos te gustaría descubrir? ¿Con qué espíritus de los difuntos te gustaría comunicarte? ¿A qué conocimiento aparentemente imposible podrías acceder?)\n\nSAGITARIO (del 22 de noviembre al 21 de diciembre): Los primeros aeronautas tenían poco control sobre la dirección de sus vuelos. No podían girar horizontalmente. Pero descubrieron que el cambio de altitud les permitía captar diferentes vientos que se movían en diferentes direcciones. La forma más inteligente de cambiar de rumbo era subir o bajar. Mantén esa imagen cerca, Sagitario. Si no puede alterar las circunstancias externas directamente, cambie su perspectiva o su entorno social. Es posible que una nueva corriente esté esperando más arriba o más abajo que donde usted ha estado a la deriva. Para Halloween, conviértete en piloto de globo aerostático, jinete de cometa, pirata del cielo o dios pájaro como el hindú Garuda.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-10-31-2026/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Freewill-Astrology-horoscope-logo-Halloween.jpeg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-31T10:00:12.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
       "id": "rss-mundo-what-went-right-this-week-the-",
       "title": "Lo que salió bien esta semana: las buenas noticias que importan",
-      "summary": "Hubo esperanzas renovadas para la selva amazónica, una vacuna contra el cáncer de piel se mostró prometedora y se cerró una laguna jurídica en la nicotina en el Reino Unido, y más",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nHubo esperanzas renovadas para la selva amazónica, una vacuna innovadora se mostró prometedora para los sobrevivientes de cáncer de piel y el gobierno del Reino Unido cerró un vacío legal en la nicotina, además de más buenas noticias.\n\nLos ambientalistas y activistas climáticos han saludado la reelección del presidente brasileño Luiz Inácio Lula da Silva como un momento esperanzador para la selva amazónica y las comunidades indígenas.",
+      "summary": "Hubo esperanzas renovadas para el Amazonas, una vacuna contra el cáncer de piel se mostró prometedora y se cerró una laguna jurídica en la nicotina en el Reino Unido, y más",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nHubo esperanzas renovadas para la selva amazónica, una vacuna innovadora se mostró prometedora para los sobrevivientes de cáncer de piel y el gobierno del Reino Unido cerró una laguna jurídica en la nicotina, además de más buenas noticias.\n\nLos ambientalistas y activistas climáticos han elogiado la reelección del presidente brasileño Luiz Inácio Lula da Silva como un momento esperanzador para la selva amazónica y las comunidades indígenas.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
@@ -186,7 +205,7 @@
       "id": "rss-mundo-smartphones-ancient-tracking-s",
       "title": "Smartphones, antiguas habilidades de rastreo y un futuro para los leones del desierto",
       "summary": "En Namibia, los guardabosques están utilizando datos en tiempo real y conocimientos tradicionales para apoyar a los agricultores y salvaguardar una población de leones en recuperación.",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nEn todo el noroeste de Namibia, los guardas comunitarios están utilizando datos en tiempo real y conocimientos tradicionales para ayudar a proteger el ganado, apoyar a los agricultores y salvaguardar una población de leones en recuperación.\n\nLos perros fueron los primeros en sentirlos. Tres leones flacos acechan en el borde de la granja, observando hambrientos el festín errante de cabras, aves de corral y niños pequeños. Cuando los perros comenzaron a ladrar furiosamente, los niños corrieron, gritando, hacia la seguridad de la granja.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nEn todo el noroeste de Namibia, los guardas comunitarios están utilizando datos en tiempo real y conocimientos tradicionales para ayudar a proteger el ganado, apoyar a los agricultores y salvaguardar una población de leones en recuperación.\n\nLos perros fueron los primeros en sentirlos. Tres leones flacos acechan en el borde de la granja, evaluando hambrientos el festín errante de cabras, aves de corral y niños pequeños. Cuando los perros comenzaron a ladrar furiosamente, los niños corrieron, gritando, hacia la seguridad de la granja.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Positive News",
@@ -203,7 +222,7 @@
     },
     {
       "id": "rss-mundo-positive-news-launches-new-vid",
-      "title": "Positive News lanza un nuevo podcast de vídeo que explora lo que está sucediendo en el mundo",
+      "title": "Positive News lanza un nuevo video podcast que explora lo que está sucediendo en el mundo",
       "summary": "La serie What Went Right se está expandiendo a YouTube y otras plataformas de podcasts, llevando su resumen semanal de progreso a nuevas audiencias.",
       "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLa serie insignia What Went Right se está expandiendo a YouTube, Spotify y otras plataformas de podcasts, llevando su popular resumen semanal de avances y soluciones a nuevas audiencias.\n\nPublicado todos los sábados, el nuevo programa explora tres de las historias de progreso más importantes de la semana, desde avances científicos y soluciones climáticas hasta iniciativas comunitarias y cambios sociales. Cada episodio va más allá de los titulares para examinar lo que está sucediendo, quién lo impulsa y si las soluciones que se están desarrollando podrían funcionar en otros lugares.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
@@ -251,25 +270,6 @@
       "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/SafeBAE-Students-2.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-10-26T12:41:17.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-what-went-right-this-week-how-",
-      "title": "Lo que salió bien esta semana: cómo la reconstrucción puede \"salvar\" las islas bajas, y más",
-      "summary": "La recuperación de la naturaleza dio esperanza a las islas bajas, una prueba de ingreso básico resultó prometedora y una fábrica de Bangladesh ganó un premio mundial, además de más buenas noticias.",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLa reconstrucción de la naturaleza dio esperanza a las islas bajas, una prueba de ingreso básico se mostró prometedora y una fábrica de Bangladesh ganó un premio mundial de arquitectura, además de más buenas noticias.\n\nRestaurar las poblaciones de aves marinas y la vegetación nativa en islas tropicales bajas les daría una “oportunidad de luchar” contra el aumento del nivel del mar, según un estudio.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-43-of-2026/",
-      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/iStock-900706714.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-23T05:00:52.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
