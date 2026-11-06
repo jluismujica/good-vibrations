@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-05T18:38:11.524Z",
+  "lastUpdated": "2026-11-06T03:19:04.878Z",
   "totalCount": 15,
   "categories": {
     "musica": 1,
@@ -10,6 +10,26 @@
     "mundo": 14
   },
   "news": [
+    {
+      "id": "rss-mundo-got-bad-breath-get-free-dental",
+      "title": "¿Tienes mal aliento? Obtenga atención dental gratuita en esta tienda",
+      "summary": "Cualquiera puede obtener pasta de dientes, un cepillo de dientes, hilo dental y más, todo gratis, siempre que su aliento esté lo suficientemente rancio.",
+      "fullStory": "En una pequeña tienda de Estocolmo te hacen un descuento si pagas con mal aliento.\n\nDe hecho, le darán todo lo que necesita: pasta de dientes, un cepillo de dientes, hilo dental y más, todo gratis, siempre que su aliento esté lo suficientemente rancio.\n\nVer esta publicación en Instagram Una publicación compartida por The Humble Co. (@thehumble. co)",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/got-bad-breath-get-free-dental-care-at-this-store/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/The-Breath-Boutique-credit-The-Humble-Co.-released.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-05T19:30:26.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
     {
       "id": "rss-mundo-the-butterfly-effect-a-brighte",
       "title": "El efecto mariposa: ¿una forma más luminosa de hacer pintura?",
@@ -27,8 +47,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-400-yo-shipwreck-puzzle-finall",
@@ -156,25 +175,6 @@
       "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/YouTube-Screengrab-Houston-Independent-School-District.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-11-04T16:30:37.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-italy-sees-collapse-in-its-hom",
-      "title": "Italia experimenta un colapso en su tasa de homicidios al tercer lugar más bajo de la UE",
-      "summary": "En 2023, Italia registró la tasa de homicidios más baja de la UE y la tercera tasa de homicidios estandarizada por edad más baja.",
-      "fullStory": "En 2023, Italia registró la tasa de homicidios más baja de la UE y la tercera tasa de homicidios estandarizada por edad más baja.\n\nEstos hitos en la doble búsqueda de combatir el crimen organizado y mejorar la seguridad interna marcan un increíble giro desde el punto álgido de la reciente violencia relacionada con la mafia que experimentó el país entre los años 1980 y 1990.\n\nEn todo el mundo y ciertamente en Europa, los hombres jóvenes tienen muchas más probabilidades de ser tanto víctimas como perpetradores de un homicidio. Italia, con la mayor población de personas mayores de la UE, tuvo la tasa de homicidio intencional más baja: 0. 57 por 100.000 habitantes, frente a una media europea de 0,91 en 2023, según fuentes de datos nacionales.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/italy-sees-collapse-in-its-homicide-rate-to-3rd-lowest-in-the-eu/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Italy-italian-people-e1793791453906.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-04T14:00:41.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
