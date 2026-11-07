@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T17:53:36.296Z",
+  "lastUpdated": "2026-11-07T02:39:32.266Z",
   "totalCount": 15,
   "categories": {
     "musica": 0,
@@ -10,6 +10,26 @@
     "mundo": 15
   },
   "news": [
+    {
+      "id": "rss-mundo-people-around-the-world-help-b",
+      "title": "Personas de todo el mundo ayudan a comprar propiedades reales para la conservación de la vida silvestre",
+      "summary": "Sir David Attenborough celebró el logro y dijo que \"juntos hemos logrado algo asombroso\".",
+      "fullStory": "El zarapito, el abejorro de montaña, la avefría y otras aves zancudas son sólo algunos de los animales que llaman hogar a esta finca noble única en su tipo.\n\nAhora, personas de todo el mundo se han unido para donar millones para comprar este pedazo crítico de tierra biodiversa que había estado en manos de una familia noble británica durante 800 años.\n\nSir David Attenborough celebró el logro y dijo que \"juntos hemos logrado algo asombroso\".",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/people-around-the-world-help-buy-royal-estate-for-wildlife-conservation/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/A-drone-image-of-the-site-of-the-Bronze-Age-Lordenshaw-Hill-Fort-credit-The-Wildlife-Trusts-©.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-06T21:16:55.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
     {
       "id": "rss-mundo-man-spends-12-days-returning-l",
       "title": "Un hombre pasa 12 días devolviendo el dinero perdido que un trabajador necesitaba para su hija",
@@ -27,8 +47,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-venomous-primate-believed-exti",
@@ -148,7 +167,7 @@
       "id": "rss-mundo-400-yo-shipwreck-puzzle-finall",
       "title": "El rompecabezas de un naufragio de 400 años finalmente se resolvió después de más de 20 años de misterio",
       "summary": "Como algo sacado de El Código Da Vinci, el candado tiene 4 anillos giratorios de 6 caracteres y una letra fija en cada extremo.",
-      "fullStory": "Con la ayuda de un escáner CT de un hospital, los científicos han descifrado el código de un candado de 400 años descubierto en un naufragio cargado de tesoros en una playa de Gales.\n\nUn detector de metales encontró el candado enterrado en la arena, pero también podría haber sido extraído de las páginas del Código Da Vinci, y ha frustrado a todos los que habían intentado adivinar la combinación correcta.\n\n\"Hay cuatro anillos diferentes, y debido a que hay seis letras diferentes en cada uno de los anillos, hay 1296 combinaciones diferentes, y hay que asegurarse de que estén alineadas con el bucle en la parte superior\", dijo el curador principal Alastair Willis en el Swansea Waterfront Museum, que recibió el candado y el resto del tesoro en préstamo en julio de 2026.",
+      "fullStory": "Con la ayuda de un escáner CT de un hospital, los científicos han descifrado el código de un candado de 400 años descubierto en un naufragio cargado de tesoros en una playa de Gales.\n\nUn detector de metales encontró el candado enterrado en la arena, pero también podría haber sido extraído de las páginas del Código Da Vinci, y ha frustrado a todos los que intentaron adivinar la combinación correcta.\n\n\"Hay cuatro anillos diferentes, y debido a que hay seis letras diferentes en cada uno de los anillos, hay 1296 combinaciones diferentes, y hay que asegurarse de que estén alineadas con el bucle en la parte superior\", dijo el curador principal Alastair Willis en el Swansea Waterfront Museum, que recibió el candado y el resto del tesoro en préstamo en julio de 2026.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Good News Network",
@@ -175,25 +194,6 @@
       "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-David-Kinchin-Smith-RSPB.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-11-05T12:00:52.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-next-week-s-new-moon-is-perfec",
-      "title": "La luna nueva de la próxima semana es el telón de fondo perfecto para las colas ardientes de la lluvia de meteoritos Táuridas",
-      "summary": "La Luna Nueva será clave para disfrutar de las N. Táuridas y sus famosas colas largas y luminiscentes que surcan el cielo.",
-      "fullStory": "Una lluvia de meteoritos famosa por sus bolas de fuego será visible en todo el mundo la próxima semana.\n\nAunque la lluvia de meteoros de las Táuridas del Norte no alcanza su punto máximo hasta 3 días después, la mejor oportunidad para ver sus famosas estrellas fugaces es el lunes 9, cuando la Luna Nueva garantiza la menor cantidad de contaminación lumínica.\n\nEso será clave para disfrutar de las N. Táuridas y sus famosas colas largas y luminiscentes que surcan el cielo. Esta lluvia de meteoritos produce entre 8 y 12 estrellas fugaces por hora.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/next-weeks-new-moon-to-highlight-the-blazing-tails-of-the-taurid-meteor-shower/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Northern-Taurid-bolide-photographed-from-Skibotn-Norway-credit-Medisilvanus-CC-4.0.-BY-SA.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-05T09:15:43.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
@@ -279,7 +279,7 @@
     },
     {
       "id": "rss-mundo-positive-news-launches-new-vid",
-      "title": "Positive News lanza un nuevo podcast de vídeo que explora lo que está sucediendo en el mundo",
+      "title": "Positive News lanza un nuevo video podcast que explora lo que está sucediendo en el mundo",
       "summary": "La serie What Went Right se está expandiendo a YouTube y otras plataformas de podcasts, llevando su resumen semanal de progreso a nuevas audiencias.",
       "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLa serie insignia What Went Right se está expandiendo a YouTube, Spotify y otras plataformas de podcasts, llevando su popular resumen semanal de avances y soluciones a nuevas audiencias.\n\nPublicado todos los sábados, el nuevo programa explora tres de las historias de progreso más importantes de la semana, desde avances científicos y soluciones climáticas hasta iniciativas comunitarias y cambios sociales. Cada episodio va más allá de los titulares para examinar lo que está sucediendo, quién lo impulsa y si las soluciones que se están desarrollando podrían funcionar en otros lugares.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
