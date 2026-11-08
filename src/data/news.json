@@ -1,15 +1,76 @@
 {
-  "lastUpdated": "2026-11-08T02:11:40.549Z",
-  "totalCount": 14,
+  "lastUpdated": "2026-11-08T16:58:16.878Z",
+  "totalCount": 12,
   "categories": {
     "musica": 0,
     "ia": 0,
     "psicologia": 0,
     "liderazgo": 0,
     "chile": 0,
-    "mundo": 14
+    "mundo": 12
   },
   "news": [
+    {
+      "id": "rss-mundo-she-kept-his-coat-for-30-years",
+      "title": "Ella conservó su abrigo durante 30 años y finalmente encontró al niño que se lo dio después de un ataque racial",
+      "summary": "Un abrigo ofrecido a una niña cuya ropa había sido cortada en un incidente racial hace 30 años fue reencontrado con el “buen samaritano” que se lo regaló.",
+      "fullStory": "Un abrigo que alguna vez se colocó sobre los hombros de una joven cuyo uniforme tradicional coreano había sido cortado en un incidente racial hace 30 años ahora ha sido devuelto al \"buen samaritano\" que se lo ofreció.\n\nNorihisa Koyama era un estudiante de secundaria japonés en el momento de los notorios “incidentes de corte de hanbok” cuando vio a una niña cuya ropa estaba rota.\n\n\"Una estudiante estaba agachada y llorando. Sabía que algo andaba muy mal\".",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/she-kept-his-coat-for-30-years-then-finally-found-the-boy-who-gave-it-to-her-after-racial-attack/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Park-Chung-moon-painting-and-Norihisa-Koyama-painting-by-Park-fair-use-heavily-cropped-and-rearranged.jpeg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-08T16:55:58.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo-lucky-bird-found-in-storm-drai",
+      "title": "Lucky Bird fue encontrado en un drenaje pluvial a una milla de su casa luego de pasar a un conductor que lo vio saltando",
+      "summary": "Un pájaro mascota que desapareció cuando la tormenta Boelo abrió una ventana de la cocina fue encontrado escondido en un desagüe de alcantarillado a una milla de la casa de English.",
+      "fullStory": "Un periquito mascota que desapareció cuando una tormenta abrió la ventana de la cocina fue encontrado escondido en un desagüe pluvial a una milla de su casa.\n\nLuna hizo su gran escape de la casa del propietario Cimberley Frost en Northampton, Inglaterra, cuando los fuertes vientos que siguieron a la tormenta Boelo forzaron a abrir una ventana y se fue volando.\n\nUn automovilista que pasaba la vio saltando a un desagüe al borde de la carretera y alertó a la RSPCA.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/lucky-bird-found-in-storm-drain-a-mile-from-home/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Bird-rescued-from-sewer-pipe-RSPCA-and-SWNS.jpeg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-08T14:08:15.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-good-news-in-history-november-",
+      "title": "Buenas noticias en la historia, 8 de noviembre",
+      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 8 de noviembre.",
+      "fullStory": "Hoy hace 61 años, la irónicamente llamada Ley de Asesinatos de 1965 recibe la aprobación real, aboliendo formalmente la pena de muerte en el Reino Unido para casi todos los delitos. Presentada por el diputado de Liverpool Sydney Silverman, reemplazó la horca por sentencias obligatorias de cadena perpetua en todos los casos excepto en cuatro. Las excepciones pendientes se relacionaban con delitos de inteligencia militar, como la piratería con la intención de causar daños graves, la alta traición y el espionaje. LEER más… (1965)\n\nNo se han producido ejecuciones en el Reino Unido desde la Ley de Asesinato de 1965. Las últimas fueron el 13 de agosto de 1964, cuando Peter Allen y Gwynne Evans fueron ahorcados por asesinar a John Alan West durante un robo cuatro meses antes.\n\nDurante los disturbios, Westminster aprobó la Ley de la Constitución de Irlanda del Norte de 1973, aboliendo Stormont, y la Ley de Irlanda del Norte (Disposiciones de Emergencia) de 1973, aboliendo la pena de muerte por asesinato allí. La pena de muerte no fue completamente abolida en el Reino Unido hasta 1998 mediante la Ley de Derechos Humanos de 1998 y la Ley sobre Delitos y Desórdenes de 1998.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061108/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/11/Palaec-of-Westminster-UK-Parliament-credit-Terr-Ott-CC-2.0.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-08T08:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "categories": [
+        "mundo"
+      ]
+    },
     {
       "id": "rss-mundo-mayor-uses-airtag-to-catch-cap",
       "title": "El alcalde usa AirTag para atrapar al ladrón de piedra angular que estaba robando piedras del siglo XVIII en todo el campo",
@@ -27,8 +88,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-baby-saved-after-racing-heartb",
@@ -80,82 +140,6 @@
       "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Freewill-Astrology-horoscope-logo.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-11-07T11:00:33.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-good-news-in-history-november-",
-      "title": "Buenas noticias en la historia, 7 de noviembre",
-      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 7 de noviembre.",
-      "fullStory": "Hoy hace 17 años, el entrenador de los Utah Jazz, Jerry Sloan, se convirtió en el primero en la historia del baloncesto profesional en ganar 1.000 partidos con un solo equipo. Descrito como \"uno de los entrenadores más grandes y respetados en la historia de la NBA\", pasó casi toda su carrera de 23 años como entrenador en Utah, dirigiendo el equipo en los buenos y malos momentos, liderando a algunos talentos espectaculares como Carlos Boozer y Karl Malone, y llegando a los playoffs de la Conferencia Oeste 16 veces seguidas. LEA extractos de su hito victoria… (2009)\n\n\"Ganar está bien\", dijo Sloan, después del partido, \"pero eso es algo de corta duración. Perder se queda contigo por mucho tiempo\".\n\nLa victoria de 104 a 97 sobre Oklahoma City significó que el récord de Sloan fue de 1,000 a 596, un promedio de 50 victorias por temporada, o una tasa de victorias cercana al 60%, una hazaña impresionante considerando la rutina de la NBA. De hecho, fue uno de los tres entrenadores en la historia de la NBA en ese momento en ganar 50 o más juegos en 10 ocasiones distintas.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061107/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/11/Jerry-Sloan-in-2010-credit-Stephanie-Young-Merzel-CC-2.0.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-07T08:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-people-around-the-world-help-b",
-      "title": "Personas de todo el mundo ayudan a comprar propiedades reales para la conservación de la vida silvestre",
-      "summary": "Sir David Attenborough celebró el logro y dijo que \"juntos hemos logrado algo asombroso\".",
-      "fullStory": "El zarapito, el abejorro de montaña, la avefría y otras aves zancudas son sólo algunos de los animales que llaman hogar a esta finca noble única en su tipo.\n\nAhora, personas de todo el mundo se han unido para donar millones para comprar este pedazo crítico de tierra biodiversa que había estado en manos de una familia noble británica durante 800 años.\n\nSir David Attenborough celebró el logro y dijo que \"juntos hemos logrado algo asombroso\".",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/people-around-the-world-help-buy-royal-estate-for-wildlife-conservation/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/A-drone-image-of-the-site-of-the-Bronze-Age-Lordenshaw-Hill-Fort-credit-The-Wildlife-Trusts-©.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-06T21:16:55.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-man-spends-12-days-returning-l",
-      "title": "Un hombre pasa 12 días devolviendo el dinero perdido que un trabajador necesitaba para su hija",
-      "summary": "El hombre no lo sabía en ese momento, pero tenía en sus manos el salario mensual completo de un joven trabajador de la construcción.",
-      "fullStory": "Un hombre en el sur de Brasil se sorprendió al encontrar un fajo de billetes en el suelo de una plaza pública sin que nadie lo buscara.\n\nPedro Moro no lo sabía en ese momento, pero tenía en su poder el salario mensual completo de un joven obrero de la construcción, que había retirado del banco para poder pagar las necesidades de su hija.\n\nQuizás Moro se inspiró en la gigantesca estatua del Señor Buda en la ciudad, pero se sintió obligado a asegurarse de que el dinero fuera devuelto a su legítimo propietario.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/man-spends-12-days-returning-lost-cash-a-laborer-needed-for-his-daughter/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Pedro-Moro-shakes-hands-with-Matheus-Reginaldo-Celestino-whose-money-Moro-returned-credit-Pedro-Moro-supplied-to-the-media.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-06T16:30:31.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-venomous-primate-believed-exti",
-      "title": "Un primate venenoso que se creía extinto durante 100 años estuvo escondido a plena vista todo el tiempo",
-      "summary": "Una organización de rescate de vida silvestre era tan local y sus esfuerzos tan poco publicitados, que los científicos habían considerado durante mucho tiempo que el animal estaba desaparecido.",
-      "fullStory": "Esta bola de pelos de ojos grandes es el loris perezoso de Bangka, una criatura que en 2015 se creía potencialmente extinta.\n\nComo lo demuestra el video, el loris perezoso de Bangka (N. bancanus) todavía está entre nosotros, gracias a una organización local de vida silvestre en la isla de Bangka que los ha estado rescatando y devolviendo a la naturaleza durante años.\n\nEl último avistamiento documentado de un loris perezoso de Bangka en la ciencia occidental se produjo en la década de 1930, y en 2015 se consideró \"posiblemente extinto\". Los años de trabajo de la organización para proteger a estos animales parecen haber pasado completamente desapercibidos.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/venomous-primate-believed-extinct-for-100-years-was-hiding-in-plain-sight-all-along/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/The-Bangka-slow-loris-credit-Gunay-M.E.-CC-4.0.-BY-SA.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-06T14:00:28.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
@@ -251,25 +235,6 @@
       "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/iStock-495829576.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-10-30T05:00:13.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-smartphones-ancient-tracking-s",
-      "title": "Smartphones, antiguas habilidades de rastreo y un futuro para los leones del desierto",
-      "summary": "En Namibia, los guardabosques están utilizando datos en tiempo real y conocimientos tradicionales para apoyar a los agricultores y salvaguardar una población de leones en recuperación.",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nEn todo el noroeste de Namibia, los guardas comunitarios están utilizando datos en tiempo real y conocimientos tradicionales para ayudar a proteger el ganado, apoyar a los agricultores y salvaguardar una población de leones en recuperación.\n\nLos perros fueron los primeros en sentirlos. Tres leones flacos acechan en el borde de la granja, observando hambrientos el festín errante de cabras, aves de corral y niños pequeños. Cuando los perros comenzaron a ladrar furiosamente, los niños corrieron, gritando, hacia la seguridad de la granja.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/smartphones-ancient-tracking-skills-and-a-future-for-desert-lions/",
-      "imageUrl": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/PN_SharedLand_Story04_WebHeader_1800x1080.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-10-29T07:00:10.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
