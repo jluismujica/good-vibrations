@@ -1,15 +1,54 @@
 {
-  "lastUpdated": "2026-11-07T16:47:54.425Z",
-  "totalCount": 13,
+  "lastUpdated": "2026-11-08T02:11:40.549Z",
+  "totalCount": 14,
   "categories": {
     "musica": 0,
     "ia": 0,
     "psicologia": 0,
     "liderazgo": 0,
     "chile": 0,
-    "mundo": 13
+    "mundo": 14
   },
   "news": [
+    {
+      "id": "rss-mundo-mayor-uses-airtag-to-catch-cap",
+      "title": "El alcalde usa AirTag para atrapar al ladrón de piedra angular que estaba robando piedras del siglo XVIII en todo el campo",
+      "summary": "Un alcalde inglés convertido en detective encontró a un ladrón que estaba saqueando piedras históricas de la muralla de una aldea, usando un Apple AirTag y un poco de engaño.",
+      "fullStory": "Un alcalde inglés convertido en detective resolvió el caso de un ladrón que estaba saqueando 9.000 dólares en piedras históricas de un muro de piedra de 300 años de antigüedad, y utilizó un rastreador de alta tecnología y un poco de engaño.\n\nAlrededor de 30 piedras desaparecieron durante un período de meses de un muro del siglo XVIII a lo largo de un tramo de media milla de carretera que conduce a Rufford, Lancashire.\n\nLa policía de Lancashire dijo que no podía ayudar porque el área no tenía cobertura de CCTV ni “oportunidades forenses”.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/mayor-uses-airtag-to-catch-capstone-thief/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Councillor-Matt-Smith-with-GPS-AirTag-SWNS.jpeg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-07T21:49:37.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo-baby-saved-after-racing-heartb",
+      "title": "Bebé salvado después de que un dóberman de la familia detectara latidos acelerados del corazón",
+      "summary": "La vida de un bebé se salvó después de que el doberman de la familia detectara sus latidos acelerados (que no dejaba de llorar), lo que llevó a la madre a tomar medidas.",
+      "fullStory": "La vida de un bebé probablemente se salvó después de que el perro de la familia detectara los latidos acelerados de su corazón, que no dejaba de llorar.\n\nKim Reynolds estaba confundida por el inusual comportamiento \"necesitado\" de su doberman con Alexander, de seis meses.\n\nSaraya no se apartaba del lado del bebé y lloraba cada vez que se lo llevaban esa mañana.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/baby-saved-as-racing-heartbeat-detected-by-pet/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Alexander-with-doberman-who-saved-his-life-SWNS.jpeg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-07T16:58:40.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
     {
       "id": "rss-mundo-adventurer-finally-hugs-mom-af",
       "title": "Un aventurero finalmente abraza a mamá después de una caminata de 28 años alrededor del mundo desde su casa en el Reino Unido",
@@ -27,8 +66,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-your-positive-weekly-horoscope",
@@ -66,9 +104,6 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "categories": [
-        "mundo"
       ]
     },
     {
@@ -121,25 +156,6 @@
       "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/The-Bangka-slow-loris-credit-Gunay-M.E.-CC-4.0.-BY-SA.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-11-06T14:00:28.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-geothermal-utilities-power-wav",
-      "title": "Los servicios públicos geotérmicos impulsan la ola de viviendas asequibles en EE. UU. con un ahorro de energía del 40%",
-      "summary": "Vermont Gas calificó la calefacción y refrigeración geotérmica como una de las \"mejores soluciones\" para reducir los costos energéticos de los clientes.",
-      "fullStory": "Una empresa de gas natural en Vermont llegó a un acuerdo, el primero en el país, que pronto permitirá ahorrar dinero a los clientes al recurrir a la energía geotérmica.\n\nVermont Gas lanzó el \"primer proyecto geotérmico a escala comunitaria\" del estado, algo que el director ejecutivo de la compañía calificó como una de las mejores soluciones para reducir los costos de energía y que muchos propietarios de viviendas en todo el país esperan ver en otras áreas.\n\nDe hecho, estos sistemas pueden proporcionar importantes ahorros. Un estudio de caso publicado por el Departamento de Energía sobre un complejo de apartamentos en Nueva York encontró que sus bombas de calor geotérmicas ayudaron a reducir los costos de energía en un 40,7% en el sitio de 72 unidades.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/geothermal-utilities-power-wave-of-us-affordable-housing-with-40-energy-savings/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Geothermal-boring-at-Riggs-Meadow-Housing-Development-credit-Dandelion-Energy-released.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-06T12:30:16.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
