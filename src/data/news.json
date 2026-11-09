@@ -1,15 +1,35 @@
 {
-  "lastUpdated": "2026-11-08T16:58:16.878Z",
-  "totalCount": 12,
+  "lastUpdated": "2026-11-09T02:30:42.246Z",
+  "totalCount": 13,
   "categories": {
     "musica": 0,
     "ia": 0,
     "psicologia": 0,
     "liderazgo": 0,
     "chile": 0,
-    "mundo": 12
+    "mundo": 13
   },
   "news": [
+    {
+      "id": "rss-mundo-dogs-can-sniff-out-invasive-pl",
+      "title": "Los perros pueden olfatear especies de plantas invasoras con gran precisión para frenar su destrucción",
+      "summary": "En Alemania se entrenaron perros rastreadores para detectar plantas invasoras (especies exóticas que causan destrucción de la biodiversidad en todo el mundo) con un 75% de éxito.",
+      "fullStory": "En Alemania se están entrenando perros rastreadores para detectar plantas invasoras potencialmente destructivas, especies exóticas que son una de las principales causas de la pérdida de biodiversidad en todo el mundo.\n\nLos científicos de Leipzig evaluaron si los cuidadores voluntarios y sus perros podían entrenarse como detectives eficaces y descubrieron que los equipos podían localizar especies invasoras en la naturaleza con un 75% de precisión.\n\nOtros métodos para combatir las especies invasoras han sido costosos y han requerido mucho tiempo, y la falta de métodos eficaces de detección temprana ha limitado la capacidad de los ecologistas para controlar una mayor colonización por parte de especies invasoras.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/dogs-can-sniff-out-invasive-plant-species-with-75pt-accuracy/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/sniffer-dog-with-owner-in-field-by-Anne-Zylinski-WPF-via-SWNS-.jpeg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-08T18:36:02.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
     {
       "id": "rss-mundo-she-kept-his-coat-for-30-years",
       "title": "Ella conservó su abrigo durante 30 años y finalmente encontró al niño que se lo dio después de un ataque racial",
@@ -27,8 +47,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-lucky-bird-found-in-storm-drai",
@@ -66,9 +85,6 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "categories": [
-        "mundo"
       ]
     },
     {
