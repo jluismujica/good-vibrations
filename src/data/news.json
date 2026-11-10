@@ -1,15 +1,130 @@
 {
-  "lastUpdated": "2026-11-10T04:33:25.948Z",
-  "totalCount": 13,
+  "lastUpdated": "2026-11-10T18:32:33.910Z",
+  "totalCount": 14,
   "categories": {
     "musica": 1,
     "ia": 1,
     "psicologia": 1,
-    "liderazgo": 0,
-    "chile": 0,
-    "mundo": 10
+    "liderazgo": 1,
+    "chile": 1,
+    "mundo": 9
   },
   "news": [
+    {
+      "id": "rss-liderazgo--nothing-short-of-a-miracle-re",
+      "title": "‘Nada menos que un milagro’: los rescatistas encuentran a un niño con autismo desaparecido durante 3 días",
+      "summary": "Roman Heilman apareció de repente entre las zarzas en medio de la nada, seguido por un perrito, y cantó \"Old McDonald\".",
+      "fullStory": "“Simplemente salió de entre los arbustos hacia un sendero para caballos.” ​​Así describió un rescatista en Kentucky el momento en que vio a Roman Heilman, de 6 años, un niño con autismo desaparecido durante 3 días.\n\nJacob Mullins, miembro de un grupo local de jinetes a caballo, le dijo al Lexington Herald Leader que estaba sólo a media milla de la casa de Heilman cuando de repente salió de un arbusto seguido por un perro pequeño y cantó \"Old McDonald\".\n\nLuego, Heilman agarró la pierna del rescatista líder y no quiso soltarla.",
+      "whyGoodNews": "Demuestra que la confianza, la empatía y la comunicación abierta son las herramientas más eficaces para inspirar y liderar equipos humanos.",
+      "category": "liderazgo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/nothing-short-of-a-miracle-rescuers-find-boy-with-autism-missing-for-3-days/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/supplied-to-local-news-via-WOWK-13.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-10T16:30:45.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "LIDERAZGO",
+        "EQUIPOS"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo-martian-volcanic-discovery-cou",
+      "title": "El descubrimiento de un volcán marciano podría ser una prueba irrefutable en la búsqueda de vida",
+      "summary": "\"Buscar vida marciana en las fisuras de la región de Alba Mons tendría mucho sentido\", dijo Mège.",
+      "fullStory": "Así describió el profesor Daniel Mège el descubrimiento de trazas de gases volcánicos en Marte que podrían ser clave para encontrar vida en el Planeta Rojo.\n\nEl descubrimiento se centra en el gas cloruro de hidrógeno que se filtra a través de grietas volcánicas, una especie de “prueba humeante” que sugiere que Marte no está geológicamente muerto, sino simplemente dormido.\n\nEstos gases insinúan magma que, al entrar en contacto con el agua subterránea, puede producir nichos cálidos y habitables para organismos debajo de la superficie del Planeta Rojo.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/martian-volcanic-discovery-could-be-smoking-gun-in-search-for-life/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/new-evidence-of-1629186.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-10T14:30:25.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-musica-a-viral-video-led-strangers-to",
+      "title": "Un vídeo viral llevó a desconocidos a recaudar 76.000 dólares para un cuidador de tiempo completo",
+      "summary": "Un video viral lleva a extraños a recaudar más de $76,000 para apoyar a una cuidadora de tiempo completo mientras cuida a su madre de 82 años.",
+      "fullStory": "Un momento viral captado por la cámara de un timbre que llegó a millones de personas ha recaudado ahora más de 76.000 dólares para apoyar a una mujer que pasa sus días cuidando a los demás.\n\nCuando Suzanna Metcalf llegó a la casa del pastor Neal Seiwert en Castle Rock, Colorado, el año pasado, se disculpó porque había confundido su pedido de pizza y tendría que regresar con el pedido correcto. Ella culpó a \"envejecer\", pero la lucha en su rostro era clara.\n\nMetcalf trabaja en turnos de parto mientras se desempeña como cuidadora de tiempo completo para su madre de 82 años, gestionando la atención diaria, las necesidades médicas y los gastos del hogar.",
+      "whyGoodNews": "Celebra el poder unificador de la música y el arte para conectar personas, sanar heridas y despertar emociones profundas.",
+      "category": "musica",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/viral-video-raises-76000-for-caregiver/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/seiwert-ring-camera-.webp",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-10T13:44:04.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "MÚSICA",
+        "CULTURA"
+      ]
+    },
+    {
+      "id": "rss-chile-world-s-driest-desert-erupts-i",
+      "title": "El desierto más seco del mundo estalla en un auge de floración sin precedentes (MIRAR)",
+      "summary": "Significa que las semillas y los tubérculos han permanecido latentes bajo la arena esperando el toque vital del agua durante décadas: una adaptación notable.",
+      "fullStory": "Hace apenas unas semanas era el lugar más seco de la Tierra. Ahora es el más colorido.\n\nEl desierto de Atacama de Chile ha estallado en quizás la mayor exhibición floral jamás registrada allí, con unas 200 especies floreciendo, algunas en áreas donde no se habían visto flores desde el nuevo milenio anterior.\n\nVIDEO: 🇨🇱 El desierto de Atacama en Chile se llena de flores en primavera El fenómeno, conocido como \"desierto de flores\", ocurre en ciertos años cuando las precipitaciones y las temperaturas coinciden, despertando las semillas dormidas del desierto #AFPVertical https://t. co/Cr4C3LaFa8",
+      "whyGoodNews": "Destaca iniciativas y avances que fortalecen la convivencia, el patrimonio y la calidad de vida en nuestras comunidades.",
+      "category": "chile",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/worlds-driest-desert-erupts-into-record-breaking-bloom-boom-look/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Juan-Cortez-Estay-Unsplash.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-10T12:30:35.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "CHILE",
+        "COMUNIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-actor-85-takes-to-the-stage-de",
+      "title": "El actor de 85 años sube al escenario a pesar del diagnóstico de Alzheimer",
+      "summary": "Peter Marinker continúa su carrera teatral después de que le diagnosticaran Alzheimer, asumiendo un papel en Krapp's Last Tape de Samuel Beckett.",
+      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nEl actor Peter Marinker continúa su carrera en el escenario tras ser diagnosticado con Alzheimer, asumiendo el exigente papel de Krapp en Krapp's Last Tape, de Samuel Beckett.\n\nEl hombre de 85 años fue diagnosticado luego de experimentar dificultades durante los ensayos de una producción anterior. En lugar de alejarse, regresó a los escenarios este otoño en una actuación en solitario que exploró la memoria, el envejecimiento y el paso del tiempo. La producción en el Cockpit Theatre de Londres contó con medidas prácticas como un autocue, un auricular rápido y tiempo adicional de ensayo.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Positive News",
+      "sourceUrl": "https://www.positive.news/society/actor-85-takes-to-the-stage-despite-alzheimers-diagnosis/",
+      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/11/Horizontal-resizer-2.png",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-10T11:34:34.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-good-news-in-history-november-",
+      "title": "Buenas noticias en la historia, 10 de noviembre",
+      "summary": "Esta columna diaria presenta todas las buenas noticias, aniversarios y cumpleaños de este día de la historia: el 10 de noviembre.",
+      "fullStory": "Hoy hace 57 años, Barrio Sésamo se emitió por primera vez en 180 estaciones de televisión pública de PBS utilizando los títeres de Jim Henson para enseñar letras, números y colores, con el objetivo de preparar a los niños menos favorecidos para la escuela. Creado por Joan Ganz Cooney y Lloyd Morrisett y producido por su Children's Television Workshop, el programa en 2009 fue traducido y transmitido en más de 140 países. Mire el vídeo en CBS, aquí, o vea el tributo detrás de escena a continuación... (1969)\n\nEn los últimos años, el programa educativo ganador del premio Emmy ha abordado cuestiones sociales como los niños en hogares de acogida, los niños con autismo, las familias sin hogar y el hambre, al presentar nuevos personajes de los Muppets al vecindario, incluso uno que sea VIH positivo, todo con la esperanza de enseñar compasión y tolerancia a la diversidad.\n\nHoy hace 103 años nació en Ōdate uno de los perros más famosos del mundo, Hachikō el Akita. Es amado, venerado y mirado con asombro por su notable lealtad hacia su dueño, Hidesaburō Ueno, a quien continuó esperando en la estación de Shibuya, donde regresarían juntos a casa nueve años completos después de la muerte de Ueno.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061110/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2018/11/Sesame-Street-gang.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-10T08:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
     {
       "id": "rss-mundo-man-s-halloween-skeletons-prov",
       "title": "Los esqueletos de Halloween de un hombre resultan ser el regalo perfecto para una mujer que lucha contra el cáncer de mama",
@@ -27,13 +142,12 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-this-diwali-trade-the-doom-scr",
       "title": "En este Diwali, cambia el pergamino Doom por estas 10 preguntas",
-      "summary": "GNN Voices es una nueva serie de artículos en primera persona de personas que vale la pena escuchar: profesionales, investigadores, profesores y vecinos que comparten lo que han aprendido y cómo ven las cosas. El nombre de mi papá era Kiran. En sánscrito significa \"un rayo de luz\". Escribí mi libro, Making Sense of Purpose, en su memoria. Su nombre es […]",
+      "summary": "Querer evitar un pergamino fatal es difícil. Pero darle a la gente algo que hacer tal vez ayude.",
       "fullStory": "GNN Voices es una nueva serie de artículos en primera persona de personas que vale la pena escuchar: profesionales, investigadores, profesores y vecinos que comparten lo que han aprendido y cómo ven las cosas.\n\nEscribí mi libro, Making Sense of Purpose, en su memoria. Su nombre está en el subtítulo.\n\nMi papá encontró una manera de caminar con la gente sin cargarla; encontró una manera de guiarlos sin darles indicaciones; mantuvo espacio, tomó las manos, mantuvo espacio para sus deseos, necesidades y expectativas, y luego arrojó luz sobre lo que los hacía y les importaba y lo que les esperaba...",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
@@ -69,25 +183,6 @@
       ]
     },
     {
-      "id": "rss-mundo-fish-stocks-thrive-thanks-to-t",
-      "title": "Las poblaciones de peces prosperan gracias a esta alga rosada y a los lugareños que la protegieron",
-      "summary": "La prohibición del dragado industrial de vieiras ha sido \"lo más sorprendente que les ha sucedido\" a los residentes, tanto humanos como marinos, de Summer Isles.",
-      "fullStory": "Las poblaciones de peces prosperan gracias a esta extraña alga y a los lugareños que la protegieron\n\nLa prohibición del dragado industrial de vieiras ha sido \"lo más sorprendente que les ha sucedido\" a los residentes, tanto humanos como marinos, de Summer Isles.\n\nEn vigor desde hace 10 años, la prohibición ha protegido este extraordinario tipo de alga de color magenta llamada maerl, que forma nódulos duros y calcáreos como los corales en el fondo marino, y ha permitido que prosperen ballenas, delfines, marsopas y poblaciones de peces clave.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/fish-stocks-thrive-thanks-to-this-strange-seaweed-and-locals-who-protected-it/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Maerl-beds-in-French-waters-credit-Olivier-Dugornay-CC-4.0.-BY.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-09T15:49:42.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
       "id": "rss-ia--digital-advances-are-reshapin",
       "title": "\"Los avances digitales están remodelando la conservación de la naturaleza\", dicen los expertos",
       "summary": "La tecnología y el rápido avance de la IA están abriendo nuevas posibilidades en la carrera por salvar la naturaleza, según un informe de Kew Gardens",
@@ -104,82 +199,6 @@
       "tags": [
         "INNOVACIÓN",
         "CIENCIA"
-      ]
-    },
-    {
-      "id": "rss-mundo-glowworms-shine-again-in-the-u",
-      "title": "Las luciérnagas vuelven a brillar en el Reino Unido a partir de larvas criadas pro bono en un cobertizo de jardín",
-      "summary": "Peter Cooper, entusiasta de la vida silvestre, recolecta y cría luciérnagas en su tiempo libre en un cobertizo de jardín antes de liberar sus larvas en una reserva.",
-      "fullStory": "La querida luciérnaga ha conseguido brillar gracias al trabajo gratuito de conservacionistas locales.\n\nPeter Cooper, entusiasta de la vida silvestre local, recolecta y cría luciérnagas en su tiempo libre en un cobertizo de jardín antes de liberar sus larvas en una reserva en North Yorkshire, donde no se las ha visto en 100 años.\n\nEl administrador de la reserva atribuyó el mérito a la \"cruda pasión y entusiasmo\" de Cooper por volver a encender estas lámparas de hadas después de una ausencia tan larga.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/glowworms-shine-again-in-the-uk-from-larvae-reared-pro-bono-in-garden-shed/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/glowworms-unsplash.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-09T12:30:57.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-musica-good-news-in-history-november-",
-      "title": "Buenas noticias en la historia, 9 de noviembre",
-      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 9 de noviembre.",
-      "fullStory": "Hoy hace 50 años, Gary Kasparov ganó su primer Campeonato Mundial de Ajedrez después de vencer a su oponente Anatoly Karpov, a quien se enfrentó sin resultado concluyente el año anterior en lo que fue y sigue siendo el único campeonato mundial abandonado sin resultado. Kasparov aseguró la corona mundial en Moscú con un marcador de 13 a 11, convirtiéndolo en el campeón más joven de la historia con sólo 22 años, y comenzó un reinado de dominio que lo ubica entre los mejores de la historia. LEA lo que pasó después… (1985)\n\nLa rivalidad Kasparov-Karpov se desarrollaría en cuatro partidos en cuatro campeonatos mundiales diferentes de 1984 a 1990, con Kasparov reclamando el título mundial por estrechos márgenes de 12½-11½ en 1986, 12-12 en 1987 y 12½-11½ en 1990.\n\nLa victoria en Moscú puso a Kasparov en camino de ostentar el récord durante más tiempo como jugador número uno del mundo: de 1984 a 2005. En el momento de su retiro en 2005, todavía ocupaba el puesto número uno del mundo, con un Elo de 2812.",
-      "whyGoodNews": "Celebra el poder unificador de la música y el arte para conectar personas, sanar heridas y despertar emociones profundas.",
-      "category": "musica",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061109/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/11/Kasparov-after-winning-in-1985-CC-3.0.-BY-SA-The-Kasparov-Agency.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-09T08:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "MÚSICA",
-        "CULTURA"
-      ]
-    },
-    {
-      "id": "rss-mundo-dogs-can-sniff-out-invasive-pl",
-      "title": "Los perros pueden olfatear especies de plantas invasoras con gran precisión para frenar su destrucción",
-      "summary": "En Alemania se entrenaron perros rastreadores para detectar plantas invasoras (especies exóticas que causan destrucción de la biodiversidad en todo el mundo) con un 75% de éxito.",
-      "fullStory": "En Alemania se están entrenando perros rastreadores para detectar plantas invasoras potencialmente destructivas, especies exóticas que son una de las principales causas de la pérdida de biodiversidad en todo el mundo.\n\nLos científicos de Leipzig evaluaron si los cuidadores voluntarios y sus perros podían entrenarse como detectives eficaces y descubrieron que los equipos podían localizar especies invasoras en la naturaleza con un 75% de precisión.\n\nOtros métodos para combatir las especies invasoras han sido costosos y han requerido mucho tiempo, y la falta de métodos eficaces de detección temprana ha limitado la capacidad de los ecologistas para controlar una mayor colonización por parte de especies invasoras.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/dogs-can-sniff-out-invasive-plant-species-with-75pt-accuracy/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/sniffer-dog-with-owner-in-field-by-Anne-Zylinski-WPF-via-SWNS-.jpeg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-08T18:36:02.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-she-kept-his-coat-for-30-years",
-      "title": "Ella conservó su abrigo durante 30 años y finalmente encontró al niño que se lo dio después de un ataque racial",
-      "summary": "Un abrigo ofrecido a una niña cuya ropa había sido cortada en un incidente racial hace 30 años fue reencontrado con el “buen samaritano” que se lo regaló.",
-      "fullStory": "Un abrigo que alguna vez se colocó sobre los hombros de una joven cuyo uniforme tradicional coreano había sido cortado en un incidente racial hace 30 años ahora ha sido devuelto al \"buen samaritano\" que se lo ofreció.\n\nNorihisa Koyama era un estudiante de secundaria japonés en el momento de los notorios “incidentes de corte de hanbok” cuando vio a una niña cuya ropa estaba rota.\n\n\"Una estudiante estaba agachada y llorando. Sabía que algo andaba muy mal\".",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/she-kept-his-coat-for-30-years-then-finally-found-the-boy-who-gave-it-to-her-after-racial-attack/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Park-Chung-moon-painting-and-Norihisa-Koyama-painting-by-Park-fair-use-heavily-cropped-and-rearranged.jpeg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-08T16:55:58.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
       ]
     },
     {
