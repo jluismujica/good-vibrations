@@ -1,15 +1,92 @@
 {
-  "lastUpdated": "2026-11-11T02:39:40.373Z",
-  "totalCount": 14,
+  "lastUpdated": "2026-11-11T18:30:41.793Z",
+  "totalCount": 8,
   "categories": {
-    "musica": 1,
-    "ia": 1,
-    "psicologia": 1,
+    "musica": 2,
+    "ia": 0,
+    "psicologia": 0,
     "liderazgo": 1,
     "chile": 1,
-    "mundo": 9
+    "mundo": 4
   },
   "news": [
+    {
+      "id": "rss-mundo-brown-bear-population-in-spain",
+      "title": "La población de osos pardos en España se duplica con un increíble aumento de su área de reproducción",
+      "summary": "El área total ocupada actualmente por los osos pardos se extiende más allá de los 17.000 kilómetros cuadrados o 6.500 millas cuadradas.",
+      "fullStory": "Desde el borde de la extinción hasta deambular por 6.500 millas cuadradas, las poblaciones de osos pardos cantábricos se han duplicado en España en los últimos 20 años hasta 370.\n\nSegún estimaciones de principios del siglo XXI, tan sólo 140, son otro ejemplo del éxito continuo de España en la protección de varias de las especies endémicas del país.\n\nTomando su nombre de la región del extremo norte de España cuyas montañas son el último reducto del oso, el oso pardo cantábrico se puede encontrar en las regiones de Asturianos, León, Galicia y Palencia, además de Cantabria.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/spain-sees-incredible-doubling-of-her-brown-bear-population-and-its-breeding-range/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/A-Cantabrian-brown-bear-credit-Juan-Iacruz-CC-BY-SA-4.0.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-11T16:30:25.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo--i-pulled-him-out-i-heard-more",
+      "title": "“Lo saqué, escuché más gritos” – Cómo un cadete salvó a un padre y a su hijo de ahogarse",
+      "summary": "Primero escuchó gritos y corrió hacia un complejo de apartamentos donde vio escenas de evidente angustia alrededor de una piscina detrás de una cerca.",
+      "fullStory": "Un cadete de la marina mercante ha sido aclamado como un héroe por salvar a un padre que casi se ahoga en una piscina mientras intentaba salvar a su hijo de 25 años que se estaba ahogando.\n\n“Cuando llegué a la piscina, vi al padre flotando boca abajo”, dijo Zion Jerge al relatar el rescate que tuvo lugar cerca de su casa en Foster City, California.\n\nPrimero escuchó gritos y corrió hacia un complejo de apartamentos donde vio escenas de evidente angustia alrededor de una piscina detrás de una cerca.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/i-pulled-him-out-i-heard-more-screaming-how-a-cadet-saved-a-father-and-son-from-drowning/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Jerge-Zion-is-recognized-at-the-Cal-Poly-Maritime-Academy-credit-@calpoly_maritime.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-11T14:00:06.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-musica-paralysis-could-not-stop-her-h",
+      "title": "La parálisis no pudo detenerla: cómo esta mujer de 84 años cumplió su promesa musical",
+      "summary": "El síndrome de Guillain-Barré, un raro trastorno en el que el sistema inmunológico del cuerpo ataca sus propios nervios, la había dejado paralizada.",
+      "fullStory": "Una pianista devuelve la alegría al lugar que le devolvió la salud.\n\n\"Vine aquí como paciente y ahora puedo dar algo a cambio\", dijo Bonnie Fay, de 84 años, que llegó por primera vez al asilo de ancianos Bryn Mawr Village en Pensilvania.\n\nEl síndrome de Guillain-Barré, un raro trastorno en el que el sistema inmunológico del cuerpo ataca sus propios nervios, la había dejado paralizada y llegó al centro de enfermería enfrentándose a una recuperación larga e incierta.",
+      "whyGoodNews": "Celebra el poder unificador de la música y el arte para conectar personas, sanar heridas y despertar emociones profundas.",
+      "category": "musica",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/paralyzed-woman-promised-to-return-and-play-piano-for-rehab-patients-she-kept-her-word/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Bonnie-Fay-playing-the-piano-at-Bryn-Mawr-Village-supplied-to-GNN-e1794387097651.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-11T12:30:06.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "MÚSICA",
+        "CULTURA"
+      ]
+    },
+    {
+      "id": "rss-mundo-good-news-in-history-november-",
+      "title": "Buenas noticias en la historia, 11 de noviembre",
+      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 11 de noviembre.",
+      "fullStory": "Hoy hace 100 años que se terminó la autopista US 101. Atravesando los estados de California, Oregón y Washington, pasa por la mayoría de las ciudades famosas de la costa oeste, los principales condados de Silicon Valley, cruza el puente Golden Gate y atraviesa el Parque Nacional Redwoods. En Oregón, entra y sale de 77 parques estatales a lo largo de la escarpada costa del estado antes de bordear Portland y cruzar el puente Astoria-Megler sobre el río Columbia hacia Washington. LEA la parte final a continuación... (1926)\n\nLa carretera continúa hacia Washington y finalmente llega a la Reserva India Quinault, a la que ingresa cerca del lago Quinault en el borde del Parque Nacional Olympic. Bordea la Península Olímpica y las estribaciones de las montañas del mismo nombre, incluida una parte a lo largo de la costa sur del lago Crescent, uno de los lagos más profundos del estado.\n\nEn un circuito más grande alrededor de la península, la 101 gira hacia el sur, pasando la reserva india Skokomish en la autopista Olympic Loop hasta que termina en la capital del estado.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061111/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2025/11/US-101.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-11T08:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
     {
       "id": "rss-liderazgo--nothing-short-of-a-miracle-re",
       "title": "‘Nada menos que un milagro’: los rescatistas encuentran a un niño con autismo desaparecido durante 3 días",
@@ -27,8 +104,7 @@
       "tags": [
         "LIDERAZGO",
         "EQUIPOS"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-martian-volcanic-discovery-cou",
@@ -85,196 +161,6 @@
       "tags": [
         "CHILE",
         "COMUNIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-actor-85-takes-to-the-stage-de",
-      "title": "El actor de 85 años sube al escenario a pesar del diagnóstico de Alzheimer",
-      "summary": "Peter Marinker continúa su carrera teatral después de que le diagnosticaran Alzheimer, asumiendo un papel en Krapp's Last Tape de Samuel Beckett.",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nEl actor Peter Marinker continúa su carrera en el escenario tras ser diagnosticado con Alzheimer, asumiendo el exigente papel de Krapp en Krapp's Last Tape, de Samuel Beckett.\n\nEl hombre de 85 años fue diagnosticado luego de experimentar dificultades durante los ensayos de una producción anterior. En lugar de alejarse, regresó a los escenarios este otoño en una actuación en solitario que exploró la memoria, el envejecimiento y el paso del tiempo. La producción en el Cockpit Theatre de Londres contó con medidas prácticas como un autocue, un auricular rápido y tiempo adicional de ensayo.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/actor-85-takes-to-the-stage-despite-alzheimers-diagnosis/",
-      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/11/Horizontal-resizer-2.png",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-10T11:34:34.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-good-news-in-history-november-",
-      "title": "Buenas noticias en la historia, 10 de noviembre",
-      "summary": "Esta columna diaria presenta todas las buenas noticias, aniversarios y cumpleaños de este día de la historia: el 10 de noviembre.",
-      "fullStory": "Hoy hace 57 años, Barrio Sésamo se emitió por primera vez en 180 estaciones de televisión pública de PBS utilizando los títeres de Jim Henson para enseñar letras, números y colores, con el objetivo de preparar a los niños menos favorecidos para la escuela. Creado por Joan Ganz Cooney y Lloyd Morrisett y producido por su Children's Television Workshop, el programa en 2009 fue traducido y transmitido en más de 140 países. Mire el vídeo en CBS, aquí, o vea el tributo detrás de escena a continuación... (1969)\n\nEn los últimos años, el programa educativo ganador del premio Emmy ha abordado cuestiones sociales como los niños en hogares de acogida, los niños con autismo, las familias sin hogar y el hambre, al presentar nuevos personajes de los Muppets al vecindario, incluso uno que sea VIH positivo, todo con la esperanza de enseñar compasión y tolerancia a la diversidad.\n\nHoy hace 103 años nació en Ōdate uno de los perros más famosos del mundo, Hachikō el Akita. Es amado, reverenciado y mirado con asombro por su notable lealtad hacia su dueño, Hidesaburō Ueno, a quien continuó esperando en la estación de Shibuya, donde regresarían juntos a casa nueve años completos después de la muerte de Ueno.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061110/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2018/11/Sesame-Street-gang.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-10T08:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-man-s-halloween-skeletons-prov",
-      "title": "Los esqueletos de Halloween de un hombre resultan ser el regalo perfecto para una mujer que lucha contra el cáncer de mama",
-      "summary": "Aunque un patio delantero cubierto de esqueletos podría servir para recordarle a alguien su mortalidad, Tammy se maravilló ante la creatividad de todo ello.",
-      "fullStory": "Un hombre que no recibió más que correos de odio por su pasatiempo de Halloween resultó ser el regalo que Tammy Wyche necesitaba para alegrar su viaje semanal a sus citas de tratamiento contra el cáncer.\n\nAunque un patio delantero cubierto de esqueletos podría servir para recordarle a alguien su mortalidad, Wyche se maravilló de la creatividad con la que el propietario dispuso sus decoraciones.\n\nAlgunos izaban la bandera en Iwo Jima, mientras otro le daba un hueso a su perro. Había un apicultor huesudo parado detrás de un vaquero montado en un equino óseo, no lejos de donde dos turistas con cabezas huesudas se estaban tomando una selfie.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/mans-halloween-skeletons-prove-perfect-treat-to-woman-battling-breast-cancer/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/maxresdefault-3.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-09T19:30:36.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-this-diwali-trade-the-doom-scr",
-      "title": "En este Diwali, cambia el pergamino Doom por estas 10 preguntas",
-      "summary": "Querer evitar un pergamino fatal es difícil. Pero darle a la gente algo que hacer tal vez ayude.",
-      "fullStory": "GNN Voices es una nueva serie de artículos en primera persona de personas que vale la pena escuchar: profesionales, investigadores, profesores y vecinos que comparten lo que han aprendido y cómo ven las cosas.\n\nEscribí mi libro, Making Sense of Purpose, en su memoria. Su nombre está en el subtítulo.\n\nMi papá encontró una manera de caminar con la gente sin cargarla; encontró una manera de guiarlos sin darles indicaciones; mantuvo espacio, tomó las manos, mantuvo espacio para sus deseos, necesidades y expectativas, y luego arrojó luz sobre lo que los hacía y les importaba y lo que les esperaba...",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/this-diwali-trade-the-doom-scroll-for-these-10-questions/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Screenshot-2026-11-09-at-1.41.53-PM.png",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-09T18:59:42.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-psicologia-interpreting-autistic-cues-is-",
-      "title": "Interpretar las señales autistas es difícil, un adolescente creó una aplicación que está ayudando a cientos de familias",
-      "summary": "La filosofía detrás de su trabajo era que la tecnología dirigida a niños autistas a menudo se construye para cambiar al niño. Su objetivo era darle la vuelta al guión.",
-      "fullStory": "Al ver a los adultos malinterpretar las señales de su primo autista, un adolescente aprendió por sí mismo el aprendizaje automático para desarrollar tecnología que pudiera ayudarlos.\n\nSu solución tiene más de 700 usuarios en 12 países y llega a las familias a través de centros de terapia para el autismo, todo ello sin dejar de ser gratuito.\n\nKora, una aplicación gratuita que ayuda a padres y cuidadores a leer las señales emocionales de los niños autistas. La aplicación ofrecerá varias lecturas posibles de lo que puede sentir un niño autista sin puntuaciones, diagnósticos ni juicios.",
-      "whyGoodNews": "Aporta evidencia valiosa para cuidar el bienestar emocional, reducir el estrés cotidiano y construir hábitos de vida más saludables.",
-      "category": "psicologia",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/15-yo-teaches-himself-machine-learning-to-build-app-that-interprets-autistic-communication/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Shashank-Madala-stands-with-his-Congressional-recognition-credit-courtesy-of-Shashank-Madala.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-09T16:30:23.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PSICOLOGÍA",
-        "SALUD MENTAL"
-      ]
-    },
-    {
-      "id": "rss-ia--digital-advances-are-reshapin",
-      "title": "\"Los avances digitales están remodelando la conservación de la naturaleza\", dicen los expertos",
-      "summary": "La tecnología y el rápido avance de la IA están abriendo nuevas posibilidades en la carrera por salvar la naturaleza, según un informe de Kew Gardens",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLa tecnología y el rápido avance de la IA están abriendo nuevas posibilidades en la carrera por salvar la naturaleza, según un informe de Kew Gardens\n\nEl informe Estado de las plantas y los hongos del mundo 2026, que se basa en la experiencia de más de 400 científicos de 40 países, sugiere que la tecnología está transformando los esfuerzos de conservación. La IA está ayudando a identificar plantas desafiantes e incluso a identificar especies nuevas para la ciencia, dicen sus autores.",
-      "whyGoodNews": "Muestra cómo la innovación científica y el ingenio humano colaboran para resolver desafíos ambientales y sociales concretos.",
-      "category": "ia",
-      "sourceName": "Positive News",
-      "sourceUrl": "https://www.positive.news/environment/digital-advances-are-reshaping-nature-conservation-say-experts/",
-      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/11/imresizer-compress-05-1-scaled.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-09T13:44:06.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "INNOVACIÓN",
-        "CIENCIA"
-      ]
-    },
-    {
-      "id": "rss-mundo-what-went-right-this-week-the-",
-      "title": "Lo que salió bien esta semana: las buenas noticias que importan",
-      "summary": "La naturaleza fue restaurada a una “escala sin precedentes”, Barbados detuvo la transmisión del VIH en los bebés y se aceleró la revolución del combustible, y más",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLa naturaleza fue restaurada a una “escala sin precedentes”, Barbados detuvo la transmisión del VIH en los bebés y la revolución del combustible se aceleró, además de más buenas noticias\n\nLos hábitats de vida silvestre se están restaurando al ritmo más rápido jamás registrado, según un nuevo informe de la ONU, que estima que se están revitalizando ecosistemas equivalentes en tamaño al de Kazajstán, el noveno país más grande del planeta.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/good-news-stories-from-week-45-of-2026/",
-      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/11/iStock-1964386233.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-06T05:00:54.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-the-butterfly-effect-a-brighte",
-      "title": "El efecto mariposa: ¿una forma más luminosa de hacer pintura?",
-      "summary": "Los investigadores buscan mariposas en la búsqueda de recubrimientos sin pigmentos químicos nocivos. ¿Podrían sus colores vibrantes allanar el camino para pinturas más seguras?",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nLos investigadores buscan mariposas en la búsqueda de recubrimientos sin pigmentos químicos nocivos. ¿Podrían sus colores vibrantes allanar el camino para pinturas y brillos más seguros?\n\nLa ciencia detrás de los colores vibrantes de las mariposas podría inspirar una nueva generación de pinturas y brillos más seguros y duraderos. Investigadores de la Universidad Northeastern (NU), con sede en Boston, EE. UU., están siguiendo el ejemplo de la naturaleza en la búsqueda de recubrimientos sin pigmentos químicos nocivos.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Positive News",
-      "sourceUrl": "https://www.positive.news/science/the-butterfly-effect-a-brighter-way-to-make-paint/",
-      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/11/iStock-2179406103.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-05T17:32:20.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-what-if-we-stop-treating-socia",
-      "title": "¿Qué pasa si dejamos de tratar la asistencia social como un servicio? Este pueblo muestra el camino.",
-      "summary": "Un pueblo de Inglaterra ha creado una comunidad de asistencia social basada en la vida comunitaria y la responsabilidad compartida. ¿Podría ponerse de moda?",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nUn pueblo de Inglaterra ha creado una comunidad de asistencia social basada en la vida comunitaria y la responsabilidad compartida. Genera preguntas sobre cómo ha funcionado históricamente la asistencia social y cómo podría ser un futuro mejor.\n\nUna hora después de llegar a Botton, un pequeño y pintoresco pueblo en North York Moors, en el Reino Unido, me encontraba en un campo agrícola paleando heno.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/what-if-we-stopped-treating-social-care-like-a-service/",
-      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/11/iStock-2180754914.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-03T14:34:15.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-the-women-s-boxing-nights-help",
-      "title": "Las noches de boxeo femenino ayudan a las sobrevivientes de abusos",
-      "summary": "Una nueva serie de noches de pelea exclusivamente femeninas tiene como objetivo financiar clases de boxeo gratuitas que ayuden a las mujeres a recuperar su confianza después de relaciones abusivas.",
-      "fullStory": "Lo sentimos, este producto no está disponible. Elija una combinación diferente.\n\nUna nueva serie de noches de pelea exclusivamente femeninas tiene como objetivo financiar clases de boxeo gratuitas que ayuden a las mujeres a recuperar su confianza después de relaciones abusivas.\n\n“El programa Fight Forward literalmente me salvó la vida”, explica Saria, de 40 años, alzando la voz por encima del sonido de los guantes golpeando los sacos de boxeo y de los compañeros boxeadores charlando en el gimnasio de boxeo 12×3 de Aldgate, al este de Londres.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Positive News",
-      "sourceUrl": "https://www.positive.news/society/the-womens-boxing-nights-helping-abuse-survivors/",
-      "imageUrl": "https://www.positive.news/wp-content/uploads/2026/10/BQ3A3519-scaled.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-02T09:26:16.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
       ]
     }
   ]
