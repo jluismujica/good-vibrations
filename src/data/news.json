@@ -1,15 +1,111 @@
 {
-  "lastUpdated": "2026-11-12T03:41:34.261Z",
+  "lastUpdated": "2026-11-12T18:45:51.799Z",
   "totalCount": 8,
   "categories": {
-    "musica": 1,
-    "ia": 0,
+    "musica": 0,
+    "ia": 1,
     "psicologia": 0,
-    "liderazgo": 1,
+    "liderazgo": 0,
     "chile": 0,
-    "mundo": 6
+    "mundo": 7
   },
   "news": [
+    {
+      "id": "rss-mundo-documentarian-helps-103-yo-d-d",
+      "title": "Un documentalista ayuda a un superviviente del Día D de 103 años a recuperar sus medallas de guerra perdidas, justo a tiempo para el Día de los Veteranos",
+      "summary": "La historia surge a través de una notable coincidencia cuando un historiador aficionado de la Segunda Guerra Mundial se encontró con el historial militar y las medallas del hombre.",
+      "fullStory": "Un veterano del Día D de 103 años se reunió con sus medallas de guerra justo a tiempo para el Día de los Veteranos.\n\nLa historia surgió a través de una notable coincidencia cuando un historiador aficionado de la Segunda Guerra Mundial encontró el historial militar y las medallas del hombre y se puso en contacto con la familia preguntándoles si todavía los tenía.\n\n\"Puede que sean sólo un trozo de metal, pero las medallas son algo que tengo muy cerca de mi corazón\", dijo el veterano Douglas Halley, luciéndolas con orgullo en su suéter. \"Me recuerdan a todos mis hermanos de armas con quienes estuve y que me ayudaron a salir adelante en la guerra\".",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/documentarian-helps-103-yo-d-day-survivor-recover-his-lost-war-medals-just-in-time-for-veterans-day/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Douglas-Halley-103-with-his-grandson-Luke-credit-SWNS.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-12T16:30:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo-100-year-old-store-mom-surpris",
+      "title": "La 'mamá de la tienda' de 100 años sorprendida con su primera fiesta de cumpleaños",
+      "summary": "Gretchen Sollo, la “madre de tienda” de 100 años que camina a diario por Lowe's, quedó sorprendida con su primera fiesta de cumpleaños.",
+      "fullStory": "Después de 100 años, Gretchen Sollo tuvo una gran novedad: una fiesta sorpresa de cumpleaños organizada por los empleados de Lowe's a quienes ve todos los días.\n\nDespués de un derrame cerebral, Sollo recurrió a los pasillos de Lowe's para su caminata diaria y para protegerse del clima en Bradley, Illinois. Desde entonces, caminó aproximadamente 1,500 millas durante cinco años, creando un ritual diario y amistades con los miembros del personal que se extendían por la tienda.\n\nLos empleados de la tienda controlan su número de vueltas e incluso la desafían a carreras, acompañándola en sus paseos por la tienda. Si alguna vez Sollo no aparece, los miembros del personal lo notan y se preocupan.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/100-year-old-store-mom-first-birthday-party/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/fw-gretchen.png",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-12T14:07:08.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo--there-s-a-georgia-o-keeffe-in",
+      "title": "'Hay una Georgia O'Keeffe en el armario': palabras que llevaron al feliz redescubrimiento de la pintura",
+      "summary": "“Oh, por cierto, hay una Georgia O'Keeffe en el armario.” Uno sólo puede imaginar la pausa, la reflexión o la petición de claridad que siguió a este comentario, hecho por la tía anciana de una mujer en medio de un esfuerzo por limpiar su apartamento en East Village. Sin embargo, como la mujer, que se reveló sólo como Betsy, […]",
+      "fullStory": "Uno sólo puede imaginar la pausa, la reflexión o la petición de claridad que siguió a este comentario, hecho por la tía anciana de una mujer en medio de un esfuerzo por limpiar su apartamento en East Village.\n\nSin embargo, cuando la mujer, que se reveló solo como Betsy, rebuscó en ese armario cuatro años después, encontró una pintura al óleo de colinas onduladas, con suaves colores tierra que recuerdan la forma femenina, que ahora se sabe que es Cerca de Abiquiu, Nuevo México I, pintada por la Madre del Modernismo en 1930.\n\nSu redescubrimiento ha sido aclamado como \"un momento único en la vida y absolutamente emocionante\".",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/theres-a-georgia-okeefe-in-the-closet-words-that-led-to-paintings-joyous-rediscovery/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-Christies-released.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-12T14:00:23.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-brave-teens-execute-paddleboar",
+      "title": "Valientes adolescentes ejecutan el rescate de vecinos inundados con tablas de remo: “Se restablece la fe en la humanidad”",
+      "summary": "\"Mi fe en la humanidad ha sido restaurada\", dijo Grant, añadiendo que otros vecinos también se habían ofrecido como voluntarios para ayudar.",
+      "fullStory": "Una mujer ha recuperado su fe en la humanidad después de que sus vecinos llegaran en tablas de remo para rescatarla a ella y a su hijo durante las recientes inundaciones en Florida.\n\nLos servicios de emergencia no pudieron llegar hasta ella, dijo el operador del 911, mientras Brittany Grant y su hijo estaban sentados en la encimera de la cocina mientras el agua de la inundación subía cada vez más por encima del suelo.\n\nEl condado de Brevard se vio afectado recientemente por lo que los informes meteorológicos dicen que es un evento de lluvia de 1.000 años, que inundó ciudades como Melbourne, Port Lucie y Palm Bay, donde Grant vive con su hijo y sus tres perros.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/brave-teens-execute-paddleboard-rescue-of-flooded-neighbors-faith-in-humanity-restored/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-Britanny-Grant-via-Facebook.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-12T12:30:42.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-ia-good-news-in-history-november-",
+      "title": "Buenas noticias en la historia, 12 de noviembre",
+      "summary": "Esta columna diaria presenta todas las buenas noticias, aniversarios y cumpleaños de este día de la historia: el 12 de noviembre.",
+      "fullStory": "Hoy hace 46 años, la sonda Voyager 1 de la NASA llegó a Saturno y transmitió las primeras imágenes jamás tomadas de sus anillos. Llegó al segundo planeta más grande de nuestro sistema solar a través de una trayectoria de asistencia gravitacional en Júpiter que fue replicada con la Voyager 2. El 12 de noviembre, cuando la sonda espacial llegó a 77.000 millas de las cimas de las nubes de Saturno, las cámaras de la sonda espacial detectaron estructuras complejas en los anillos de Saturno y sus instrumentos de detección remota estudiaron las atmósferas de Saturno y su luna gigante Titán. LEA lo que descubrió… (1980)\n\nLa Voyager 1 descubrió que alrededor del 7% del volumen de la atmósfera superior de Saturno es helio (en comparación con el 11% de la atmósfera de Júpiter), mientras que casi todo el resto es hidrógeno. Dado que se esperaba que la abundancia interna de helio de Saturno fuera la misma que la de Júpiter y el Sol, la menor abundancia de helio en la atmósfera superior puede implicar que el helio más pesado puede estar hundiéndose lentamente a través del hidrógeno de Saturno; eso podría explicar el exceso de calor que irradia Saturno sobre la energía que recibe del Sol.\n\nLos vientos soplan a gran velocidad en Saturno. Cerca del ecuador, las Voyager midieron vientos de unos 500 m/s (1100 mph). El viento sopla principalmente en dirección este. La Voyager midió la rotación de Saturno (la duración de un día) a las 10 horas, 39 minutos y 24 segundos e identificó auroras polares y emisiones ultravioleta similares a auroras en latitudes medias. Estos siguen siendo un enigma hasta el día de hoy, ya que el bombardeo de electrones e iones, que se sabe que causan auroras en la Tierra, ocurre sólo en las latitudes altas.",
+      "whyGoodNews": "Muestra cómo la innovación científica y el ingenio humano colaboran para resolver desafíos ambientales y sociales concretos.",
+      "category": "ia",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061112/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/11/Saturn-as-pictured-by-Voyager-1-credit-NASA.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-12T08:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "INNOVACIÓN",
+        "CIENCIA"
+      ]
+    },
     {
       "id": "rss-mundo-oh-whale-revisits-the-explodin",
       "title": "¡Oh ballena! Revisa la explosión de la ballena que se convirtió en uno de los primeros videos virales de Internet",
@@ -27,8 +123,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-for-centuries-visitors-walked-",
@@ -61,101 +156,6 @@
       "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/A-Cantabrian-brown-bear-credit-Juan-Iacruz-CC-BY-SA-4.0.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-11-11T16:30:25.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo--i-pulled-him-out-i-heard-more",
-      "title": "“Lo saqué, escuché más gritos” – Cómo un cadete salvó a un padre y a su hijo de ahogarse",
-      "summary": "Primero escuchó gritos y corrió hacia un complejo de apartamentos donde vio escenas de evidente angustia alrededor de una piscina detrás de una cerca.",
-      "fullStory": "Un cadete de la marina mercante ha sido aclamado como un héroe por salvar a un padre que casi se ahoga en una piscina mientras intentaba salvar a su hijo de 25 años que se estaba ahogando.\n\n“Cuando llegué a la piscina, vi al padre flotando boca abajo”, dijo Zion Jerge al relatar el rescate que tuvo lugar cerca de su casa en Foster City, California.\n\nPrimero escuchó gritos y corrió hacia un complejo de apartamentos donde vio escenas de evidente angustia alrededor de una piscina detrás de una cerca.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/i-pulled-him-out-i-heard-more-screaming-how-a-cadet-saved-a-father-and-son-from-drowning/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Jerge-Zion-is-recognized-at-the-Cal-Poly-Maritime-Academy-credit-@calpoly_maritime.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-11T14:00:06.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-musica-paralysis-could-not-stop-her-h",
-      "title": "La parálisis no pudo detenerla: cómo esta mujer de 84 años cumplió su promesa musical",
-      "summary": "El síndrome de Guillain-Barré, un raro trastorno en el que el sistema inmunológico del cuerpo ataca sus propios nervios, la había dejado paralizada.",
-      "fullStory": "Una pianista devuelve la alegría al lugar que le devolvió la salud.\n\n\"Vine aquí como paciente y ahora puedo dar algo a cambio\", dijo Bonnie Fay, de 84 años, que llegó por primera vez al asilo de ancianos Bryn Mawr Village en Pensilvania.\n\nEl síndrome de Guillain-Barré, un raro trastorno en el que el sistema inmunológico del cuerpo ataca sus propios nervios, la había dejado paralizada y llegó al centro de enfermería enfrentándose a una recuperación larga e incierta.",
-      "whyGoodNews": "Celebra el poder unificador de la música y el arte para conectar personas, sanar heridas y despertar emociones profundas.",
-      "category": "musica",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/paralyzed-woman-promised-to-return-and-play-piano-for-rehab-patients-she-kept-her-word/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Bonnie-Fay-playing-the-piano-at-Bryn-Mawr-Village-supplied-to-GNN-e1794387097651.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-11T12:30:06.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "MÚSICA",
-        "CULTURA"
-      ]
-    },
-    {
-      "id": "rss-mundo-good-news-in-history-november-",
-      "title": "Buenas noticias en la historia, 11 de noviembre",
-      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 11 de noviembre.",
-      "fullStory": "Hoy hace 100 años que se terminó la autopista US 101. Atravesando los estados de California, Oregón y Washington, pasa por la mayoría de las ciudades famosas de la costa oeste, los principales condados de Silicon Valley, cruza el puente Golden Gate y atraviesa el Parque Nacional Redwoods. En Oregón, entra y sale de 77 parques estatales a lo largo de la escarpada costa del estado antes de bordear Portland y cruzar el puente Astoria-Megler sobre el río Columbia hacia Washington. LEA la parte final a continuación... (1926)\n\nLa carretera continúa hacia Washington y finalmente llega a la Reserva India Quinault, a la que ingresa cerca del lago Quinault en el borde del Parque Nacional Olympic. Bordea la Península Olímpica y las estribaciones de las montañas del mismo nombre, incluida una parte a lo largo de la costa sur del lago Crescent, uno de los lagos más profundos del estado.\n\nEn un circuito más grande alrededor de la península, la 101 gira hacia el sur, pasando la reserva india Skokomish en la autopista Olympic Loop hasta que termina en la capital del estado.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061111/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2025/11/US-101.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-11T08:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-liderazgo--nothing-short-of-a-miracle-re",
-      "title": "‘Nada menos que un milagro’: los rescatistas encuentran a un niño con autismo desaparecido durante 3 días",
-      "summary": "Roman Heilman apareció de repente entre las zarzas en medio de la nada, seguido por un perrito, y cantó \"Old McDonald\".",
-      "fullStory": "“Simplemente salió de entre los arbustos hacia un sendero para caballos.” ​​Así describió un rescatista en Kentucky el momento en que vio a Roman Heilman, de 6 años, un niño con autismo desaparecido durante 3 días.\n\nJacob Mullins, miembro de un grupo local de jinetes a caballo, le dijo al Lexington Herald Leader que estaba sólo a media milla de la casa de Heilman cuando de repente salió de un arbusto seguido por un perro pequeño y cantó \"Old McDonald\".\n\nLuego, Heilman agarró la pierna del rescatista líder y no quiso soltarla.",
-      "whyGoodNews": "Demuestra que la confianza, la empatía y la comunicación abierta son las herramientas más eficaces para inspirar y liderar equipos humanos.",
-      "category": "liderazgo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/nothing-short-of-a-miracle-rescuers-find-boy-with-autism-missing-for-3-days/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/supplied-to-local-news-via-WOWK-13.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-10T16:30:45.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "LIDERAZGO",
-        "EQUIPOS"
-      ]
-    },
-    {
-      "id": "rss-mundo-martian-volcanic-discovery-cou",
-      "title": "El descubrimiento de un volcán marciano podría ser una prueba irrefutable en la búsqueda de vida",
-      "summary": "\"Buscar vida marciana en las fisuras de la región de Alba Mons tendría mucho sentido\", dijo Mège.",
-      "fullStory": "Así describió el profesor Daniel Mège el descubrimiento de trazas de gases volcánicos en Marte que podrían ser clave para encontrar vida en el Planeta Rojo.\n\nEl descubrimiento se centra en el gas cloruro de hidrógeno que se filtra a través de grietas volcánicas, una especie de “prueba humeante” que sugiere que Marte no está geológicamente muerto, sino simplemente dormido.\n\nEstos gases insinúan magma que, al entrar en contacto con el agua subterránea, puede producir nichos cálidos y habitables para organismos debajo de la superficie del Planeta Rojo.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/martian-volcanic-discovery-could-be-smoking-gun-in-search-for-life/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/new-evidence-of-1629186.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-10T14:30:25.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
