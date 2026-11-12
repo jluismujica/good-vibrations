@@ -1,15 +1,54 @@
 {
-  "lastUpdated": "2026-11-11T18:30:41.793Z",
+  "lastUpdated": "2026-11-12T03:41:34.261Z",
   "totalCount": 8,
   "categories": {
-    "musica": 2,
+    "musica": 1,
     "ia": 0,
     "psicologia": 0,
     "liderazgo": 1,
-    "chile": 1,
-    "mundo": 4
+    "chile": 0,
+    "mundo": 6
   },
   "news": [
+    {
+      "id": "rss-mundo-oh-whale-revisits-the-explodin",
+      "title": "¡Oh ballena! Revisa la explosión de la ballena que se convirtió en uno de los primeros videos virales de Internet",
+      "summary": "El 12 de noviembre de 1970, una enorme ballena muerta llegó a la costa cerca de Florence, Oregón. El departamento de carreteras decidió que la mejor manera de deshacerse de él era dinamita. ¡Oh ballena! recuerda este primer momento viral.",
+      "fullStory": "JoyDrops defiende los cortometrajes documentales elegibles para premios sobre la alegría, un contrapeso a una categoría a menudo dominada por la tragedia. Good News Network se ha asociado con JoyDrops para destacar estas películas y hablar con los realizadores detrás de ellas.\n\nEl periodista de televisión Paul Linnman pronunció esa frase desde una playa de Oregón en 1970. Cincuenta y seis años después, la gente todavía se la repite dondequiera que vaya.\n\n\"Es una historia ridícula, increíble, asombrosa y muy humana\", dijo el director Winslow Crane-Murdoch a GNN.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/oh-whale-revisits-the-exploding-whale-that-became-one-of-the-internets-first-viral-videos/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-12.42.29-PM.png",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-11T19:32:59.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo-for-centuries-visitors-walked-",
+      "title": "Durante siglos, los visitantes caminaron junto a 280 pinturas rupestres invisibles de la Edad del Hielo",
+      "summary": "A partir de 1957 fue muy frecuentado por visitantes, espeleólogos y buscadores de tesoros e incluso se convirtió en una atracción turística.",
+      "fullStory": "La tercera colección más grande de grabados de la Edad del Hielo jamás encontrada en el lado mediterráneo de España estaba a plena vista donde los visitantes durante siglos habían pasado junto a ellos.\n\n“Durante más de seis décadas, miles de visitantes pasaron directamente delante de las superficies grabadas y, en algunos casos, inscribieron sobre ellas nombres y fechas, sin que se reconociera el origen paleolítico de las figuras”, afirma Josep Maria Vergès, investigador que ahora trabaja para desvelar los orígenes de estas obras rupestres.\n\nUn comunicado sobre el descubrimiento detalla que la gente visita la cueva, llamada Cova de la Font Major, en Cataluña desde el siglo XII.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/for-centuries-visitors-walked-right-by-280-unseen-ice-age-cave-paintings/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/A-horse-representaion-where-cave-floor-is-used-to-represent-the-ground-credit-2026-Verges-et-al.-Antiquiry-CC-4.0.-BY-SA-e1794413594768.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-11T19:30:10.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
     {
       "id": "rss-mundo-brown-bear-population-in-spain",
       "title": "La población de osos pardos en España se duplica con un increíble aumento de su área de reproducción",
@@ -27,8 +66,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo--i-pulled-him-out-i-heard-more",
@@ -123,44 +161,6 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-musica-a-viral-video-led-strangers-to",
-      "title": "Un vídeo viral llevó a desconocidos a recaudar 76.000 dólares para un cuidador de tiempo completo",
-      "summary": "Un video viral lleva a extraños a recaudar más de $76,000 para apoyar a una cuidadora de tiempo completo mientras cuida a su madre de 82 años.",
-      "fullStory": "Un momento viral captado por la cámara de un timbre que llegó a millones de personas ha recaudado ahora más de 76.000 dólares para apoyar a una mujer que pasa sus días cuidando a los demás.\n\nCuando Suzanna Metcalf llegó a la casa del pastor Neal Seiwert en Castle Rock, Colorado, el año pasado, se disculpó porque había confundido su pedido de pizza y tendría que regresar con el pedido correcto. Ella culpó a \"envejecer\", pero la lucha en su rostro era clara.\n\nMetcalf trabaja en turnos de parto mientras se desempeña como cuidadora de tiempo completo para su madre de 82 años, gestionando la atención diaria, las necesidades médicas y los gastos del hogar.",
-      "whyGoodNews": "Celebra el poder unificador de la música y el arte para conectar personas, sanar heridas y despertar emociones profundas.",
-      "category": "musica",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/viral-video-raises-76000-for-caregiver/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/seiwert-ring-camera-.webp",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-10T13:44:04.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "MÚSICA",
-        "CULTURA"
-      ]
-    },
-    {
-      "id": "rss-chile-world-s-driest-desert-erupts-i",
-      "title": "El desierto más seco del mundo estalla en un auge de floración sin precedentes (MIRAR)",
-      "summary": "Significa que las semillas y los tubérculos han permanecido latentes bajo la arena esperando el toque vital del agua durante décadas: una adaptación notable.",
-      "fullStory": "Hace apenas unas semanas era el lugar más seco de la Tierra. Ahora es el más colorido.\n\nEl desierto de Atacama de Chile ha estallado en quizás la mayor exhibición floral jamás registrada allí, con unas 200 especies floreciendo, algunas en áreas donde no se habían visto flores desde el nuevo milenio anterior.\n\nVIDEO: 🇨🇱 El desierto de Atacama en Chile se llena de flores en primavera El fenómeno, conocido como \"desierto de flores\", ocurre en ciertos años cuando las precipitaciones y las temperaturas coinciden, despertando las semillas dormidas del desierto #AFPVertical https://t. co/Cr4C3LaFa8",
-      "whyGoodNews": "Destaca iniciativas y avances que fortalecen la convivencia, el patrimonio y la calidad de vida en nuestras comunidades.",
-      "category": "chile",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/worlds-driest-desert-erupts-into-record-breaking-bloom-boom-look/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Juan-Cortez-Estay-Unsplash.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-10T12:30:35.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "CHILE",
-        "COMUNIDAD"
       ]
     }
   ]
