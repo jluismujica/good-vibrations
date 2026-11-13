@@ -1,20 +1,97 @@
 {
-  "lastUpdated": "2026-11-13T03:19:52.956Z",
+  "lastUpdated": "2026-11-13T18:28:27.419Z",
   "totalCount": 8,
   "categories": {
     "musica": 0,
-    "ia": 1,
+    "ia": 0,
     "psicologia": 0,
     "liderazgo": 0,
     "chile": 0,
-    "mundo": 7
+    "mundo": 8
   },
   "news": [
+    {
+      "id": "rss-mundo-man-rescues-trapped-neighbors-",
+      "title": "Hombre rescata a vecinos atrapados en inundaciones “bíblicas” en Florida",
+      "summary": "El rescate se produce en medio de una avalancha de historias de compasión y heroísmo del condado de Brevard que está subiendo tan rápido como lo hicieron las aguas.",
+      "fullStory": "Un hombre arriesgó su vida para rescatar a sus vecinos vulnerables durante una inundación en Florida que calificó de \"bíblica\".\n\nUno de ellos se recuperaba de una cirugía y el otro padecía ELA, y su supervivencia dependía de la ayuda que su vecino Rick Addante les brindó heroicamente.\n\nSe produce en medio de una avalancha de historias de compasión y heroísmo del condado de Brevard que está subiendo tan rápido como lo hicieron las aguas.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/update-stories-of-daring-rescues-continue-to-surface-from-flooded-florida-communities/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-@rickaddante-via-X.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-13T16:30:59.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo-infant-goes-from-110-seizures-",
+      "title": "Un bebé pasa de 110 convulsiones al día a estar libre de convulsiones con un tratamiento experimental",
+      "summary": "Uno sólo puede imaginar las reacciones en su cama de hospital de Dubai cuando, después de recibir un fármaco aún experimental, sus convulsiones simplemente cesaron.",
+      "fullStory": "Desde el primer día de vida, el pequeño Adnan sufre un ataque aproximadamente cada 13 minutos.\n\nUno sólo puede imaginar las reacciones en su cama de hospital de Dubai cuando, después de recibir un medicamento aún experimental, sus convulsiones cesaron por ese día.\n\nLa historia llega a través del Khaleej Times, que informó que la Autoridad Sanitaria de Dubai (DHA) aceptó una solicitud del King's College Hospital London en Dubai a través de una vía de \"uso compasivo\" para el uso de un medicamento que de otro modo no estaría aprobado para uso comercial.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/infant-goes-from-110-seizures-a-day-to-seizure-free-after-rare-treatment/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/NICU-infant-ward-unsplash.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-13T14:00:22.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-wwii-tryst-at-the-center-of-80",
+      "title": "Cita de la Segunda Guerra Mundial en el centro de un misterio de más de 80 años que ahora une a dos familias",
+      "summary": "\"Pensé 'Esto es un final'. Tiene que serlo\", dijo Anderson, compartiendo con CBC News el momento en que se enteró de sus verdaderos orígenes.",
+      "fullStory": "Un inglés de 81 años creció preguntándose quién era su verdadero padre. Lo que no sabía era que todo un árbol genealógico en Canadá se preguntaba quién y dónde estaba.\n\nDespués de estar dividido por una guerra mundial, un océano y 8 décadas, Rodney Anderson finalmente encontró a sus parientes perdidos hace mucho tiempo con la ayuda de una simple prueba de ADN y una sobrina persistente y curiosa.\n\n\"Pensé 'Esto es un final'. Tiene que serlo\", dijo Anderson, compartiendo con CBC News el momento en que se enteró de sus verdaderos orígenes.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/canadian-family-finally-identifies-grandfathers-long-lost-wwii-baby-in-england-after-80-years/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Left-Charles-Blackney-holding-his-Canadian-daughter-in-1942-right-Yvonne-Anderson-holding-Rodney-in-1945-credits-Dawn-Anderson.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-13T12:30:36.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-good-news-in-history-november-",
+      "title": "Buenas noticias en la historia, 13 de noviembre",
+      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 13 de noviembre.",
+      "fullStory": "Hoy hace 70 años, la Corte Suprema de Estados Unidos anuló la política de segregación racial en los autobuses públicos de Alabama, poniendo fin al boicot a los autobuses de Montgomery, que Rosa Parks hizo famoso. LEER más… (1956)\n\nAbogados de derechos civiles presentaron una demanda en junio y un panel de tres jueces del Tribunal de Distrito dictaminó 2-1 que \"la segregación forzada de pasajeros blancos y negros en los autobuses que operan en la ciudad de Montgomery viola la Constitución y las leyes de los Estados Unidos\" porque las condiciones privaban a las personas de igual protección bajo la Decimocuarta Enmienda.\n\nAlabama y la ciudad apelaron, pero la decisión fue confirmada sumariamente por la Corte Suprema, que les ordenó eliminar la segregación en sus autobuses con una notificación oficial por escrito de los alguaciles federales.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061113/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2015/11/Rosa-Parks-on-Bus-After-Boycott-Wikipedia.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
     {
       "id": "rss-mundo-china-switches-on-world-s-bigg",
       "title": "China apuesta por el mayor ejemplo del mundo de almacenamiento de energía verde nuevo y barato",
       "summary": "La planta, denominada almacenamiento de energía líquido-aire (LAES), utiliza electricidad renovable para comprimir el aire a densidades extremas hasta que se vuelve líquido.",
-      "fullStory": "Se enciende el sistema de almacenamiento de energía renovable de aire líquido más grande del mundo\n\nChina apuesta por el mayor ejemplo del mundo de almacenamiento de energía verde nuevo y barato\n\n(Creo que, por motivos de SEO, podríamos considerar mantener el más tosco 'Almacenamiento de energía en aire líquido' en el titular)",
+      "fullStory": "En el oeste de China está en marcha la mayor planta de demostración del mundo para un nuevo tipo de almacenamiento de energía renovable.\n\nLa planta, denominada almacenamiento de energía líquido-aire (LAES), utiliza electricidad renovable para comprimir el aire a densidades extremas hasta que se vuelve líquido. Luego se puede liberar rápidamente para alimentar una turbina y descargar esa energía verde nuevamente a la red.\n\nChina ha recibido numerosos elogios por su rápida adopción de energía renovable tanto a escala como a velocidad, y esta nueva instalación en la provincia de Qinghai aporta un elemento clave que falta en el desarrollo de energía renovable: almacenamiento de baterías a escala de red para cuando el sol no brilla y el viento no sopla.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Good News Network",
@@ -27,8 +104,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-documentarian-helps-103-yo-d-d",
@@ -52,7 +128,7 @@
     {
       "id": "rss-mundo-100-year-old-store-mom-surpris",
       "title": "La 'mamá de la tienda' de 100 años sorprende con su primera fiesta de cumpleaños",
-      "summary": "Gretchen Sollo, la “madre de tienda” de 100 años que camina a diario por Lowe's, se sorprendió con su primera fiesta de cumpleaños.",
+      "summary": "Gretchen Sollo, la “madre de tienda” de 100 años que camina a diario por Lowe's, quedó sorprendida con su primera fiesta de cumpleaños.",
       "fullStory": "Después de 100 años, Gretchen Sollo tuvo una gran novedad: una fiesta sorpresa de cumpleaños organizada por los empleados de Lowe's a quienes ve todos los días.\n\nDespués de un derrame cerebral, Sollo recurrió a los pasillos de Lowe's para su caminata diaria y para protegerse del clima en Bradley, Illinois. Desde entonces, caminó aproximadamente 1,500 millas durante cinco años, creando un ritual diario y amistades con los miembros del personal que se extendían por la tienda.\n\nLos empleados de la tienda controlan su número de vueltas e incluso la desafían a carreras, acompañándola en sus paseos por la tienda. Si alguna vez Sollo no aparece, los miembros del personal lo notan y se preocupan.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
@@ -80,82 +156,6 @@
       "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-Christies-released.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-11-12T14:00:23.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-brave-teens-execute-paddleboar",
-      "title": "Valientes adolescentes ejecutan el rescate de vecinos inundados con tablas de remo: “Se restablece la fe en la humanidad”",
-      "summary": "\"Mi fe en la humanidad ha sido restaurada\", dijo Grant, añadiendo que otros vecinos también se habían ofrecido como voluntarios para ayudar.",
-      "fullStory": "Una mujer ha recuperado su fe en la humanidad después de que sus vecinos llegaran en tablas de remo para rescatarla a ella y a su hijo durante las recientes inundaciones en Florida.\n\nLos servicios de emergencia no pudieron llegar a ella, dijo el operador del 911, mientras Brittany Grant y su hijo estaban sentados en el mostrador de la cocina mientras el agua de la inundación subía cada vez más por encima del piso.\n\nEl condado de Brevard se vio afectado recientemente por lo que los informes meteorológicos dicen que es un evento de lluvia de 1.000 años, que inundó ciudades como Melbourne, Port Lucie y Palm Bay, donde Grant vive con su hijo y sus tres perros.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/brave-teens-execute-paddleboard-rescue-of-flooded-neighbors-faith-in-humanity-restored/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-Britanny-Grant-via-Facebook.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-12T12:30:42.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-ia-good-news-in-history-november-",
-      "title": "Buenas noticias en la historia, 12 de noviembre",
-      "summary": "Esta columna diaria presenta todas las buenas noticias, aniversarios y cumpleaños de este día de la historia: el 12 de noviembre.",
-      "fullStory": "Hoy hace 46 años, la sonda Voyager 1 de la NASA llegó a Saturno y transmitió las primeras imágenes jamás tomadas de sus anillos. Llegó al segundo planeta más grande de nuestro sistema solar a través de una trayectoria de asistencia gravitacional en Júpiter que fue replicada con la Voyager 2. El 12 de noviembre, cuando la sonda espacial llegó a 77.000 millas de las cimas de las nubes de Saturno, las cámaras de la sonda espacial detectaron estructuras complejas en los anillos de Saturno y sus instrumentos de detección remota estudiaron las atmósferas de Saturno y su luna gigante Titán. LEA lo que descubrió… (1980)\n\nLa Voyager 1 descubrió que alrededor del 7% del volumen de la atmósfera superior de Saturno es helio (en comparación con el 11% de la atmósfera de Júpiter), mientras que casi todo el resto es hidrógeno. Dado que se esperaba que la abundancia interna de helio de Saturno fuera la misma que la de Júpiter y el Sol, la menor abundancia de helio en la atmósfera superior puede implicar que el helio más pesado puede estar hundiéndose lentamente a través del hidrógeno de Saturno; eso podría explicar el exceso de calor que irradia Saturno sobre la energía que recibe del Sol.\n\nLos vientos soplan a gran velocidad en Saturno. Cerca del ecuador, las Voyager midieron vientos de unos 500 m/s (1100 mph). El viento sopla principalmente en dirección este. La Voyager midió la rotación de Saturno (la duración de un día) a las 10 horas, 39 minutos y 24 segundos e identificó auroras polares y emisiones ultravioleta similares a auroras en latitudes medias. Estos siguen siendo un enigma hasta el día de hoy, ya que el bombardeo de electrones e iones, que se sabe que causan auroras en la Tierra, ocurre sólo en las latitudes altas.",
-      "whyGoodNews": "Muestra cómo la innovación científica y el ingenio humano colaboran para resolver desafíos ambientales y sociales concretos.",
-      "category": "ia",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061112/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/11/Saturn-as-pictured-by-Voyager-1-credit-NASA.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-12T08:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "INNOVACIÓN",
-        "CIENCIA"
-      ]
-    },
-    {
-      "id": "rss-mundo-oh-whale-revisits-the-explodin",
-      "title": "¡Oh ballena! Revisa la explosión de la ballena que se convirtió en uno de los primeros videos virales de Internet",
-      "summary": "El 12 de noviembre de 1970, una enorme ballena muerta llegó a la costa cerca de Florence, Oregón. El departamento de carreteras decidió que la mejor manera de deshacerse de él era dinamita. ¡Oh ballena! recuerda este primer momento viral.",
-      "fullStory": "JoyDrops defiende los cortometrajes documentales elegibles para premios sobre la alegría, un contrapeso a una categoría a menudo dominada por la tragedia. Good News Network se ha asociado con JoyDrops para destacar estas películas y hablar con los realizadores detrás de ellas.\n\nEl periodista de televisión Paul Linnman pronunció esa frase desde una playa de Oregón en 1970. Cincuenta y seis años después, la gente todavía se la repite dondequiera que vaya.\n\n\"Es una historia ridícula, increíble, asombrosa y muy humana\", dijo el director Winslow Crane-Murdoch a GNN.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/oh-whale-revisits-the-exploding-whale-that-became-one-of-the-internets-first-viral-videos/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-12.42.29-PM.png",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-11T19:32:59.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-for-centuries-visitors-walked-",
-      "title": "Durante siglos, los visitantes caminaron junto a 280 pinturas rupestres invisibles de la Edad del Hielo",
-      "summary": "A partir de 1957 fue muy frecuentado por visitantes, espeleólogos y buscadores de tesoros e incluso se convirtió en una atracción turística.",
-      "fullStory": "La tercera colección más grande de grabados de la Edad del Hielo jamás encontrada en el lado mediterráneo de España estaba a plena vista donde los visitantes durante siglos habían pasado junto a ellos.\n\n“Durante más de seis décadas, miles de visitantes pasaron directamente delante de las superficies grabadas y, en algunos casos, inscribieron sobre ellas nombres y fechas, sin que se reconociera el origen paleolítico de las figuras”, afirma Josep Maria Vergès, investigador que ahora trabaja para desvelar los orígenes de estas obras rupestres.\n\nUn comunicado sobre el descubrimiento detalla que la gente visita la cueva, llamada Cova de la Font Major, en Cataluña desde el siglo XII.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/for-centuries-visitors-walked-right-by-280-unseen-ice-age-cave-paintings/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/A-horse-representaion-where-cave-floor-is-used-to-represent-the-ground-credit-2026-Verges-et-al.-Antiquiry-CC-4.0.-BY-SA-e1794413594768.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-11T19:30:10.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
