@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T18:45:51.799Z",
+  "lastUpdated": "2026-11-13T03:19:52.956Z",
   "totalCount": 8,
   "categories": {
     "musica": 0,
@@ -11,10 +11,30 @@
   },
   "news": [
     {
+      "id": "rss-mundo-china-switches-on-world-s-bigg",
+      "title": "China apuesta por el mayor ejemplo del mundo de almacenamiento de energía verde nuevo y barato",
+      "summary": "La planta, denominada almacenamiento de energía líquido-aire (LAES), utiliza electricidad renovable para comprimir el aire a densidades extremas hasta que se vuelve líquido.",
+      "fullStory": "Se enciende el sistema de almacenamiento de energía renovable de aire líquido más grande del mundo\n\nChina apuesta por el mayor ejemplo del mundo de almacenamiento de energía verde nuevo y barato\n\n(Creo que, por motivos de SEO, podríamos considerar mantener el más tosco 'Almacenamiento de energía en aire líquido' en el titular)",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/worlds-largest-liquid-air-renewable-energy-storage-system-switches-on/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Qinghai-60MW-Liquid-Air-Energy-Storage-Project-credit-China-Green-Development-Investment-Group.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-12T19:30:02.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
       "id": "rss-mundo-documentarian-helps-103-yo-d-d",
-      "title": "Un documentalista ayuda a un superviviente del Día D de 103 años a recuperar sus medallas de guerra perdidas, justo a tiempo para el Día de los Veteranos",
+      "title": "Un documentalista ayuda a un superviviente del Día D de 103 años a recuperar sus medallas de guerra perdidas",
       "summary": "La historia surge a través de una notable coincidencia cuando un historiador aficionado de la Segunda Guerra Mundial se encontró con el historial militar y las medallas del hombre.",
-      "fullStory": "Un veterano del Día D de 103 años se reunió con sus medallas de guerra justo a tiempo para el Día de los Veteranos.\n\nLa historia surgió a través de una notable coincidencia cuando un historiador aficionado de la Segunda Guerra Mundial encontró el historial militar y las medallas del hombre y se puso en contacto con la familia preguntándoles si todavía los tenía.\n\n\"Puede que sean sólo un trozo de metal, pero las medallas son algo que tengo muy cerca de mi corazón\", dijo el veterano Douglas Halley, luciéndolas con orgullo en su suéter. \"Me recuerdan a todos mis hermanos de armas con quienes estuve y que me ayudaron a salir adelante en la guerra\".",
+      "fullStory": "Un veterano del Día D de 103 años se reunió con sus medallas de guerra justo a tiempo para el Día del Recuerdo.\n\nLa historia surgió a través de una notable coincidencia cuando un historiador aficionado de la Segunda Guerra Mundial encontró el historial militar y las medallas del hombre y se puso en contacto con la familia preguntándoles si todavía los tenía.\n\n\"Puede que sean sólo un trozo de metal, pero las medallas son algo que tengo muy cerca de mi corazón\", dijo el veterano Douglas Halley, luciéndolas con orgullo en su suéter. \"Me recuerdan a todos mis hermanos de armas con quienes estuve y que me ayudaron a salir adelante en la guerra\".",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Good News Network",
@@ -27,13 +47,12 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-100-year-old-store-mom-surpris",
-      "title": "La 'mamá de la tienda' de 100 años sorprendida con su primera fiesta de cumpleaños",
-      "summary": "Gretchen Sollo, la “madre de tienda” de 100 años que camina a diario por Lowe's, quedó sorprendida con su primera fiesta de cumpleaños.",
+      "title": "La 'mamá de la tienda' de 100 años sorprende con su primera fiesta de cumpleaños",
+      "summary": "Gretchen Sollo, la “madre de tienda” de 100 años que camina a diario por Lowe's, se sorprendió con su primera fiesta de cumpleaños.",
       "fullStory": "Después de 100 años, Gretchen Sollo tuvo una gran novedad: una fiesta sorpresa de cumpleaños organizada por los empleados de Lowe's a quienes ve todos los días.\n\nDespués de un derrame cerebral, Sollo recurrió a los pasillos de Lowe's para su caminata diaria y para protegerse del clima en Bradley, Illinois. Desde entonces, caminó aproximadamente 1,500 millas durante cinco años, creando un ritual diario y amistades con los miembros del personal que se extendían por la tienda.\n\nLos empleados de la tienda controlan su número de vueltas e incluso la desafían a carreras, acompañándola en sus paseos por la tienda. Si alguna vez Sollo no aparece, los miembros del personal lo notan y se preocupan.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
@@ -72,7 +91,7 @@
       "id": "rss-mundo-brave-teens-execute-paddleboar",
       "title": "Valientes adolescentes ejecutan el rescate de vecinos inundados con tablas de remo: “Se restablece la fe en la humanidad”",
       "summary": "\"Mi fe en la humanidad ha sido restaurada\", dijo Grant, añadiendo que otros vecinos también se habían ofrecido como voluntarios para ayudar.",
-      "fullStory": "Una mujer ha recuperado su fe en la humanidad después de que sus vecinos llegaran en tablas de remo para rescatarla a ella y a su hijo durante las recientes inundaciones en Florida.\n\nLos servicios de emergencia no pudieron llegar hasta ella, dijo el operador del 911, mientras Brittany Grant y su hijo estaban sentados en la encimera de la cocina mientras el agua de la inundación subía cada vez más por encima del suelo.\n\nEl condado de Brevard se vio afectado recientemente por lo que los informes meteorológicos dicen que es un evento de lluvia de 1.000 años, que inundó ciudades como Melbourne, Port Lucie y Palm Bay, donde Grant vive con su hijo y sus tres perros.",
+      "fullStory": "Una mujer ha recuperado su fe en la humanidad después de que sus vecinos llegaran en tablas de remo para rescatarla a ella y a su hijo durante las recientes inundaciones en Florida.\n\nLos servicios de emergencia no pudieron llegar a ella, dijo el operador del 911, mientras Brittany Grant y su hijo estaban sentados en el mostrador de la cocina mientras el agua de la inundación subía cada vez más por encima del piso.\n\nEl condado de Brevard se vio afectado recientemente por lo que los informes meteorológicos dicen que es un evento de lluvia de 1.000 años, que inundó ciudades como Melbourne, Port Lucie y Palm Bay, donde Grant vive con su hijo y sus tres perros.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Good News Network",
@@ -137,25 +156,6 @@
       "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/A-horse-representaion-where-cave-floor-is-used-to-represent-the-ground-credit-2026-Verges-et-al.-Antiquiry-CC-4.0.-BY-SA-e1794413594768.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-11-11T19:30:10.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-brown-bear-population-in-spain",
-      "title": "La población de osos pardos en España se duplica con un increíble aumento de su área de reproducción",
-      "summary": "El área total ocupada actualmente por los osos pardos se extiende más allá de los 17.000 kilómetros cuadrados o 6.500 millas cuadradas.",
-      "fullStory": "Desde el borde de la extinción hasta deambular por 6.500 millas cuadradas, las poblaciones de osos pardos cantábricos se han duplicado en España en los últimos 20 años hasta 370.\n\nSegún estimaciones de principios del siglo XXI, tan sólo 140, son otro ejemplo del éxito continuo de España en la protección de varias de las especies endémicas del país.\n\nTomando su nombre de la región del extremo norte de España cuyas montañas son el último reducto del oso, el oso pardo cantábrico se puede encontrar en las regiones de Asturianos, León, Galicia y Palencia, además de Cantabria.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/spain-sees-incredible-doubling-of-her-brown-bear-population-and-its-breeding-range/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/A-Cantabrian-brown-bear-credit-Juan-Iacruz-CC-BY-SA-4.0.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-11T16:30:25.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
