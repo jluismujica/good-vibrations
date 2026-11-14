@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-13T18:28:27.419Z",
+  "lastUpdated": "2026-11-14T02:58:27.035Z",
   "totalCount": 8,
   "categories": {
     "musica": 0,
@@ -10,6 +10,26 @@
     "mundo": 8
   },
   "news": [
+    {
+      "id": "rss-mundo-dr-king-s-lost-draft-of-i-have",
+      "title": "El borrador perdido del Dr. King de 'Tengo un sueño' emerge de un cajón del escritorio",
+      "summary": "Esta reliquia de la oratoria americana consta de 7 páginas amarillas recubiertas de tinta azul. Se tachan palabras y, a veces, párrafos enteros.",
+      "fullStory": "(enfoque totalmente alternativo) El increíble descubrimiento del borrador 'Tengo un sueño' de King escalofría a los lectores con sus ideas\n\nUn borrador del famoso discurso \"Tengo un sueño\", escrito por Martin Luther King Jr. la mañana del famoso evento en el Lincoln Memorial, ha resurgido después de 6 décadas.\n\nA diferencia de otros ejemplos de su escritura manuscrita jamás encontrados, las copiosas revisiones del borrador hablan de un hombre que comprendió la gravedad de lo que se disponía a decir.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/dr-kings-lost-draft-of-i-have-a-dream-emerges-from-a-desk-drawer/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-Christies-released-1.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-13T19:30:02.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
     {
       "id": "rss-mundo-man-rescues-trapped-neighbors-",
       "title": "Hombre rescata a vecinos atrapados en inundaciones “bíblicas” en Florida",
@@ -27,8 +47,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-infant-goes-from-110-seizures-",
@@ -90,8 +109,8 @@
     {
       "id": "rss-mundo-china-switches-on-world-s-bigg",
       "title": "China apuesta por el mayor ejemplo del mundo de almacenamiento de energía verde nuevo y barato",
-      "summary": "La planta, denominada almacenamiento de energía líquido-aire (LAES), utiliza electricidad renovable para comprimir el aire a densidades extremas hasta que se vuelve líquido.",
-      "fullStory": "En el oeste de China está en marcha la mayor planta de demostración del mundo para un nuevo tipo de almacenamiento de energía renovable.\n\nLa planta, denominada almacenamiento de energía líquido-aire (LAES), utiliza electricidad renovable para comprimir el aire a densidades extremas hasta que se vuelve líquido. Luego se puede liberar rápidamente para alimentar una turbina y descargar esa energía verde nuevamente a la red.\n\nChina ha recibido numerosos elogios por su rápida adopción de energía renovable tanto a escala como a velocidad, y esta nueva instalación en la provincia de Qinghai aporta un elemento clave que falta en el desarrollo de energía renovable: almacenamiento de baterías a escala de red para cuando el sol no brilla y el viento no sopla.",
+      "summary": "La planta, llamada almacenamiento de energía líquido-aire (LAES), utiliza electricidad renovable para comprimir el aire a densidades extremas hasta que se vuelve líquido.",
+      "fullStory": "En el oeste de China está en marcha la mayor planta de demostración del mundo para un nuevo tipo de almacenamiento de energía renovable.\n\nLa planta, llamada almacenamiento de energía líquido-aire (LAES), utiliza electricidad renovable para comprimir el aire a densidades extremas hasta que se vuelve líquido. Luego se puede liberar rápidamente para alimentar una turbina y descargar esa energía verde nuevamente a la red.\n\nChina ha recibido numerosos elogios por su rápida adopción de energía renovable tanto a escala como a velocidad, y esta nueva instalación en la provincia de Qinghai aporta un elemento clave que falta en el desarrollo de energía renovable: almacenamiento de baterías a escala de red para cuando el sol no brilla y el viento no sopla.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Good News Network",
@@ -127,7 +146,7 @@
     },
     {
       "id": "rss-mundo-100-year-old-store-mom-surpris",
-      "title": "La 'mamá de la tienda' de 100 años sorprende con su primera fiesta de cumpleaños",
+      "title": "La 'mamá de la tienda' de 100 años sorprendida con su primera fiesta de cumpleaños",
       "summary": "Gretchen Sollo, la “madre de tienda” de 100 años que camina a diario por Lowe's, quedó sorprendida con su primera fiesta de cumpleaños.",
       "fullStory": "Después de 100 años, Gretchen Sollo tuvo una gran novedad: una fiesta sorpresa de cumpleaños organizada por los empleados de Lowe's a quienes ve todos los días.\n\nDespués de un derrame cerebral, Sollo recurrió a los pasillos de Lowe's para su caminata diaria y para protegerse del clima en Bradley, Illinois. Desde entonces, caminó aproximadamente 1,500 millas durante cinco años, creando un ritual diario y amistades con los miembros del personal que se extendían por la tienda.\n\nLos empleados de la tienda controlan su número de vueltas e incluso la desafían a carreras, acompañándola en sus paseos por la tienda. Si alguna vez Sollo no aparece, los miembros del personal lo notan y se preocupan.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
@@ -137,25 +156,6 @@
       "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/fw-gretchen.png",
       "imageSourceType": "official",
       "publishedAt": "2026-11-12T14:07:08.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo--there-s-a-georgia-o-keeffe-in",
-      "title": "'Hay una Georgia O'Keeffe en el armario': palabras que llevaron al feliz redescubrimiento de la pintura",
-      "summary": "“Oh, por cierto, hay una Georgia O'Keeffe en el armario.” Uno sólo puede imaginar la pausa, la reflexión o la petición de claridad que siguió a este comentario, hecho por la tía anciana de una mujer en medio de un esfuerzo por limpiar su apartamento en East Village. Sin embargo, como la mujer, que se reveló sólo como Betsy, […]",
-      "fullStory": "Uno sólo puede imaginar la pausa, la reflexión o la petición de claridad que siguió a este comentario, hecho por la tía anciana de una mujer en medio de un esfuerzo por limpiar su apartamento en East Village.\n\nSin embargo, cuando la mujer, que se reveló solo como Betsy, rebuscó en ese armario cuatro años después, encontró una pintura al óleo de colinas onduladas, con suaves colores tierra que recuerdan la forma femenina, que ahora se sabe que es Cerca de Abiquiu, Nuevo México I, pintada por la Madre del Modernismo en 1930.\n\nSu redescubrimiento ha sido aclamado como \"un momento único en la vida y absolutamente emocionante\".",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/theres-a-georgia-okeefe-in-the-closet-words-that-led-to-paintings-joyous-rediscovery/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-Christies-released.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-12T14:00:23.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
