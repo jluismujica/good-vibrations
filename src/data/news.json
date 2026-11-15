@@ -1,15 +1,54 @@
 {
-  "lastUpdated": "2026-11-15T02:29:11.420Z",
+  "lastUpdated": "2026-11-15T17:38:27.722Z",
   "totalCount": 8,
   "categories": {
     "musica": 0,
-    "ia": 0,
+    "ia": 1,
     "psicologia": 0,
     "liderazgo": 0,
     "chile": 0,
-    "mundo": 8
+    "mundo": 7
   },
   "news": [
+    {
+      "id": "rss-mundo-san-francisco-gets-its-largest",
+      "title": "San Francisco recibe su mayor donación hasta la fecha: 100 millones de dólares para parques públicos del fundador de Airbnb",
+      "summary": "Brian Chesky, director ejecutivo de Airbnb, anunció una donación de 100 millones de dólares a los parques de San Francisco, la donación de un solo donante más grande jamás realizada en la historia de la ciudad.",
+      "fullStory": "El director ejecutivo de Airbnb, Brian Chesky, anunció una innovadora donación de 100 millones de dólares a los parques de San Francisco, la donación más grande jamás realizada por un solo donante a la ciudad en su historia.\n\nEl alcalde Daniel Lurie se unió a Chesky para el anuncio la semana pasada en el Golden Gate Park.\n\nChesky fundó Airbnb en San Francisco hace 18 años y la empresa todavía tiene su sede allí. Para él, la donación tiene como objetivo “retribuir a la ciudad que hizo posible Airbnb”.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/san-francisco-gets-100m-gift-for-public-parks-from-airbnb-ceo/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2015/05/San-Francisco-davidyuweb-CC.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-15T15:36:21.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-ia-good-news-in-history-november-",
+      "title": "Buenas noticias en la historia, 15 de noviembre",
+      "summary": "El año pasado, las ventas éticas de productos de Comercio Justo a nivel mundial aumentaron un 8 por ciento a casi 9 dólares. 2 mil millones, beneficiando a 1,6 millones de agricultores en 75 países.",
+      "fullStory": "Hoy hace 122 años, King Gillette patentó la maquinilla de afeitar de seguridad desechable: una enorme mejora con respecto a la tecnología de afeitado actual de hojas rectas y forjadas que debían afilarse todos los días con un asentador de cuero. Por el contrario, Gillette utilizó cuchillas estampadas hechas de láminas de acero al carbono, al tiempo que adaptó las características de seguridad existentes que evitaban lesiones más allá de algún que otro corte. El resultado, a pesar de ser desechable, fue caro y muy popular. LEA un poco más sobre esta innovación americana… (1904)\n\nA Gillette se le ocurrió la idea de una maquinilla de afeitar desechable cuando un amigo le señaló que los productos desechables garantizan futuras compras de los clientes. La maquinilla de afeitar de Gillette se vendía por unos sustanciales 5 dólares (equivalente a 175,00 dólares en 2024), la mitad del salario semanal de un trabajador medio, pero se vendía por millones.\n\nEn su primer año vendió 51 maquinillas de afeitar y 168 hojas; el segundo año, 90.884 maquinillas de afeitar y 123.648 hojas, gracias en parte a los bajos precios, las técnicas de fabricación automatizadas y la buena publicidad de Gillette. Gillette, un gigante de la higiene y el cuidado personal estadounidense, vale ahora más de 50 mil millones de dólares.",
+      "whyGoodNews": "Muestra cómo la innovación científica y el ingenio humano colaboran para resolver desafíos ambientales y sociales concretos.",
+      "category": "ia",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061115/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/11/The-patent-design-of-the-Gillette-razor.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-15T08:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "INNOVACIÓN",
+        "CIENCIA"
+      ]
+    },
     {
       "id": "rss-mundo-couple-with-autism-and-adhd-fi",
       "title": "Pareja con autismo y TDAH encuentra pasión limpiando señales de calles sucias",
@@ -27,8 +66,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-two-of-the-last-wild-ecosystem",
@@ -118,44 +156,6 @@
       "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-Christies-released-1.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-11-13T19:30:02.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-man-rescues-trapped-neighbors-",
-      "title": "Hombre rescata a vecinos atrapados en inundaciones “bíblicas” en Florida",
-      "summary": "El rescate se produce en medio de una avalancha de historias de compasión y heroísmo del condado de Brevard que está subiendo tan rápido como lo hicieron las aguas.",
-      "fullStory": "Un hombre arriesgó su vida para rescatar a sus vecinos vulnerables durante una inundación en Florida que calificó de \"bíblica\".\n\nUno de ellos se recuperaba de una cirugía y el otro padecía ELA, y su supervivencia dependía de la ayuda que su vecino Rick Addante les brindó heroicamente.\n\nSe produce en medio de una avalancha de historias de compasión y heroísmo del condado de Brevard que está subiendo tan rápido como lo hicieron las aguas.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/update-stories-of-daring-rescues-continue-to-surface-from-flooded-florida-communities/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-@rickaddante-via-X.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-13T16:30:59.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-infant-goes-from-110-seizures-",
-      "title": "Un bebé pasa de 110 convulsiones al día a estar libre de convulsiones con un tratamiento experimental",
-      "summary": "Uno sólo puede imaginar las reacciones en su cama de hospital de Dubai cuando, después de recibir un fármaco aún experimental, sus convulsiones simplemente cesaron.",
-      "fullStory": "Desde el primer día de vida, el pequeño Adnan sufre un ataque aproximadamente cada 13 minutos.\n\nUno sólo puede imaginar las reacciones en su cama de hospital de Dubai cuando, después de recibir un medicamento aún experimental, sus convulsiones cesaron por ese día.\n\nLa historia llega a través del Khaleej Times, que informó que la Autoridad Sanitaria de Dubai (DHA) aceptó una solicitud del King's College Hospital London en Dubai a través de una vía de \"uso compasivo\" para el uso de un medicamento que de otro modo no estaría aprobado para uso comercial.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/infant-goes-from-110-seizures-a-day-to-seizure-free-after-rare-treatment/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/NICU-infant-ward-unsplash.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-13T14:00:22.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
