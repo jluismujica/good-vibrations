@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14T16:55:08.545Z",
+  "lastUpdated": "2026-11-15T02:29:11.420Z",
   "totalCount": 8,
   "categories": {
     "musica": 0,
@@ -10,6 +10,26 @@
     "mundo": 8
   },
   "news": [
+    {
+      "id": "rss-mundo-couple-with-autism-and-adhd-fi",
+      "title": "Pareja con autismo y TDAH encuentra pasión limpiando señales de calles sucias",
+      "summary": "Paul y Ruth Richmond-Watson pasan el tiempo de su pareja limpiando señales de tráfico sucias, con el sueño de viajar por el Reino Unido hasta que estén todos limpios.",
+      "fullStory": "Una pareja casada pasa su tiempo limpiando señales de tráfico sucias, con el sueño de viajar por todo el país hasta que queden todas impecables.\n\nPaul y Ruth Richmond-Watson comenzaron a limpiar los letreros de las calles en septiembre después de sentir la necesidad de encontrar un nuevo pasatiempo que pudieran hacer juntos.\n\n\"Ambos somos autistas y tenemos TDAH, por lo que somos bastante creativos y un poco raros\", explicó Paul, quien también fue limpiacristales. \"Simplemente pensamos que realmente podríamos hacer que esto funcionara\".",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/couple-with-autism-and-adhd-find-passion-cleaning-filthy-street-signs/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Before-and-after-cleaning-road-signs-in-East-Sussex-SWNS.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-14T18:56:02.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
     {
       "id": "rss-mundo-two-of-the-last-wild-ecosystem",
       "title": "Dos de los “últimos ecosistemas salvajes” que no han sido tocados por los humanos son declarados nuevos santuarios",
@@ -27,8 +47,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-heroic-bravery-of-woman-who-hi",
@@ -137,25 +156,6 @@
       "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/NICU-infant-ward-unsplash.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-11-13T14:00:22.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-wwii-tryst-at-the-center-of-80",
-      "title": "Cita de la Segunda Guerra Mundial en el centro de un misterio de más de 80 años que ahora une a dos familias",
-      "summary": "\"Pensé 'Esto es un final'. Tiene que serlo\", dijo Anderson, compartiendo con CBC News el momento en que se enteró de sus verdaderos orígenes.",
-      "fullStory": "Un inglés de 81 años creció preguntándose quién era su verdadero padre. Lo que no sabía era que todo un árbol genealógico en Canadá se preguntaba quién y dónde estaba.\n\nDespués de estar dividido por una guerra mundial, un océano y 8 décadas, Rodney Anderson finalmente encontró a sus parientes perdidos hace mucho tiempo con la ayuda de una simple prueba de ADN y una sobrina persistente y curiosa.\n\n\"Pensé 'Esto es un final'. Tiene que serlo\", dijo Anderson, compartiendo con CBC News el momento en que se enteró de sus verdaderos orígenes.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/canadian-family-finally-identifies-grandfathers-long-lost-wwii-baby-in-england-after-80-years/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Left-Charles-Blackney-holding-his-Canadian-daughter-in-1942-right-Yvonne-Anderson-holding-Rodney-in-1945-credits-Dawn-Anderson.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-13T12:30:36.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
