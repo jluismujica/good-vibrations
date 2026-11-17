@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-11-16T20:53:36.851Z",
-  "totalCount": 8,
+  "lastUpdated": "2026-11-17T19:42:36.956Z",
+  "totalCount": 7,
   "categories": {
     "musica": 0,
-    "ia": 1,
+    "ia": 0,
     "psicologia": 0,
     "liderazgo": 0,
     "chile": 0,
@@ -11,10 +11,106 @@
   },
   "news": [
     {
+      "id": "rss-mundo-west-coast-s-first-ever-sea-tu",
+      "title": "Las primeras crías de tortugas marinas de la costa oeste liberadas en el Pacífico (MIRAR)",
+      "summary": "Las crías de tortuga golfina salvadas de una tormenta que se avecinaba en California fueron liberadas en su hábitat natural durante el fin de semana.",
+      "fullStory": "Las crías de tortuga golfina salvadas de una tormenta que se avecinaba en California fueron liberadas en su hábitat natural durante el fin de semana.\n\nEran finales de septiembre cuando una tortuga hembra salió del mar, cavó un nido en la playa, depositó su nidada y volvió a deslizarse al agua dejando nada más que un pequeño rastro en la arena y un par de socorristas mudos.\n\nEste primer caso de una tortuga anidando en la costa del Pacífico de Estados Unidos se repitió un día después en Huntington Beach en lo que fueron los primeros nidos de tortugas marinas registrados en la costa oeste.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/west-coasts-first-ever-sea-turtle-hatchlings-released-into-the-pacific-look/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Turtle-hatchlings-rush-for-the-sea-on-Seal-Beach-credit-Robin-Riggs-Aquarium-of-the-Pacific-©.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-17T19:30:43.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo-algeria-returns-kindness-shown",
+      "title": "Argelia devuelve la amabilidad mostrada por los habitantes de Kansas que dieron la bienvenida a su equipo mundialista con el viaje de su vida",
+      "summary": "La historia es un recordatorio de muchas cosas: del poder que tiene esa pequeña bolita blanca y negra para unir a personas de todos los colores y credos.",
+      "fullStory": "A principios de noviembre, varias familias exhaustas de Kansas aterrizaron en Argelia a las 4:30 a.m. metro. y se sorprendieron por lo que les esperaba.\n\nAllí estaban decenas de representantes del gobierno y del sector hotelero del país, con los brazos extendidos con flores, felices de verlas.\n\nMientras docenas de equipos de fútbol internacionales llegaban a Estados Unidos para la Copa Mundial de la FIFA 2026, el equipo de Argelia eligió Lawrence, Kansas: pop. 94. 934. Para sorpresa de los lugareños, cientos de miembros de la diáspora argelina norteamericana, organizados por una joven que asistía a la cercana Universidad de Kansas, atestaron la pequeña ciudad y la infectaron con la fiebre de la Copa del Mundo.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/algeria-returns-kindness-shown-by-kansans-who-welcomed-its-world-cup-team-with-the-trip-of-a-lifetime/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Screengrabs-retrieved-from-LAlgerie-fi-Kansas-City.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-17T16:30:41.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-warren-buffett-gives-away-5-5-",
+      "title": "Warren Buffett regala 5 dólares. 5 mil millones en regalo de Acción de Gracias, diciendo que la bondad no tiene precio",
+      "summary": "Warren Buffett donó 5 dólares. 5 mil millones en acciones de Berkshire este Día de Acción de Gracias, escribiendo que la bondad “combina” mejor que cualquier inversión.",
+      "fullStory": "Warren Buffett celebró otro Día de Acción de Gracias al convertir miles de acciones de Berkshire Hathaway en una donación caritativa valorada en unos cinco dólares. 5 mil millones.\n\nEn un breve mensaje anual de Acción de Gracias publicado con la donación, el inversionista y empresario multimillonario escribió que los rendimientos más poderosos de la vida no se miden en los precios de las acciones. \"El pasado Día de Acción de Gracias escribí que la bondad no tiene costo pero tampoco tiene precio. Un año después, solo agregaría que se agrava, y a un ritmo mejor\".\n\nConvirtió 6.150 acciones Clase A en 9.225.000 acciones Clase B que se distribuyeron a cuatro fundaciones dirigidas por la familia Buffett. El regalo continúa su plan de regalar prácticamente todas sus acciones de Berkshire Hathaway, la empresa que dirigió durante más de 60 años.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/warren-buffett-gives-away-5-5-billion-thanksgiving-gift/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-17T15:55:24.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-largest-electric-bus-fleet-in-",
+      "title": "La flota de autobuses eléctricos más grande de Nueva York prestará servicio al vecindario del Bronx con tasas elevadas de asma",
+      "summary": "La flota más grande de autobuses escolares eléctricos del estado de Nueva York está en funcionamiento, donde las tasas de asma infantil son más del doble del promedio nacional.",
+      "fullStory": "La flota más grande de autobuses escolares eléctricos del estado de Nueva York está en funcionamiento en un vecindario del sur del Bronx donde las tasas de asma infantil son más del doble del promedio nacional.\n\nLa empresa familiar de autobuses escolares GVC ha prestado servicios a escolares con necesidades especiales en el Bronx durante más de 30 años, y la empresa trabajó durante el verano para instalar 23 cargadores de doble puerto para alimentar 45 nuevos autobuses escolares eléctricos.\n\nLos autobuses evitarán colectivamente la emisión de 1 millón de libras de emisiones por año escolar. Los contaminantes de escape como el dióxido de carbono, los óxidos de nitrógeno y las partículas finas plantean serias amenazas a la salud pulmonar a largo plazo de los residentes, incluso a través de un riesgo elevado de asma, y ​​los que corren mayor riesgo son los pasajeros que esperan los autobuses y se sientan en ellos, incluidos los escolares.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/largest-electric-bus-fleet-in-new-york-to-serve-bronx-neighborhood-riddled-with-asthma/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/GVCs-Michael-Townsend-scissors-still-in-hand-applauds-during-the-ribbon-cutting-ceremony-credit-Con-Edison-released.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-17T14:00:28.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-good-news-in-history-november-",
+      "title": "Buenas noticias en la historia, 17 de noviembre",
+      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 17 de noviembre.",
+      "fullStory": "Hoy hace 56 años que se presentó al ingeniero e inventor Douglas Engelbart la patente del primer ratón de ordenador. Se convirtió en un pionero de Internet y las computadoras en el Instituto de Investigación de Stanford, encabezando la creación no solo del mouse de computadora, sino también el desarrollo del hipertexto, las computadoras en red y las primeras interfaces gráficas de usuario. Utilizando su propia estrategia para acelerar el ritmo de innovación, estos avances se produjeron décadas antes de la revolución de las computadoras personales. LEA más sobre su importante trabajo… (1975)\n\nEngelbart nunca recibió regalías por la invención del mouse, y luego dijo: \"SRI patentó el mouse, pero realmente no tenían idea de su valor\". Algunos años más tarde se supo que le habían otorgado la licencia a Apple Computer por unos 40.000 dólares.\n\nDescrito en la solicitud de patente como \"indicador de posición X-Y para un sistema de visualización\", consistía en una carcasa de madera con dos ruedas de metal y recibió el sobrenombre de \"ratón\" porque la cola salía del final.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061117/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2019/11/first-computer-mouse-SRI-International-cc-inventor-Douglas-C.-Engelbart-by-Alex-Handy-cc.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-17T08:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
       "id": "rss-mundo-farmer-finds-unknown-seeds-in-",
       "title": "Un granjero encuentra semillas desconocidas en su ático y cultiva un antiguo grano \"milagroso\"",
       "summary": "Claudio Grossi dudaba que las semillas de trigo arrugadas que encontró en su ático pudieran convertirse en algo: ¡qué equivocado estaría!",
-      "fullStory": "Desde las soleadas llanuras de Parma llega la historia de un granjero italiano que accidentalmente provocó una resurrección bíblica con implicaciones muy modernas para nuestro sistema alimentario.\n\nClaudio Grossi dudaba que las semillas de trigo arrugadas que encontró en su ático pudieran convertirse en algo.\n\nGrossi no tardó mucho en olvidar que, por curiosidad, arrojó las semillas a un montón de estiércol. Sin embargo, cuando comenzó la temporada de crecimiento, fue testigo de cómo estas semillas de décadas de antigüedad se convertían en algo completamente inesperado: algo antiguo.",
+      "fullStory": "Desde las soleadas llanuras de Parma llega la historia de un granjero italiano que accidentalmente provocó una resurrección bíblica con implicaciones muy modernas para nuestro sistema alimentario.\n\nClaudio Grossi dudaba que las semillas de trigo arrugadas que encontró en su ático pudieran convertirse en algo.\n\nGrossi arrojó las semillas a un montón de estiércol, con curiosidad por ver qué podría resultar de ello. Pronto, encontró tallos de trigo que se elevaban sobre su cosecha de trigo comercial, y en lugar de que brotara una espiga, de estos tallos brotaban siete.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Good News Network",
@@ -27,8 +123,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-30-drop-in-levels-of-forever-c",
@@ -42,120 +137,6 @@
       "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/11/River-Thames-London-Tower-Bridge-pubdomain-Pietro-De-Grandi.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-11-16T16:30:13.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-ia-tokyo-tackles-trash-troubles-w",
-      "title": "Tokio aborda los problemas de la basura con una nueva generación de contenedores de basura callejeros robóticos",
-      "summary": "Si alguna vez ha visitado Japón, es posible que también se haya sentido confundido y frustrado por lo que parece ser una ausencia total de contenedores de basura públicos.",
-      "fullStory": "Una nueva generación de contenedores de basura tiene como objetivo conservar la cultura cívica japonesa y al mismo tiempo abordar uno de los mayores dolores de cabeza del turismo en el país.\n\nLos compactadores que funcionan con energía solar y los robots que transportan la basura lejos de las zonas turísticas clave son dos de esas soluciones que ya reciben una respuesta positiva.\n\nSi alguna vez ha visitado Japón, es posible que también se haya sentido confundido y eventualmente frustrado por lo que parece ser una ausencia total de contenedores de basura públicos. Esto es por diseño.",
-      "whyGoodNews": "Muestra cómo la innovación científica y el ingenio humano colaboran para resolver desafíos ambientales y sociales concretos.",
-      "category": "ia",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/tokyo-tackles-trash-troubles-with-new-generation-of-robotic-street-waste-bins/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Smart-solar-powered-trash-compacters-credit-Forectec.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-16T14:00:03.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "INNOVACIÓN",
-        "CIENCIA"
-      ]
-    },
-    {
-      "id": "rss-mundo-climbers-lug-endangered-and-or",
-      "title": "Escaladores arrastran a una cría de foca huérfana y en peligro de extinción por un acantilado hacia un lugar seguro",
-      "summary": "Considerada una especie en peligro crítico de extinción en Grecia, los escaladores decidieron regresar por donde habían venido: la cría de foca asegurada de forma segura en una mochila.",
-      "fullStory": "Lo que comenzó como un emocionante viaje de senderismo rápidamente se convirtió en algo completamente distinto cuando unos escaladores en Grecia encontraron una cría de foca huérfana en una playa al pie de un acantilado.\n\nConsiderada una especie en peligro crítico de extinción en Grecia, los escaladores decidieron regresar por donde habían venido: la cría de foca asegurada de forma segura en una mochila.\n\nQuedó varado sin su madre en la inaccesible playa de Kalamia, cuya belleza y soledad se suponía que serían la recompensa para los escaladores por sortear los escarpados acantilados de la isla de Kythira.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/climbers-lug-endangered-and-orphaned-seal-pup-up-a-cliff-to-safety/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Greek-baby-seal-rescue-NEEDS-CAPTION.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-16T12:30:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-good-news-in-history-november-",
-      "title": "Buenas noticias en la historia, 16 de noviembre",
-      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 16 de noviembre.",
-      "fullStory": "Hoy hace 81 años, la UNESCO se formó por primera vez para promover la paz mundial uniendo a los países a través de la educación, las artes, las ciencias y la cultura. Fomentando el respeto universal por todas las naciones, la UNESCO (que significa Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura) tiene 193 estados miembros que patrocinan proyectos que mejoran la alfabetización, brindan capacitación y educación técnica, promueven la ciencia y preservan la historia regional y cultural. LEA el importante hito que la UNESCO acaba de completar en Irak… (1945)\n\nLa actividad más grande y conocida de la UNESCO es la designación de monumentos que tienen importancia cultural o natural. Estos sitios declarados Patrimonio de la Humanidad por la UNESCO son obras maestras del genio creativo humano y hitos de la naturaleza. Designados como \"patrimonio\", con un valor excepcional para la historia de la humanidad, hasta ahora se han protegido 1.223 sitios en 168 países. Italia es el país con sitios declarados Patrimonio de la Humanidad por la UNESCO (60), seguido de cerca por China con 59, y Alemania a cierta distancia con 54. Estados Unidos tiene 26, muchos de los cuales son naturales.\n\nLa UNESCO también ha lanzado movimientos globales, como Educación para Todos, para seguir avanzando en sus objetivos fundamentales de garantizar que ningún niño quede sin educación. La UNESCO también desempeña un papel importante en la protección de los monumentos y el patrimonio de la destrucción, tanto natural como causada por el hombre. En el momento de escribir este artículo, la campaña 'Reviviendo el espíritu de Mosul' de la UNESCO acaba de completar una restauración histórica en la ciudad del norte de Irak que alguna vez fue la capital de ISIS.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061116/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/11/Machu-Picchu-in-Peru-World-Heritage-Site-cc-Pedro-Szekely.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-16T08:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-they-became-pen-pals-as-teens-",
-      "title": "Se hicieron amigos por correspondencia cuando eran adolescentes y ahora, 32 años después, están felizmente casados",
-      "summary": "Los adolescentes David y Jodie se conocieron en la isla griega de Kos; aunque perdieron el contacto después de años de cartas de amigos por correspondencia, se reunieron y pronto se casaron.",
-      "fullStory": "En 1994, David estuvo de vacaciones en la isla griega de Kos con su familia durante una semana memorable en la que el adolescente inglés conoció a un nuevo amigo por correspondencia.\n\nHabía 12 niños, todos de diferentes familias, que se convirtieron en un grupo amigable. Una de ellas era Jodie, que en ese momento tenía 15 años.\n\n\"Ya sabes cómo los niños pasan el rato durante las vacaciones, estábamos todos alrededor de la mesa de billar y decidimos intercambiar direcciones y ser amigos por correspondencia\".",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/they-became-pen-pals-as-teens-now-32-years-later-theyre-happily-married/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/David-McArdle-married-pen-pal-Jodie-SWNS.jpeg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-15T22:29:05.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-world-first-bone-marrow-transp",
-      "title": "El primer trasplante de médula ósea del mundo trata con éxito enfermedades no malignas",
-      "summary": "Un sistema de atención sanitaria católico de Estados Unidos ha completado con éxito el primer trasplante de médula ósea del mundo para tratar una enfermedad no maligna.",
-      "fullStory": "Un sistema de atención médica católico en el Medio Oeste de Estados Unidos ha completado con éxito el primer trasplante de médula ósea del mundo para tratar una enfermedad no maligna.\n\nLos médicos de Franciscan Health utilizaron médula ósea recuperada de un donante de órganos fallecido para tratar a una mujer de 40 años con anemia aplásica\n\nLa paciente, con una historia de la enfermedad de una década de duración, recibió el trasplante de células madre de médula ósea el 18 de abril, después de que su enfermedad progresara de estable a grave, a pesar de múltiples líneas de terapia.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/world-first-bone-marrow-transplant-successfully-treats-non-malignant-disease/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Patient-liver-tissue-specimen-in-lab-by-CBC-wLYNbwhcq3U-unsplash.jpeg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-15T20:32:08.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-san-francisco-gets-its-largest",
-      "title": "San Francisco recibe la mayor donación de su historia: 100 millones de dólares para parques públicos del fundador de Airbnb",
-      "summary": "El director ejecutivo de Airbnb, Brian Chesky, anunció una donación de 100 millones de dólares a los parques de San Francisco, la donación de un solo donante más grande jamás realizada en la historia de la ciudad.",
-      "fullStory": "El director ejecutivo de Airbnb, Brian Chesky, anunció una innovadora donación de 100 millones de dólares a los parques de San Francisco, la donación más grande jamás realizada por un solo donante a la ciudad en su historia.\n\nEl alcalde Daniel Lurie se unió a Chesky para el anuncio la semana pasada en el Golden Gate Park.\n\nChesky fundó Airbnb en San Francisco hace 18 años y la empresa todavía tiene su sede allí. Para él, la donación tiene como objetivo “retribuir a la ciudad que hizo posible Airbnb”.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/san-francisco-gets-100m-gift-for-public-parks-from-airbnb-ceo/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2015/05/San-Francisco-davidyuweb-CC.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-15T15:36:21.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
