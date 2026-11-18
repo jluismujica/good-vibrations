@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-11-17T19:42:36.956Z",
-  "totalCount": 7,
+  "lastUpdated": "2026-11-18T04:06:11.548Z",
+  "totalCount": 8,
   "categories": {
     "musica": 0,
     "ia": 0,
     "psicologia": 0,
     "liderazgo": 0,
     "chile": 0,
-    "mundo": 7
+    "mundo": 8
   },
   "news": [
     {
@@ -80,6 +80,25 @@
       "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/GVCs-Michael-Townsend-scissors-still-in-hand-applauds-during-the-ribbon-cutting-ceremony-credit-Con-Edison-released.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-11-17T14:00:28.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-a-waterfall-of-fog-and-lots-of",
+      "title": "Una cascada de niebla y mucha iluminación: estas imágenes ganaron los premios de fotografía meteorológica del Reino Unido",
+      "summary": "Desde una cascada de niebla hasta tormentas todopoderosas y amaneceres, se han anunciado los ganadores del premio Fotógrafo meteorológico del año 2026.",
+      "fullStory": "Desde una cascada de niebla hasta tormentas todopoderosas y amaneceres, se han anunciado los ganadores del concurso Fotógrafo meteorológico del año 2026.\n\nEl concurso organizado por la Real Sociedad Meteorológica del Reino Unido atrajo a más de 5.500 participantes de todo el mundo, y los ganadores del jurado fueron seleccionados por un panel internacional de expertos en tiempo, clima y fotografía.\n\nAdemás, el público votó por su favorito a través de la web de la Real Sociedad Meteorológica.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/a-waterfall-of-fog-and-almighty-storms-these-images-won-the-uks-weather-photography-awards/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/AF333-Mares-de-niebla-Francisco-Bailon-Rodriguez-Low-res-e1794904256445.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-17T12:30:18.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
