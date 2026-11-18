@@ -1,15 +1,92 @@
 {
-  "lastUpdated": "2026-11-18T04:06:11.548Z",
+  "lastUpdated": "2026-11-18T19:18:33.109Z",
   "totalCount": 8,
   "categories": {
     "musica": 0,
     "ia": 0,
-    "psicologia": 0,
+    "psicologia": 1,
     "liderazgo": 0,
     "chile": 0,
-    "mundo": 8
+    "mundo": 7
   },
   "news": [
+    {
+      "id": "rss-mundo-siblings-build-430-step-sky-la",
+      "title": "Hermanos construyen una 'escalera aérea' de 430 escalones para su madre que se niega a vivir en la ciudad",
+      "summary": "Su hija recuerda que cuando era joven su madre les tomaba de la mano por el antiguo sendero de la montaña y dijo que ahora era \"su turno\" de tomar la de ella.",
+      "fullStory": "Los hijos de una anciana madre china han tocado los corazones de millones de personas al construir minuciosamente a mano una nueva escalera hasta la ladera de una montaña para ayudarla a llegar a su casa más fácilmente.\n\nSu hija menor dijo que recuerda a su madre cogida de la mano por el antiguo sendero de la montaña en su infancia, y que ahora era \"su turno\" de coger la de ella.\n\nNacidos y criados en la cima de una montaña en la provincia de Zhejiang, en el este de China, los niños trasladaron a su madre a la ciudad después de la muerte de su padre hace décadas, donde ella alternó estancias entre los hogares de su hijo mayor y del segundo mayor.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/siblings-build-430-step-sky-ladder-for-their-mother-who-refuses-to-live-in-the-city/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/86-year-old-mother-Chen-family-photo.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-18T16:30:42.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo-this-blue-whale-population-gre",
+      "title": "Esta población de ballenas azules creció un 1.000% desde el fin de la caza de ballenas en la Antártida",
+      "summary": "Al pasar de sólo 418 ballenas a 4.018, la magnífica recuperación ha promediado un 4,5% compuesto por año.",
+      "fullStory": "El número de ballenas azules antárticas ha aumentado un 1.000% desde 1973, cuando finalmente se colgaron los arpones para siempre.\n\nAl pasar de sólo 418 ballenas a 4.018, la magnífica recuperación ha promediado el 4,5% anual.\n\nAunque la Comisión Ballenera Internacional prohibió la matanza de ballenas azules antárticas en 1964, la caza ilegal de ballenas continuó hasta 1973. Estos animales longevos, los más grandes que jamás hayan existido, se reproducen muy lentamente, con una sola cría cada tres años aproximadamente.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/this-blue-whale-population-grew-1000-since-the-end-of-whaling/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/06/blue-whale-NOAA-pubdomain.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-18T14:00:45.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-psicologia-scientists-cure-deadly-brain-t",
+      "title": "Los científicos 'curan' tumores cerebrales mortales en cada ratón probado con una nueva terapia contra el cáncer",
+      "summary": "El objetivo de los experimentos fue el glioma difuso de la línea media, descrito por un científico involucrado en el proyecto como un diagnóstico \"desgarrador\".",
+      "fullStory": "En experimentos con ratones, los científicos eliminaron con éxito un cáncer cerebral infantil agresivo y al mismo tiempo proporcionaron una protección duradera.\n\nLos científicos de la Universidad de California en San Francisco utilizaron un nuevo tipo de terapia de células inmunitarias que se activa sólo después de ingresar al cerebro, lo que le permite atacar el cáncer mientras permanece inactiva en otras partes del cuerpo.\n\nCuando los investigadores volvieron a introducir células cancerosas varias semanas después, las células inmunitarias continuaron luchando e impidieron que se desarrollaran nuevos tumores.",
+      "whyGoodNews": "Aporta evidencia valiosa para cuidar el bienestar emocional, reducir el estrés cotidiano y construir hábitos de vida más saludables.",
+      "category": "psicologia",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/scientists-cure-deadly-brain-tumors-in-every-mouse-tested-with-new-cancer-therapy/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Laboratory-mouse-credit-NIH-pub-domain-e1794992945692.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-18T12:30:20.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PSICOLOGÍA",
+        "SALUD MENTAL"
+      ]
+    },
+    {
+      "id": "rss-mundo-good-news-in-history-november-",
+      "title": "Buenas noticias en la historia, 18 de noviembre",
+      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 18 de noviembre.",
+      "fullStory": "Hoy hace 75 años que se emitió por primera vez la serie pionera de revistas de noticias See It Now. Funcionó durante siete años en CBS y fue creado por el icónico periodista Edward R. Murrow, junto con el presidente de CBS News, Fred Friendly. Murrow presentó el programa, que ganó 4 premios Emmy y también un premio Peabody, que honra las historias más poderosas de la televisión y la radio. LEER más… (1951)\n\nMurrow produjo varios episodios de See It Now que trataban de la histeria comunista de la caza de brujas en el Senado de los Estados Unidos encabezada por el deshonrado republicano de Wisconsin Joseph McCarthy, sacando a la luz su intimidación y persecución de artistas, escritores y oponentes políticos. Uno de los episodios más notables tuvo como resultado la absolución de un oficial militar estadounidense, Milo Radulovich, tras haber sido acusado de apoyar al comunismo.\n\nNueve meses después, y tras el suicidio del senador demócrata Lester Hunt, después de que McCarthy amenazara con difamar a su hijo si se presentaba a la reelección, el Senado votó a favor de censurar a McCarthy por 67 votos a favor y 22 en contra, convirtiéndolo en uno de los pocos senadores disciplinados de esta manera.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061118/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/11/Edward-R-Murrow-and-Fred-Friendly.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-18T08:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
     {
       "id": "rss-mundo-west-coast-s-first-ever-sea-tu",
       "title": "Las primeras crías de tortugas marinas de la costa oeste liberadas en el Pacífico (MIRAR)",
@@ -27,8 +104,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-algeria-returns-kindness-shown",
@@ -80,82 +156,6 @@
       "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/GVCs-Michael-Townsend-scissors-still-in-hand-applauds-during-the-ribbon-cutting-ceremony-credit-Con-Edison-released.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-11-17T14:00:28.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-a-waterfall-of-fog-and-lots-of",
-      "title": "Una cascada de niebla y mucha iluminación: estas imágenes ganaron los premios de fotografía meteorológica del Reino Unido",
-      "summary": "Desde una cascada de niebla hasta tormentas todopoderosas y amaneceres, se han anunciado los ganadores del premio Fotógrafo meteorológico del año 2026.",
-      "fullStory": "Desde una cascada de niebla hasta tormentas todopoderosas y amaneceres, se han anunciado los ganadores del concurso Fotógrafo meteorológico del año 2026.\n\nEl concurso organizado por la Real Sociedad Meteorológica del Reino Unido atrajo a más de 5.500 participantes de todo el mundo, y los ganadores del jurado fueron seleccionados por un panel internacional de expertos en tiempo, clima y fotografía.\n\nAdemás, el público votó por su favorito a través de la web de la Real Sociedad Meteorológica.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/a-waterfall-of-fog-and-almighty-storms-these-images-won-the-uks-weather-photography-awards/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/AF333-Mares-de-niebla-Francisco-Bailon-Rodriguez-Low-res-e1794904256445.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-17T12:30:18.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-good-news-in-history-november-",
-      "title": "Buenas noticias en la historia, 17 de noviembre",
-      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 17 de noviembre.",
-      "fullStory": "Hoy hace 56 años que se presentó al ingeniero e inventor Douglas Engelbart la patente del primer ratón de ordenador. Se convirtió en un pionero de Internet y las computadoras en el Instituto de Investigación de Stanford, encabezando la creación no solo del mouse de computadora, sino también el desarrollo del hipertexto, las computadoras en red y las primeras interfaces gráficas de usuario. Utilizando su propia estrategia para acelerar el ritmo de innovación, estos avances se produjeron décadas antes de la revolución de las computadoras personales. LEA más sobre su importante trabajo… (1975)\n\nEngelbart nunca recibió regalías por la invención del mouse, y luego dijo: \"SRI patentó el mouse, pero realmente no tenían idea de su valor\". Algunos años más tarde se supo que le habían otorgado la licencia a Apple Computer por unos 40.000 dólares.\n\nDescrito en la solicitud de patente como \"indicador de posición X-Y para un sistema de visualización\", consistía en una carcasa de madera con dos ruedas de metal y recibió el sobrenombre de \"ratón\" porque la cola salía del final.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061117/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2019/11/first-computer-mouse-SRI-International-cc-inventor-Douglas-C.-Engelbart-by-Alex-Handy-cc.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-17T08:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-farmer-finds-unknown-seeds-in-",
-      "title": "Un granjero encuentra semillas desconocidas en su ático y cultiva un antiguo grano \"milagroso\"",
-      "summary": "Claudio Grossi dudaba que las semillas de trigo arrugadas que encontró en su ático pudieran convertirse en algo: ¡qué equivocado estaría!",
-      "fullStory": "Desde las soleadas llanuras de Parma llega la historia de un granjero italiano que accidentalmente provocó una resurrección bíblica con implicaciones muy modernas para nuestro sistema alimentario.\n\nClaudio Grossi dudaba que las semillas de trigo arrugadas que encontró en su ático pudieran convertirse en algo.\n\nGrossi arrojó las semillas a un montón de estiércol, con curiosidad por ver qué podría resultar de ello. Pronto, encontró tallos de trigo que se elevaban sobre su cosecha de trigo comercial, y en lugar de que brotara una espiga, de estos tallos brotaban siete.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/farmer-finds-unknown-seeds-in-his-attic-and-grows-an-ancient-miracle-grain/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/A-ripe-ear-of-Triticum-turgidum-with-its-characteristic-varied-coloration-credit-CC-3.0.-BY-SA-Sten-Porse.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-16T19:30:28.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-30-drop-in-levels-of-forever-c",
-      "title": "Caída del 30% en los niveles de Forever Chemicals en los ríos de Inglaterra, 49% en el pescado: \"Es brillante verlo\"",
-      "summary": "Fue \"brillante ver\" que las concentraciones de estos llamados \"químicos eternos\" cayeran un 30% en el agua y un 49% en los peces, dijo un investigador.",
-      "fullStory": "Dos compuestos químicos destacados prohibidos por el derecho internacional por motivos de salud se encuentran en concentraciones sustancialmente más bajas en los ríos de Inglaterra.\n\nFue \"brillante ver\" que las concentraciones de estos llamados \"químicos eternos\" cayeran un 30% en el agua y un 49% en los peces, dijo un investigador a la BBC, afirmando que era un marcador de \"hasta dónde hemos llegado\".\n\nDurante muchas décadas, se han utilizado sustancias perfluoroalquiladas y polifluoroalquiladas, o PFAS, para crear recubrimientos resistentes al fuego, al aceite, a las manchas y al agua. Se utilizan en productos como ropa impermeable, muebles resistentes a las manchas, envases de alimentos, adhesivos, cosméticos, espumas en aerosol contra incendios, equipos médicos y superficies de cocina antiadherentes.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/30-drop-in-levels-of-forever-chemicals-in-englands-rivers-49-in-fish-brilliant-to-see/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/11/River-Thames-London-Tower-Bridge-pubdomain-Pietro-De-Grandi.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-16T16:30:13.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
