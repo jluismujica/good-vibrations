@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18T19:18:33.109Z",
+  "lastUpdated": "2026-11-19T04:02:43.022Z",
   "totalCount": 8,
   "categories": {
     "musica": 0,
@@ -10,6 +10,26 @@
     "mundo": 7
   },
   "news": [
+    {
+      "id": "rss-mundo-students-fighting-to-save-poac",
+      "title": "Estudiantes que luchan por salvar especies de plantas cazadas furtivamente que solo existen cerca de su campus",
+      "summary": "\"Lo mínimo es evitar la extinción de una especie y, en el mejor de los casos, podríamos incluso mejorar su estado actual\", dijo Whittall a CBS.",
+      "fullStory": "Los científicos de la Universidad de Santa Clara no escatiman esfuerzos para salvar una flor silvestre única y tan única como su condado.\n\nComúnmente conocida como \"viva para siempre\" del Valle de Santa Clara, esta suculenta en flor es una fuente de alimento vital para los polinizadores, pero también una de las plantas silvestres más cazadas furtivamente en el estado.\n\nNo muy lejos de Silicon Valley, la dudleya del Valle de Santa Clara (Dudleya setchellii) solo se encuentra en la región de Coyote Valley del condado.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/students-fighting-to-save-poached-plant-species-that-only-exists-near-their-campus/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-Santa-Clara-Valley-Habitat-Authority.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-18T19:30:50.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
     {
       "id": "rss-mundo-siblings-build-430-step-sky-la",
       "title": "Hermanos construyen una 'escalera aérea' de 430 escalones para su madre que se niega a vivir en la ciudad",
@@ -27,14 +47,13 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-this-blue-whale-population-gre",
       "title": "Esta población de ballenas azules creció un 1.000% desde el fin de la caza de ballenas en la Antártida",
       "summary": "Al pasar de sólo 418 ballenas a 4.018, la magnífica recuperación ha promediado un 4,5% compuesto por año.",
-      "fullStory": "El número de ballenas azules antárticas ha aumentado un 1.000% desde 1973, cuando finalmente se colgaron los arpones para siempre.\n\nAl pasar de sólo 418 ballenas a 4.018, la magnífica recuperación ha promediado el 4,5% anual.\n\nAunque la Comisión Ballenera Internacional prohibió la matanza de ballenas azules antárticas en 1964, la caza ilegal de ballenas continuó hasta 1973. Estos animales longevos, los más grandes que jamás hayan existido, se reproducen muy lentamente, con una sola cría cada tres años aproximadamente.",
+      "fullStory": "El número de ballenas azules antárticas ha aumentado un 1.000% desde 1973, cuando finalmente se colgaron los arpones para siempre.\n\nAl pasar de sólo 418 ballenas a 4.018, la magnífica recuperación ha promediado el 4,5% anual.\n\nAunque la Comisión Ballenera Internacional prohibió la matanza de ballenas azules antárticas en 1964, la caza ilegal de ballenas continuó hasta 1973. Estos animales longevos (los más grandes que jamás hayan existido) se reproducen muy lentamente, con una sola cría cada tres años aproximadamente.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Good News Network",
@@ -72,7 +91,7 @@
       "id": "rss-mundo-good-news-in-history-november-",
       "title": "Buenas noticias en la historia, 18 de noviembre",
       "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 18 de noviembre.",
-      "fullStory": "Hoy hace 75 años que se emitió por primera vez la serie pionera de revistas de noticias See It Now. Funcionó durante siete años en CBS y fue creado por el icónico periodista Edward R. Murrow, junto con el presidente de CBS News, Fred Friendly. Murrow presentó el programa, que ganó 4 premios Emmy y también un premio Peabody, que honra las historias más poderosas de la televisión y la radio. LEER más… (1951)\n\nMurrow produjo varios episodios de See It Now que trataban de la histeria comunista de la caza de brujas en el Senado de los Estados Unidos encabezada por el deshonrado republicano de Wisconsin Joseph McCarthy, sacando a la luz su intimidación y persecución de artistas, escritores y oponentes políticos. Uno de los episodios más notables tuvo como resultado la absolución de un oficial militar estadounidense, Milo Radulovich, tras haber sido acusado de apoyar al comunismo.\n\nNueve meses después, y tras el suicidio del senador demócrata Lester Hunt, después de que McCarthy amenazara con difamar a su hijo si se presentaba a la reelección, el Senado votó a favor de censurar a McCarthy por 67 votos a favor y 22 en contra, convirtiéndolo en uno de los pocos senadores disciplinados de esta manera.",
+      "fullStory": "Hoy hace 75 años que se emitió por primera vez la serie pionera de revistas de noticias See It Now. Funcionó durante siete años en CBS y fue creado por el icónico periodista Edward R. Murrow, junto con el presidente de CBS News, Fred Friendly. Murrow presentó el programa, que ganó 4 premios Emmy y también un premio Peabody, que honra las historias más poderosas de la televisión y la radio. LEER más… (1951)\n\nMurrow produjo varios episodios de See It Now que trataban de la histeria comunista de la caza de brujas en el Senado de los Estados Unidos encabezada por el deshonrado republicano de Wisconsin Joseph McCarthy, sacando a la luz su intimidación y persecución de artistas, escritores y oponentes políticos. Uno de los episodios más notables tuvo como resultado la absolución de un oficial militar estadounidense, Milo Radulovich, tras haber sido acusado de apoyar al comunismo.\n\nNueve meses después, y tras el suicidio del senador demócrata Lester Hunt, después de que McCarthy amenazara con difamar a su hijo si se presentaba a la reelección, el Senado votó a favor de censurar a McCarthy por 67 votos a favor y 22 en contra, lo que lo convirtió en uno de los pocos senadores disciplinados de esta manera.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Good News Network",
@@ -137,25 +156,6 @@
       "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-11-17T15:55:24.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-largest-electric-bus-fleet-in-",
-      "title": "La flota de autobuses eléctricos más grande de Nueva York prestará servicio al vecindario del Bronx con tasas elevadas de asma",
-      "summary": "La flota más grande de autobuses escolares eléctricos del estado de Nueva York está en funcionamiento, donde las tasas de asma infantil son más del doble del promedio nacional.",
-      "fullStory": "La flota más grande de autobuses escolares eléctricos del estado de Nueva York está en funcionamiento en un vecindario del sur del Bronx donde las tasas de asma infantil son más del doble del promedio nacional.\n\nLa empresa familiar de autobuses escolares GVC ha prestado servicios a escolares con necesidades especiales en el Bronx durante más de 30 años, y la empresa trabajó durante el verano para instalar 23 cargadores de doble puerto para alimentar 45 nuevos autobuses escolares eléctricos.\n\nLos autobuses evitarán colectivamente la emisión de 1 millón de libras de emisiones por año escolar. Los contaminantes de escape como el dióxido de carbono, los óxidos de nitrógeno y las partículas finas plantean serias amenazas a la salud pulmonar a largo plazo de los residentes, incluso a través de un riesgo elevado de asma, y ​​los que corren mayor riesgo son los pasajeros que esperan los autobuses y se sientan en ellos, incluidos los escolares.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/largest-electric-bus-fleet-in-new-york-to-serve-bronx-neighborhood-riddled-with-asthma/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/GVCs-Michael-Townsend-scissors-still-in-hand-applauds-during-the-ribbon-cutting-ceremony-credit-Con-Edison-released.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-17T14:00:28.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
