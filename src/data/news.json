@@ -1,15 +1,92 @@
 {
-  "lastUpdated": "2026-11-19T04:02:43.022Z",
+  "lastUpdated": "2026-11-19T19:26:45.055Z",
   "totalCount": 8,
   "categories": {
     "musica": 0,
-    "ia": 0,
+    "ia": 1,
     "psicologia": 1,
-    "liderazgo": 0,
+    "liderazgo": 1,
     "chile": 0,
-    "mundo": 7
+    "mundo": 5
   },
   "news": [
+    {
+      "id": "rss-mundo-she-checked-on-her-loud-upstai",
+      "title": "Preguntó a su vecino 'ruidoso' del piso de arriba, inspirando a extraños a recaudar más de $100,000",
+      "summary": "Lo que comenzó como un vecino ruidoso se convirtió en una amistad que cambió la vida y se recaudaron más de $100,000 para una persona de 87 años con Parkinson.",
+      "fullStory": "Vecinos y desconocidos se unieron en apoyo de una mujer de 87 años con enfermedad de Parkinson llamada Carole, recaudaron más de $109,000 y demostraron que estaba mucho menos sola de lo que pensaba. Todo lo que hizo falta fue que una persona se tomara el tiempo para controlar a la persona que vivía arriba.\n\nCarole había vivido sola durante años, sin familia cerca, y luchaba por su vida diaria sin mucha ayuda, si es que tenía alguna. Además de los temblores y los problemas de movilidad causados ​​por su enfermedad de Parkinson, Carole vivía muy cerca del umbral de pobreza y sobrevivía con los beneficios del Seguro Social, SNAP y Medicaid en un apartamento en el piso superior de Culver City, Los Ángeles.\n\nFue entonces cuando Carole consiguió un nuevo vecino de abajo. Heidi Widmer llegó a Culver City procedente de Buffalo en busca de un nuevo comienzo. Al principio se sintió decepcionada y frustrada al descubrir que tenía un vecino ruidoso en el piso de arriba; un sonido sordo que, según ella, sonaba como si alguien estuviera jugando a los bolos durante semanas. \"Me sentía miserable porque apenas dormía\", recuerda Widmer.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/loud-neighbor-parkinsons-gofundme/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/IMG_8105-2.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-19T16:26:23.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-ia-empire-state-building-lit-up-w",
+      "title": "El Empire State Building se iluminó con marcas doradas como hito histórico de la Voyager 1 de la NASA esta semana",
+      "summary": "La NASA celebrará el hito hoy por el hecho de que tardará un día en recibir la señal enviada el miércoles.",
+      "fullStory": "Esta semana, el Empire State Building se iluminó en oro para celebrar el paso de la nave espacial Voyager 1 de la NASA a un día luz de la Tierra.\n\nAhora el objeto creado por el hombre más alejado de la Tierra tarda 24 horas en enviar una señal a la sede de la NASA.\n\n\"El color dorado es emblemático del disco fonográfico de cobre chapado en oro que vuela en la Voyager\", escribió la NASA el martes. \"El disco contiene sonidos e imágenes seleccionados para retratar la diversidad de vida y cultura en la Tierra\".",
+      "whyGoodNews": "Muestra cómo la innovación científica y el ingenio humano colaboran para resolver desafíos ambientales y sociales concretos.",
+      "category": "ia",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/empire-state-building-lit-up-with-gold-to-celebrate-nasa-spacecraft-passing-one-light-day-from-earth/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/NYC-at-night-Empire-State-Building-lit-up-in-gold-SWNS.jpeg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-19T14:00:49.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "INNOVACIÓN",
+        "CIENCIA"
+      ]
+    },
+    {
+      "id": "rss-mundo-over-100-cave-bear-skeletons-f",
+      "title": "Más de 100 esqueletos de osos cavernarios encontrados en un descubrimiento \"sensacional\" realizado por Alpine Guide",
+      "summary": "Mantenido en secreto para evitar saqueos, el increíble conjunto de miles de huesos permanecerá escondido detrás de rejas de hierro hasta el deshielo de primavera.",
+      "fullStory": "Las autoridades locales han revelado el \"sensacional\" descubrimiento de una cueva que contiene los esqueletos de más de 100 osos de las cavernas extintos.\n\nMantenido en secreto para evitar saqueos, el increíble conjunto de miles de huesos permanecerá escondido detrás de rejas de hierro hasta el deshielo de primavera, cuando un equipo interdisciplinario de científicos comenzará a estudiarlos.\n\nDescubierta en julio por un guía de montaña en la provincia autónoma de Tirol del Sur, en el norte de Italia, la cueva se encuentra a unos 9.100 pies sobre el nivel del mar en la ladera de un acantilado casi escarpado.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/over-100-cave-bear-skeletons-found-in-sensational-discovery-by-alpine-guide/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-USP-Ufficio-Beni-archeologici-released-e1795074752326.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-19T12:30:10.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-liderazgo-good-news-in-history-november-",
+      "title": "Buenas noticias en la historia, 19 de noviembre",
+      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 19 de noviembre.",
+      "fullStory": "41 years ago today, US President Ronald Reagan and Soviet Union leader Mikhail Gorbachev met for the first time. La Cumbre de Ginebra en Suiza fue el primer paso hacia el deshielo de las tensiones de la Guerra Fría, cuando Reagan y Gorbachev hablaron sobre todos los temas y conocieron las posiciones de cada uno. La nueva relación llevó a la firma, dos años después, del Tratado INF para eliminar las armas nucleares de alcance intermedio. LEER más sobre los frutos del encuentro… (1985)\n\nLa cumbre también concluyó con el acuerdo de Seguridad Aérea del Pacífico Norte que tenía como objetivo evitar que se repita el derribo soviético del vuelo 007 de Korean Airlines en septiembre de 1983. Siguió una ceremonia de firma, con un acuerdo sobre la apertura de consulados en Kiev y Nueva York, así como acuerdos para renovar el diálogo regular entre Estados Unidos y la Unión Soviética sobre futuras cumbres. También se firmaron 41 acuerdos de intercambio cultural, incluido el reinicio de intercambios de grupos teatrales y artísticos y de importantes exposiciones de arte.\n\nTanto Reagan como Gorbachev salieron de Ginebra sintiendo que habían \"comenzado algo\", y Reagan dijo que las reuniones en Ginebra \"expresaron la voluntad y el deseo de ambas partes de encontrar respuestas que beneficiarían no sólo a todos los pueblos del mundo, sino también a los que aún no han nacido\". Gorbachov estuvo de acuerdo.",
+      "whyGoodNews": "Demuestra que la confianza, la empatía y la comunicación abierta son las herramientas más eficaces para inspirar y liderar equipos humanos.",
+      "category": "liderazgo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061119/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2014/11/Reagan-and-Gorbachev-relax-at-geneva-summit-Reagan-library.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-19T08:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "LIDERAZGO",
+        "EQUIPOS"
+      ]
+    },
     {
       "id": "rss-mundo-students-fighting-to-save-poac",
       "title": "Estudiantes que luchan por salvar especies de plantas cazadas furtivamente que solo existen cerca de su campus",
@@ -27,8 +104,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-siblings-build-430-step-sky-la",
@@ -85,82 +161,6 @@
       "tags": [
         "PSICOLOGÍA",
         "SALUD MENTAL"
-      ]
-    },
-    {
-      "id": "rss-mundo-good-news-in-history-november-",
-      "title": "Buenas noticias en la historia, 18 de noviembre",
-      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 18 de noviembre.",
-      "fullStory": "Hoy hace 75 años que se emitió por primera vez la serie pionera de revistas de noticias See It Now. Funcionó durante siete años en CBS y fue creado por el icónico periodista Edward R. Murrow, junto con el presidente de CBS News, Fred Friendly. Murrow presentó el programa, que ganó 4 premios Emmy y también un premio Peabody, que honra las historias más poderosas de la televisión y la radio. LEER más… (1951)\n\nMurrow produjo varios episodios de See It Now que trataban de la histeria comunista de la caza de brujas en el Senado de los Estados Unidos encabezada por el deshonrado republicano de Wisconsin Joseph McCarthy, sacando a la luz su intimidación y persecución de artistas, escritores y oponentes políticos. Uno de los episodios más notables tuvo como resultado la absolución de un oficial militar estadounidense, Milo Radulovich, tras haber sido acusado de apoyar al comunismo.\n\nNueve meses después, y tras el suicidio del senador demócrata Lester Hunt, después de que McCarthy amenazara con difamar a su hijo si se presentaba a la reelección, el Senado votó a favor de censurar a McCarthy por 67 votos a favor y 22 en contra, lo que lo convirtió en uno de los pocos senadores disciplinados de esta manera.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061118/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/11/Edward-R-Murrow-and-Fred-Friendly.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-18T08:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-west-coast-s-first-ever-sea-tu",
-      "title": "Las primeras crías de tortugas marinas de la costa oeste liberadas en el Pacífico (MIRAR)",
-      "summary": "Las crías de tortuga golfina salvadas de una tormenta que se avecinaba en California fueron liberadas en su hábitat natural durante el fin de semana.",
-      "fullStory": "Las crías de tortuga golfina salvadas de una tormenta que se avecinaba en California fueron liberadas en su hábitat natural durante el fin de semana.\n\nEran finales de septiembre cuando una tortuga hembra salió del mar, cavó un nido en la playa, depositó su nidada y volvió a deslizarse al agua dejando nada más que un pequeño rastro en la arena y un par de socorristas mudos.\n\nEste primer caso de una tortuga anidando en la costa del Pacífico de Estados Unidos se repitió un día después en Huntington Beach en lo que fueron los primeros nidos de tortugas marinas registrados en la costa oeste.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/west-coasts-first-ever-sea-turtle-hatchlings-released-into-the-pacific-look/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Turtle-hatchlings-rush-for-the-sea-on-Seal-Beach-credit-Robin-Riggs-Aquarium-of-the-Pacific-©.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-17T19:30:43.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-algeria-returns-kindness-shown",
-      "title": "Argelia devuelve la amabilidad mostrada por los habitantes de Kansas que dieron la bienvenida a su equipo mundialista con el viaje de su vida",
-      "summary": "La historia es un recordatorio de muchas cosas: del poder que tiene esa pequeña bolita blanca y negra para unir a personas de todos los colores y credos.",
-      "fullStory": "A principios de noviembre, varias familias exhaustas de Kansas aterrizaron en Argelia a las 4:30 a.m. metro. y se sorprendieron por lo que les esperaba.\n\nAllí estaban decenas de representantes del gobierno y del sector hotelero del país, con los brazos extendidos con flores, felices de verlas.\n\nMientras docenas de equipos de fútbol internacionales llegaban a Estados Unidos para la Copa Mundial de la FIFA 2026, el equipo de Argelia eligió Lawrence, Kansas: pop. 94. 934. Para sorpresa de los lugareños, cientos de miembros de la diáspora argelina norteamericana, organizados por una joven que asistía a la cercana Universidad de Kansas, atestaron la pequeña ciudad y la infectaron con la fiebre de la Copa del Mundo.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/algeria-returns-kindness-shown-by-kansans-who-welcomed-its-world-cup-team-with-the-trip-of-a-lifetime/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Screengrabs-retrieved-from-LAlgerie-fi-Kansas-City.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-17T16:30:41.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-warren-buffett-gives-away-5-5-",
-      "title": "Warren Buffett regala 5 dólares. 5 mil millones en regalo de Acción de Gracias, diciendo que la bondad no tiene precio",
-      "summary": "Warren Buffett donó 5 dólares. 5 mil millones en acciones de Berkshire este Día de Acción de Gracias, escribiendo que la bondad “combina” mejor que cualquier inversión.",
-      "fullStory": "Warren Buffett celebró otro Día de Acción de Gracias al convertir miles de acciones de Berkshire Hathaway en una donación caritativa valorada en unos cinco dólares. 5 mil millones.\n\nEn un breve mensaje anual de Acción de Gracias publicado con la donación, el inversionista y empresario multimillonario escribió que los rendimientos más poderosos de la vida no se miden en los precios de las acciones. \"El pasado Día de Acción de Gracias escribí que la bondad no tiene costo pero tampoco tiene precio. Un año después, solo agregaría que se agrava, y a un ritmo mejor\".\n\nConvirtió 6.150 acciones Clase A en 9.225.000 acciones Clase B que se distribuyeron a cuatro fundaciones dirigidas por la familia Buffett. El regalo continúa su plan de regalar prácticamente todas sus acciones de Berkshire Hathaway, la empresa que dirigió durante más de 60 años.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/warren-buffett-gives-away-5-5-billion-thanksgiving-gift/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-17T15:55:24.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
       ]
     }
   ]
