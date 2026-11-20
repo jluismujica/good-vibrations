@@ -1,15 +1,92 @@
 {
-  "lastUpdated": "2026-11-20T03:55:23.684Z",
+  "lastUpdated": "2026-11-20T19:01:20.570Z",
   "totalCount": 8,
   "categories": {
     "musica": 0,
     "ia": 1,
-    "psicologia": 1,
+    "psicologia": 0,
     "liderazgo": 1,
     "chile": 0,
-    "mundo": 5
+    "mundo": 6
   },
   "news": [
+    {
+      "id": "rss-mundo-community-steps-up-to-replace-",
+      "title": "La comunidad da un paso al frente para reemplazar el equipo de jardinería robado a propietarios de empresas adolescentes",
+      "summary": "Cuando el propietario de un negocio de Kansas sufrió el robo de unos 20.000 dólares en maquinaria de jardinería, su comunidad recaudó dinero para reemplazarla toda. Sonny Gallardo fundó una empresa de paisajismo cuando apenas estaba en sexto grado. El adolescente de Prairie Village iba de puerta en puerta rastrillando hojas después de la escuela y los útiles los dejaba […]",
+      "fullStory": "Cuando el propietario de un negocio de Kansas sufrió el robo de unos 20.000 dólares en maquinaria de jardinería, su comunidad recaudó dinero para reemplazarla toda.\n\nSonny Gallardo fundó una empresa de paisajismo cuando apenas estaba en sexto grado.\n\nEl adolescente de Prairie Village iba de puerta en puerta rastrillando hojas después de la escuela con los útiles que le dejaba su abuelo. Cuatro años después, Sunnyside Jobs LLC de Gallardo había crecido hasta incluir suficiente equipo para un equipo de cinco personas.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/community-steps-up-to-replace-teen-business-owners-stolen-landscaping-equipment/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Sonny-Gallardo-on-his-first-riding-lawnmower-credit-Monica-Gallardo-via-GoFundMe.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-20T16:00:53.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo-rhino-dung-paper-is-how-this-f",
+      "title": "El papel de estiércol de rinoceronte es la forma en que esta familia gana dinero y protege a estos increíbles animales",
+      "summary": "La gama de Elrhino incluye cuadernos, diarios, bolsas de papel, pantallas de lámparas, naipes y otros artículos de papelería, todos hechos con estiércol de rinoceronte.",
+      "fullStory": "Un dúo empresarial de padre e hija en la India ha sido pionero en un método de fabricación de papel con estiércol de rinoceronte recolectado por los lugareños.\n\nDe repente, dicen, los aldeanos que pueden entrar en conflicto con los rinocerontes los ven como una fuente continua de ingresos, lo que les da una razón para proteger a estas majestuosas bestias y al mismo tiempo apoyar sus medios de vida.\n\nElrhino Stationery fue cofundada por Mahesh Chandra Bora, a quien se le ocurrió la idea cuando leyó sobre la fabricación de papel con estiércol de rinoceronte en Rajasthan, la abrasadora región desértica del oeste del país.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/father-daughter-business-sells-paper-and-stationery-made-from-rhino-dung/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Peter-Neumann-unsplash.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-20T14:00:46.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-every-tuesday-this-chef-cooks-",
+      "title": "Todos los martes, este chef cocina para 100 personas necesitadas utilizando ingredientes aleatorios del banco de alimentos",
+      "summary": "Sus videos de preparación de banquetes en el banco de alimentos se remontan a enero de 2025 y regularmente hacen babear la boca y el corazón de sus seguidores.",
+      "fullStory": "El contenido de cocina puede ser extremadamente popular en las redes sociales, pero al ver a la chef Maddy Goldberg, del área de Toronto, narrar sus recetas hechas desde cero, de repente todo sabe un poco más dulce.\n\nEsto se debe a que todos los martes durante años, Goldberg ha estado donando su tiempo para preparar banquetes para 100 personas necesitadas con lo que encuentra en el banco de alimentos local.\n\n\"En primera persona, cocinando el almuerzo para 100 personas usando la comida aleatoria que encuentro en el banco de alimentos\", se lee en una leyenda al final de cada video.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/every-tuesday-this-chef-cooks-for-100-people-in-need-using-random-food-bank-ingredients/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Screengrabs-@maddygoldberg-via-Instagram.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-20T12:30:29.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-good-news-in-history-november-",
+      "title": "Buenas noticias en la historia, 20 de noviembre",
+      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 20 de noviembre.",
+      "fullStory": "Hoy hace 101 años que nació Robert F. Kennedy. El senador estadounidense por Nueva York se convirtió en Fiscal General durante los años de su hermano John Kennedy en la Casa Blanca y eventualmente lanzaría su propia carrera por la presidencia después del asesinato de JFK. LEER más… (1925)\n\nMuchas de las iniciativas de derechos civiles defendidas por la administración Kennedy y su sucesora fueron encabezadas por RFK, también conocido como “Bobby”.\n\nLa noche en que Martin Luther King Jr. fue asesinado a tiros, Robert F Kennedy dio la noticia a la gente de Indianápolis, Indiana. La policía local le advirtió que podrían estallar disturbios en el corazón de un gueto afroamericano. Escribió sus notas durante el viaje y comenzó su discurso sin ningún borrador, pronunciándolo en la parte trasera de un camión de plataforma. Aunque todas las ciudades importantes de Estados Unidos experimentaron disturbios, Indianápolis mantuvo la calma gracias al discurso de RFK.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061120/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2014/11/Robert-bobby-kennedy.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
     {
       "id": "rss-mundo-she-checked-on-her-loud-upstai",
       "title": "Preguntó a su vecino 'ruidoso' del piso de arriba, inspirando a extraños a recaudar más de $100,000",
@@ -19,7 +96,7 @@
       "category": "mundo",
       "sourceName": "Good News Network",
       "sourceUrl": "https://www.goodnewsnetwork.org/loud-neighbor-parkinsons-gofundme/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/IMG_8105-2.jpg",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/IMG_8105-2-e1795163509463.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-11-19T16:26:23.000Z",
       "positivityScore": 96,
@@ -27,8 +104,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-ia-empire-state-building-lit-up-w",
@@ -85,82 +161,6 @@
       "tags": [
         "LIDERAZGO",
         "EQUIPOS"
-      ]
-    },
-    {
-      "id": "rss-mundo-students-fighting-to-save-poac",
-      "title": "Estudiantes que luchan por salvar especies de plantas cazadas furtivamente que solo existen cerca de su campus",
-      "summary": "\"Lo mínimo es evitar la extinción de una especie y, en el mejor de los casos, podríamos incluso mejorar su estado actual\", dijo Whittall a CBS.",
-      "fullStory": "Los científicos de la Universidad de Santa Clara no escatiman esfuerzos para salvar una flor silvestre única y tan única como su condado.\n\nComúnmente conocida como \"viva para siempre\" del Valle de Santa Clara, esta suculenta en flor es una fuente de alimento vital para los polinizadores, pero también una de las plantas silvestres más cazadas furtivamente en el estado.\n\nNo muy lejos de Silicon Valley, la dudleya del Valle de Santa Clara (Dudleya setchellii) solo se encuentra en la región de Coyote Valley del condado.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/students-fighting-to-save-poached-plant-species-that-only-exists-near-their-campus/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-Santa-Clara-Valley-Habitat-Authority.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-18T19:30:50.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-siblings-build-430-step-sky-la",
-      "title": "Hermanos construyen una 'escalera aérea' de 430 escalones para su madre que se niega a vivir en la ciudad",
-      "summary": "Su hija recuerda que cuando era joven su madre les tomaba de la mano por el antiguo sendero de la montaña y dijo que ahora era \"su turno\" de tomar la de ella.",
-      "fullStory": "Los hijos de una anciana madre china han tocado los corazones de millones de personas al construir minuciosamente a mano una nueva escalera hasta la ladera de una montaña para ayudarla a llegar a su casa más fácilmente.\n\nSu hija menor dijo que recuerda a su madre cogida de la mano por el antiguo sendero de la montaña en su infancia, y que ahora era \"su turno\" de coger la de ella.\n\nNacidos y criados en la cima de una montaña en la provincia de Zhejiang, en el este de China, los niños trasladaron a su madre a la ciudad después de la muerte de su padre hace décadas, donde ella alternó estancias entre los hogares de su hijo mayor y del segundo mayor.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/siblings-build-430-step-sky-ladder-for-their-mother-who-refuses-to-live-in-the-city/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/86-year-old-mother-Chen-family-photo.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-18T16:30:42.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-this-blue-whale-population-gre",
-      "title": "Esta población de ballenas azules creció un 1.000% desde el fin de la caza de ballenas en la Antártida",
-      "summary": "Al pasar de sólo 418 ballenas a 4.018, la magnífica recuperación ha promediado un 4,5% compuesto por año.",
-      "fullStory": "El número de ballenas azules antárticas ha aumentado un 1.000% desde 1973, cuando finalmente se colgaron los arpones para siempre.\n\nAl pasar de sólo 418 ballenas a 4.018, la magnífica recuperación ha promediado el 4,5% anual.\n\nAunque la Comisión Ballenera Internacional prohibió la matanza de ballenas azules antárticas en 1964, la caza ilegal de ballenas continuó hasta 1973. Estos animales longevos, los más grandes que jamás hayan existido, se reproducen muy lentamente, con una sola cría cada tres años aproximadamente.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/this-blue-whale-population-grew-1000-since-the-end-of-whaling/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/06/blue-whale-NOAA-pubdomain.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-18T14:00:45.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-psicologia-scientists-cure-deadly-brain-t",
-      "title": "Los científicos 'curan' tumores cerebrales mortales en cada ratón probado con una nueva terapia contra el cáncer",
-      "summary": "El objetivo de los experimentos fue el glioma difuso de la línea media, descrito por un científico involucrado en el proyecto como un diagnóstico \"desgarrador\".",
-      "fullStory": "En experimentos con ratones, los científicos eliminaron con éxito un cáncer cerebral infantil agresivo y al mismo tiempo proporcionaron una protección duradera.\n\nLos científicos de la Universidad de California en San Francisco utilizaron un nuevo tipo de terapia de células inmunitarias que se activa sólo después de ingresar al cerebro, lo que le permite atacar el cáncer mientras permanece inactiva en otras partes del cuerpo.\n\nCuando los investigadores volvieron a introducir células cancerosas varias semanas después, las células inmunitarias continuaron luchando e impidieron que se desarrollaran nuevos tumores.",
-      "whyGoodNews": "Aporta evidencia valiosa para cuidar el bienestar emocional, reducir el estrés cotidiano y construir hábitos de vida más saludables.",
-      "category": "psicologia",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/scientists-cure-deadly-brain-tumors-in-every-mouse-tested-with-new-cancer-therapy/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Laboratory-mouse-credit-NIH-pub-domain-e1794992945692.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-18T12:30:20.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PSICOLOGÍA",
-        "SALUD MENTAL"
       ]
     }
   ]
