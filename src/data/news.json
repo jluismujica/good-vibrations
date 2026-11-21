@@ -1,20 +1,116 @@
 {
-  "lastUpdated": "2026-11-21T03:52:28.207Z",
+  "lastUpdated": "2026-11-21T17:56:32.342Z",
   "totalCount": 8,
   "categories": {
     "musica": 0,
-    "ia": 1,
-    "psicologia": 0,
+    "ia": 0,
+    "psicologia": 1,
     "liderazgo": 0,
     "chile": 0,
     "mundo": 7
   },
   "news": [
     {
+      "id": "rss-mundo-breath-of-a-whale-captured-by-",
+      "title": "El aliento de una ballena capturada por un dron permite la secuenciación completa del genoma sin intrusión",
+      "summary": "La exhalación del espiráculo de una ballena ha sido capturada por drones y utilizada para completar la secuenciación del genoma de uno de los gigantes oceánicos por primera vez. Investigadores de la Universidad de St. Andrews en Escocia formaron parte de un equipo internacional para secuenciar un genoma completo utilizando muestras de aliento de ballena recolectadas por […]",
+      "fullStory": "La exhalación del espiráculo de una ballena ha sido capturada por drones y utilizada para completar la secuenciación del genoma de uno de los gigantes oceánicos por primera vez.\n\nInvestigadores de la Universidad de St. Andrews en Escocia formaron parte de un equipo internacional para secuenciar un genoma completo utilizando muestras de aliento de ballena recolectadas por un pequeño dron aéreo.\n\nEs la primera vez que la secuenciación se completa sin el uso de intervenciones físicas, generalmente mediante dardos y biopsias recolectadas en barcos, que perturban a los animales, o de mamíferos varados o especímenes históricos.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/breath-of-whale-captured-via-drone-to-complete-genome-sequence/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Whale-spout-by-NorthCoastCetaceanSociety-via-SWNS-.jpeg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-21T17:30:30.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo-pub-owner-spends-thousands-on-",
+      "title": "El propietario de un pub gasta miles de dólares en impresionantes exhibiciones navideñas, todo para animar a los lugareños deprimidos",
+      "summary": "El propietario de un pub inglés aprovechó la temporada navideña y gastó miles de dólares en un despliegue de luces festivas para animar a los lugareños de su ciudad.",
+      "fullStory": "El propietario de un pub aprovechó la temporada navideña y gastó miles de dólares en un despliegue de luces festivas para animar a los lugareños de su ciudad.\n\nChristian Ogley dice que este año ha sido particularmente difícil para los residentes de la pintoresca ciudad de Knaresborough, Inglaterra, ya que el costo de vida se disparó.\n\n“Ha sido un año turbulento para todos en la zona y en todo el Reino Unido, por decir lo mínimo”, dijo el hombre de 34 años, propietario del pub Blind Jack's en la histórica ciudad de North Yorkshire situada sobre acantilados sobre el río Nidd.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/pub-owner-spends-thousands-on-stunning-holiday-display-all-to-cheer-up-depressed-locals/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Christian-Ogley-w-Christmas-lights-on-his-pub-SWNS.jpeg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-21T15:53:53.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-psicologia-first-human-trial-to-slash-bad",
+      "title": "Primer ensayo en humanos para reducir el colesterol malo en un 50% con una inyección de terapia de edición genética CRISPR",
+      "summary": "Una dosis única de la terapia de edición genética CRISPR redujo el colesterol peligroso en un 52%, con beneficios duraderos durante 12 meses y sin efectos secundarios.",
+      "fullStory": "Una infusión única de la terapia de edición genética CRISPR redujo el colesterol peligroso en un 52%, y los pacientes aún experimentan el beneficio 12 meses después del tratamiento inicial y sin efectos secundarios.\n\nLa Clínica Cleveland en Ohio informó que su ensayo de Fase 1 en humanos mostró que una infusión única de una terapia de edición genética usando CRISPR-Cas9 fue efectiva y segura para reducir el colesterol LDL \"malo\" y los triglicéridos a casi la mitad en pacientes durante un seguimiento de un año, después de que su trastorno había sido previamente resistente a la medicación.\n\nEl ensayo, que incluyó a 15 pacientes, tenía como objetivo ver si las reducciones en el colesterol LDL y los triglicéridos previamente reportadas después de dos meses persistirían durante 12 meses. Después de 12 meses, los pacientes que fueron tratados con la dosis más alta experimentaron una reducción del 52,5 % con respecto al valor inicial en el colesterol LDL y una reducción del 47,8 % en los triglicéridos. No hubo eventos adversos graves relacionados con la terapia durante el seguimiento de un año.",
+      "whyGoodNews": "Aporta evidencia valiosa para cuidar el bienestar emocional, reducir el estrés cotidiano y construir hábitos de vida más saludables.",
+      "category": "psicologia",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/first-human-trial-to-slash-bad-cholesterol-by-50pt-with-one-crispr-injection/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/DNA-strand-break-CRISPR-by-Sangharsh-Lohakare-8o_LkMpo8ug-unsplash.jpeg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-21T14:24:30.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PSICOLOGÍA",
+        "SALUD MENTAL"
+      ]
+    },
+    {
+      "id": "rss-mundo-your-positive-weekly-horoscope",
+      "title": "Su horóscopo semanal positivo: 'Astrología del libre albedrío' de Rob Brezsny",
+      "summary": "Rob Brezsny defiende un enfoque positivo de la vida a través de horóscopos con sabiduría semanal en esta columna semanal de Astrología del libre albedrío.",
+      "fullStory": "Nuestro socio Rob Brezsny, cuyo último libro es Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, brinda su sabiduría semanal para iluminar nuestro pensamiento y motivar nuestro estado de ánimo. Rob's Free Will Astrology es una columna semanal sindicada que aparece en más de cien publicaciones. También es autor de Pronoia es el antídoto para la paranoia: cómo toda la creación conspira para colmarte de bendiciones. (Una vista previa gratuita del libro está disponible aquí).\n\nSAGITARIO (del 22 de noviembre al 21 de diciembre): este horóscopo fue ideado con precisión científica para aumentar su capacidad de improvisación y ayudarlo a prosperar en medio de sorpresas. Sin embargo, no intentes decodificarlo mediante el razonamiento ordinario. Al igual que un koan zen, su objetivo es ejercitar la parte intuitiva y no lógica de tu mente y, con suerte, prepararte para circunstancias que nadie podría anticipar por completo. Aquí está: Escuche instrucciones tabú pero curativas en el zumbido de una máquina expendedora. Abre suavemente un portal que conduce a un desvío aparentemente tangencial pero intrigante. Alimenta tus dudas con un plato de arándanos y pídeles que te brinden armonía mientras cantas la canción Imagine de John Lennon. Cuando no puedas tolerar otro minuto de fatalidad, ponte los zapatos con el pie equivocado y declarate ciudadano temporal de otro lugar.\n\nCAPRICORNIO (del 22 de diciembre al 19 de enero): La maestra de Capricornio, Natalie Goldberg, les dice a los estudiantes que aprovechen sus obsesiones, ¡o si no! De una forma u otra, esas preocupaciones de alta energía se apoderarán de gran parte de tu fuerza vital, por lo que es prudente encontrar formas de atesorarlas y aprovecharlas. Te recomiendo especialmente que te concentres en este acertijo clave durante las próximas semanas. Tendrás más motivación y poder que de costumbre para convertir fijaciones apasionadas en materia prima para tu uso creativo. Trátelos como súper combustible.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-11-21-2026/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Freewill-Astrology-horoscope-logo.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-21T11:00:55.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-good-news-in-history-november-",
+      "title": "Buenas noticias en la historia, 21 de noviembre",
+      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 21 de noviembre.",
+      "fullStory": "Hoy hace 52 años, el Congreso votó con una mayoría de dos tercios para anular el intento de veto del presidente Gerald Ford a la Ley de Libertad de Información, después de que Dick Cheney y Donald Rumsfeld lo influyeran para intentar el veto. Esa decisión le dio al país la FOIA que todavía mantiene hoy, de la cual han surgido docenas de las noticias y escándalos políticos más destacados de la historia moderna de Estados Unidos. LEA algunas de las historias que esta ley ha permitido relatar… (1974)\n\nCualquier ciudadano estadounidense o entidad privada puede presentar una solicitud según la FOIA. Las agencias y departamentos que dependen únicamente del poder ejecutivo deben entregar toda la información solicitada de manera oportuna. Si el peticionario tiene motivos para creer que la agencia está retrasando, impidiendo o incluso alterando el material, puede recurrir a un Consejo Especial.\n\nLas solicitudes de la FOIA pueden ser bastante costosas y, hoy en día, sólo un número limitado de publicaciones y personas pueden permitirse el lujo de solicitar todos los registros que puedan necesitar para una historia.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061121/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/11/Files-pixabay.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-21T08:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
       "id": "rss-mundo-33-kids-wrote-letters-to-a-wou",
-      "title": "33 niños escribieron cartas a un veterano herido. 50 años después, su hijo busca agradecer a cada uno",
+      "title": "33 niños escribieron cartas a un veterano herido. 60 años después, su hijo busca agradecer a cada uno",
       "summary": "\"Necesitaba volver con ellos y decirles: 'Oye, sé que parece muy tonto, estás hablando de tu lagarto mascota, pero marcó la diferencia. \"",
-      "fullStory": "En 1967, a 33 escolares de Massachusetts se les asignó un proyecto: escribir una carta a un médico de la Armada que nunca habían conocido y que resultó herido en Vietnam.\n\nNinguno de ellos tenía idea del impacto que sus cartas tuvieron en el veterano, hasta que su hijo, casi 50 años después, comenzó a buscarlas.\n\n\"Sólo necesitaba volver con ellos y decirles: 'Oye, sé que parece muy tonto, estás hablando de tu lagarto mascota y dices que Dios te bendiga, pero marcó la diferencia'\", le dice Dave Jacobson a GNN.",
+      "fullStory": "En 1967, a 33 escolares de Massachusetts se les asignó un proyecto: escribir una carta a un médico de la Armada que nunca habían conocido y que resultó herido en Vietnam.\n\nNinguno de ellos tenía idea del impacto que sus cartas tuvieron en el veterano, hasta que su hijo, casi 60 años después, comenzó a buscarlas.\n\n\"Sólo necesitaba volver con ellos y decirles: 'Oye, sé que parece muy tonto, estás hablando de tu lagarto mascota y dices que Dios te bendiga, pero marcó la diferencia'\", le dice Dave Jacobson a GNN.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Good News Network",
@@ -27,8 +123,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-community-steps-up-to-replace-",
@@ -61,101 +156,6 @@
       "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Peter-Neumann-unsplash.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-11-20T14:00:46.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-every-tuesday-this-chef-cooks-",
-      "title": "Todos los martes, este chef cocina para 100 personas necesitadas utilizando ingredientes aleatorios del banco de alimentos",
-      "summary": "Sus videos de preparación de banquetes en el banco de alimentos se remontan a enero de 2025 y regularmente hacen babear la boca y el corazón de sus seguidores.",
-      "fullStory": "El contenido de cocina puede ser extremadamente popular en las redes sociales, pero al ver a la chef Maddy Goldberg, del área de Toronto, narrar sus recetas hechas desde cero, de repente todo sabe un poco más dulce.\n\nEsto se debe a que todos los martes durante años, Goldberg ha estado donando su tiempo para preparar banquetes para 100 personas necesitadas con lo que encuentra en el banco de alimentos local.\n\n\"En primera persona, cocinando el almuerzo para 100 personas usando la comida aleatoria que encuentro en el banco de alimentos\", se lee en una leyenda al final de cada video.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/every-tuesday-this-chef-cooks-for-100-people-in-need-using-random-food-bank-ingredients/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Screengrabs-@maddygoldberg-via-Instagram.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-20T12:30:29.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-good-news-in-history-november-",
-      "title": "Buenas noticias en la historia, 20 de noviembre",
-      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 20 de noviembre.",
-      "fullStory": "Hoy hace 101 años que nació Robert F. Kennedy. El senador estadounidense por Nueva York se convirtió en Fiscal General durante los años de su hermano John Kennedy en la Casa Blanca y eventualmente lanzaría su propia carrera por la presidencia después del asesinato de JFK. LEER más… (1925)\n\nMuchas de las iniciativas de derechos civiles defendidas por la administración Kennedy y su sucesora fueron encabezadas por RFK, también conocido como “Bobby”.\n\nLa noche en que Martin Luther King Jr. fue asesinado a tiros, Robert F Kennedy dio la noticia a la gente de Indianápolis, Indiana. La policía local le advirtió que podrían estallar disturbios en el corazón de un gueto afroamericano. Escribió sus notas durante el viaje y comenzó su discurso sin ningún borrador, pronunciándolo en la parte trasera de un camión de plataforma. Aunque todas las ciudades importantes de Estados Unidos experimentaron disturbios, Indianápolis mantuvo la calma gracias al discurso de RFK.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061120/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2014/11/Robert-bobby-kennedy.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-20T08:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-she-checked-on-her-loud-upstai",
-      "title": "Preguntó a su vecino 'ruidoso' del piso de arriba, inspirando a extraños a recaudar más de $100,000",
-      "summary": "Lo que comenzó como un vecino ruidoso se convirtió en una amistad que cambió la vida y se recaudaron más de $100,000 para una persona de 87 años con Parkinson.",
-      "fullStory": "Vecinos y desconocidos se unieron en apoyo de una mujer de 87 años con enfermedad de Parkinson llamada Carole, recaudaron más de $109,000 y demostraron que estaba mucho menos sola de lo que pensaba. Todo lo que hizo falta fue que una persona se tomara el tiempo para controlar a la persona que vivía arriba.\n\nCarole había vivido sola durante años, sin familia cerca, y luchaba por su vida diaria sin mucha ayuda, si es que tenía alguna. Además de los temblores y los problemas de movilidad causados ​​por su enfermedad de Parkinson, Carole vivía muy cerca del umbral de pobreza y sobrevivía con los beneficios del Seguro Social, SNAP y Medicaid en un apartamento en el piso superior de Culver City, Los Ángeles.\n\nFue entonces cuando Carole consiguió un nuevo vecino de abajo. Heidi Widmer llegó a Culver City procedente de Buffalo en busca de un nuevo comienzo. Al principio se sintió decepcionada y frustrada al descubrir que tenía un vecino ruidoso en el piso de arriba; un sonido sordo que, según ella, sonaba como si alguien estuviera jugando a los bolos durante semanas. \"Me sentía miserable porque apenas dormía\", recuerda Widmer.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/loud-neighbor-parkinsons-gofundme/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/IMG_8105-2-e1795163509463.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-19T16:26:23.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-ia-empire-state-building-lit-up-w",
-      "title": "El Empire State Building se iluminó con marcas doradas como hito histórico de la Voyager 1 de la NASA esta semana",
-      "summary": "La NASA celebrará el hito hoy por el hecho de que tardará un día en recibir la señal enviada el miércoles.",
-      "fullStory": "Esta semana, el Empire State Building se iluminó en oro para celebrar el paso de la nave espacial Voyager 1 de la NASA a un día luz de la Tierra.\n\nAhora el objeto creado por el hombre más alejado de la Tierra tarda 24 horas en enviar una señal a la sede de la NASA.\n\n\"El color dorado es emblemático del disco fonográfico de cobre chapado en oro que vuela en la Voyager\", escribió la NASA el martes. \"El disco contiene sonidos e imágenes seleccionados para retratar la diversidad de vida y cultura en la Tierra\".",
-      "whyGoodNews": "Muestra cómo la innovación científica y el ingenio humano colaboran para resolver desafíos ambientales y sociales concretos.",
-      "category": "ia",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/empire-state-building-lit-up-with-gold-to-celebrate-nasa-spacecraft-passing-one-light-day-from-earth/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/NYC-at-night-Empire-State-Building-lit-up-in-gold-SWNS.jpeg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-19T14:00:49.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "INNOVACIÓN",
-        "CIENCIA"
-      ]
-    },
-    {
-      "id": "rss-mundo-over-100-cave-bear-skeletons-f",
-      "title": "Más de 100 esqueletos de osos cavernarios encontrados en un descubrimiento \"sensacional\" realizado por Alpine Guide",
-      "summary": "Mantenido en secreto para evitar saqueos, el increíble conjunto de miles de huesos permanecerá escondido detrás de rejas de hierro hasta el deshielo de primavera.",
-      "fullStory": "Las autoridades locales han revelado el \"sensacional\" descubrimiento de una cueva que contiene los esqueletos de más de 100 osos de las cavernas extintos.\n\nMantenido en secreto para evitar saqueos, el increíble conjunto de miles de huesos permanecerá escondido detrás de rejas de hierro hasta el deshielo de primavera, cuando un equipo interdisciplinario de científicos comenzará a estudiarlos.\n\nDescubierta en julio por un guía de montaña en la provincia autónoma de Tirol del Sur, en el norte de Italia, la cueva se encuentra a unos 9.100 pies sobre el nivel del mar en la ladera de un acantilado casi escarpado.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/over-100-cave-bear-skeletons-found-in-sensational-discovery-by-alpine-guide/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-USP-Ufficio-Beni-archeologici-released-e1795074752326.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-19T12:30:10.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
