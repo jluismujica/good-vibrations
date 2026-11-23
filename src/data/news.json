@@ -1,15 +1,149 @@
 {
-  "lastUpdated": "2026-11-23T03:38:02.502Z",
+  "lastUpdated": "2026-11-23T22:30:46.487Z",
   "totalCount": 8,
   "categories": {
     "musica": 0,
     "ia": 0,
-    "psicologia": 1,
+    "psicologia": 0,
     "liderazgo": 0,
     "chile": 0,
-    "mundo": 7
+    "mundo": 8
   },
   "news": [
+    {
+      "id": "rss-mundo-33-kids-wrote-letters-to-a-wou",
+      "title": "33 niños escribieron cartas a un veterano herido. 60 años después, su hijo busca agradecer a cada uno",
+      "summary": "\"Necesitaba volver con ellos y decirles: 'Oye, sé que parece muy tonto, estás hablando de tu lagarto mascota, pero marcó la diferencia. \"",
+      "fullStory": "En 1967, a 33 escolares de Massachusetts se les asignó un proyecto: escribir una carta a un médico de la Armada que nunca habían conocido y que resultó herido en Vietnam.\n\nNinguno de ellos tenía idea del impacto que sus cartas tuvieron en el veterano, hasta que su hijo, casi 60 años después, comenzó a buscarlas.\n\n\"Sólo necesitaba volver con ellos y decirles: 'Oye, sé que parece muy tonto, estás hablando de tu lagarto mascota y dices que Dios te bendiga, pero marcó la diferencia'\", le dice Dave Jacobson a GNN.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/dave-jacobson-letters-from-gloucester-project/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Screenshot-2026-11-19-124524.png",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-23T22:00:41.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-mundo-determined-volunteer-rescues-l",
+      "title": "Un voluntario decidido rescata a una niña perdida en el desierto: “Puede que no sea nuestra hija, pero podría serlo”",
+      "summary": "Vella Campillo, de 2 años, se adentró en el desierto que rodea la ciudad de Eloy, vestida únicamente con un pañal.",
+      "fullStory": "Una comunidad de Arizona está celebrando a un abuelo local que encontró a un niño pequeño desaparecido en medio de la fría noche del desierto.\n\nHonrado por la oficina del sheriff como un ciudadano destacado, Jay Stewart dijo que sentía lo mismo que todos los demás que estaban buscando, diciendo que \"puede que ella no sea nuestra hija, pero podría serlo\".\n\nLa historia comienza al atardecer del 17 de noviembre, cuando, jugando con sus hermanos, Vella Campillo, de 2 años, se adentró en el desierto que rodea la ciudad de Eloy, vestida únicamente con un pañal.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/determined-volunteer-rescues-lost-toddler-in-the-desert-she-may-not-be-our-child-but-she-could-be/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-Pinal-County-Sheriffs-Office.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-23T18:00:29.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-one-of-a-kind-refuge-to-200-00",
+      "title": "Refugio único en su tipo para 200.000 morsas protegidas para siempre en Alaska",
+      "summary": "Ahora ubicadas dentro de un área protegida de 47.000 acres propiedad del Interior Alaska Land Trust, las islas se han librado del desarrollo.",
+      "fullStory": "Los conservacionistas estadounidenses han conseguido protecciones para un ecosistema verdaderamente único en el mundo a lo largo de la costa estatal del Mar de Bering.\n\nHogar de las mayores concentraciones de morsas del Pacífico encontradas en cualquier lugar de América del Norte, las islas barrera frente a la costa de la pequeña aldea norteña de Point Lay brindan un refugio crítico para esta megafauna marina.\n\nAhora ubicadas dentro de un área protegida de 47.000 acres (74 millas cuadradas) propiedad del Interior Alaska Land Trust, las islas se han salvado del desarrollo industrial y otras perturbaciones, al igual que \"uno de los sistemas de lagunas costeras más grandes e intactos del mundo\", que fue protegido en conjunto.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/one-of-a-kind-refuge-to-200000-walrus-protected-forever-in-alaska/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Walruses-concentrate-at-Point-Lay-Alaska-public-domain-NOAA-e1795423753131.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-23T16:04:07.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-freddie-nole-waits-at-the-pris",
+      "title": "Freddie Nole espera en las puertas de la prisión para que nadie salga solo",
+      "summary": "Dirigida por Dana Nachman, la película acompaña a Nole durante un solo día mientras recoge a un hombre que sale de prisión en Pensilvania.",
+      "fullStory": "JoyDrops defiende los cortometrajes documentales elegibles para premios sobre la alegría, un contrapeso a una categoría a menudo dominada por la tragedia. Good News Network se ha asociado con JoyDrops para destacar estas películas y hablar con los realizadores detrás de ellas.\n\nNole está hablando del momento en que conoce a un hombre que sale de prisión, a menudo alguien sin nadie más que venga a buscarlo. Él y su esposa, Sue, llevan al hombre a comer, le compran ropa, le consiguen un teléfono y lo llevan a su próximo destino. No hay dos camionetas iguales, dijo, pero siempre hay una cosa que lo es.\n\n\"El agradecimiento que estas personas nos expresan por simplemente estar allí\", dijo Nole, \"en un momento en el que son más vulnerables\".",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/freddie-nole-waits-at-the-prison-gates-so-no-one-walks-out-alone/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/The-Second-life-of-Freddie-Nole_Press-Image-1.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-23T13:35:29.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-how-a-t-shirt-startup-s-manife",
+      "title": "Cómo el manifiesto de una startup de camisetas hizo que personas de todo el mundo repensaran sus vidas",
+      "summary": "El cofundador de Holstee, Michael Radparvar, habla sobre las palabras virales que le quedaron pequeñas a su empresa y lo que significan para él 17 años después.",
+      "fullStory": "Justo a tiempo para las fiestas, Good News Network se ha asociado con Holstee en una colección seleccionada de obsequios que celebran el buen vivir. Compra la colección.\n\n\"Si estás buscando al amor de tu vida, detente. Te estarán esperando cuando empieces a hacer las cosas que amas\".\n\nEsa es una línea del Manifiesto Holstee, una breve declaración sobre vivir bien que se ha compartido en Internet durante más de 15 años. El cofundador Michael Radparvar todavía conoce a personas que dicen que cambió el curso de sus vidas.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/how-a-t-shirt-startups-manifesto-got-people-everywhere-rethinking-their-lives/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Holstee-founders-Summit-Series-2014-e1795210461563.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-23T12:40:07.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-first-of-3-consecutive-supermo",
+      "title": "La primera de tres superlunas consecutivas comenzará esta noche: mire hacia el este en busca de la luna Beaver",
+      "summary": "Comenzando con Beaver Moon, son razones perfectas para desafiar el frío y salir a la naturaleza, o para alejarse de esas abundantes cenas de invierno.",
+      "fullStory": "Las próximas tres lunas llenas consecutivas se considerarán superlunas, y la primera deslumbrará esta noche y mañana.\n\nEl período más brillante de la Luna llegará a las 9:40 a.m. metro. Hora del este de EE. UU. el martes, pero los períodos oscuros a ambos lados de este momento seguirán siendo una excelente visualización, siendo la diferencia en la iluminación casi imperceptible.\n\nColgadas en medio del firmamento, las superlunas no parecen mucho más grandes que las lunas llenas normales. Más bien, es cuando están cerca del horizonte cuando adquieren su súper apariencia.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/first-of-3-consecutive-supermoons-to-begin-tonight-look-to-the-east-for-the-beaver-moon/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2025/11/moon-and-supermoon-comparison.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-23T12:30:42.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-good-news-in-history-november-",
+      "title": "Buenas noticias en la historia, 23 de noviembre",
+      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 23 de noviembre.",
+      "fullStory": "Hoy hace 63 años que la BBC transmitió el primer episodio de Doctor Who. An Unearthly Child, protagonizada por William Hartnell, se desarrolla en medio de una lucha de poder entre facciones en guerra de la Edad de Piedra que han perdido el secreto de hacer fuego después de que los \"compañeros\" originales, Ian y Barbara, encuentran la nave espacial del Doctor que viaja en el tiempo en un depósito de chatarra de Londres. LEA sobre el período previo al debut… (1963)\n\nEl programa fue creado para llenar un vacío entre la programación para niños y adultos jóvenes. El productor canadiense Sydney Newman, recientemente nombrado director de drama de la BBC, recibió el encargo de crear el programa y concibió la idea de la TARDIS, así como el personaje central del Doctor.\n\nEl primer episodio se dividió en cuatro partes transmitidas por separado, pero el lanzamiento del programa se vio ensombrecido por el asesinato del presidente John F. Kennedy el día anterior, lo que resultó en una repetición del primer episodio la semana siguiente.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061123/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/11/Unearthly_Child_2.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-23T08:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
     {
       "id": "rss-mundo-new-method-treats-severe-thumb",
       "title": "Un nuevo método trata la artritis grave del pulgar con reemplazo de articulaciones, como si fuera una cadera o un hombro nuevos",
@@ -22,140 +156,6 @@
       "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/TOUCH-Thumb-transplant-RELEASED.jpeg",
       "imageSourceType": "official",
       "publishedAt": "2026-11-23T01:55:12.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ],
-      "featured": true
-    },
-    {
-      "id": "rss-mundo-world-s-first-museum-built-in-",
-      "title": "El primer museo del mundo construido en un hospital infantil satisface el deseo de un niño moribundo de tener tiempo de jugar durante la quimioterapia",
-      "summary": "La semana pasada, se inauguró en Nueva Orleans el primer museo infantil del mundo dentro de un hospital: un \"Imaginarium\" donde los niños enfermos y sus familias pueden jugar.",
-      "fullStory": "Mientras un niño pequeño luchaba contra una enfermedad mortal en el Hospital Infantil de Nueva Orleans, anhelaba un lugar donde ir a tomar aire fresco o distraerse de sus problemas. Antes de morir, él y su familia fundaron una fundación para recaudar dinero y cinco años después su deseo se cumplió.\n\nLa semana pasada, su familia celebró la inauguración del primer museo del mundo incorporado a un hospital: un fantástico 'Imaginarium' donde los niños enfermos y sus familias pueden acudir en busca de arte, movimiento, simulación y diversión.\n\nWalker's Imaginarium, que lleva el nombre de Walker Beery, de nueve años, es un museo para niños de 15,000 pies cuadrados donde los pacientes pueden pasear por las habitaciones interactuando con temas únicos de Luisiana: bailar música cajún, explorar un pantano, unirse a un desfile de Mardi Gras o disfrutar de un momento de tranquilidad entre una pecera animada.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/the-first-museum-built-in-a-childrens-hospital-fulfills-dying-boys-wish/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Music-dance-stage-display-in-kids-museum-Walkers-Imaginarium-released-by-Manning-Family-Childrens.jpeg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-22T18:41:56.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo--extraordinary-drug-may-actual",
-      "title": "Un medicamento \"extraordinario\" puede en realidad curar la presión arterial alta causada por hormonas, y está aprobado por la FDA",
-      "summary": "A millones de pacientes con hipertensión arterial se les puede ofrecer una cura real con un nuevo medicamento aprobado por la FDA llamado baxdrostat que sorprendió a los médicos.",
-      "fullStory": "A millones de personas con presión arterial alta se les puede ofrecer una cura real para su causa raíz que brindaría un alivio duradero.\n\nLos médicos quedaron atónitos por el último estudio de pacientes que tomaron el medicamento aprobado por la FDA llamado baxdrostat, que demostró que revertía la afección, incluso años después de que los pacientes dejaran de tomar el medicamento.\n\nBaxdrostat (también conocido como Baxfendy) es el primero de un tipo específico de medicamento, conocido como inhibición extendida de la aldosterona sintasa (EASI), que llega al mercado estadounidense, aunque hay otros, como lorundrostat, en proceso.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/drug-may-actually-cure-high-blood-pressure-caused-by-hormones/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Doctor-takes-blood-pressure-by-Vitaly-Gariev-NDOYHZ_98Rw-unsplash.jpeg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-22T14:58:57.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-good-news-in-history-november-",
-      "title": "Buenas noticias en la historia, 22 de noviembre",
-      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 22 de noviembre.",
-      "fullStory": "Hoy hace 31 años, Toy Story, la primera película animada por computadora del mundo, se estrenó con gran éxito de crítica. Creada por un pequeño estudio llamado Pixar que estrenó algunas de las películas infantiles más queridas de la historia de Estados Unidos, la historia gira en torno a la vida y la época del muñeco de acción vaquero favorito de un niño llamado Woody, cuya posición en la cima de la jerarquía de juguetes se ve alterada por la llegada del Space Ranger Buzz Lightyear. LEER más sobre esto cuento clásico… (1995)\n\nFue el debut como director de John Lasseter y contó con las voces de Tom Hanks, Tim Allen, Don Rickles y Wallace Shawn, con una música original nominada al Premio de la Academia de Randy Newman.\n\nCon una recaudación de más de 373 millones de dólares en todo el mundo, la aclamada Toy Story tiene un raro índice de aprobación del 100% en Rotten Tomatoes. Con el ingenio y la sofisticación temática de su guión (de Joel Cohen, Lasseter, Joss Whedon y otros) obtuvo una nominación al Premio de la Academia, la primera película animada en ser honrada en una categoría de guión. MIRAR algunos aspectos destacados…",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061122/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2019/11/Toy-Story-film-poster-mashup.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-22T08:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-breath-of-a-whale-captured-by-",
-      "title": "El aliento de una ballena capturada por un dron permite la secuenciación completa del genoma sin intrusión",
-      "summary": "La exhalación del espiráculo de una ballena ha sido capturada por drones y utilizada para completar la secuenciación del genoma de uno de los gigantes oceánicos por primera vez. Investigadores de la Universidad de St. Andrews en Escocia formaron parte de un equipo internacional para secuenciar un genoma completo utilizando muestras de aliento de ballena recolectadas por […]",
-      "fullStory": "La exhalación del espiráculo de una ballena ha sido capturada por drones y utilizada para completar la secuenciación del genoma de uno de los gigantes oceánicos por primera vez.\n\nInvestigadores de la Universidad de St. Andrews en Escocia formaron parte de un equipo internacional para secuenciar un genoma completo utilizando muestras de aliento de ballena recolectadas por un pequeño dron aéreo.\n\nEs la primera vez que la secuenciación se completa sin el uso de intervenciones físicas, generalmente mediante dardos y biopsias recolectadas en barcos, que perturban a los animales, o de mamíferos varados o especímenes históricos.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/breath-of-whale-captured-via-drone-to-complete-genome-sequence/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Whale-spout-by-NorthCoastCetaceanSociety-via-SWNS-.jpeg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-21T17:30:30.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-pub-owner-spends-thousands-on-",
-      "title": "El propietario de un pub gasta miles de dólares en impresionantes exhibiciones navideñas, todo para animar a los lugareños deprimidos",
-      "summary": "El propietario de un pub inglés aprovechó la temporada navideña y gastó miles de dólares en un despliegue de luces festivas para animar a los lugareños de su ciudad.",
-      "fullStory": "El propietario de un pub aprovechó la temporada navideña y gastó miles de dólares en un despliegue de luces festivas para animar a los lugareños de su ciudad.\n\nChristian Ogley dice que este año ha sido particularmente difícil para los residentes de la pintoresca ciudad de Knaresborough, Inglaterra, ya que el costo de vida se disparó.\n\n“Ha sido un año turbulento para todos en la zona y en todo el Reino Unido, por decir lo menos”, dijo el hombre de 34 años, propietario del pub Blind Jack's en la histórica ciudad de North Yorkshire situada sobre acantilados sobre el río Nidd.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/pub-owner-spends-thousands-on-stunning-holiday-display-all-to-cheer-up-depressed-locals/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Christian-Ogley-w-Christmas-lights-on-his-pub-SWNS.jpeg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-21T15:53:53.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-psicologia-first-human-trial-to-slash-bad",
-      "title": "Primer ensayo en humanos para reducir el colesterol malo en un 50% con una inyección de terapia de edición genética CRISPR",
-      "summary": "Una dosis única de la terapia de edición genética CRISPR redujo el colesterol peligroso en un 52%, con beneficios duraderos durante 12 meses y sin efectos secundarios.",
-      "fullStory": "Una infusión única de la terapia de edición genética CRISPR redujo el colesterol peligroso en un 52%, y los pacientes aún experimentan el beneficio 12 meses después del tratamiento inicial y sin efectos secundarios.\n\nLa Clínica Cleveland en Ohio informó que su ensayo de Fase 1 en humanos mostró que una infusión única de una terapia de edición genética usando CRISPR-Cas9 fue efectiva y segura para reducir el colesterol LDL \"malo\" y los triglicéridos a casi la mitad en pacientes durante un seguimiento de un año, después de que su trastorno había sido previamente resistente a la medicación.\n\nEl ensayo, que incluyó a 15 pacientes, tenía como objetivo ver si las reducciones en el colesterol LDL y los triglicéridos previamente reportadas después de dos meses persistirían durante 12 meses. Después de 12 meses, los pacientes que fueron tratados con la dosis más alta experimentaron una reducción del 52,5 % con respecto al valor inicial en el colesterol LDL y una reducción del 47,8 % en los triglicéridos. No hubo eventos adversos graves relacionados con la terapia durante el seguimiento de un año.",
-      "whyGoodNews": "Aporta evidencia valiosa para cuidar el bienestar emocional, reducir el estrés cotidiano y construir hábitos de vida más saludables.",
-      "category": "psicologia",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/first-human-trial-to-slash-bad-cholesterol-by-50pt-with-one-crispr-injection/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/DNA-strand-break-CRISPR-by-Sangharsh-Lohakare-8o_LkMpo8ug-unsplash.jpeg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-21T14:24:30.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PSICOLOGÍA",
-        "SALUD MENTAL"
-      ]
-    },
-    {
-      "id": "rss-mundo-your-positive-weekly-horoscope",
-      "title": "Su horóscopo semanal positivo: 'Astrología del libre albedrío' de Rob Brezsny",
-      "summary": "Rob Brezsny defiende un enfoque positivo de la vida a través de horóscopos con sabiduría semanal en esta columna semanal de Astrología del libre albedrío.",
-      "fullStory": "Nuestro socio Rob Brezsny, cuyo último libro es Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, brinda su sabiduría semanal para iluminar nuestro pensamiento y motivar nuestro estado de ánimo. Rob's Free Will Astrology es una columna semanal sindicada que aparece en más de cien publicaciones. También es autor de Pronoia es el antídoto para la paranoia: cómo toda la creación conspira para colmarte de bendiciones. (Una vista previa gratuita del libro está disponible aquí).\n\nSAGITARIO (del 22 de noviembre al 21 de diciembre): este horóscopo fue ideado con precisión científica para aumentar su capacidad de improvisación y ayudarlo a prosperar en medio de sorpresas. Sin embargo, no intentes decodificarlo mediante el razonamiento ordinario. Al igual que un koan zen, su objetivo es ejercitar la parte intuitiva y no lógica de tu mente y, con suerte, prepararte para circunstancias que nadie podría anticipar por completo. Aquí está: Escuche instrucciones tabú pero curativas en el zumbido de una máquina expendedora. Abre suavemente un portal que conduce a un desvío aparentemente tangencial pero intrigante. Alimenta tus dudas con un plato de arándanos y pídeles que te brinden armonía mientras cantas la canción Imagine de John Lennon. Cuando no puedas tolerar otro minuto de fatalidad, ponte los zapatos con el pie equivocado y declarate ciudadano temporal de otro lugar.\n\nCAPRICORNIO (del 22 de diciembre al 19 de enero): La maestra de Capricornio, Natalie Goldberg, les dice a los estudiantes que aprovechen sus obsesiones, ¡o si no! De una forma u otra, esas preocupaciones de alta energía se apoderarán de gran parte de tu fuerza vital, por lo que es prudente encontrar formas de atesorarlas y aprovecharlas. Te recomiendo especialmente que te concentres en este acertijo clave durante las próximas semanas. Tendrás más motivación y poder que de costumbre para convertir fijaciones apasionadas en materia prima para tu uso creativo. Trátelos como súper combustible.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-11-21-2026/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Freewill-Astrology-horoscope-logo.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-21T11:00:55.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
