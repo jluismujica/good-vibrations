@@ -1,15 +1,111 @@
 {
-  "lastUpdated": "2026-11-24T06:52:58.979Z",
+  "lastUpdated": "2026-11-24T21:03:19.163Z",
   "totalCount": 8,
   "categories": {
-    "musica": 0,
+    "musica": 1,
     "ia": 0,
     "psicologia": 0,
     "liderazgo": 0,
     "chile": 0,
-    "mundo": 8
+    "mundo": 7
   },
   "news": [
+    {
+      "id": "rss-mundo-major-success-sees-viral-infec",
+      "title": "Un gran éxito hace que las infecciones virales caigan un 68% en Brasil después de la liberación de mosquitos infectados con Wolbachia",
+      "summary": "El ensayo probó el método de liberar mosquitos infectados con la bacteria Wolbachia, que inhibe la capacidad del insecto para propagar virus.",
+      "fullStory": "Un gran éxito en el control a escala poblacional de los virus transmitidos por mosquitos proviene ahora de Brasil, donde los escolares disfrutan de un riesgo 68% menor de contraer tales enfermedades.\n\nEl ensayo probó el método ampliamente probado de liberar mosquitos infectados con la bacteria Wolbachia, que inhibe la capacidad del insecto para propagar virus como el dengue, el Zika y el chikungunya.\n\nProbado durante cuatro años en Belo Horizonte, el éxito coincidió con el mayor brote de dengue jamás registrado en Brasil, lo que demuestra la necesidad urgente de un mayor control de mosquitos en los trópicos.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/major-success-sees-viral-infections-fall-68-in-brazil-after-releasing-wolbachia-infected-mosquitoes/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2015/07/mosquito-Aedes_Albopictus-publicdomain.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-24T20:29:57.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ],
+      "featured": true
+    },
+    {
+      "id": "rss-musica-retired-teacher-turns-retired-",
+      "title": "Maestra jubilada convierte instrumentos musicales retirados en comederos para pájaros (MIRAR)",
+      "summary": "Un bocado de maíz o semilla viene sin condiciones en el Frets and Feathers Cafe, dirigido por el maestro jubilado Rob Burke.",
+      "fullStory": "Un canadiense está escribiendo una coda sobre la vida de los instrumentos musicales desechados al usarlos para ofrecer un almuerzo gratis a sus vecinos emplumados.\n\nUn bocado de maíz o semilla viene sin condiciones en el Frets and Feathers Café, dirigido por el maestro jubilado Rob Burke de la Isla del Príncipe Eduardo.\n\nEl exprofesor de matemáticas vio a alguien de Europa convertir una guitarra vieja en un comedero para pájaros en las redes sociales y pensó que podía hacer algo mejor: una orquesta de tres platos.",
+      "whyGoodNews": "Celebra el poder unificador de la música y el arte para conectar personas, sanar heridas y despertar emociones profundas.",
+      "category": "musica",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/retired-teacher-turns-retired-musical-instruments-into-bird-feeders-look/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Credit-Rob-Burke-retrieved-from-Facebook.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-24T16:30:36.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "MÚSICA",
+        "CULTURA"
+      ]
+    },
+    {
+      "id": "rss-mundo-a-childhood-promise-mobilizes-",
+      "title": "Una promesa de la infancia moviliza a los “héroes del Día de Acción de Gracias” y presta servicios a miles de personas en todo el país en estas festividades",
+      "summary": "Rob Adams convirtió una promesa de la infancia en héroes del Día de Acción de Gracias y ahora alimenta a 3.600 familias de Utah este año y a más de 29.000 en todo el país.",
+      "fullStory": "Lo que comenzó como la promesa de un niño de 11 años a su madre ha lanzado \"Héroes del Día de Acción de Gracias\", un esfuerzo nacional para llevar comidas navideñas a los necesitados. Este año, alimentarán a 3.600 familias sólo en Utah.\n\nRob Adams, fundador de Thanksgiving Heroes, creció como el mayor de seis hermanos en el sur de Texas. Durante una parte de su infancia, la familia vivió en su camioneta en Porter, un área no incorporada cerca de Houston. Tenían poca ropa y a menudo dependían del almuerzo escolar como la única comida garantizada del día. Adams ha dicho que todavía recuerda haber sido un niño feliz y amado, pero las dificultades eran reales.\n\nUna Navidad, una familia vecina, los Christianson, condujo a la familia Adams unas 12 millas hasta su casa en Kingwood. La casa era perfecta, con un árbol de Navidad completo. Los Christianson se iban de vacaciones e invitaron a la familia Adams a quedarse mientras ellos no estaban.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/thanksgiving-heroes-rob-adams-childhood-promise/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/1280px-Gfp-thanksgiving-turkey.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-24T12:52:48.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-charity-swaps-tuition-fees-for",
+      "title": "Una organización benéfica cambia las tasas de matrícula por cocos para que todos los isleños puedan pagar la escuela",
+      "summary": "La palma de coco a menudo se llama el árbol de los 1.000 usos, aunque el \"vale de matrícula escolar\" no suele ser uno de esos 1.000.",
+      "fullStory": "La palma de coco a menudo se llama el árbol de los 1.000 usos, aunque el \"vale de matrícula escolar\" no suele ser uno de esos 1.000.\n\nSin embargo, la Faith Christian Academy en Micronesia, de hecho, está aceptando cocos en lugar de los costos de matrícula, para ayudar a aliviar la carga financiera de las familias y al mismo tiempo aprovechar las omnipresentes frutas que se acumulan por todas partes.\n\nEl nuevo plan de matrícula de la Academia en realidad supera 2 obstáculos de un solo salto. Los estudiantes pueden pagar fácilmente la matrícula y ahorrarse los peligros y el trabajo duro de pescar para ganar dinero. Por otro lado, la Academia utiliza los cocos para reconstruir la otrora floreciente industria del aceite de coco de la isla Yap.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/charity-swaps-tuition-fees-for-coconuts-so-every-islander-can-afford-school/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/FCA-students-Shaya-Lani-and-Joyleen-with-coconuts.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-24T12:30:30.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-good-news-in-history-november-",
+      "title": "Buenas noticias en la historia, 24 de noviembre",
+      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 24 de noviembre.",
+      "fullStory": "Hoy hace 167 años, el naturalista y geólogo británico Charles Darwin publicó El origen de las especies explicando su teoría de la evolución. La primera edición, que ha sido votada por editores y bibliotecarios como el libro académico más influyente jamás escrito, introdujo la teoría científica de que las poblaciones evolucionan a lo largo de generaciones mediante un proceso de selección natural. Presentó un conjunto de pruebas de que la diversidad de la vida surgió por descendencia común a través de un patrón de evolución ramificado similar a un árbol. MIRA una animación sobre cómo los pequeños pinzones fueron cruciales para su descubrimiento y cómo evolucionaron las polillas de la pimienta debido a la contaminación... (1859)\n\nDarwin incluyó evidencia que había reunido en expediciones a Sudamérica en la década de 1830 y sus posteriores hallazgos de investigación y experimentación, y mostró cómo la selección natural es un mecanismo científicamente comprobable. Al cabo de dos décadas, el acuerdo científico generalizado solidificó que se había producido la evolución y, a mediados del siglo XX, el concepto de Darwin de adaptación evolutiva a través de la selección natural se volvió central para la teoría evolutiva moderna y el concepto unificador de las ciencias de la vida.\n\nLa teoría evolutiva moderna continúa desarrollándose, pero sus escritos aún explican la diversidad de los organismos vivos y su adaptación al medio ambiente; dar sentido al registro geológico; y resistir el análisis moderno del genoma.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/events061124/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2018/11/Darwin-finches-and-On-The-Origin-of-Species.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
     {
       "id": "rss-mundo-33-kids-wrote-letters-to-a-wou",
       "title": "33 niños escribieron cartas a un veterano herido. 60 años después, su hijo busca agradecer a cada uno",
@@ -27,8 +123,7 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ],
-      "featured": true
+      ]
     },
     {
       "id": "rss-mundo-determined-volunteer-rescues-l",
@@ -53,109 +148,14 @@
       "id": "rss-mundo-one-of-a-kind-refuge-to-200-00",
       "title": "Refugio único en su tipo para 200.000 morsas protegidas para siempre en Alaska",
       "summary": "Ahora ubicadas dentro de un área protegida de 47.000 acres propiedad del Interior Alaska Land Trust, las islas se han librado del desarrollo.",
-      "fullStory": "Los conservacionistas estadounidenses han conseguido protecciones para un ecosistema verdaderamente único en el mundo a lo largo de la costa estatal del Mar de Bering.\n\nHogar de las mayores concentraciones de morsas del Pacífico encontradas en cualquier lugar de América del Norte, las islas barrera frente a la costa de la pequeña aldea norteña de Point Lay brindan un refugio crítico para esta megafauna marina.\n\nAhora ubicadas dentro de un área protegida de 47.000 acres (74 millas cuadradas) propiedad del Interior Alaska Land Trust, las islas se han librado del desarrollo industrial y otras perturbaciones, al igual que \"uno de los sistemas de lagunas costeras más grandes e intactos del mundo\", que fue protegido en conjunto.",
+      "fullStory": "Los conservacionistas estadounidenses han conseguido protecciones para un ecosistema verdaderamente único en el mundo a lo largo de la costa estatal del Mar de Bering.\n\nHogar de las mayores concentraciones de morsas del Pacífico encontradas en cualquier lugar de América del Norte, las islas barrera frente a la costa de la pequeña aldea norteña de Point Lay brindan un refugio crítico para esta megafauna marina.\n\nAhora ubicadas dentro de un área protegida de 47.000 acres (74 millas cuadradas) propiedad del Interior Alaska Land Trust, las islas se han salvado del desarrollo industrial y otras perturbaciones, al igual que \"uno de los sistemas de lagunas costeras más grandes e intactos del mundo\", que fue protegido en conjunto.",
       "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
       "category": "mundo",
       "sourceName": "Good News Network",
       "sourceUrl": "https://www.goodnewsnetwork.org/one-of-a-kind-refuge-to-200000-walrus-protected-forever-in-alaska/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Walruses-concentrate-at-Point-Lay-Alaska-public-domain-NOAA-e1795423753131.jpg",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-Florian-Schulz-permission-given-to-GNN-from-Conservation-Fund.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-11-23T16:04:07.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-freddie-nole-waits-at-the-pris",
-      "title": "Freddie Nole espera en las puertas de la prisión para que nadie salga solo",
-      "summary": "Dirigida por Dana Nachman, la película acompaña a Nole durante un solo día mientras recoge a un hombre que sale de prisión en Pensilvania.",
-      "fullStory": "JoyDrops defiende los cortometrajes documentales elegibles para premios sobre la alegría, un contrapeso a una categoría a menudo dominada por la tragedia. Good News Network se ha asociado con JoyDrops para destacar estas películas y hablar con los realizadores detrás de ellas.\n\nNole está hablando del momento en que conoce a un hombre que sale de prisión, a menudo alguien sin nadie más que venga a buscarlo. Él y su esposa, Sue, llevan al hombre a comer, le compran ropa, le consiguen un teléfono y lo llevan a su próximo destino. No hay dos camionetas iguales, dijo, pero siempre hay una cosa que lo es.\n\n\"El agradecimiento que estas personas nos expresan por simplemente estar allí\", dijo Nole, \"en un momento en el que son más vulnerables\".",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/freddie-nole-waits-at-the-prison-gates-so-no-one-walks-out-alone/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/The-Second-life-of-Freddie-Nole_Press-Image-1.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-23T13:35:29.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-how-a-t-shirt-startup-s-manife",
-      "title": "Cómo el manifiesto de una startup de camisetas hizo que personas de todo el mundo repensaran sus vidas",
-      "summary": "El cofundador de Holstee, Michael Radparvar, habla sobre las palabras virales que le quedaron pequeñas a su empresa y lo que significan para él 17 años después.",
-      "fullStory": "Justo a tiempo para las fiestas, Good News Network se ha asociado con Holstee en una colección seleccionada de obsequios que celebran el buen vivir. Compra la colección.\n\n\"Si estás buscando al amor de tu vida, detente. Te estarán esperando cuando empieces a hacer las cosas que amas\".\n\nEsa es una línea del Manifiesto Holstee, una breve declaración sobre vivir bien que se ha compartido en Internet durante más de 15 años. El cofundador Michael Radparvar todavía conoce a personas que dicen que cambió el curso de sus vidas.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/how-a-t-shirt-startups-manifesto-got-people-everywhere-rethinking-their-lives/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Holstee-founders-Summit-Series-2014-e1795210461563.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-23T12:40:07.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-first-of-3-consecutive-supermo",
-      "title": "La primera de tres superlunas consecutivas comenzará esta noche: mire hacia el este en busca de la luna Beaver",
-      "summary": "Comenzando con Beaver Moon, son razones perfectas para desafiar el frío y salir a la naturaleza, o para alejarse de esas abundantes cenas de invierno.",
-      "fullStory": "Las próximas tres lunas llenas consecutivas se considerarán superlunas, y la primera deslumbrará esta noche y mañana.\n\nEl período más brillante de la Luna llegará a las 9:40 a.m. metro. Hora del este de EE. UU. el martes, pero los períodos oscuros a ambos lados de este momento seguirán siendo una excelente visualización, siendo la diferencia en la iluminación casi imperceptible.\n\nColgadas en medio del firmamento, las superlunas no parecen mucho más grandes que las lunas llenas normales. Más bien, es cuando están cerca del horizonte cuando adquieren su súper apariencia.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/first-of-3-consecutive-supermoons-to-begin-tonight-look-to-the-east-for-the-beaver-moon/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2025/11/moon-and-supermoon-comparison.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-23T12:30:42.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-good-news-in-history-november-",
-      "title": "Buenas noticias en la historia, 23 de noviembre",
-      "summary": "Esta columna diaria en GNN. org presenta todas las buenas noticias, aniversarios y cumpleaños destacados de este día de la historia: el 23 de noviembre.",
-      "fullStory": "Hoy hace 63 años que la BBC transmitió el primer episodio de Doctor Who. An Unearthly Child, protagonizada por William Hartnell, se desarrolla en medio de una lucha de poder entre facciones en guerra de la Edad de Piedra que han perdido el secreto de hacer fuego después de que los \"compañeros\" originales, Ian y Barbara, encuentran la nave espacial del Doctor que viaja en el tiempo en un depósito de chatarra de Londres. LEA sobre el período previo al debut… (1963)\n\nEl programa fue creado para llenar un vacío entre la programación para niños y adultos jóvenes. El productor canadiense Sydney Newman, recientemente nombrado director de drama de la BBC, recibió el encargo de crear el programa y concibió la idea de la TARDIS, así como el personaje central del Doctor.\n\nEl primer episodio se dividió en cuatro partes transmitidas por separado, pero el lanzamiento del programa se vio ensombrecido por el asesinato del presidente John F. Kennedy el día anterior, lo que resultó en una repetición del primer episodio la semana siguiente.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/events061123/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/11/Unearthly_Child_2.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-23T08:00:00.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
-    {
-      "id": "rss-mundo-new-method-treats-severe-thumb",
-      "title": "Un nuevo método trata la artritis grave del pulgar con reemplazo de articulaciones, como si fuera una cadera o un hombro nuevos",
-      "summary": "Un nuevo implante de pulgar está transformando la función de la mano de quienes padecen artritis, un procedimiento que está arrasando en Estados Unidos desde que recibió la aprobación de la FDA.",
-      "fullStory": "Un nuevo implante de pulgar está transformando la función de la mano en personas con artritis avanzada.\n\nTradicionalmente, los médicos extirpan el trapecio, un pequeño hueso en la base del pulgar.\n\nPara superar el “contacto hueso con hueso”, se utiliza el nuevo tratamiento que utiliza una “rótula” diseñada como un inserto para reparar el trapecio.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/new-way-to-treat-severe-thumb-arthritis-with-joint-replacement/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/TOUCH-Thumb-transplant-RELEASED.jpeg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-23T01:55:12.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
