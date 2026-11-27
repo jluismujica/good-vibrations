@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-27T04:53:42.951Z",
+  "lastUpdated": "2026-11-27T19:51:25.517Z",
   "totalCount": 7,
   "categories": {
     "musica": 1,
@@ -10,45 +10,6 @@
     "mundo": 6
   },
   "news": [
-    {
-      "id": "rss-mundo-town-rewards-a-woman-whose-tha",
-      "title": "La ciudad recompensa a una mujer cuya comida de Acción de Gracias alimenta a miles de personas con un auto nuevo",
-      "summary": "Después de 37 años de comer las cenas de Acción de Gracias de Gloria Kennard, una comunidad de Texas estaba ansiosa por devolverle la amabilidad.",
-      "fullStory": "Después de 37 años de comer las cenas de Acción de Gracias de Gloria Kennard, una comunidad de Texas estaba ansiosa por devolverle la amabilidad.\n\nLa devota mujer cocina para 2.000 personas cada año, pero mientras se preparaba para el Día del Pavo de este año, la ciudad estaba ocupada recaudando más de 27.000 dólares para comprarle un coche nuevo a \"Miss Gloria\".\n\n\"Muchas gracias, comunidad. Y Dios los bendiga\", dijo Kennard a las noticias locales desde su entrada, con los ojos brillantes junto a una SUV Kia Seltos 2027.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/town-rewards-a-woman-whose-thanksgiving-meal-feeds-thousands-with-a-new-car/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/maxresdefault-7.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-26T16:30:18.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ],
-      "featured": true
-    },
-    {
-      "id": "rss-mundo-for-this-nyc-restaurant-owner-",
-      "title": "Para el propietario de este restaurante de Nueva York, el Día de Acción de Gracias llega todos los miércoles",
-      "summary": "Esta historia nos llegó de PassItOn. com, que forma parte de La Fundación para una Vida Mejor. Su objetivo es ofrecer mensajes inspiradores a personas de todo el mundo como contribución a la promoción de valores universales, buenos modelos a seguir y una vida mejor. Mientras otros se preparaban para el Día de Acción de Gracias, Ali Riza Dogan estaba en su […]",
-      "fullStory": "Esta historia nos llegó de PassItOn. com, que forma parte de La Fundación para una Vida Mejor. Su objetivo es ofrecer mensajes inspiradores a personas de todo el mundo como contribución a la promoción de valores universales, buenos modelos a seguir y una vida mejor.\n\nMientras otros se preparaban para el Día de Acción de Gracias, Ali Riza Dogan estaba realizando su habitual distribución de alimentos los miércoles por la noche. Cada semana reparte comidas calientes a los neoyorquinos necesitados. Esta semana se aseguró de venir con mucho pavo.\n\nAli es el propietario de Ali Baba Mediterranean & Turkish Cuisine en Midtown Manhattan, alimentar a quienes enfrentan hambre no es solo una tradición navideña. Lo ha hecho todas las semanas, durante todo el año, durante los últimos cinco años.",
-      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
-      "category": "mundo",
-      "sourceName": "Good News Network",
-      "sourceUrl": "https://www.goodnewsnetwork.org/for-this-nyc-restaurant-owner-thanksgiving-comes-every-wednesday/",
-      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2015/11/turkey-tribune-video-permission.jpg",
-      "imageSourceType": "official",
-      "publishedAt": "2026-11-26T16:15:31.000Z",
-      "positivityScore": 96,
-      "readingTimeMinutes": 2,
-      "tags": [
-        "PLANETA",
-        "SOLIDARIDAD"
-      ]
-    },
     {
       "id": "rss-mundo-texans-work-for-free-on-farms-",
       "title": "Los tejanos trabajan gratis en granjas que no son suyas para enviar a los hijos de otros a la universidad",
@@ -66,7 +27,8 @@
       "tags": [
         "PLANETA",
         "SOLIDARIDAD"
-      ]
+      ],
+      "featured": true
     },
     {
       "id": "rss-mundo-this-year-the-perfect-thanksgi",
@@ -137,6 +99,44 @@
       "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/An-aerial-view-of-the-tomb-credit-National-Museum-of-Korea.jpg",
       "imageSourceType": "official",
       "publishedAt": "2026-11-25T16:30:05.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo--autos-for-love-owners-delight",
+      "title": "Los propietarios de 'Autos for Love' se deleitan al regalar autos a vecinos necesitados",
+      "summary": "Al restaurar autos poco usados ​​donados por miembros de la comunidad, el objetivo de los Bailey era regalar uno por año.",
+      "fullStory": "Una vez al año, los propietarios de un taller de reparación de automóviles de Texas reparaban un automóvil donado y luego entregaban las llaves a un miembro de su comunidad necesitado.\n\nPero gracias a su generosidad y la generosidad de los demás, han podido potenciar sus donaciones, con la salida de varios vehículos cada año.\n\n\"Uno no era suficiente\", dice su esposa Cathy Bailey. \"Una vez que lo experimentamos, quieres más\", añade su marido Dane.",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/texas-auto-shop-couple-is-hungry-to-keep-giving-cars-away-to-neighbors-in-need/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Cathy-and-Dane-Bailey-from-Auto-Experts-of-Colleyville-credit-Autos-for-Love.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-25T14:00:36.000Z",
+      "positivityScore": 96,
+      "readingTimeMinutes": 2,
+      "tags": [
+        "PLANETA",
+        "SOLIDARIDAD"
+      ]
+    },
+    {
+      "id": "rss-mundo-land-returned-to-native-americ",
+      "title": "Tierra devuelta a propiedad de nativos americanos 400 años después del primer Día de Acción de Gracias",
+      "summary": "Más de 400 años después del primer encuentro, 126 acres cerca de First Encounter Beach en Cape Cod han sido devueltos al cuidado indígena.",
+      "fullStory": "Más de 400 años después de que los peregrinos exploraran por primera vez la zona de Cape Cod, las tierras pertenecientes a los nativos americanos volvieron a ser propiedad indígena.\n\nEl 30 de octubre, The Nature Conservancy entregó aproximadamente 126 acres de marismas y hábitat natural en Eastham, Massachusetts, a Native Land Conservancy, una organización sin fines de lucro liderada por indígenas con sede en Mashpee. El terreno se encuentra justo al lado de un 20. Parcela de 4 acres que TNC compró a principios de año por $3 millones, uniéndolas a un área protegida más grande con vista a First Encounter Beach. ⁠\n\n\"Este lugar contiene muchas historias que fueron enterradas y están listas para ser desenterradas\", dijo en un comunicado publicado Ramona Peters, fundadora y presidenta de la junta directiva de Native Land Conservancy y miembro de la tribu Mashpee Wampanoag. \"Mucho antes del primer encuentro, los nativos vivían aquí y cuidaban esta tierra\".",
+      "whyGoodNews": "Nos recuerda que las acciones comunitarias de bondad, conservación y perseverancia generan un impacto positivo real en el mundo.",
+      "category": "mundo",
+      "sourceName": "Good News Network",
+      "sourceUrl": "https://www.goodnewsnetwork.org/land-returned-indigenous-care-first-encounter-beach/",
+      "imageUrl": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/1280px-Waiting_for_Sunset_14287123165.jpg",
+      "imageSourceType": "official",
+      "publishedAt": "2026-11-25T12:59:08.000Z",
       "positivityScore": 96,
       "readingTimeMinutes": 2,
       "tags": [
